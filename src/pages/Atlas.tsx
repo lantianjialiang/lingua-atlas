@@ -104,7 +104,7 @@ export function AtlasPage({
             都有一幅画。
           </h1>
           <p className="lede">
-            {atlas.examples.toLocaleString()} 条原创例句 · 英美发音 · 按难度和 {atlas.topics.length} 个雅思话题整理
+            {atlas.examples.toLocaleString()} 条例句 · {atlas.id.startsWith("collins-") ? "西语发音" : "英美发音"} · 按难度和 {atlas.topics.length} 个学习话题整理
           </p>
         </div>
         <label className="search">
@@ -340,7 +340,7 @@ function VirtualGrid({
               № {String(w.order + 1).padStart(4, "0")}
             </span>
             <span className="tile-text">
-              <span className="tile-word" lang="en">
+              <span className="tile-word" lang="es">
                 {w.word}
               </span>
               <span className={`tile-lv lv-${atlas.cefr[w.cefr]}`}>
@@ -390,7 +390,7 @@ function VirtualList({
               topic={w.topic}
               className="row-art"
             />
-            <span className="row-word" lang="en">
+            <span className="row-word" lang="es">
               {w.word}
             </span>
             <span className="row-ipa ipa">{w.ipa}</span>

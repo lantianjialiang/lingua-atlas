@@ -1,0 +1,512 @@
+[
+  {
+    "id": "book-1338372950a8",
+    "word": "¡Adiós!",
+    "example": "¡Adiós, Pablo!",
+    "zh": "再见，巴勃罗！"
+  },
+  {
+    "id": "book-bebc6d3be045",
+    "word": "¡Que pases un buen día! / una buena noche!",
+    "example": "¡Que pases un buen día, Ana!",
+    "zh": "安娜，祝你度过愉快的一天！"
+  },
+  {
+    "id": "book-6f9fe6590b0e",
+    "word": "Encantado.",
+    "example": "Encantado de conocerte, Luis.",
+    "zh": "路易斯，很高兴认识你。"
+  },
+  {
+    "id": "book-153aae5e7c26",
+    "word": "Sí.",
+    "example": "Sí, quiero un café.",
+    "zh": "是的，我想要一杯咖啡。"
+  },
+  {
+    "id": "book-97947f9a969c",
+    "word": "No.",
+    "example": "No, hoy no puedo ir.",
+    "zh": "不，我今天不能去。"
+  },
+  {
+    "id": "book-876409d95cca",
+    "word": "No sé.",
+    "example": "No sé la respuesta.",
+    "zh": "我不知道答案。"
+  },
+  {
+    "id": "book-5b97a57ecda9",
+    "word": "Por favor.",
+    "example": "Un café, por favor.",
+    "zh": "请给我一杯咖啡。"
+  },
+  {
+    "id": "book-30f4a3f151f5",
+    "word": "Sí, por favor.",
+    "example": "Sí, por favor, un vaso de agua.",
+    "zh": "好的，请给我一杯水。"
+  },
+  {
+    "id": "book-466e582aea78",
+    "word": "Gracias.",
+    "example": "Gracias por tu ayuda.",
+    "zh": "谢谢你的帮助。"
+  },
+  {
+    "id": "book-bfcc921fb75a",
+    "word": "No, gracias.",
+    "example": "No, gracias, ya he comido.",
+    "zh": "不用了，谢谢，我已经吃过了。"
+  },
+  {
+    "id": "book-44c37cb5c975",
+    "word": "Perdone.",
+    "example": "Perdone, ¿dónde está la estación?",
+    "zh": "劳驾，车站在哪里？"
+  },
+  {
+    "id": "book-fe4be4224d86",
+    "word": "¿Perdón?",
+    "example": "¿Perdón? No oigo bien.",
+    "zh": "您说什么？我听不清。"
+  },
+  {
+    "id": "book-f3c16ed8fd11",
+    "word": "Lo siento.",
+    "example": "Lo siento, llego tarde.",
+    "zh": "对不起，我迟到了。"
+  },
+  {
+    "id": "book-44e6c6cfb6a0",
+    "word": "¡De acuerdo!",
+    "example": "¡De acuerdo! Nos vemos a las cinco.",
+    "zh": "好的！我们五点见。"
+  },
+  {
+    "id": "book-63081c82a38f",
+    "word": "De nada.",
+    "example": "De nada, es un placer ayudarte.",
+    "zh": "不客气，很高兴能帮你。"
+  },
+  {
+    "id": "book-780d9ef40da7",
+    "word": "No entiendo.",
+    "example": "No entiendo esta palabra.",
+    "zh": "我不明白这个单词。"
+  },
+  {
+    "id": "book-f14e63e2679a",
+    "word": "¿Cuántos años tienes?",
+    "example": "¿Cuántos años tienes, Ana?",
+    "zh": "安娜，你多大了？"
+  },
+  {
+    "id": "book-fd0ebd94621e",
+    "word": "¿Puedo preguntarle qué edad tiene?",
+    "example": "¿Puedo preguntarle qué edad tiene?",
+    "zh": "请问您多大年纪？"
+  },
+  {
+    "id": "book-31e7512386bb",
+    "word": "¿Cuándo es tu cumpleaños?",
+    "example": "¿Cuándo es tu cumpleaños, Luis?",
+    "zh": "路易斯，你的生日是什么时候？"
+  },
+  {
+    "id": "book-338dea63e2f9",
+    "word": "Tengo … años.",
+    "example": "Tengo veinte años.",
+    "zh": "我二十岁。"
+  },
+  {
+    "id": "book-527ccdf0c680",
+    "word": "Mi cumpleaños es el…",
+    "example": "Mi cumpleaños es el diez de mayo.",
+    "zh": "我的生日是五月十日。"
+  },
+  {
+    "id": "book-87576c2f5b0b",
+    "word": "Nací el…",
+    "example": "Nací el tres de junio.",
+    "zh": "我出生于六月三日。"
+  },
+  {
+    "id": "book-e7db00e1150a",
+    "word": "¿De dónde eres?",
+    "example": "¿De dónde eres, María?",
+    "zh": "玛丽亚，你来自哪里？"
+  },
+  {
+    "id": "book-0f66855a194e",
+    "word": "¿Dónde vives?",
+    "example": "¿Dónde vives ahora?",
+    "zh": "你现在住在哪里？"
+  },
+  {
+    "id": "book-213b00944cf2",
+    "word": "Vivo en…",
+    "example": "Vivo en Madrid.",
+    "zh": "我住在马德里。"
+  },
+  {
+    "id": "book-5387786d5346",
+    "word": "Soy de…",
+    "example": "Soy de China.",
+    "zh": "我来自中国。"
+  },
+  {
+    "id": "book-5ad86469ab50",
+    "word": "... el Reino Unido.",
+    "example": "Mi familia vive en el Reino Unido.",
+    "zh": "我的家人住在英国。"
+  },
+  {
+    "id": "book-a80e375601bd",
+    "word": "Soy…",
+    "example": "Soy estudiante.",
+    "zh": "我是学生。"
+  },
+  {
+    "id": "book-e472f05248a4",
+    "word": "escocés",
+    "example": "Mi amigo es escocés.",
+    "zh": "我的朋友是苏格兰人。"
+  },
+  {
+    "id": "book-baa121f15f00",
+    "word": "inglés",
+    "example": "Mi profesor es inglés.",
+    "zh": "我的老师是英格兰人。"
+  },
+  {
+    "id": "book-e3fe6bec9f50",
+    "word": "irlandés",
+    "example": "Mi vecino es irlandés.",
+    "zh": "我的邻居是爱尔兰人。"
+  },
+  {
+    "id": "book-5736e233f030",
+    "word": "galés",
+    "example": "Mi abuelo es galés.",
+    "zh": "我的祖父是威尔士人。"
+  },
+  {
+    "id": "book-8044a94f8923",
+    "word": "británico",
+    "example": "Mi compañero es británico.",
+    "zh": "我的同伴是英国人。"
+  },
+  {
+    "id": "book-68cf19ff8eea",
+    "word": "¿Estás casado / soltero?",
+    "example": "¿Estás casado o soltero, Pablo?",
+    "zh": "巴勃罗，你已婚还是单身？"
+  },
+  {
+    "id": "book-9574635d4e5e",
+    "word": "¿Estás casada / soltera?",
+    "example": "¿Estás casada o soltera, Ana?",
+    "zh": "安娜，你已婚还是单身？"
+  },
+  {
+    "id": "book-cf029d0cbdf2",
+    "word": "Estoy casado / soltero.",
+    "example": "Estoy casado y vivo en Sevilla.",
+    "zh": "我已婚，住在塞维利亚。（男性）"
+  },
+  {
+    "id": "book-8076e3e853c1",
+    "word": "Estoy casada / soltera.",
+    "example": "Estoy soltera y vivo en Madrid.",
+    "zh": "我单身，住在马德里。（女性）"
+  },
+  {
+    "id": "book-07e0a479ed60",
+    "word": "Tengo pareja.",
+    "example": "Tengo pareja y vivimos juntos.",
+    "zh": "我有伴侣，我们住在一起。"
+  },
+  {
+    "id": "book-93184399e7be",
+    "word": "Estoy divorciado / viudo.",
+    "example": "Estoy divorciado desde hace dos años.",
+    "zh": "我离婚两年了。（男性）"
+  },
+  {
+    "id": "book-dcc3f267250e",
+    "word": "Estoy divorciada / viuda.",
+    "example": "Estoy divorciada desde hace tres años.",
+    "zh": "我离婚三年了。（女性）"
+  },
+  {
+    "id": "book-f3d60e39cade",
+    "word": "¿Tienes hijos?",
+    "example": "¿Tienes hijos, Marta?",
+    "zh": "玛尔塔，你有孩子吗？"
+  },
+  {
+    "id": "book-4c850e8ccc3c",
+    "word": "Tengo … hijos.",
+    "example": "Tengo dos hijos.",
+    "zh": "我有两个孩子。"
+  },
+  {
+    "id": "book-80bb7e339ada",
+    "word": "No tengo hijos.",
+    "example": "No tengo hijos, pero tengo un perro.",
+    "zh": "我没有孩子，不过我有一只狗。"
+  },
+  {
+    "id": "book-b32560044a0c",
+    "word": "Este / Esta es mi...",
+    "example": "Este es mi hermano.",
+    "zh": "这是我的兄弟。"
+  },
+  {
+    "id": "book-90f1ce2bc604",
+    "word": "Estos / Estas son mis...",
+    "example": "Estas son mis amigas.",
+    "zh": "这些是我的朋友们。（女性）"
+  },
+  {
+    "id": "book-69234e6baaeb",
+    "word": "Esta es mi mujer.",
+    "example": "Esta es mi mujer, Ana.",
+    "zh": "这是我的妻子安娜。"
+  },
+  {
+    "id": "book-184b83fe5237",
+    "word": "Estos son mis padres.",
+    "example": "Estos son mis padres.",
+    "zh": "这些是我的父母。"
+  },
+  {
+    "id": "book-d8027f5510f1",
+    "word": "el marido",
+    "example": "El marido prepara la cena.",
+    "zh": "丈夫在准备晚餐。"
+  },
+  {
+    "id": "book-3d4add4bf5fb",
+    "word": "la mujer",
+    "example": "Mi mujer lee en el jardín.",
+    "zh": "我的妻子在花园看书。"
+  },
+  {
+    "id": "book-1e08bacf4b18",
+    "word": "el hijo",
+    "example": "El hijo ayuda a su padre.",
+    "zh": "儿子帮助父亲。"
+  },
+  {
+    "id": "book-8797a3710707",
+    "word": "la hija",
+    "example": "La hija dibuja una casa.",
+    "zh": "女儿在画一座房子。"
+  },
+  {
+    "id": "book-9435361363cf",
+    "word": "el niño / la niña",
+    "example": "El niño y la niña juegan en el parque.",
+    "zh": "男孩和女孩在公园玩。"
+  },
+  {
+    "id": "book-b2a3b5712f2c",
+    "word": "la pareja",
+    "example": "Mi pareja cocina muy bien.",
+    "zh": "我的伴侣很会做饭。"
+  },
+  {
+    "id": "book-ef9355755198",
+    "word": "el novio",
+    "example": "Mi novio me trae flores.",
+    "zh": "我的男朋友给我带来鲜花。"
+  },
+  {
+    "id": "book-fd66f2cd6f42",
+    "word": "la novia",
+    "example": "Mi novia toca la guitarra.",
+    "zh": "我的女朋友弹吉他。"
+  },
+  {
+    "id": "book-5f9d35e58a04",
+    "word": "el prometido / la prometida",
+    "example": "Mi prometido y yo preparamos la boda.",
+    "zh": "我和未婚夫在筹备婚礼。"
+  },
+  {
+    "id": "book-304c78266492",
+    "word": "el padre",
+    "example": "El padre lleva a su hijo al colegio.",
+    "zh": "父亲送儿子上学。"
+  },
+  {
+    "id": "book-19a544e70d89",
+    "word": "la madre",
+    "example": "La madre abraza a su hija.",
+    "zh": "母亲拥抱女儿。"
+  },
+  {
+    "id": "book-f7e672a6c701",
+    "word": "el hermano",
+    "example": "Mi hermano juega al fútbol.",
+    "zh": "我的兄弟踢足球。"
+  },
+  {
+    "id": "book-70a9a0de875b",
+    "word": "la hermana",
+    "example": "Mi hermana pinta un cuadro.",
+    "zh": "我的姐妹画了一幅画。"
+  },
+  {
+    "id": "book-5faaf7af46b4",
+    "word": "el abuelo",
+    "example": "El abuelo cuenta una historia.",
+    "zh": "祖父在讲故事。"
+  },
+  {
+    "id": "book-4728e99837cd",
+    "word": "la abuela",
+    "example": "La abuela hace una tarta.",
+    "zh": "祖母在做蛋糕。"
+  },
+  {
+    "id": "book-6cc7a1330abb",
+    "word": "el nieto",
+    "example": "El nieto pasea con su abuelo.",
+    "zh": "孙子和祖父散步。"
+  },
+  {
+    "id": "book-9a3e393eab6d",
+    "word": "la nieta",
+    "example": "La nieta visita a su abuela.",
+    "zh": "孙女去看望祖母。"
+  },
+  {
+    "id": "book-5d582ff1265b",
+    "word": "el suegro",
+    "example": "Mi suegro trabaja en el jardín.",
+    "zh": "我的岳父在花园里干活。"
+  },
+  {
+    "id": "book-be37d0a70a34",
+    "word": "la suegra",
+    "example": "Mi suegra prepara una sopa.",
+    "zh": "我的岳母在煮汤。"
+  },
+  {
+    "id": "book-a6be3dedc295",
+    "word": "la nuera",
+    "example": "La nuera ayuda a poner la mesa.",
+    "zh": "儿媳帮忙摆餐具。"
+  },
+  {
+    "id": "book-bb7818b70936",
+    "word": "el yerno",
+    "example": "El yerno lava los platos.",
+    "zh": "女婿在洗碗。"
+  },
+  {
+    "id": "book-f4c4bae84e8b",
+    "word": "el cuñado",
+    "example": "Mi cuñado monta en bicicleta.",
+    "zh": "我的姐夫骑自行车。"
+  },
+  {
+    "id": "book-be57cceddafa",
+    "word": "la cuñada",
+    "example": "Mi cuñada compra fruta.",
+    "zh": "我的嫂子在买水果。"
+  },
+  {
+    "id": "book-621696d68f94",
+    "word": "el padrastro",
+    "example": "Mi padrastro me ayuda con los deberes.",
+    "zh": "我的继父帮我做作业。"
+  },
+  {
+    "id": "book-b5985919045c",
+    "word": "la madrastra",
+    "example": "Mi madrastra prepara el desayuno.",
+    "zh": "我的继母在准备早餐。"
+  },
+  {
+    "id": "book-f40d38ace3c0",
+    "word": "el hijastro",
+    "example": "Mi hijastro aprende a nadar.",
+    "zh": "我的继子在学游泳。"
+  },
+  {
+    "id": "book-728dd4a04100",
+    "word": "la hijastra",
+    "example": "Mi hijastra lee un cuento.",
+    "zh": "我的继女在读故事。"
+  },
+  {
+    "id": "book-6105b9f936c5",
+    "word": "el hermanastro",
+    "example": "Mi hermanastro juega conmigo.",
+    "zh": "我的继兄弟和我一起玩。"
+  },
+  {
+    "id": "book-829195f48337",
+    "word": "la hermanastra",
+    "example": "Mi hermanastra estudia conmigo.",
+    "zh": "我的继姐妹和我一起学习。"
+  },
+  {
+    "id": "book-97c680dbc9a2",
+    "word": "el tío",
+    "example": "Mi tío conduce un coche rojo.",
+    "zh": "我的叔叔开着一辆红色汽车。"
+  },
+  {
+    "id": "book-244a0cb491dc",
+    "word": "la tía",
+    "example": "Mi tía riega las flores.",
+    "zh": "我的阿姨给花浇水。"
+  },
+  {
+    "id": "book-3b1c580b7770",
+    "word": "el sobrino",
+    "example": "Mi sobrino construye una torre.",
+    "zh": "我的侄子在搭一座塔。"
+  },
+  {
+    "id": "book-62278faafe92",
+    "word": "la sobrina",
+    "example": "Mi sobrina dibuja un gato.",
+    "zh": "我的侄女在画一只猫。"
+  },
+  {
+    "id": "book-ca84717703c5",
+    "word": "el primo / la prima",
+    "example": "Mi primo y mi prima juegan al tenis.",
+    "zh": "我的堂兄和堂姐打网球。"
+  },
+  {
+    "id": "book-671850c54f5d",
+    "word": "el amigo / la amiga",
+    "example": "Mi amigo y mi amiga toman un café.",
+    "zh": "我的男性朋友和女性朋友在喝咖啡。"
+  },
+  {
+    "id": "book-04da5a1cabec",
+    "word": "el vecino / la vecina",
+    "example": "Mi vecino me saluda cada mañana.",
+    "zh": "我的邻居每天早上向我问好。"
+  },
+  {
+    "id": "book-666c9cdedf78",
+    "word": "¿Cómo estás?",
+    "example": "¿Cómo estás, María?",
+    "zh": "玛丽亚，你好吗？"
+  },
+  {
+    "id": "book-8756044fe2f5",
+    "word": "¿Qué tal?",
+    "example": "¿Qué tal? Vamos a tomar un café.",
+    "zh": "最近怎么样？我们去喝杯咖啡吧。"
+  }
+]

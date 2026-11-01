@@ -37,7 +37,7 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
     const blob = new Blob([exportBackup()], { type: "application/json" });
     const a = document.createElement("a");
     a.href = URL.createObjectURL(blob);
-    a.download = `word-atlas-backup-${dayKey()}.json`;
+    a.download = `lingua-atlas-backup-${dayKey()}.json`;
     a.click();
     setTimeout(() => URL.revokeObjectURL(a.href), 2000);
   };
@@ -139,10 +139,10 @@ export function Me({ privateAvailable }: { privateAvailable: boolean }) {
           <Field label="发音">
             <div className="segmented">
               <button className={settings.accent === "uk" ? "is-on" : ""} onClick={() => set({ accent: "uk" })}>
-                英式
+                {atlas.id.startsWith("collins-") ? "西班牙" : "英式"}
               </button>
               <button className={settings.accent === "us" ? "is-on" : ""} onClick={() => set({ accent: "us" })}>
-                美式
+                {atlas.id.startsWith("collins-") ? "墨西哥" : "美式"}
               </button>
             </div>
           </Field>

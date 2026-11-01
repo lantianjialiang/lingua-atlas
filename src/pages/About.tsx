@@ -1,22 +1,26 @@
 import { ArrowUpRight, Database, Github, Heart } from "lucide-react";
+
 import { useAtlas } from "../atlas/context";
+import { store, useStore, flush } from "../store/store";
 import { REPO_URL } from "../config";
 
 const BASE = import.meta.env.BASE_URL;
 
 export function About() {
   const atlas = useAtlas();
+  const dataset = useStore(s => s.settings.dataset);
+
   return (
     <div className="page about">
       <header className="about-hero">
         <img src={`${BASE}brand/og.webp`} alt="" />
         <div>
-          <p className="eyebrow">关于词光</p>
-          <h1 className="display">一词一画，点亮雅思。</h1>
+          <p className="eyebrow">关于 Lingua Atlas</p>
+          <h1 className="display">{atlas.name}</h1>
           <p className="lede">
-            词光把雅思阅读 8000 词整理成 {atlas.count.toLocaleString()} 个词条。每个词一幅原创插画，一句日常例句，一句雅思例句，配英美发音、常用搭配和易混提示。学会一个，就在你的星图上点亮一颗星。
+            {dataset === "english" ? "英语词库提供插画、例句和英美发音。" : `Collins Spanish 3000 前${atlas.count}条，已配 ${atlas.illustrated} 张插画。例句配中文翻译，西语朗读使用浏览器语音。`}
           </p>
-          <p className="lede">它免费、开源、无需注册。代码用 MIT，词库用 CC BY 4.0，谁都可以拿去用。</p>
+          <p className="lede">学习记录保存在当前浏览器中。英语词库沿用原项目内容许可；Collins 原书内容版权归原权利人所有。</p>
           <div className="about-actions">
             <a className="btn btn-primary" href={REPO_URL} target="_blank" rel="noreferrer">
               <Github size={18} /> 在 GitHub 上查看
@@ -28,6 +32,15 @@ export function About() {
         </div>
       </header>
 
+      <section className="panel" style={{ marginBottom: 24 }}>
+        <h2>切换辞书</h2>
+        <p>当前：{atlas.name} · {atlas.count.toLocaleString()} 条</p>
+        <select className="dictionary-picker" aria-label="选择辞书" value={dataset === "english" ? "english" : "open"} onChange={e => { flush(); store.settings({ dataset: e.target.value as "open" | "english" }); flush(); }}>
+          <option value="open">Collins 西班牙语</option>
+          <option value="english">Word Atlas 英语词库</option>
+        </select>
+        <p className="muted">切换时自动保存当前进度。两套辞书分别保存学习卡片、复习计划、收藏、错词、每日记录和未完成的学习；切回来即可继续。数据仅保存在当前浏览器，可在“我的”中分别导出备份。</p>
+      </section>
       <div className="about-grid">
         <section className="panel">
           <h3 className="eyebrow">为什么记得住</h3>
@@ -90,9 +103,9 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">内容从哪里来</h3>
           <p className="muted">
-            释义、例句、搭配和提示由大语言模型按统一的词典规范重新撰写；插画由图像模型按统一画风逐词绘制；发音和朗读由 ElevenLabs 合成（英音 Alice，美音 Sarah）。所有内容都经过结构和一致性的自动校验，但没有逐条人工审校。看到错的地方，欢迎在 GitHub 提 Issue，或者直接改数据提 PR。
+            英语词库、插画和录音来自 Word Atlas 原项目。西语词条和英文释义依据用户提供的 Collins Spanish 3000 整理，中文释义和场景例句为学习辅助内容，插画由 AI 生成，朗读使用设备语音。
           </p>
-          <p className="muted">词光不是官方雅思词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。</p>
+          <p className="muted">Lingua Atlas 不是官方雅思词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。</p>
         </section>
 
         <section className="panel">
@@ -111,3 +124,6 @@ export function About() {
     </div>
   );
 }
+
+
+

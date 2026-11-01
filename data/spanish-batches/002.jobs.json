@@ -1,0 +1,602 @@
+[
+  {
+    "id": "book-29962aa05bb1",
+    "word": "¿Cómo está (él / ella)?",
+    "example": "¿Cómo está ella esta mañana?",
+    "zh": "她今天早上怎么样？"
+  },
+  {
+    "id": "book-564cb4b798f4",
+    "word": "¿Cómo están?",
+    "example": "¿Cómo están tus padres hoy?",
+    "zh": "你的父母今天怎么样？"
+  },
+  {
+    "id": "book-b15d53fde465",
+    "word": "Muy bien, gracias. ¿Y tú?",
+    "example": "Muy bien, gracias. ¿Y tú, Ana?",
+    "zh": "很好，谢谢。安娜，你呢？"
+  },
+  {
+    "id": "book-9488636592d0",
+    "word": "Bien, gracias.",
+    "example": "Bien, gracias. Hoy tengo tiempo libre.",
+    "zh": "很好，谢谢。我今天有空。"
+  },
+  {
+    "id": "book-c4c7278f66c6",
+    "word": "¡Fenomenal!",
+    "example": "¡Fenomenal! Hoy vamos a la playa.",
+    "zh": "太棒了！今天我们去海滩。"
+  },
+  {
+    "id": "book-98dd7e466598",
+    "word": "Así, así.",
+    "example": "Así, así. Tengo un poco de sueño.",
+    "zh": "一般般。我有点困。"
+  },
+  {
+    "id": "book-040031464830",
+    "word": "Bastante bien, gracias.",
+    "example": "Bastante bien, gracias. Estoy en casa.",
+    "zh": "相当好，谢谢。我在家。"
+  },
+  {
+    "id": "book-afe443ff50f6",
+    "word": "Voy tirando.",
+    "example": "Voy tirando, pero necesito unas vacaciones.",
+    "zh": "还过得去，不过我需要休假。"
+  },
+  {
+    "id": "book-245748bd97f9",
+    "word": "Fatal.",
+    "example": "Fatal. Tengo mucho trabajo esta semana.",
+    "zh": "糟透了。我这周有很多工作。"
+  },
+  {
+    "id": "book-a0f199d7ab34",
+    "word": "Estoy bien.",
+    "example": "Estoy bien y quiero dar un paseo.",
+    "zh": "我很好，想去散散步。"
+  },
+  {
+    "id": "book-7d199b12e816",
+    "word": "Estoy cansado.",
+    "example": "Estoy cansado después de caminar tanto.",
+    "zh": "走了这么久，我累了。"
+  },
+  {
+    "id": "book-68dfc12d9543",
+    "word": "Tengo hambre / sed.",
+    "example": "Tengo hambre y sed después del paseo.",
+    "zh": "散步后，我又饿又渴。"
+  },
+  {
+    "id": "book-ee3989cd1dd8",
+    "word": "Estoy lleno.",
+    "example": "Estoy lleno, no quiero más pan.",
+    "zh": "我吃饱了，不想再吃面包了。"
+  },
+  {
+    "id": "book-b00d9db3b771",
+    "word": "Tengo frío.",
+    "example": "Tengo frío porque la ventana está abierta.",
+    "zh": "我冷，因为窗户开着。"
+  },
+  {
+    "id": "book-334cbed97296",
+    "word": "Tengo calor.",
+    "example": "Tengo calor y necesito un poco de agua.",
+    "zh": "我热，需要一点水。"
+  },
+  {
+    "id": "book-5ed2970faa0f",
+    "word": "Estoy…",
+    "example": "Estoy tranquilo en casa con mi familia.",
+    "zh": "我和家人在家，心情平静。"
+  },
+  {
+    "id": "book-52aa8ddcd2ea",
+    "word": "Está…",
+    "example": "Está contenta con su nuevo trabajo.",
+    "zh": "她对新工作很满意。"
+  },
+  {
+    "id": "book-bf1f7ab8bfb2",
+    "word": "Están…",
+    "example": "Están cansados después del viaje en tren.",
+    "zh": "坐火车旅行后，他们累了。"
+  },
+  {
+    "id": "book-2a584455e568",
+    "word": "contento",
+    "example": "Estoy contento con mi nueva bicicleta.",
+    "zh": "我很喜欢我的新自行车。"
+  },
+  {
+    "id": "book-b6e6d818df5f",
+    "word": "entusiasmado",
+    "example": "Luis está entusiasmado con el viaje.",
+    "zh": "路易斯对这次旅行很兴奋。"
+  },
+  {
+    "id": "book-73199825f994",
+    "word": "sorprendido",
+    "example": "Estoy sorprendido por este regalo tan bonito.",
+    "zh": "收到这么漂亮的礼物，我很惊讶。"
+  },
+  {
+    "id": "book-18af2620b61c",
+    "word": "enfadado",
+    "example": "Pablo está enfadado por el ruido.",
+    "zh": "巴勃罗因噪声而恼火。"
+  },
+  {
+    "id": "book-c8507ee6c396",
+    "word": "enfadado",
+    "example": "El padre está enfadado con su hijo.",
+    "zh": "父亲在生儿子的气。"
+  },
+  {
+    "id": "book-4a58f7b90290",
+    "word": "triste",
+    "example": "Ana está triste porque su amigo se va.",
+    "zh": "安娜很难过，因为她的朋友要走了。"
+  },
+  {
+    "id": "book-ea4910da3adc",
+    "word": "preocupado",
+    "example": "Estoy preocupado por el examen de mañana.",
+    "zh": "我担心明天的考试。"
+  },
+  {
+    "id": "book-a301c20d37cb",
+    "word": "deprimido",
+    "example": "Se siente deprimido y habla con un amigo.",
+    "zh": "他情绪低落，和一位朋友谈心。"
+  },
+  {
+    "id": "book-6627484d2712",
+    "word": "aburrido",
+    "example": "El niño está aburrido en la sala.",
+    "zh": "男孩在房间里觉得无聊。"
+  },
+  {
+    "id": "book-d5ea2c3558a2",
+    "word": "Tengo miedo.",
+    "example": "Tengo miedo cuando oigo ruidos de noche.",
+    "zh": "晚上听到声响时，我会害怕。"
+  },
+  {
+    "id": "book-e5548c330af8",
+    "word": "Me siento...",
+    "example": "Me siento tranquilo después de hablar contigo.",
+    "zh": "和你交谈后，我感到平静。"
+  },
+  {
+    "id": "book-79abebc73dd3",
+    "word": "Se siente…",
+    "example": "Se siente feliz con sus amigos del colegio.",
+    "zh": "他和学校的朋友们在一起时感到快乐。"
+  },
+  {
+    "id": "book-adfe0dffd494",
+    "word": "Se sienten…",
+    "example": "Se sienten cansados después de trabajar tanto.",
+    "zh": "干了这么多活后，他们感到疲倦。"
+  },
+  {
+    "id": "book-ceec15968b2f",
+    "word": "bien",
+    "example": "Mi abuela se siente bien esta mañana.",
+    "zh": "我祖母今天早上身体感觉不错。"
+  },
+  {
+    "id": "book-73d902f26f4f",
+    "word": "mal",
+    "example": "Me siento mal y necesito descansar en casa.",
+    "zh": "我身体不舒服，需要在家休息。"
+  },
+  {
+    "id": "book-ab2d14e04f7e",
+    "word": "mejor",
+    "example": "Hoy me siento mejor y salgo a caminar.",
+    "zh": "今天我感觉好些了，出门走走。"
+  },
+  {
+    "id": "book-97c10a2a0afd",
+    "word": "peor",
+    "example": "Hoy me siento peor y llamo al médico.",
+    "zh": "今天我感觉更糟了，便给医生打电话。"
+  },
+  {
+    "id": "book-9831afdf7cd4",
+    "word": "¿Dónde trabajas?",
+    "example": "¿Dónde trabajas ahora, cerca de tu casa?",
+    "zh": "你现在在哪里工作，离你家近吗？"
+  },
+  {
+    "id": "book-c7fca459f0de",
+    "word": "¿A qué te dedicas?",
+    "example": "¿A qué te dedicas, además de estudiar?",
+    "zh": "除了读书，你还做什么工作？"
+  },
+  {
+    "id": "book-a144b331934d",
+    "word": "¿Cuál es tu ocupación?",
+    "example": "¿Cuál es tu ocupación en esta empresa?",
+    "zh": "你在这家公司的工作是什么？"
+  },
+  {
+    "id": "book-d7f8b787caaf",
+    "word": "¿Trabajas / Estudias?",
+    "example": "¿Trabajas o estudias en esta ciudad?",
+    "zh": "你在这座城市工作还是上学？"
+  },
+  {
+    "id": "book-02c3aa9b0e01",
+    "word": "Soy autónomo.",
+    "example": "Soy autónomo y trabajo con varios clientes.",
+    "zh": "我是个体经营者，和几位客户合作。"
+  },
+  {
+    "id": "book-c7590728910f",
+    "word": "Estoy en paro.",
+    "example": "Estoy en paro y busco trabajo cada día.",
+    "zh": "我失业了，每天都在找工作。"
+  },
+  {
+    "id": "book-ce327db86144",
+    "word": "Estoy en la universidad.",
+    "example": "Estoy en la universidad y estudio historia.",
+    "zh": "我在读大学，学习历史。"
+  },
+  {
+    "id": "book-a1af126ac38e",
+    "word": "Estoy jubilado.",
+    "example": "Estoy jubilado y tengo tiempo para leer.",
+    "zh": "我退休了，有时间看书。"
+  },
+  {
+    "id": "book-f9aacf71481d",
+    "word": "Me dedico a viajar.",
+    "example": "Ahora me dedico a viajar por España.",
+    "zh": "现在我主要在西班牙各地旅行。"
+  },
+  {
+    "id": "book-8a46657c2ac4",
+    "word": "Trabajo desde casa.",
+    "example": "Trabajo desde casa y preparo mi comida.",
+    "zh": "我在家办公，自己准备饭菜。"
+  },
+  {
+    "id": "book-d055fcdd4474",
+    "word": "Trabajo a tiempo parcial / completo.",
+    "example": "Trabajo a tiempo parcial en una tienda.",
+    "zh": "我在一家商店做兼职。"
+  },
+  {
+    "id": "book-1f65a3d812d3",
+    "word": "Trabajo de…",
+    "example": "Trabajo de camarero en un restaurante pequeño.",
+    "zh": "我在一家小餐馆当服务员。"
+  },
+  {
+    "id": "book-0803e48c6ca7",
+    "word": "Soy…",
+    "example": "Soy profesora y trabajo cerca de casa.",
+    "zh": "我是老师，在家附近工作。"
+  },
+  {
+    "id": "book-1281a0c55399",
+    "word": "Soy dependiente.",
+    "example": "Soy dependiente y ayudo a los clientes.",
+    "zh": "我是店员，帮助顾客。"
+  },
+  {
+    "id": "book-c60ef9cccb08",
+    "word": "Mi hermana es ingeniera.",
+    "example": "Mi hermana es ingeniera y diseña puentes.",
+    "zh": "我的姐妹是工程师，设计桥梁。"
+  },
+  {
+    "id": "book-b084cf7f881d",
+    "word": "el albañil / la albañil",
+    "example": "El albañil construye una pared de ladrillos.",
+    "zh": "泥瓦工在砌一堵砖墙。"
+  },
+  {
+    "id": "book-9b1f71c49e6c",
+    "word": "el chef / la chef",
+    "example": "La chef prepara la cena para los invitados.",
+    "zh": "主厨为客人准备晚餐。"
+  },
+  {
+    "id": "book-c5c824d63143",
+    "word": "el funcionario / la funcionaria",
+    "example": "La funcionaria atiende a una familia en su oficina.",
+    "zh": "公务员在办公室接待一家人。"
+  },
+  {
+    "id": "book-e5066f6c1f48",
+    "word": "el limpiador / la limpiadora",
+    "example": "El limpiador limpia las ventanas de la escuela.",
+    "zh": "清洁工在擦学校的窗户。"
+  },
+  {
+    "id": "book-1250588c65b3",
+    "word": "el cocinero / la cocinera",
+    "example": "La cocinera corta verduras para la sopa.",
+    "zh": "厨师在切煮汤用的蔬菜。"
+  },
+  {
+    "id": "book-024921191642",
+    "word": "el dentista / la dentista",
+    "example": "La dentista revisa los dientes de un niño.",
+    "zh": "牙医在检查一个孩子的牙齿。"
+  },
+  {
+    "id": "book-10e3088b5fe2",
+    "word": "el médico / la médica",
+    "example": "El médico escucha al paciente con atención.",
+    "zh": "医生仔细听患者讲述。"
+  },
+  {
+    "id": "book-ab586f800563",
+    "word": "el conductor / la conductora",
+    "example": "La conductora lleva a los pasajeros al aeropuerto.",
+    "zh": "司机把乘客送往机场。"
+  },
+  {
+    "id": "book-b1987816294c",
+    "word": "el electricista / la electricista",
+    "example": "La electricista repara una lámpara en la cocina.",
+    "zh": "电工在厨房修灯。"
+  },
+  {
+    "id": "book-732ef81dcb9b",
+    "word": "el ingeniero / la ingeniera",
+    "example": "El ingeniero trabaja con los planos del puente.",
+    "zh": "工程师在研究桥梁图纸。"
+  },
+  {
+    "id": "book-0ac7cb2be262",
+    "word": "el agricultor / la agricultora",
+    "example": "La agricultora recoge tomates en el campo.",
+    "zh": "农民在田里收西红柿。"
+  },
+  {
+    "id": "book-f100f069307c",
+    "word": "el bombero / la bombera",
+    "example": "El bombero ayuda a una familia a salir.",
+    "zh": "消防员帮助一家人撤离。"
+  },
+  {
+    "id": "book-c4ee65a90a21",
+    "word": "el pescador / la pescadora",
+    "example": "La pescadora prepara sus redes junto al barco.",
+    "zh": "渔民在船边整理渔网。"
+  },
+  {
+    "id": "book-6c2040f83efa",
+    "word": "el informático / la informática",
+    "example": "El informático instala un programa en mi ordenador.",
+    "zh": "信息技术人员在我的电脑上安装软件。"
+  },
+  {
+    "id": "book-e13c524ea6fc",
+    "word": "el carpintero / la carpintera",
+    "example": "La carpintera hace una mesa de madera.",
+    "zh": "木工在制作一张木桌。"
+  },
+  {
+    "id": "book-ff9840bf8364",
+    "word": "el periodista / la periodista",
+    "example": "La periodista entrevista a una mujer en la plaza.",
+    "zh": "记者在广场采访一位女士。"
+  },
+  {
+    "id": "book-570e4e559d9b",
+    "word": "el abogado / la abogada",
+    "example": "El abogado explica el documento a su cliente.",
+    "zh": "律师向客户解释文件内容。"
+  },
+  {
+    "id": "book-a914184871ba",
+    "word": "el mecánico / la mecánica",
+    "example": "La mecánica repara un coche en el taller.",
+    "zh": "修理工在车间修汽车。"
+  },
+  {
+    "id": "book-16cc7b716ada",
+    "word": "el enfermero / la enfermera",
+    "example": "El enfermero ayuda al paciente a levantarse.",
+    "zh": "护士帮助患者起身。"
+  },
+  {
+    "id": "book-d1b1e9e9f161",
+    "word": "el oficinista / la oficinista",
+    "example": "La oficinista organiza los documentos de la empresa.",
+    "zh": "办公室职员整理公司的文件。"
+  },
+  {
+    "id": "book-e03847078057",
+    "word": "el fontanero / la fontanera",
+    "example": "El fontanero repara el grifo del baño.",
+    "zh": "水管工在修浴室的水龙头。"
+  },
+  {
+    "id": "book-a557d96a1ca2",
+    "word": "el agente de policía / la agente de policía",
+    "example": "La agente de policía ayuda a un turista.",
+    "zh": "女警察帮助一名游客。"
+  },
+  {
+    "id": "book-ff5d3e2b5e22",
+    "word": "el cartero / la cartera",
+    "example": "El cartero entrega una carta a mi abuela.",
+    "zh": "邮递员给我的祖母送来一封信。"
+  },
+  {
+    "id": "book-b1a44d9445d8",
+    "word": "el maestro / la maestra",
+    "example": "La maestra enseña a leer a los niños.",
+    "zh": "小学老师教孩子们识字。"
+  },
+  {
+    "id": "book-8b391e6a1083",
+    "word": "el marinero / la marinera",
+    "example": "El marinero limpia la cubierta del barco.",
+    "zh": "水手在清洗船的甲板。"
+  },
+  {
+    "id": "book-455bb142b5bd",
+    "word": "el vendedor / la vendedora",
+    "example": "La vendedora muestra una chaqueta a una clienta.",
+    "zh": "销售员向一位女顾客展示夹克。"
+  },
+  {
+    "id": "book-7d7f013906f3",
+    "word": "el científico / la científica",
+    "example": "La científica observa las plantas en el laboratorio.",
+    "zh": "科学家在实验室观察植物。"
+  },
+  {
+    "id": "book-71a4a82d3621",
+    "word": "el profesor / la profesora",
+    "example": "El profesor explica un problema a sus alumnos.",
+    "zh": "中学老师向学生解释一道题。"
+  },
+  {
+    "id": "book-af8a4929b20c",
+    "word": "el soldado / la soldado",
+    "example": "La soldado lleva agua a un pueblo aislado.",
+    "zh": "女兵把水送到一个偏远村庄。"
+  },
+  {
+    "id": "book-2795f4c38b51",
+    "word": "el veterinario / la veterinaria",
+    "example": "El veterinario examina al perro de mi vecino.",
+    "zh": "兽医在检查我邻居的狗。"
+  },
+  {
+    "id": "book-b84998f25bae",
+    "word": "el camarero",
+    "example": "El camarero trae la cuenta después del café.",
+    "zh": "喝完咖啡后，男服务员送来账单。"
+  },
+  {
+    "id": "book-7db9ea8642b0",
+    "word": "la camarera",
+    "example": "La camarera sirve la comida en la terraza.",
+    "zh": "女服务员在露台上餐。"
+  },
+  {
+    "id": "book-d8b7f10116e7",
+    "word": "Trabajo en…",
+    "example": "Trabajo en un hotel cerca de la estación.",
+    "zh": "我在车站附近的一家酒店工作。"
+  },
+  {
+    "id": "book-b90f990e69c8",
+    "word": "el negocio",
+    "example": "Mi padre abre su negocio a las ocho.",
+    "zh": "我父亲八点开门营业。"
+  },
+  {
+    "id": "book-a996980a0469",
+    "word": "la empresa",
+    "example": "La empresa tiene una oficina en esta ciudad.",
+    "zh": "这家公司在这座城市有一个办公室。"
+  },
+  {
+    "id": "book-81335a3baa22",
+    "word": "la obra",
+    "example": "Los trabajadores llevan casco en la obra.",
+    "zh": "工人在工地戴着安全帽。"
+  },
+  {
+    "id": "book-7e847d50708b",
+    "word": "la fábrica",
+    "example": "La fábrica produce muebles para varias tiendas.",
+    "zh": "这家工厂为几家商店生产家具。"
+  },
+  {
+    "id": "book-9ac002248330",
+    "word": "el gobierno",
+    "example": "El gobierno construye una escuela en el pueblo.",
+    "zh": "政府在村里建一所学校。"
+  },
+  {
+    "id": "book-0d739addb77b",
+    "word": "el hospital",
+    "example": "Mi madre trabaja en el hospital de noche.",
+    "zh": "我母亲在医院上夜班。"
+  },
+  {
+    "id": "book-b7bca80eeb05",
+    "word": "el hotel",
+    "example": "El hotel tiene habitaciones con vistas al mar.",
+    "zh": "这家酒店有能看到海景的客房。"
+  },
+  {
+    "id": "book-c6ed63e5614d",
+    "word": "la oficina",
+    "example": "La oficina está cerrada durante el fin de semana.",
+    "zh": "办公室周末不开放。"
+  },
+  {
+    "id": "book-432abe95871a",
+    "word": "el restaurante",
+    "example": "El restaurante sirve pescado fresco todos los días.",
+    "zh": "这家餐馆每天供应新鲜的鱼。"
+  },
+  {
+    "id": "book-da5243373d28",
+    "word": "el colegio",
+    "example": "El colegio está cerca del parque de mi barrio.",
+    "zh": "学校靠近我家街区的公园。"
+  },
+  {
+    "id": "book-85655260f60c",
+    "word": "la tienda",
+    "example": "La tienda vende fruta y pan recién hecho.",
+    "zh": "这家商店出售水果和新鲜出炉的面包。"
+  },
+  {
+    "id": "book-a60fbad8f70f",
+    "word": "la mañana",
+    "example": "Por la mañana camino al trabajo con mi hermana.",
+    "zh": "早上我和姐妹一起步行去上班。"
+  },
+  {
+    "id": "book-151066f9b596",
+    "word": "la tarde",
+    "example": "Por la tarde estudio español antes de cenar.",
+    "zh": "下午我在吃晚饭前学习西班牙语。"
+  },
+  {
+    "id": "book-df50e1144ba3",
+    "word": "la noche",
+    "example": "Por la noche cenamos juntos y hablamos del día.",
+    "zh": "晚上我们一起吃饭，聊聊这一天。"
+  },
+  {
+    "id": "book-5fa4f7741ef8",
+    "word": "la noche",
+    "example": "Durante la noche, la calle está tranquila y oscura.",
+    "zh": "夜里街道安静而昏暗。"
+  },
+  {
+    "id": "book-5c90eff02b8f",
+    "word": "el mediodía",
+    "example": "Al mediodía comemos en una terraza cerca del trabajo.",
+    "zh": "中午我们在工作地点附近的露台吃饭。"
+  },
+  {
+    "id": "book-5c20bf539b15",
+    "word": "la medianoche",
+    "example": "A medianoche las luces del pueblo siguen encendidas.",
+    "zh": "到了午夜，村庄的灯还亮着。"
+  }
+]

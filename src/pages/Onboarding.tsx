@@ -12,15 +12,16 @@ const LEVELS = [
 
 export function Onboarding() {
   const atlas = useAtlas();
-  const [level, setLevel] = useState(1);
+  const levels = atlas.id.startsWith("collins-") ? [["入门", "基础表达", `从前${atlas.count}条单词和短语开始`]] : LEVELS;
+  const [level, setLevel] = useState(levels.length === 1 ? 0 : 1);
   const [goal, setGoal] = useState(10);
-  const finish = () => store.settings({ onboarded: true, startLevel: atlas.cefr.indexOf(LEVELS[level][0]), dailyNew: goal });
+  const finish = () => store.settings({ onboarded: true, startLevel: Math.max(0, atlas.cefr.indexOf(levels[level][0])), dailyNew: goal });
   return (
     <div className="onboard" role="dialog" aria-modal="true" aria-label="欢迎">
       <div className="onboard-card">
         <img className="onboard-art" src={`${import.meta.env.BASE_URL}brand/hero.webp`} alt="" />
         <div className="onboard-body">
-          <p className="eyebrow">欢迎来到词光</p>
+          <p className="eyebrow">欢迎来到语光</p>
           <h1 className="display">
             {atlas.count.toLocaleString()} 颗星，
             <br />
@@ -29,7 +30,7 @@ export function Onboarding() {
           <fieldset>
             <legend>你从哪里出发？</legend>
             <div className="choice-grid">
-              {LEVELS.map(([code, name, desc], i) => (
+              {levels.map(([code, name, desc], i) => (
                 <button key={code} className={`choice ${level === i ? "is-on" : ""}`} onClick={() => setLevel(i)} aria-pressed={level === i}>
                   <span className={`chip chip-level lv-${code}`}>{code}</span>
                   <b>{name}</b>

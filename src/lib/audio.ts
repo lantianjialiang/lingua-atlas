@@ -2,6 +2,8 @@ import { duck } from "./sound";
 
 let current: HTMLAudioElement | null = null;
 let token = 0;
+let language: "en" | "es" = "es";
+export function setAudioLanguage(next: "en" | "es") { language = next; }
 
 export function stopAudio() {
   token++;
@@ -41,10 +43,10 @@ async function speak(url: string | null | undefined, text: string, accent: "uk" 
   }
   if (!("speechSynthesis" in window)) return "unsupported" as const;
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = accent === "uk" ? "en-GB" : "en-US";
-  u.rate = rate * 0.95;
+  u.lang = language === "es" ? (accent === "uk" ? "es-ES" : "es-MX") : (accent === "uk" ? "en-GB" : "en-US");
+  u.rate = rate * 0.85;
   const voices = speechSynthesis.getVoices().filter((v) => v.lang.replace("_", "-") === u.lang);
-  const best = voices.find((v) => /premium|enhanced|natural|google/i.test(v.name)) || voices[0];
+  const best = voices.find((v) => /premium|enhanced|natural|google/i.test(v.name)) || voices[0] || speechSynthesis.getVoices().find((v) => v.lang.startsWith(language));
   if (best) u.voice = best;
   await new Promise<void>((r) => {
     u.onend = () => r();

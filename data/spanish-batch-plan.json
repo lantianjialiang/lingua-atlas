@@ -1,0 +1,271 @@
+{
+  "sourceCount": 3214,
+  "batchSize": 100,
+  "completedEntries": 100,
+  "batches": [
+    {
+      "batch": 1,
+      "start": 1,
+      "end": 100,
+      "count": 100,
+      "exampleLevel": "A1",
+      "status": "complete"
+    },
+    {
+      "batch": 2,
+      "start": 101,
+      "end": 200,
+      "count": 100,
+      "exampleLevel": "A1",
+      "status": "in_progress"
+    },
+    {
+      "batch": 3,
+      "start": 201,
+      "end": 300,
+      "count": 100,
+      "exampleLevel": "A1",
+      "status": "planned"
+    },
+    {
+      "batch": 4,
+      "start": 301,
+      "end": 400,
+      "count": 100,
+      "exampleLevel": "A1",
+      "status": "planned"
+    },
+    {
+      "batch": 5,
+      "start": 401,
+      "end": 500,
+      "count": 100,
+      "exampleLevel": "A1",
+      "status": "planned"
+    },
+    {
+      "batch": 6,
+      "start": 501,
+      "end": 600,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 7,
+      "start": 601,
+      "end": 700,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 8,
+      "start": 701,
+      "end": 800,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 9,
+      "start": 801,
+      "end": 900,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 10,
+      "start": 901,
+      "end": 1000,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 11,
+      "start": 1001,
+      "end": 1100,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 12,
+      "start": 1101,
+      "end": 1200,
+      "count": 100,
+      "exampleLevel": "A2",
+      "status": "planned"
+    },
+    {
+      "batch": 13,
+      "start": 1201,
+      "end": 1300,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 14,
+      "start": 1301,
+      "end": 1400,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 15,
+      "start": 1401,
+      "end": 1500,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 16,
+      "start": 1501,
+      "end": 1600,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 17,
+      "start": 1601,
+      "end": 1700,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 18,
+      "start": 1701,
+      "end": 1800,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 19,
+      "start": 1801,
+      "end": 1900,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 20,
+      "start": 1901,
+      "end": 2000,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 21,
+      "start": 2001,
+      "end": 2100,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 22,
+      "start": 2101,
+      "end": 2200,
+      "count": 100,
+      "exampleLevel": "B1",
+      "status": "planned"
+    },
+    {
+      "batch": 23,
+      "start": 2201,
+      "end": 2300,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 24,
+      "start": 2301,
+      "end": 2400,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 25,
+      "start": 2401,
+      "end": 2500,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 26,
+      "start": 2501,
+      "end": 2600,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 27,
+      "start": 2601,
+      "end": 2700,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 28,
+      "start": 2701,
+      "end": 2800,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 29,
+      "start": 2801,
+      "end": 2900,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 30,
+      "start": 2901,
+      "end": 3000,
+      "count": 100,
+      "exampleLevel": "B1–B2",
+      "status": "planned"
+    },
+    {
+      "batch": 31,
+      "start": 3001,
+      "end": 3100,
+      "count": 100,
+      "exampleLevel": "B2",
+      "status": "planned"
+    },
+    {
+      "batch": 32,
+      "start": 3101,
+      "end": 3200,
+      "count": 100,
+      "exampleLevel": "B2",
+      "status": "planned"
+    },
+    {
+      "batch": 33,
+      "start": 3201,
+      "end": 3214,
+      "count": 14,
+      "exampleLevel": "B2",
+      "status": "planned"
+    }
+  ]
+}

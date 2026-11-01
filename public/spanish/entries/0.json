@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "book-2cc799b3906b",
+    "w": "rojo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "红色",
+        "en": "red"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La manzana es roja.",
+        "zh": "这个苹果是红色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 1/100 条；英文释义：red",
+    "m": 1
+  },
+  {
+    "id": "book-505ce6a8666a",
+    "w": "verde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "绿色",
+        "en": "green"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El árbol es verde.",
+        "zh": "这棵树是绿色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 2/100 条；英文释义：green",
+    "m": 1
+  },
+  {
+    "id": "book-69aac60ea9b9",
+    "w": "azul",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蓝色",
+        "en": "blue"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mochila es azul.",
+        "zh": "这个背包是蓝色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 3/100 条；英文释义：blue",
+    "m": 1
+  },
+  {
+    "id": "book-366baab04be5",
+    "w": "negro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黑色",
+        "en": "black"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gato es negro.",
+        "zh": "这只猫是黑色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 4/100 条；英文释义：black",
+    "m": 1
+  },
+  {
+    "id": "book-088fcd7c75dc",
+    "w": "blanco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "白色",
+        "en": "white"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El coche es blanco.",
+        "zh": "这辆汽车是白色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 5/100 条；英文释义：white",
+    "m": 1
+  },
+  {
+    "id": "book-5c4a2885c068",
+    "w": "amarillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黄色",
+        "en": "yellow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El plátano es amarillo.",
+        "zh": "这根香蕉是黄色的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 5 页 · 第 6/100 条；英文释义：yellow",
+    "m": 1
+  },
+  {
+    "id": "book-ee1ba0c234db",
+    "w": "¡Hola!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你好！",
+        "en": "Hello/Hi!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡Hola, Ana! ¿Cómo estás?",
+        "zh": "你好，安娜！你怎么样？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 7/100 条；英文释义：Hello/Hi!",
+    "m": 1
+  },
+  {
+    "id": "book-a4011a9e5e5e",
+    "w": "Buenos días.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "早上好。",
+        "en": "Good morning."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buenos días, mamá.",
+        "zh": "早上好，妈妈。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 8/100 条；英文释义：Good morning.",
+    "m": 1
+  },
+  {
+    "id": "book-aafb5288a114",
+    "w": "Buenas tardes.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "下午好。",
+        "en": "Good afternoon."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buenas tardes, profesora.",
+        "zh": "下午好，老师。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 9/100 条；英文释义：Good afternoon.",
+    "m": 1
+  },
+  {
+    "id": "book-fa2af733b8c4",
+    "w": "Buenas tardes / noches.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "晚上好。",
+        "en": "Good evening."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buenas noches. Tengo una reserva.",
+        "zh": "晚上好。我预订了房间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 10/100 条；英文释义：Good evening.",
+    "m": 1
+  },
+  {
+    "id": "book-35673f704688",
+    "w": "Buenas noches.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "晚安。",
+        "en": "Goodnight."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buenas noches, papá. Hasta mañana.",
+        "zh": "晚安，爸爸。明天见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 11/100 条；英文释义：Goodnight.",
+    "m": 1
+  },
+  {
+    "id": "book-40fc64399d93",
+    "w": "Hasta pronto.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "回头见。",
+        "en": "See you soon."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hasta pronto, Marta.",
+        "zh": "玛尔塔，回头见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 12/100 条；英文释义：See you soon.",
+    "m": 1
+  },
+  {
+    "id": "book-1fab7d3da3a4",
+    "w": "Hasta luego.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "待会见。",
+        "en": "See you later."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Voy a comprar pan. Hasta luego.",
+        "zh": "我去买面包。待会儿见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 13/100 条；英文释义：See you later.",
+    "m": 1
+  },
+  {
+    "id": "book-cefb6c4dafcc",
+    "w": "Hasta mañana.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "明天见。",
+        "en": "See you tomorrow."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hasta mañana. Nos vemos en clase.",
+        "zh": "明天见。我们课堂上见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 14/100 条；英文释义：See you tomorrow.",
+    "m": 1
+  },
+  {
+    "id": "book-4625435e20b5",
+    "w": "Hasta el sábado.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "星期六见。",
+        "en": "See you on Saturday."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hasta el sábado. Vamos al parque.",
+        "zh": "周六见。我们去公园。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 15/100 条；英文释义：See you on Saturday.",
+    "m": 1
+  },
+  {
+    "id": "book-1338372950a8",
+    "w": "¡Adiós!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "再见！",
+        "en": "Bye!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡Adiós, Pablo!",
+        "zh": "再见，巴勃罗！"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 16/100 条；英文释义：Bye!",
+    "m": 1
+  },
+  {
+    "id": "book-bebc6d3be045",
+    "w": "¡Que pases un buen día! / una buena noche!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "祝你白天／晚上愉快！",
+        "en": "Have a good day/ evening!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡Que pases un buen día, Ana!",
+        "zh": "安娜，祝你度过愉快的一天！"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 17/100 条；英文释义：Have a good day/ evening!",
+    "m": 1
+  },
+  {
+    "id": "book-6f9fe6590b0e",
+    "w": "Encantado.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "很高兴认识你。",
+        "en": "Pleased to meet you."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Encantado de conocerte, Luis.",
+        "zh": "路易斯，很高兴认识你。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 18/100 条；英文释义：Pleased to meet you.",
+    "m": 1
+  },
+  {
+    "id": "book-153aae5e7c26",
+    "w": "Sí.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "是的。",
+        "en": "Yes."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sí, quiero un café.",
+        "zh": "是的，我想要一杯咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 19/100 条；英文释义：Yes.",
+    "m": 1
+  },
+  {
+    "id": "book-97947f9a969c",
+    "w": "No.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "不。",
+        "en": "No."
+      }
+    ],
+    "ex": [
+      {
+        "en": "No, hoy no puedo ir.",
+        "zh": "不，我今天不能去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 20/100 条；英文释义：No.",
+    "m": 1
+  },
+  {
+    "id": "book-876409d95cca",
+    "w": "No sé.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我不知道。",
+        "en": "I don’t know."
+      }
+    ],
+    "ex": [
+      {
+        "en": "No sé la respuesta.",
+        "zh": "我不知道答案。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 21/100 条；英文释义：I don’t know.",
+    "m": 1
+  },
+  {
+    "id": "book-5b97a57ecda9",
+    "w": "Por favor.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "请。",
+        "en": "Please."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Un café, por favor.",
+        "zh": "请给我一杯咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 22/100 条；英文释义：Please.",
+    "m": 1
+  },
+  {
+    "id": "book-30f4a3f151f5",
+    "w": "Sí, por favor.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "好的，谢谢。",
+        "en": "Yes, please."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sí, por favor, un vaso de agua.",
+        "zh": "好的，请给我一杯水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 23/100 条；英文释义：Yes, please.",
+    "m": 1
+  },
+  {
+    "id": "book-466e582aea78",
+    "w": "Gracias.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "谢谢。",
+        "en": "Thank you."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Gracias por tu ayuda.",
+        "zh": "谢谢你的帮助。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 24/100 条；英文释义：Thank you.",
+    "m": 1
+  },
+  {
+    "id": "book-bfcc921fb75a",
+    "w": "No, gracias.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "不用了，谢谢。",
+        "en": "No, thanks."
+      }
+    ],
+    "ex": [
+      {
+        "en": "No, gracias, ya he comido.",
+        "zh": "不用了，谢谢，我已经吃过了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 25/100 条；英文释义：No, thanks.",
+    "m": 1
+  },
+  {
+    "id": "book-44c37cb5c975",
+    "w": "Perdone.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "劳驾。",
+        "en": "Excuse me."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Perdone, ¿dónde está la estación?",
+        "zh": "劳驾，车站在哪里？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 26/100 条；英文释义：Excuse me.",
+    "m": 1
+  },
+  {
+    "id": "book-fe4be4224d86",
+    "w": "¿Perdón?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "您说什么？",
+        "en": "Sorry?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Perdón? No oigo bien.",
+        "zh": "您说什么？我听不清。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 27/100 条；英文释义：Sorry?",
+    "m": 1
+  },
+  {
+    "id": "book-f3c16ed8fd11",
+    "w": "Lo siento.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "对不起。",
+        "en": "I’m sorry."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Lo siento, llego tarde.",
+        "zh": "对不起，我迟到了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 28/100 条；英文释义：I’m sorry.",
+    "m": 1
+  },
+  {
+    "id": "book-44e6c6cfb6a0",
+    "w": "¡De acuerdo!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "好的！",
+        "en": "OK!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡De acuerdo! Nos vemos a las cinco.",
+        "zh": "好的！我们五点见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 29/100 条；英文释义：OK!",
+    "m": 1
+  },
+  {
+    "id": "book-63081c82a38f",
+    "w": "De nada.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "不客气。",
+        "en": "You’re welcome."
+      }
+    ],
+    "ex": [
+      {
+        "en": "De nada, es un placer ayudarte.",
+        "zh": "不客气，很高兴能帮你。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 30/100 条；英文释义：You’re welcome.",
+    "m": 1
+  },
+  {
+    "id": "book-780d9ef40da7",
+    "w": "No entiendo.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我不明白。",
+        "en": "I don’t understand."
+      }
+    ],
+    "ex": [
+      {
+        "en": "No entiendo esta palabra.",
+        "zh": "我不明白这个单词。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 31/100 条；英文释义：I don’t understand.",
+    "m": 1
+  },
+  {
+    "id": "book-f14e63e2679a",
+    "w": "¿Cuántos años tienes?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你多大了？",
+        "en": "How old are you?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Cuántos años tienes, Ana?",
+        "zh": "安娜，你多大了？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 32/100 条；英文释义：How old are you?",
+    "m": 1
+  },
+  {
+    "id": "book-fd0ebd94621e",
+    "w": "¿Puedo preguntarle qué edad tiene?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "请问您多大年纪？",
+        "en": "May I ask how old you are?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Puedo preguntarle qué edad tiene?",
+        "zh": "请问您多大年纪？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 33/100 条；英文释义：May I ask how old you are?",
+    "m": 1
+  },
+  {
+    "id": "book-31e7512386bb",
+    "w": "¿Cuándo es tu cumpleaños?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你的生日是什么时候？",
+        "en": "When is your birthday?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Cuándo es tu cumpleaños, Luis?",
+        "zh": "路易斯，你的生日是什么时候？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 34/100 条；英文释义：When is your birthday?",
+    "m": 1
+  },
+  {
+    "id": "book-338dea63e2f9",
+    "w": "Tengo … años.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我……岁。",
+        "en": "I’m … years old."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tengo veinte años.",
+        "zh": "我二十岁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 35/100 条；英文释义：I’m … years old.",
+    "m": 1
+  },
+  {
+    "id": "book-527ccdf0c680",
+    "w": "Mi cumpleaños es el…",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我的生日是……",
+        "en": "My birthday is on…"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi cumpleaños es el diez de mayo.",
+        "zh": "我的生日是五月十日。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 36/100 条；英文释义：My birthday is on…",
+    "m": 1
+  },
+  {
+    "id": "book-87576c2f5b0b",
+    "w": "Nací el…",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我出生于……",
+        "en": "I was born in..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nací el tres de junio.",
+        "zh": "我出生于六月三日。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 6 页 · 第 37/100 条；英文释义：I was born in...",
+    "m": 1
+  },
+  {
+    "id": "book-e7db00e1150a",
+    "w": "¿De dónde eres?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你来自哪里？",
+        "en": "Where are you from?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿De dónde eres, María?",
+        "zh": "玛丽亚，你来自哪里？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 38/100 条；英文释义：Where are you from?",
+    "m": 1
+  },
+  {
+    "id": "book-0f66855a194e",
+    "w": "¿Dónde vives?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你住在哪里？",
+        "en": "Where do you live?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Dónde vives ahora?",
+        "zh": "你现在住在哪里？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 39/100 条；英文释义：Where do you live?",
+    "m": 1
+  },
+  {
+    "id": "book-213b00944cf2",
+    "w": "Vivo en…",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我住在……",
+        "en": "I live in..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Vivo en Madrid.",
+        "zh": "我住在马德里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 40/100 条；英文释义：I live in...",
+    "m": 1
+  },
+  {
+    "id": "book-5387786d5346",
+    "w": "Soy de…",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我来自……",
+        "en": "I’m from..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Soy de China.",
+        "zh": "我来自中国。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 41/100 条；英文释义：I’m from...",
+    "m": 1
+  },
+  {
+    "id": "book-5ad86469ab50",
+    "w": "... el Reino Unido.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "……英国。",
+        "en": "... the UK."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi familia vive en el Reino Unido.",
+        "zh": "我的家人住在英国。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 42/100 条；英文释义：... the UK.",
+    "m": 1
+  },
+  {
+    "id": "book-a80e375601bd",
+    "w": "Soy…",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我是……",
+        "en": "I’m..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Soy estudiante.",
+        "zh": "我是学生。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 43/100 条；英文释义：I’m...",
+    "m": 1
+  },
+  {
+    "id": "book-e472f05248a4",
+    "w": "escocés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "苏格兰的／人",
+        "en": "Scottish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi amigo es escocés.",
+        "zh": "我的朋友是苏格兰人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 44/100 条；英文释义：Scottish",
+    "m": 1
+  },
+  {
+    "id": "book-baa121f15f00",
+    "w": "inglés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "英格兰的／人",
+        "en": "English"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi profesor es inglés.",
+        "zh": "我的老师是英格兰人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 45/100 条；英文释义：English",
+    "m": 1
+  },
+  {
+    "id": "book-e3fe6bec9f50",
+    "w": "irlandés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "爱尔兰的／人",
+        "en": "Irish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi vecino es irlandés.",
+        "zh": "我的邻居是爱尔兰人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 46/100 条；英文释义：Irish",
+    "m": 1
+  },
+  {
+    "id": "book-5736e233f030",
+    "w": "galés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "威尔士的／人",
+        "en": "Welsh"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi abuelo es galés.",
+        "zh": "我的祖父是威尔士人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 47/100 条；英文释义：Welsh",
+    "m": 1
+  },
+  {
+    "id": "book-8044a94f8923",
+    "w": "británico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "英国的／人",
+        "en": "British"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi compañero es británico.",
+        "zh": "我的同伴是英国人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 48/100 条；英文释义：British",
+    "m": 1
+  },
+  {
+    "id": "book-68cf19ff8eea",
+    "w": "¿Estás casado / soltero?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你结婚了还是单身？（男性）",
+        "en": "Are you married/ single? (to a man)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Estás casado o soltero, Pablo?",
+        "zh": "巴勃罗，你已婚还是单身？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 49/100 条；英文释义：Are you married/ single? (to a man)",
+    "m": 1
+  },
+  {
+    "id": "book-9574635d4e5e",
+    "w": "¿Estás casada / soltera?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你结婚了还是单身？（女性）",
+        "en": "Are you married/ single? (to a woman)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Estás casada o soltera, Ana?",
+        "zh": "安娜，你已婚还是单身？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 50/100 条；英文释义：Are you married/ single? (to a woman)",
+    "m": 1
+  },
+  {
+    "id": "book-cf029d0cbdf2",
+    "w": "Estoy casado / soltero.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我已婚／单身。（男性）",
+        "en": "I’m married/single. (man)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estoy casado y vivo en Sevilla.",
+        "zh": "我已婚，住在塞维利亚。（男性）"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 51/100 条；英文释义：I’m married/single. (man)",
+    "m": 1
+  },
+  {
+    "id": "book-8076e3e853c1",
+    "w": "Estoy casada / soltera.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我已婚／单身。（女性）",
+        "en": "I’m married/single. (woman)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estoy soltera y vivo en Madrid.",
+        "zh": "我单身，住在马德里。（女性）"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 52/100 条；英文释义：I’m married/single. (woman)",
+    "m": 1
+  },
+  {
+    "id": "book-07e0a479ed60",
+    "w": "Tengo pareja.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我有伴侣。",
+        "en": "I have a partner."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tengo pareja y vivimos juntos.",
+        "zh": "我有伴侣，我们住在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 53/100 条；英文释义：I have a partner.",
+    "m": 1
+  },
+  {
+    "id": "book-93184399e7be",
+    "w": "Estoy divorciado / viudo.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我离婚了／丧偶了。（男性）",
+        "en": "I’m divorced/widowed. (man)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estoy divorciado desde hace dos años.",
+        "zh": "我离婚两年了。（男性）"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 54/100 条；英文释义：I’m divorced/widowed. (man)",
+    "m": 1
+  },
+  {
+    "id": "book-dcc3f267250e",
+    "w": "Estoy divorciada / viuda.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我离婚了／丧偶了。（女性）",
+        "en": "I’m divorced/widowed. (woman)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estoy divorciada desde hace tres años.",
+        "zh": "我离婚三年了。（女性）"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 55/100 条；英文释义：I’m divorced/widowed. (woman)",
+    "m": 1
+  },
+  {
+    "id": "book-f3d60e39cade",
+    "w": "¿Tienes hijos?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你有孩子吗？",
+        "en": "Do you have any children?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Tienes hijos, Marta?",
+        "zh": "玛尔塔，你有孩子吗？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 56/100 条；英文释义：Do you have any children?",
+    "m": 1
+  },
+  {
+    "id": "book-4c850e8ccc3c",
+    "w": "Tengo … hijos.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我有……个孩子。",
+        "en": "I have ... children."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tengo dos hijos.",
+        "zh": "我有两个孩子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 57/100 条；英文释义：I have ... children.",
+    "m": 1
+  },
+  {
+    "id": "book-80bb7e339ada",
+    "w": "No tengo hijos.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "我没有孩子。",
+        "en": "I don’t have any children."
+      }
+    ],
+    "ex": [
+      {
+        "en": "No tengo hijos, pero tengo un perro.",
+        "zh": "我没有孩子，不过我有一只狗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 58/100 条；英文释义：I don’t have any children.",
+    "m": 1
+  },
+  {
+    "id": "book-b32560044a0c",
+    "w": "Este / Esta es mi...",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "这是我的……",
+        "en": "This is my..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este es mi hermano.",
+        "zh": "这是我的兄弟。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 59/100 条；英文释义：This is my...",
+    "m": 1
+  },
+  {
+    "id": "book-90f1ce2bc604",
+    "w": "Estos / Estas son mis...",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "这些是我的……",
+        "en": "These are my..."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estas son mis amigas.",
+        "zh": "这些是我的朋友们。（女性）"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 60/100 条；英文释义：These are my...",
+    "m": 1
+  },
+  {
+    "id": "book-69234e6baaeb",
+    "w": "Esta es mi mujer.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "这是我的妻子。",
+        "en": "This is my wife."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta es mi mujer, Ana.",
+        "zh": "这是我的妻子安娜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 61/100 条；英文释义：This is my wife.",
+    "m": 1
+  },
+  {
+    "id": "book-184b83fe5237",
+    "w": "Estos son mis padres.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "这些是我的父母。",
+        "en": "These are my parents."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estos son mis padres.",
+        "zh": "这些是我的父母。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 62/100 条；英文释义：These are my parents.",
+    "m": 1
+  },
+  {
+    "id": "book-d8027f5510f1",
+    "w": "el marido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "丈夫",
+        "en": "husband"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El marido prepara la cena.",
+        "zh": "丈夫在准备晚餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 63/100 条；英文释义：husband",
+    "m": 1
+  },
+  {
+    "id": "book-3d4add4bf5fb",
+    "w": "la mujer",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "妻子",
+        "en": "wife"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi mujer lee en el jardín.",
+        "zh": "我的妻子在花园看书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 64/100 条；英文释义：wife",
+    "m": 1
+  },
+  {
+    "id": "book-1e08bacf4b18",
+    "w": "el hijo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "儿子",
+        "en": "son"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hijo ayuda a su padre.",
+        "zh": "儿子帮助父亲。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 65/100 条；英文释义：son",
+    "m": 1
+  },
+  {
+    "id": "book-8797a3710707",
+    "w": "la hija",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女儿",
+        "en": "daughter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hija dibuja una casa.",
+        "zh": "女儿在画一座房子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 66/100 条；英文释义：daughter",
+    "m": 1
+  },
+  {
+    "id": "book-9435361363cf",
+    "w": "el niño / la niña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "孩子",
+        "en": "child"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El niño y la niña juegan en el parque.",
+        "zh": "男孩和女孩在公园玩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 67/100 条；英文释义：child",
+    "m": 1
+  },
+  {
+    "id": "book-b2a3b5712f2c",
+    "w": "la pareja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "伴侣",
+        "en": "partner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi pareja cocina muy bien.",
+        "zh": "我的伴侣很会做饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 68/100 条；英文释义：partner",
+    "m": 1
+  },
+  {
+    "id": "book-ef9355755198",
+    "w": "el novio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "男朋友",
+        "en": "boyfriend"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi novio me trae flores.",
+        "zh": "我的男朋友给我带来鲜花。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 69/100 条；英文释义：boyfriend",
+    "m": 1
+  },
+  {
+    "id": "book-fd66f2cd6f42",
+    "w": "la novia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女朋友",
+        "en": "girlfriend"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi novia toca la guitarra.",
+        "zh": "我的女朋友弹吉他。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 7 页 · 第 70/100 条；英文释义：girlfriend",
+    "m": 1
+  },
+  {
+    "id": "book-5f9d35e58a04",
+    "w": "el prometido / la prometida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "未婚夫／未婚妻",
+        "en": "fiancé/fiancée"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi prometido y yo preparamos la boda.",
+        "zh": "我和未婚夫在筹备婚礼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 71/100 条；英文释义：fiancé/fiancée",
+    "m": 1
+  },
+  {
+    "id": "book-304c78266492",
+    "w": "el padre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "父亲",
+        "en": "father"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El padre lleva a su hijo al colegio.",
+        "zh": "父亲送儿子上学。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 72/100 条；英文释义：father",
+    "m": 1
+  },
+  {
+    "id": "book-19a544e70d89",
+    "w": "la madre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "母亲",
+        "en": "mother"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La madre abraza a su hija.",
+        "zh": "母亲拥抱女儿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 73/100 条；英文释义：mother",
+    "m": 1
+  },
+  {
+    "id": "book-f7e672a6c701",
+    "w": "el hermano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "兄弟",
+        "en": "brother"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermano juega al fútbol.",
+        "zh": "我的兄弟踢足球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 74/100 条；英文释义：brother",
+    "m": 1
+  },
+  {
+    "id": "book-70a9a0de875b",
+    "w": "la hermana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "姐妹",
+        "en": "sister"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermana pinta un cuadro.",
+        "zh": "我的姐妹画了一幅画。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 75/100 条；英文释义：sister",
+    "m": 1
+  },
+  {
+    "id": "book-5faaf7af46b4",
+    "w": "el abuelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "祖父／外祖父",
+        "en": "grandfather"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El abuelo cuenta una historia.",
+        "zh": "祖父在讲故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 76/100 条；英文释义：grandfather",
+    "m": 1
+  },
+  {
+    "id": "book-4728e99837cd",
+    "w": "la abuela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "祖母／外祖母",
+        "en": "grandmother"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La abuela hace una tarta.",
+        "zh": "祖母在做蛋糕。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 77/100 条；英文释义：grandmother",
+    "m": 1
+  },
+  {
+    "id": "book-6cc7a1330abb",
+    "w": "el nieto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "孙子／外孙",
+        "en": "grandson"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El nieto pasea con su abuelo.",
+        "zh": "孙子和祖父散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 78/100 条；英文释义：grandson",
+    "m": 1
+  },
+  {
+    "id": "book-9a3e393eab6d",
+    "w": "la nieta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "孙女／外孙女",
+        "en": "granddaughter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nieta visita a su abuela.",
+        "zh": "孙女去看望祖母。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 79/100 条；英文释义：granddaughter",
+    "m": 1
+  },
+  {
+    "id": "book-5d582ff1265b",
+    "w": "el suegro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "岳父／公公",
+        "en": "father-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi suegro trabaja en el jardín.",
+        "zh": "我的岳父在花园里干活。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 80/100 条；英文释义：father-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-be37d0a70a34",
+    "w": "la suegra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "岳母／婆婆",
+        "en": "mother-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi suegra prepara una sopa.",
+        "zh": "我的岳母在煮汤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 81/100 条；英文释义：mother-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-a6be3dedc295",
+    "w": "la nuera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "儿媳",
+        "en": "daughter-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nuera ayuda a poner la mesa.",
+        "zh": "儿媳帮忙摆餐具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 82/100 条；英文释义：daughter-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-bb7818b70936",
+    "w": "el yerno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女婿",
+        "en": "son-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El yerno lava los platos.",
+        "zh": "女婿在洗碗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 83/100 条；英文释义：son-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-f4c4bae84e8b",
+    "w": "el cuñado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "姐夫／妹夫／大伯子／小叔子",
+        "en": "brother-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi cuñado monta en bicicleta.",
+        "zh": "我的姐夫骑自行车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 84/100 条；英文释义：brother-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-be57cceddafa",
+    "w": "la cuñada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嫂子／弟媳／大姑子／小姑子",
+        "en": "sister-in-law"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi cuñada compra fruta.",
+        "zh": "我的嫂子在买水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 85/100 条；英文释义：sister-in-law",
+    "m": 1
+  },
+  {
+    "id": "book-621696d68f94",
+    "w": "el padrastro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继父",
+        "en": "stepfather"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi padrastro me ayuda con los deberes.",
+        "zh": "我的继父帮我做作业。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 86/100 条；英文释义：stepfather",
+    "m": 1
+  },
+  {
+    "id": "book-b5985919045c",
+    "w": "la madrastra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继母",
+        "en": "stepmother"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi madrastra prepara el desayuno.",
+        "zh": "我的继母在准备早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 87/100 条；英文释义：stepmother",
+    "m": 1
+  },
+  {
+    "id": "book-f40d38ace3c0",
+    "w": "el hijastro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继子",
+        "en": "stepson"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hijastro aprende a nadar.",
+        "zh": "我的继子在学游泳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 88/100 条；英文释义：stepson",
+    "m": 1
+  },
+  {
+    "id": "book-728dd4a04100",
+    "w": "la hijastra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继女",
+        "en": "stepdaughter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hijastra lee un cuento.",
+        "zh": "我的继女在读故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 89/100 条；英文释义：stepdaughter",
+    "m": 1
+  },
+  {
+    "id": "book-6105b9f936c5",
+    "w": "el hermanastro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继兄弟／同父或同母的兄弟",
+        "en": "step-/half-brother"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermanastro juega conmigo.",
+        "zh": "我的继兄弟和我一起玩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 90/100 条；英文释义：step-/half-brother",
+    "m": 1
+  },
+  {
+    "id": "book-829195f48337",
+    "w": "la hermanastra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "继姐妹／同父或同母的姐妹",
+        "en": "step-/half-sister"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermanastra estudia conmigo.",
+        "zh": "我的继姐妹和我一起学习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 91/100 条；英文释义：step-/half-sister",
+    "m": 1
+  },
+  {
+    "id": "book-97c680dbc9a2",
+    "w": "el tío",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "叔伯舅",
+        "en": "uncle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi tío conduce un coche rojo.",
+        "zh": "我的叔叔开着一辆红色汽车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 92/100 条；英文释义：uncle",
+    "m": 1
+  },
+  {
+    "id": "book-244a0cb491dc",
+    "w": "la tía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "姑姨婶舅妈",
+        "en": "aunt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi tía riega las flores.",
+        "zh": "我的阿姨给花浇水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 93/100 条；英文释义：aunt",
+    "m": 1
+  },
+  {
+    "id": "book-3b1c580b7770",
+    "w": "el sobrino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "侄子／外甥",
+        "en": "nephew"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi sobrino construye una torre.",
+        "zh": "我的侄子在搭一座塔。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 94/100 条；英文释义：nephew",
+    "m": 1
+  },
+  {
+    "id": "book-62278faafe92",
+    "w": "la sobrina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "侄女／外甥女",
+        "en": "niece"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi sobrina dibuja un gato.",
+        "zh": "我的侄女在画一只猫。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 95/100 条；英文释义：niece",
+    "m": 1
+  },
+  {
+    "id": "book-ca84717703c5",
+    "w": "el primo / la prima",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "堂／表兄弟姐妹",
+        "en": "cousin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi primo y mi prima juegan al tenis.",
+        "zh": "我的堂兄和堂姐打网球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 96/100 条；英文释义：cousin",
+    "m": 1
+  },
+  {
+    "id": "book-671850c54f5d",
+    "w": "el amigo / la amiga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "朋友",
+        "en": "friend"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi amigo y mi amiga toman un café.",
+        "zh": "我的男性朋友和女性朋友在喝咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 97/100 条；英文释义：friend",
+    "m": 1
+  },
+  {
+    "id": "book-04da5a1cabec",
+    "w": "el vecino / la vecina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邻居",
+        "en": "neighbour"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi vecino me saluda cada mañana.",
+        "zh": "我的邻居每天早上向我问好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 98/100 条；英文释义：neighbour",
+    "m": 1
+  },
+  {
+    "id": "book-666c9cdedf78",
+    "w": "¿Cómo estás?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "你好吗？",
+        "en": "How are you?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Cómo estás, María?",
+        "zh": "玛丽亚，你好吗？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 99/100 条；英文释义：How are you?",
+    "m": 1
+  },
+  {
+    "id": "book-8756044fe2f5",
+    "w": "¿Qué tal?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "最近怎么样？",
+        "en": "How’s it going?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Qué tal? Vamos a tomar un café.",
+        "zh": "最近怎么样？我们去喝杯咖啡吧。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "note": "Collins Spanish 3000 · 原书第 8 页 · 第 100/100 条；英文释义：How’s it going?",
+    "m": 1
+  }
+]

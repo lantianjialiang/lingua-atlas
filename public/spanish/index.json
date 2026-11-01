@@ -1,0 +1,1006 @@
+{
+  "id": "collins-spanish-first-100",
+  "name": "Collins 西班牙语 · 前100词",
+  "count": 100,
+  "examples": 100,
+  "illustrated": 100,
+  "chunk": 100,
+  "topics": [
+    [
+      "essentials",
+      "基础表达"
+    ]
+  ],
+  "cefr": [
+    "入门"
+  ],
+  "words": [
+    [
+      "book-2cc799b3906b",
+      "rojo",
+      "红色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-505ce6a8666a",
+      "verde",
+      "绿色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-69aac60ea9b9",
+      "azul",
+      "蓝色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-366baab04be5",
+      "negro",
+      "黑色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-088fcd7c75dc",
+      "blanco",
+      "白色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5c4a2885c068",
+      "amarillo",
+      "黄色",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-ee1ba0c234db",
+      "¡Hola!",
+      "你好！",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-a4011a9e5e5e",
+      "Buenos días.",
+      "早上好。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-aafb5288a114",
+      "Buenas tardes.",
+      "下午好。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-fa2af733b8c4",
+      "Buenas tardes / noches.",
+      "晚上好。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-35673f704688",
+      "Buenas noches.",
+      "晚安。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-40fc64399d93",
+      "Hasta pronto.",
+      "回头见。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-1fab7d3da3a4",
+      "Hasta luego.",
+      "待会见。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-cefb6c4dafcc",
+      "Hasta mañana.",
+      "明天见。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-4625435e20b5",
+      "Hasta el sábado.",
+      "星期六见。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-1338372950a8",
+      "¡Adiós!",
+      "再见！",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-bebc6d3be045",
+      "¡Que pases un buen día! / una buena noche!",
+      "祝你白天／晚上愉快！",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-6f9fe6590b0e",
+      "Encantado.",
+      "很高兴认识你。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-153aae5e7c26",
+      "Sí.",
+      "是的。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-97947f9a969c",
+      "No.",
+      "不。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-876409d95cca",
+      "No sé.",
+      "我不知道。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5b97a57ecda9",
+      "Por favor.",
+      "请。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-30f4a3f151f5",
+      "Sí, por favor.",
+      "好的，谢谢。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-466e582aea78",
+      "Gracias.",
+      "谢谢。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-bfcc921fb75a",
+      "No, gracias.",
+      "不用了，谢谢。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-44c37cb5c975",
+      "Perdone.",
+      "劳驾。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-fe4be4224d86",
+      "¿Perdón?",
+      "您说什么？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f3c16ed8fd11",
+      "Lo siento.",
+      "对不起。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-44e6c6cfb6a0",
+      "¡De acuerdo!",
+      "好的！",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-63081c82a38f",
+      "De nada.",
+      "不客气。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-780d9ef40da7",
+      "No entiendo.",
+      "我不明白。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f14e63e2679a",
+      "¿Cuántos años tienes?",
+      "你多大了？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-fd0ebd94621e",
+      "¿Puedo preguntarle qué edad tiene?",
+      "请问您多大年纪？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-31e7512386bb",
+      "¿Cuándo es tu cumpleaños?",
+      "你的生日是什么时候？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-338dea63e2f9",
+      "Tengo … años.",
+      "我……岁。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-527ccdf0c680",
+      "Mi cumpleaños es el…",
+      "我的生日是……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-87576c2f5b0b",
+      "Nací el…",
+      "我出生于……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-e7db00e1150a",
+      "¿De dónde eres?",
+      "你来自哪里？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-0f66855a194e",
+      "¿Dónde vives?",
+      "你住在哪里？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-213b00944cf2",
+      "Vivo en…",
+      "我住在……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5387786d5346",
+      "Soy de…",
+      "我来自……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5ad86469ab50",
+      "... el Reino Unido.",
+      "……英国。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-a80e375601bd",
+      "Soy…",
+      "我是……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-e472f05248a4",
+      "escocés",
+      "苏格兰的／人",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-baa121f15f00",
+      "inglés",
+      "英格兰的／人",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-e3fe6bec9f50",
+      "irlandés",
+      "爱尔兰的／人",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5736e233f030",
+      "galés",
+      "威尔士的／人",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-8044a94f8923",
+      "británico",
+      "英国的／人",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-68cf19ff8eea",
+      "¿Estás casado / soltero?",
+      "你结婚了还是单身？（男性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-9574635d4e5e",
+      "¿Estás casada / soltera?",
+      "你结婚了还是单身？（女性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-cf029d0cbdf2",
+      "Estoy casado / soltero.",
+      "我已婚／单身。（男性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-8076e3e853c1",
+      "Estoy casada / soltera.",
+      "我已婚／单身。（女性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-07e0a479ed60",
+      "Tengo pareja.",
+      "我有伴侣。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-93184399e7be",
+      "Estoy divorciado / viudo.",
+      "我离婚了／丧偶了。（男性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-dcc3f267250e",
+      "Estoy divorciada / viuda.",
+      "我离婚了／丧偶了。（女性）",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f3d60e39cade",
+      "¿Tienes hijos?",
+      "你有孩子吗？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-4c850e8ccc3c",
+      "Tengo … hijos.",
+      "我有……个孩子。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-80bb7e339ada",
+      "No tengo hijos.",
+      "我没有孩子。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-b32560044a0c",
+      "Este / Esta es mi...",
+      "这是我的……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-90f1ce2bc604",
+      "Estos / Estas son mis...",
+      "这些是我的……",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-69234e6baaeb",
+      "Esta es mi mujer.",
+      "这是我的妻子。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-184b83fe5237",
+      "Estos son mis padres.",
+      "这些是我的父母。",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-d8027f5510f1",
+      "el marido",
+      "丈夫",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-3d4add4bf5fb",
+      "la mujer",
+      "妻子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-1e08bacf4b18",
+      "el hijo",
+      "儿子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-8797a3710707",
+      "la hija",
+      "女儿",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-9435361363cf",
+      "el niño / la niña",
+      "孩子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-b2a3b5712f2c",
+      "la pareja",
+      "伴侣",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-ef9355755198",
+      "el novio",
+      "男朋友",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-fd66f2cd6f42",
+      "la novia",
+      "女朋友",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5f9d35e58a04",
+      "el prometido / la prometida",
+      "未婚夫／未婚妻",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-304c78266492",
+      "el padre",
+      "父亲",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-19a544e70d89",
+      "la madre",
+      "母亲",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f7e672a6c701",
+      "el hermano",
+      "兄弟",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-70a9a0de875b",
+      "la hermana",
+      "姐妹",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5faaf7af46b4",
+      "el abuelo",
+      "祖父／外祖父",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-4728e99837cd",
+      "la abuela",
+      "祖母／外祖母",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-6cc7a1330abb",
+      "el nieto",
+      "孙子／外孙",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-9a3e393eab6d",
+      "la nieta",
+      "孙女／外孙女",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-5d582ff1265b",
+      "el suegro",
+      "岳父／公公",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-be37d0a70a34",
+      "la suegra",
+      "岳母／婆婆",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-a6be3dedc295",
+      "la nuera",
+      "儿媳",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-bb7818b70936",
+      "el yerno",
+      "女婿",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f4c4bae84e8b",
+      "el cuñado",
+      "姐夫／妹夫／大伯子／小叔子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-be57cceddafa",
+      "la cuñada",
+      "嫂子／弟媳／大姑子／小姑子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-621696d68f94",
+      "el padrastro",
+      "继父",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-b5985919045c",
+      "la madrastra",
+      "继母",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-f40d38ace3c0",
+      "el hijastro",
+      "继子",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-728dd4a04100",
+      "la hijastra",
+      "继女",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-6105b9f936c5",
+      "el hermanastro",
+      "继兄弟／同父或同母的兄弟",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-829195f48337",
+      "la hermanastra",
+      "继姐妹／同父或同母的姐妹",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-97c680dbc9a2",
+      "el tío",
+      "叔伯舅",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-244a0cb491dc",
+      "la tía",
+      "姑姨婶舅妈",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-3b1c580b7770",
+      "el sobrino",
+      "侄子／外甥",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-62278faafe92",
+      "la sobrina",
+      "侄女／外甥女",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-ca84717703c5",
+      "el primo / la prima",
+      "堂／表兄弟姐妹",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-671850c54f5d",
+      "el amigo / la amiga",
+      "朋友",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-04da5a1cabec",
+      "el vecino / la vecina",
+      "邻居",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-666c9cdedf78",
+      "¿Cómo estás?",
+      "你好吗？",
+      "",
+      0,
+      0,
+      1
+    ],
+    [
+      "book-8756044fe2f5",
+      "¿Qué tal?",
+      "最近怎么样？",
+      "",
+      0,
+      0,
+      1
+    ]
+  ],
+  "imageFormats": {
+    "book-1338372950a8": "jpg",
+    "book-bebc6d3be045": "jpg",
+    "book-6f9fe6590b0e": "jpg",
+    "book-876409d95cca": "jpg",
+    "book-5b97a57ecda9": "jpg",
+    "book-153aae5e7c26": "jpg",
+    "book-30f4a3f151f5": "jpg",
+    "book-bfcc921fb75a": "jpg",
+    "book-97947f9a969c": "jpg",
+    "book-466e582aea78": "jpg",
+    "book-44c37cb5c975": "jpg",
+    "book-44e6c6cfb6a0": "jpg",
+    "book-fe4be4224d86": "jpg",
+    "book-63081c82a38f": "jpg",
+    "book-f3c16ed8fd11": "jpg",
+    "book-780d9ef40da7": "jpg",
+    "book-fd0ebd94621e": "jpg",
+    "book-31e7512386bb": "jpg",
+    "book-f14e63e2679a": "jpg",
+    "book-e7db00e1150a": "jpg",
+    "book-338dea63e2f9": "jpg",
+    "book-0f66855a194e": "jpg",
+    "book-527ccdf0c680": "jpg",
+    "book-87576c2f5b0b": "jpg",
+    "book-213b00944cf2": "jpg",
+    "book-a80e375601bd": "jpg",
+    "book-5387786d5346": "jpg",
+    "book-e472f05248a4": "jpg",
+    "book-5ad86469ab50": "jpg",
+    "book-e3fe6bec9f50": "jpg",
+    "book-baa121f15f00": "jpg",
+    "book-5736e233f030": "jpg",
+    "book-8044a94f8923": "jpg",
+    "book-8076e3e853c1": "jpg",
+    "book-68cf19ff8eea": "jpg",
+    "book-9574635d4e5e": "jpg",
+    "book-07e0a479ed60": "jpg",
+    "book-93184399e7be": "jpg",
+    "book-cf029d0cbdf2": "jpg",
+    "book-dcc3f267250e": "jpg",
+    "book-4c850e8ccc3c": "jpg",
+    "book-80bb7e339ada": "jpg",
+    "book-f3d60e39cade": "jpg",
+    "book-b32560044a0c": "jpg",
+    "book-69234e6baaeb": "jpg",
+    "book-184b83fe5237": "jpg",
+    "book-90f1ce2bc604": "jpg",
+    "book-d8027f5510f1": "jpg",
+    "book-1e08bacf4b18": "jpg",
+    "book-3d4add4bf5fb": "jpg",
+    "book-b2a3b5712f2c": "jpg",
+    "book-8797a3710707": "jpg",
+    "book-9435361363cf": "jpg",
+    "book-ef9355755198": "jpg",
+    "book-304c78266492": "jpg",
+    "book-fd66f2cd6f42": "jpg",
+    "book-19a544e70d89": "jpg",
+    "book-5f9d35e58a04": "jpg",
+    "book-5faaf7af46b4": "jpg",
+    "book-f7e672a6c701": "jpg",
+    "book-4728e99837cd": "jpg",
+    "book-6cc7a1330abb": "jpg",
+    "book-70a9a0de875b": "jpg",
+    "book-9a3e393eab6d": "jpg",
+    "book-be37d0a70a34": "jpg",
+    "book-bb7818b70936": "jpg",
+    "book-5d582ff1265b": "jpg",
+    "book-a6be3dedc295": "jpg",
+    "book-f4c4bae84e8b": "jpg",
+    "book-be57cceddafa": "jpg",
+    "book-621696d68f94": "jpg",
+    "book-b5985919045c": "jpg",
+    "book-f40d38ace3c0": "jpg",
+    "book-829195f48337": "jpg",
+    "book-728dd4a04100": "jpg",
+    "book-97c680dbc9a2": "jpg",
+    "book-6105b9f936c5": "jpg",
+    "book-244a0cb491dc": "jpg",
+    "book-3b1c580b7770": "jpg",
+    "book-62278faafe92": "jpg",
+    "book-04da5a1cabec": "jpg",
+    "book-ca84717703c5": "jpg",
+    "book-666c9cdedf78": "jpg",
+    "book-671850c54f5d": "jpg",
+    "book-8756044fe2f5": "jpg"
+  }
+}

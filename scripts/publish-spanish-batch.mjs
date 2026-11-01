@@ -1,0 +1,26 @@
+import fs from 'node:fs';
+const batch=Number(process.argv[2]);
+if(!Number.isInteger(batch)||batch<2)throw Error('Usage: node scripts/publish-spanish-batch.mjs 2');
+const tag=String(batch).padStart(3,'0');
+const read=p=>JSON.parse(fs.readFileSync(p,'utf8').replace(/^\uFEFF/,''));
+const idx=read('public/spanish/index.json');
+const source=read('data/collins-spanish-source.json');
+const added=read(`data/spanish-batches/${tag}.entries.json`);
+const expected=source.entries.slice((batch-1)*100,batch*100);
+if(added.length!==expected.length||!added.length)throw Error('Unexpected batch size');
+if(idx.count!==(batch-1)*100 && idx.count!==Math.min(batch*100,source.entries.length))throw Error('Publish batches in order');
+added.forEach((e,i)=>{if(e.id!==expected[i].id)throw Error('Source ID/order mismatch');if(!e.ex[0]?.en||!e.ex[0]?.zh||!e.senses[0]?.zh)throw Error('Missing text: '+e.id);for(const size of ['img','thumb'])if(!fs.existsSync(`public/spanish/${size}/${e.id}.jpg`))throw Error('Missing image: '+e.id);e.m|=1;});
+const entries=[];
+for(let n=0;n<batch-1;n++)entries.push(...read(`public/spanish/entries/${n}.json`));
+entries.push(...added);
+if(new Set(entries.map(e=>e.id)).size!==entries.length)throw Error('Duplicate IDs');
+entries.forEach((e,i)=>{if(e.id!==source.entries[i].id)throw Error('Wrong source prefix');e.note=e.note?.replace(/第 (\d+)\/100 条/,'第 $1 条');});
+idx.imageFormats??={};for(const e of added)idx.imageFormats[e.id]='jpg';
+for(const e of entries){if(!idx.topics.some(t=>t[0]===e.topic))throw Error('Unknown topic: '+e.topic);}
+idx.count=entries.length;idx.chunk=100;idx.name=`Collins 西班牙语 · ${idx.count}条`;
+idx.examples=entries.reduce((n,e)=>n+e.ex.length,0);idx.illustrated=entries.filter(e=>e.m&1).length;
+idx.words=entries.map(e=>[e.id,e.w,e.senses[0].zh,e.uk||'',Math.max(0,idx.cefr.indexOf(e.cefr)),idx.topics.findIndex(t=>t[0]===e.topic),e.m]);
+for(let n=0;n<batch;n++)fs.writeFileSync(`public/spanish/entries/${n}.json`,JSON.stringify(entries.slice(n*100,(n+1)*100),null,2));
+fs.writeFileSync('public/spanish/index.json',JSON.stringify(idx,null,2));
+const plan=read('data/spanish-batch-plan.json');plan.completedEntries=idx.count;plan.batches[batch-1].status='complete';fs.writeFileSync('data/spanish-batch-plan.json',JSON.stringify(plan,null,2));
+console.log({count:idx.count,examples:idx.examples,illustrated:idx.illustrated,remaining:source.entries.length-idx.count});

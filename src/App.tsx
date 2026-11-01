@@ -1,7 +1,7 @@
 import { BookOpen, ChevronLeft, ChevronRight, Compass, Github, Keyboard, Moon, Search, Sun, User } from "lucide-react";
 import { useCallback, useEffect, useState } from "react";
 import { AtlasContext, useAtlas, useEntry } from "./atlas/context";
-import { loadOpenAtlas, loadPrivateAtlas } from "./atlas/data";
+import { loadOpenAtlas } from "./atlas/data";
 import type { Atlas } from "./atlas/types";
 import { REPO_URL } from "./config";
 import { closeWord, currentLocation, go, openWord, useLocation, type Route } from "./lib/router";
@@ -12,6 +12,7 @@ import { Me } from "./pages/Me";
 import { Onboarding } from "./pages/Onboarding";
 import { Practice } from "./pages/Practice";
 import { Today } from "./pages/Today";
+import { stopAudio, setAudioLanguage } from "./lib/audio";
 import { cue } from "./lib/sound";
 import { store, useStore } from "./store/store";
 import { EntryView } from "./ui/EntryView";
@@ -43,29 +44,30 @@ function useTheme() {
 
 export default function App() {
   const [atlas, setAtlas] = useState<Atlas | null>(null);
-  const [open, setOpen] = useState<Atlas | null>(null);
-  const [priv, setPriv] = useState<Atlas | null>(null);
   const [error, setError] = useState<string | null>(null);
   const dataset = useStore((s) => s.settings.dataset);
   useTheme();
 
   useEffect(() => {
-    loadOpenAtlas().then(
+    let live = true;
+    setAtlas(null);
+    setError(null);
+    stopAudio();
+    loadOpenAtlas(dataset === "english" ? "english" : "spanish").then(
       (a) => {
-        setOpen(a);
-        if (import.meta.env.DEV) loadPrivateAtlas(a).then(setPriv, () => null);
+        if (!live) return;
+        setAudioLanguage(dataset === "english" ? "en" : "es");
+        const startLevel = store.get().settings.startLevel;
+        if (startLevel >= a.cefr.length) store.settings({ startLevel: 0 });
+        store.useDataset(a.id);
+        setAtlas(a);
       },
-      (e: Error) => setError(e.message),
+      (e: Error) => live && setError(e.message),
     );
-  }, []);
+    return () => { live = false; };
+  }, [dataset]);
 
-  useEffect(() => {
-    const next = dataset === "private" && priv ? priv : open;
-    if (next && next !== atlas) {
-      store.useDataset(next.id);
-      setAtlas(next);
-    }
-  }, [dataset, open, priv, atlas]);
+
 
   if (error)
     return (
@@ -86,7 +88,7 @@ export default function App() {
     );
   return (
     <AtlasContext.Provider value={atlas}>
-      <Shell privateAvailable={!!priv} />
+      <Shell key={atlas.id} privateAvailable={false} />
     </AtlasContext.Provider>
   );
 }
@@ -125,7 +127,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
     <div className={`app ${focus ? "is-focus" : ""}`}>
       {!focus && (
         <header className="topbar">
-          <a className="topbar-logo" href="#/" aria-label="词光 Word Atlas 首页">
+          <a className="topbar-logo" href="#/" aria-label="语光 Lingua Atlas 首页">
             <Logo />
           </a>
           <nav className="topnav" aria-label="主导航">
@@ -165,7 +167,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
         <footer className="footer">
           <Logo compact />
           <p>
-            一词一画，点亮雅思 · 免费开源 ·{" "}
+            一词一画，点亮词汇 · 免费开源 ·{" "}
             <a href={REPO_URL} target="_blank" rel="noreferrer">
               GitHub
             </a>{" "}
@@ -248,3 +250,4 @@ function WordSheet({ id }: { id: string | null }) {
 }
 
 export { openWord };
+

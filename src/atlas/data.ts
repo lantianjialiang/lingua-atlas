@@ -2,9 +2,10 @@ import type { Atlas, Entry, IndexRow, WordRef } from "./types";
 import { MEDIA } from "./types";
 
 const BASE = import.meta.env.BASE_URL.replace(/\/$/, "");
-const url = (p: string) => `${BASE}/atlas/${p}`;
+
 
 interface IndexFile {
+  imageFormats?: Record<string, string>;
   id: string;
   name: string;
   count: number;
@@ -16,7 +17,8 @@ interface IndexFile {
   words: IndexRow[];
 }
 
-export async function loadOpenAtlas(): Promise<Atlas> {
+export async function loadOpenAtlas(language: "spanish" | "english" = "spanish"): Promise<Atlas> {
+  const url = (p: string) => `${BASE}/${language === "spanish" ? "spanish" : "atlas"}/${p}`;
   const res = await fetch(url("index.json"));
   if (!res.ok) throw new Error(`词库索引加载失败（${res.status}）`);
   const idx = (await res.json()) as IndexFile;
@@ -76,7 +78,7 @@ export async function loadOpenAtlas(): Promise<Atlas> {
     },
     img: (ref, size = "full") =>
       ("media" in ref && typeof ref.media === "number" ? ref.media : (ref as Entry).m) & MEDIA.img
-        ? url(`${size === "thumb" ? "thumb" : "img"}/${ref.id}.webp`)
+        ? url(`${size === "thumb" ? "thumb" : "img"}/${ref.id}.${idx.imageFormats?.[ref.id] || "webp"}`)
         : null,
     audio(ref, kind) {
       const m = "media" in ref && typeof ref.media === "number" ? ref.media : (ref as Entry).m;

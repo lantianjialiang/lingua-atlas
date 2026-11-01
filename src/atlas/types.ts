@@ -15,6 +15,8 @@ export interface Example {
 }
 
 export interface Entry {
+  /** Teaching-example difficulty, not an official rating of the headword. */
+  exampleLevel?: string;
   id: string;
   w: string;
   uk: string;
