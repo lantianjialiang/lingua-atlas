@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-9eaea999b07c",
+    "w": "la falta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发球失误",
+        "en": "fault"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La falta apareció señalada en el marcador mientras la tenista recogía otra pelota para preparar el siguiente servicio desde su lado de la pista.",
+        "zh": "记分牌显示发球失误，女网球手拿另一个球准备再次发球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2301 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1439d9f8c2a8",
+    "w": "la red",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球网",
+        "en": "net"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La red separaba a las jugadoras, que se preparaban para continuar el punto después de un intercambio que había recorrido ambos lados de la pista.",
+        "zh": "球网分开两位球员，双方在一轮来回后准备继续。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2302 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b003292bf3e0",
+    "w": "el intercambio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "多拍对攻",
+        "en": "rally"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El intercambio mantuvo atentos a los espectadores porque cada jugadora respondía a los golpes que llegaban desde lugares distintos de la pista.",
+        "zh": "多拍对攻吸引观众，两位球员回应从场地各处来的球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2303 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8f0126daa09c",
+    "w": "juego, set y partido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拿下这局、这盘及整场比赛",
+        "en": "game, set and match"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Se anunció «juego, set y partido» mientras las tenistas se acercaban a la red para saludarse después de un encuentro especialmente igualado.",
+        "zh": "宣布“拿下这局、这盘及整场比赛”时，两位网球手走到网前致意。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2304 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4583cea4d8e7",
+    "w": "sencillos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单打",
+        "en": "singles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los sencillos empezaron en la pista principal, donde los espectadores esperaban ver a las dos jugadoras que habían llegado a la final del torneo.",
+        "zh": "单打在主场开始，观众等着看晋级决赛的两位球员。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2305 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-543dc7322e8e",
+    "w": "dobles",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双打",
+        "en": "doubles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El partido de dobles permitió observar cómo se coordinaban las parejas para cubrir los espacios que quedaban libres durante los intercambios de golpes.",
+        "zh": "双打比赛展示了两对球员如何配合、覆盖来回击球中的空位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2306 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d3ef1abb8e2b",
+    "w": "el primer cabeza de serie / la primera cabeza de serie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头号种子选手",
+        "en": "top seed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La primera cabeza de serie comenzó a calentar mientras el público ocupaba los asientos desde los que seguiría el encuentro de aquella tarde.",
+        "zh": "头号种子选手开始热身，观众入座等看下午比赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2307 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1da22652705c",
+    "w": "jugar al tenis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "打网球",
+        "en": "to play tennis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos jugar al tenis cuando termine la clase para practicar los golpes que la profesora nos ha enseñado durante las últimas sesiones del curso.",
+        "zh": "我们想课后打网球，练习老师最近几节教的击球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2308 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-64208f3f224f",
+    "w": "jugar al bádminton / squash",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "打羽毛球或壁球",
+        "en": "to play badminton/ squash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos propusieron jugar al bádminton antes de probar el squash, ya que ambas actividades formaban parte del programa que ofrecía el centro deportivo.",
+        "zh": "先试羽毛球再试壁球，是体育中心活动计划的安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2309 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4273baa31b79",
+    "w": "golpear",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "击球",
+        "en": "to hit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de golpear la pelota, la jugadora ajustó su posición para dirigirla hacia el espacio que había observado al otro lado de la red.",
+        "zh": "击球前，女球员调整站位，把球打向网对面的空位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2310 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-29d6907e8a11",
+    "w": "sacar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发球",
+        "en": "to serve"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tenista se preparó para sacar mientras su rival esperaba al fondo de la pista y los espectadores guardaban silencio durante unos segundos.",
+        "zh": "女网球手准备发球，对手等在底线，观众安静几秒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2311 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1e981fe29286",
+    "w": "romper el saque de alguien",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "破发",
+        "en": "to break someone’s serve"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Logró romper el saque de su rival después de un juego largo en el que ambas habían tenido varias ocasiones para tomar la ventaja.",
+        "zh": "双方多次有机会领先，经过漫长一局，她终于破发。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2312 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7b22bc0c1735",
+    "w": "el bádminton",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羽毛球",
+        "en": "badminton"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bádminton reunió a personas que buscaban una actividad compartida y querían aprender a dirigir el volante hacia distintos lugares de la pista.",
+        "zh": "羽毛球吸引想共同运动的人，学习把球打向场地不同位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2313 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a4bbe8c7b28a",
+    "w": "la raqueta de bádminton",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羽毛球拍",
+        "en": "racket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La raqueta de bádminton estaba junto al volante que utilizaríamos durante la clase, antes de que la profesora explicara el siguiente ejercicio del grupo.",
+        "zh": "羽毛球拍放在课上用的球旁，老师准备讲下一项练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2314 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-855ee5b0d298",
+    "w": "el volante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羽毛球",
+        "en": "shuttlecock"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El volante pasó por encima de la red mientras la jugadora se desplazaba para responder al golpe que acababa de realizar su compañera.",
+        "zh": "羽毛球越过球网，女球员移动接同伴刚打的球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 86 页 · 第 2315 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b32ff124b6eb",
+    "w": "el squash",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "壁球",
+        "en": "squash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El squash nos resultó interesante cuando vimos cómo las jugadoras utilizaban las paredes para variar la dirección de los golpes durante el encuentro.",
+        "zh": "看到球员借墙改变击球方向后，我们对壁球很感兴趣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2316 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0fabfa131c39",
+    "w": "la pelota de squash",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "壁球球体",
+        "en": "ball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelota de squash quedó junto a la pared mientras los participantes escuchaban las indicaciones que el instructor daba antes de continuar la práctica.",
+        "zh": "壁球球体停在墙边，参与者听指导员说明后继续练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2317 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f6bcba486c99",
+    "w": "la raqueta de squash",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "壁球拍",
+        "en": "racket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé la raqueta de squash después de revisar que no hubiera quedado ninguna de mis cosas junto a la entrada de la pista.",
+        "zh": "我确认场地入口没留东西，再收好壁球拍。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2318 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-61176edd9511",
+    "w": "el recogepelotas / la recogepelotas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球童",
+        "en": "ball boy/girl"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La recogepelotas esperó junto a la pista hasta que terminó el punto y pudo acercar las pelotas a la jugadora que iba a sacar.",
+        "zh": "女球童在场边等一分结束，再把球交给要发球的球员。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2319 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-fa1e483f9d13",
+    "w": "el juez de línea / la juez de línea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "司线员",
+        "en": "line judge"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El juez de línea observaba con atención el lugar donde caía la pelota mientras las tenistas continuaban el intercambio desde ambos extremos de la pista.",
+        "zh": "司线员仔细看落点，两位网球手从两端继续对攻。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2320 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-17148dad4af9",
+    "w": "el tenis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网球运动",
+        "en": "tennis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tenis se convirtió en una actividad que compartíamos los sábados, siempre que encontráramos una pista libre a la hora que todos podíamos asistir.",
+        "zh": "只要大家有空时能订到球场，网球就成了周六的共同活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2321 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-01ef30f9dbe3",
+    "w": "la pelota de tenis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网球",
+        "en": "ball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelota de tenis quedó dentro de la cesta donde guardábamos el material que utilizarían los alumnos durante la siguiente clase del curso.",
+        "zh": "网球在篮里，里面是学生下节课用的器材。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2322 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e4570d145025",
+    "w": "la pista de tenis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网球场",
+        "en": "court"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pista de tenis tenía una zona de sombra donde podíamos esperar mientras terminaba el grupo que había reservado la hora anterior.",
+        "zh": "网球场有阴凉处，可等上一时段的组员结束。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2323 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6b9009362cd5",
+    "w": "el tenista / la tenista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网球选手",
+        "en": "player"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tenista comentó los aspectos del partido que quería mejorar mientras su entrenadora revisaba las notas que había tomado durante el encuentro.",
+        "zh": "女网球手说想改进比赛哪些方面，教练翻看比赛时的记录。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2324 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b39b60310718",
+    "w": "la raqueta de tenis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网球拍",
+        "en": "racket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La raqueta de tenis estaba apoyada en el banco mientras la jugadora buscaba la botella que había guardado en su bolsa de entrenamiento.",
+        "zh": "网球拍靠在凳上，女球员找训练包里的水瓶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2325 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f8033a306734",
+    "w": "el árbitro / la árbitra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "主裁判",
+        "en": "umpire"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La árbitra observaba la pista desde su silla mientras las jugadoras se preparaban para comenzar el punto que podía decidir el primer set.",
+        "zh": "女主裁判坐椅上看场地，球员准备可能决定首盘的一分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2326 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9e3c06ed3bfb",
+    "w": "la silla del árbitro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "裁判椅",
+        "en": "umpire’s chair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La silla del árbitro estaba junto a la red, en un lugar desde el que se podía observar toda la superficie de la pista.",
+        "zh": "裁判椅在网旁，从那里能观察整个场地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2327 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-53b1c482761f",
+    "w": "la natación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳运动",
+        "en": "swimming"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La natación formaba parte de las actividades del centro, que ofrecía grupos diferentes para quienes empezaban y para quienes ya tenían más experiencia.",
+        "zh": "游泳是中心活动之一，初学者与有经验者分不同组。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2328 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0f1093bacac7",
+    "w": "la braza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛙泳",
+        "en": "breaststroke"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La braza era el estilo que practicaba el grupo mientras la profesora observaba los movimientos desde el borde de la piscina para comentarlos después.",
+        "zh": "小组练蛙泳，老师在池边看动作，之后讲评。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2329 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-acc19036076b",
+    "w": "la espalda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "仰泳",
+        "en": "backstroke"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espalda aparecía en el programa de la sesión, por lo que los nadadores esperaron la demostración antes de comenzar sus largos de práctica.",
+        "zh": "课程计划有仰泳，游泳者等示范后才开始练习游长。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2330 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-99af85c176ce",
+    "w": "el crol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自由泳",
+        "en": "front crawl"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El crol fue el estilo que elegimos para la demostración que prepararíamos juntos al terminar las clases organizadas durante aquel trimestre en la piscina.",
+        "zh": "我们选自由泳，准备泳池季度课程结束后的共同展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2331 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-369d3b159401",
+    "w": "la mariposa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蝶泳",
+        "en": "butterfly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mariposa se veía desde las gradas mientras la nadadora realizaba el recorrido que su entrenadora observaba con atención desde el borde de la piscina.",
+        "zh": "从看台能看到女泳者练蝶泳，教练在池边专注观察。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2332 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-574b1b79cad2",
+    "w": "el carril",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳道",
+        "en": "lane"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El carril estaba señalado por cuerdas que separaban a los grupos para que cada uno pudiera seguir las actividades previstas para su clase.",
+        "zh": "浮线分开泳道，让各组按课程安排活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2333 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-252871f28b0c",
+    "w": "el largo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一个池长",
+        "en": "length"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Completó un largo antes de detenerse junto al borde donde la profesora esperaba para comentar lo que había observado durante la práctica de natación.",
+        "zh": "她游完一个池长，在池边停下，听老师讲评练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2334 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5eb535e764e1",
+    "w": "la clase de natación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳课",
+        "en": "swimming lesson"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La clase de natación comenzó con una explicación del programa para que todos supieran qué actividades iban a realizar durante la sesión de aquella tarde.",
+        "zh": "游泳课先说明计划，让大家了解下午要做的活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2335 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ebaf8e1895e0",
+    "w": "el nadador / la nadadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳者",
+        "en": "swimmer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nadadora ajustó las gafas mientras esperaba junto al borde de la piscina el momento de comenzar el recorrido que había preparado durante la semana.",
+        "zh": "女泳者调好泳镜，等在池边，准备练了一周的行程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2336 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-88b9c264184d",
+    "w": "el saltador de trampolín / la saltadora de trampolín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳水运动员",
+        "en": "diver"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La saltadora de trampolín esperó su turno mientras observaba la señal que el personal de la piscina le daría antes de comenzar su actuación.",
+        "zh": "女跳水运动员等候，看泳池工作人员何时示意开始。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2337 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7d84342122c2",
+    "w": "el salto de trampolín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳水",
+        "en": "diving"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salto de trampolín atrajo a espectadores que habían acudido a la piscina para conocer las actividades que realizaban los deportistas del centro.",
+        "zh": "跳水吸引了来泳池了解体育中心运动项目的观众。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2338 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5112675760b3",
+    "w": "la pesca con caña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "垂钓",
+        "en": "angling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pesca con caña nos permitió pasar una mañana tranquila junto al río mientras conversábamos sobre los lugares que queríamos visitar durante las vacaciones.",
+        "zh": "我们在河边垂钓，度过安静上午，边聊假期想去的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2339 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7093ceac3db9",
+    "w": "el pescador / la pescadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "垂钓者",
+        "en": "angler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pescadora preparaba la caña junto al río mientras sus compañeros buscaban un lugar donde dejar las mochilas que habían traído para pasar la mañana.",
+        "zh": "女垂钓者准备鱼竿，同伴找地方放上午出游的背包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2340 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7d8ac53b9f45",
+    "w": "el surfista / la surfista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冲浪者",
+        "en": "surfer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La surfista llevaba la tabla bajo el brazo mientras caminaba hacia el punto donde se reuniría con el grupo que participaba en la clase.",
+        "zh": "女冲浪者夹着板，走向课程小组集合处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2341 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8f4c0d6f9869",
+    "w": "nadar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳",
+        "en": "to swim"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preferimos nadar en la piscina del centro porque allí coincidimos con los compañeros que participan en el mismo grupo desde principios del curso.",
+        "zh": "我们喜欢在体育中心泳池游泳，能遇到学期初起同组的伙伴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 87 页 · 第 2342 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-22db39cf4f43",
+    "w": "saltar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳水",
+        "en": "to dive"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de saltar, la deportista esperó la indicación del personal que coordinaba los turnos durante la demostración organizada en la piscina del centro.",
+        "zh": "跳水前，运动员等管理轮次的工作人员示意。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2343 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4a9fa20c6872",
+    "w": "hacer buceo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水肺潜水",
+        "en": "to scuba-dive"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Querían hacer buceo con el grupo que habían conocido al visitar el centro donde se organizaban las actividades durante su estancia en la costa.",
+        "zh": "他们想和海边活动中心认识的小组一起做水肺潜水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2344 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a5f3a2a07e73",
+    "w": "hacer surf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冲浪",
+        "en": "to surf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empezaron a hacer surf durante una actividad en la que la instructora explicaba cómo observar la tabla y los movimientos del resto del grupo.",
+        "zh": "他们在指导员讲解观察板和小组动作的活动中开始冲浪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2345 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9fab7e0514b1",
+    "w": "remar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "划桨",
+        "en": "to paddle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendimos a remar con una pala mientras el instructor mostraba cómo coordinar los movimientos para dirigir la pequeña embarcación hacia el lugar indicado.",
+        "zh": "指导员示范配合动作，把小船划向指定处，我们跟着学划桨。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2346 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3558204e736f",
+    "w": "remar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "划双桨",
+        "en": "to row"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empezamos a remar con los dos remos después de escuchar la explicación que nos dio la monitora sobre el recorrido previsto para la actividad.",
+        "zh": "听完指导员讲活动路线，我们开始用双桨划船。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2347 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-190e2b12b480",
+    "w": "navegar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "驾帆航行",
+        "en": "to sail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Les gustaba navegar por la bahía con el grupo del club, que organizaba salidas para conocer lugares distintos durante los fines de semana.",
+        "zh": "他们喜欢和俱乐部一起驾帆船游海湾，周末探索不同地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2348 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ce4f3bcb3eee",
+    "w": "pescar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钓鱼",
+        "en": "to fish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidimos pescar junto al río mientras nuestros amigos preparaban la mesa donde compartiríamos el almuerzo que habíamos traído para pasar el día fuera.",
+        "zh": "我们在河边钓鱼，朋友摆桌准备分享外出一天带的午餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2349 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-13d4ea9031b9",
+    "w": "los manguitos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳臂圈",
+        "en": "armbands"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los manguitos estaban junto a las toallas que la familia había preparado antes de acompañar al niño a la clase de la piscina.",
+        "zh": "游泳臂圈放在毛巾旁，家人准备陪孩子去泳池上课。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2350 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-23b598e71594",
+    "w": "el trampolín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳板",
+        "en": "diving board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El trampolín estaba vacío mientras el personal organizaba el espacio para la demostración que los visitantes observarían desde las gradas de la piscina.",
+        "zh": "跳板上无人，工作人员布置给泳池看台游客看的展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2351 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c72d1f86911c",
+    "w": "las aletas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脚蹼",
+        "en": "flippers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las aletas estaban guardadas en una bolsa separada para que pudiéramos encontrarlas al llegar al centro donde comenzaba nuestra actividad de aquella mañana.",
+        "zh": "脚蹼放单独袋里，上午到活动中心时方便找到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2352 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c72224de4f94",
+    "w": "las gafas de natación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳镜",
+        "en": "goggles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gafas de natación quedaron sobre la toalla mientras buscábamos el gorro que habíamos guardado en uno de los bolsillos de la mochila.",
+        "zh": "泳镜放毛巾上，我们找放在背包口袋的泳帽。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2353 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-54d15289bb98",
+    "w": "el socorrista / la socorrista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生员",
+        "en": "lifeguard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La socorrista observaba la piscina desde un lugar donde podía seguir las actividades que se desarrollaban en los diferentes carriles durante la clase.",
+        "zh": "女救生员从能看各泳道活动的地方观察泳池。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2354 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-36f11242804b",
+    "w": "el gorro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳帽",
+        "en": "swimming cap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gorro estaba dentro de la bolsa que utilizábamos para llevar las cosas que necesitábamos durante las clases de natación de los martes.",
+        "zh": "泳帽放在装周二游泳课用品的袋里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2355 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-827877a05c62",
+    "w": "la piscina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳池",
+        "en": "swimming pool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piscina tenía varios carriles reservados para las clases, mientras el resto del espacio se destinaba a las actividades que ofrecía el centro.",
+        "zh": "泳池留几条泳道上课，其余区域开展中心活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2356 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7c9aeab618a9",
+    "w": "el bañador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "男式泳裤",
+        "en": "swimming trunks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bañador quedó colgado junto a las toallas mientras preparábamos las prendas que llevaríamos al centro deportivo durante la próxima sesión de natación.",
+        "zh": "泳裤和毛巾挂一起，我们准备下次游泳课穿的衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2357 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-68228431acb0",
+    "w": "el traje de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳衣",
+        "en": "swimsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de baño estaba doblado en la mochila, junto a los objetos que habíamos preparado antes de salir para nuestra clase de la tarde.",
+        "zh": "泳衣叠在背包里，旁边是下午上课前准备的用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2358 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a6b30b27b217",
+    "w": "el bodyboarding",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "趴板冲浪",
+        "en": "bodyboarding"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bodyboarding aparecía en el folleto que explicaba las actividades que podían conocer los visitantes al acercarse al centro situado junto a la playa.",
+        "zh": "海滩活动中心的宣传册列出趴板冲浪，供游客了解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2359 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-bd9cca8888a5",
+    "w": "el piragüismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "划艇运动",
+        "en": "canoeing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El piragüismo fue la actividad que elegimos para compartir una mañana con los amigos que nos habían acompañado durante el viaje a la costa.",
+        "zh": "我们选划艇运动，和同行海岸旅行的朋友度过上午。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2360 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f6f1dc79c472",
+    "w": "la moto de agua",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水上摩托",
+        "en": "jet ski"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La moto de agua estaba junto al muelle donde el personal preparaba las embarcaciones que utilizaría durante las actividades previstas para aquella mañana.",
+        "zh": "水上摩托停在码头旁，工作人员准备早晨活动所用船艇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2361 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ac7b7e586b1c",
+    "w": "el kayak",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮划艇运动",
+        "en": "kayaking"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El kayak nos permitió observar la orilla desde el agua mientras seguíamos el recorrido que había preparado la monitora para los participantes del grupo.",
+        "zh": "我们按指导员规划的路线划皮艇，从水面观察岸边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2362 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-151b09158d32",
+    "w": "el chaleco salvavidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生衣",
+        "en": "lifejacket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El chaleco salvavidas estaba sobre el banco donde el instructor había colocado el material que cada participante recogería antes de comenzar la actividad.",
+        "zh": "救生衣放凳上，指导员在那里摆好大家活动前领取的装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2363 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2f6b60a59d31",
+    "w": "los remos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双桨",
+        "en": "oars"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los remos estaban apoyados junto a la embarcación mientras escuchábamos la explicación sobre la ruta que seguiríamos con el grupo durante la mañana.",
+        "zh": "双桨靠在船旁，我们听上午小组路线讲解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2364 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-58e4be21bb47",
+    "w": "el remo de kayak",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮划艇桨",
+        "en": "paddle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El remo de kayak quedó sobre la orilla mientras la monitora indicaba cómo colocar las embarcaciones antes de empezar la actividad que habíamos reservado.",
+        "zh": "皮划艇桨在岸上，指导员说如何摆船再开始预约的活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2365 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-af3ea2ec5354",
+    "w": "el stand up",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "桨板运动",
+        "en": "paddleboarding"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El stand up formaba parte de las actividades que se mostraban desde la playa durante la jornada organizada por los clubes de la localidad.",
+        "zh": "当地俱乐部活动日，从海滩能看到桨板运动展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2366 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-de05e4a44d60",
+    "w": "el submarinismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水肺潜水运动",
+        "en": "scuba diving"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El submarinismo interesó a varios visitantes que querían conocer los equipos y las actividades que organizaba el centro durante la temporada de verano.",
+        "zh": "几位游客对水肺潜水感兴趣，想了解中心夏季的装备和活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2367 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c27e2fcab3b2",
+    "w": "el buceo con tubo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浮潜",
+        "en": "snorkelling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El buceo con tubo nos permitió observar el fondo desde la superficie durante la actividad que la guía había preparado para nuestro grupo de visitantes.",
+        "zh": "导游为游客小组安排浮潜，我们从水面看水下景色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2368 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b021682449d5",
+    "w": "la tabla de surf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冲浪板",
+        "en": "surfboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tabla de surf estaba sobre la arena mientras la instructora explicaba los movimientos que el grupo observaría durante la siguiente parte de la sesión.",
+        "zh": "冲浪板在沙上，指导员讲解接下来小组观察的动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2369 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8554627396d1",
+    "w": "el surfing",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冲浪运动",
+        "en": "surfing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El surfing reunió a participantes que querían pasar tiempo al aire libre y conocer a otras personas interesadas en las actividades que ofrecía la escuela.",
+        "zh": "冲浪活动让想在户外相聚、结识同好的人聚在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2370 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e3e2caf121c",
+    "w": "el esquí acuático",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑水",
+        "en": "waterskiing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El esquí acuático aparecía en las fotografías que el centro mostraba para explicar las actividades que había organizado durante el verano del año anterior.",
+        "zh": "中心用去年的夏季活动照片介绍项目，其中有滑水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2371 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d95efc0b4292",
+    "w": "el traje de neopreno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "潜水服",
+        "en": "wetsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de neopreno estaba colgado junto al equipo que habíamos preparado para la actividad prevista con el grupo al día siguiente por la mañana.",
+        "zh": "潜水服挂在次日早晨小组活动准备的装备旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2372 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-047b411810ed",
+    "w": "el windsurf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帆板运动",
+        "en": "windsurfing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El windsurf se veía desde el paseo donde nos detuvimos a observar las velas que se movían sobre el agua al final de la tarde.",
+        "zh": "我们停在步道看帆板运动，傍晚的帆在水上移动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 88 页 · 第 2373 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f3bfd6ef3d3c",
+    "w": "el esquiador / la esquiadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪者",
+        "en": "skier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La esquiadora revisó su equipo mientras esperaba a los compañeros con los que compartiría la clase que habían reservado para aquella misma mañana.",
+        "zh": "女滑雪者检查装备，等一起上当天上午预约课程的伙伴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2374 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-49734bc3d121",
+    "w": "la estación de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪度假区",
+        "en": "ski resort"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La estación de esquí recibió a los visitantes que habían llegado temprano para recoger el material y reunirse con los monitores de sus grupos.",
+        "zh": "滑雪度假区接待早到游客，他们领取装备、与指导员集合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2375 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8ecd86cb219c",
+    "w": "el monitor de esquí / la monitora de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪教练",
+        "en": "ski instructor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La monitora de esquí explicó el programa de la mañana antes de acompañar al grupo hacia la zona donde comenzaría la primera actividad del curso.",
+        "zh": "女滑雪教练先讲上午安排，再带小组去课程首项活动处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2376 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-fc934e21c8f7",
+    "w": "el forfait",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪通行证",
+        "en": "ski pass"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé el forfait en un bolsillo que pudiera alcanzar fácilmente cuando llegáramos al acceso donde se reunían las personas que empezaban la jornada.",
+        "zh": "我把滑雪通行证放方便拿的口袋，准备到入口集合开始一天活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2377 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5c8cf5a8e219",
+    "w": "el telesquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪拖牵设备",
+        "en": "ski lift"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El telesquí se veía desde la zona donde los participantes esperaban mientras sus monitores organizaban los grupos que subirían para continuar la clase.",
+        "zh": "从等候区能看拖牵设备，指导员安排上去继续上课的小组。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2378 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e4eaaa31ff6c",
+    "w": "el servicio de rescate de montaña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "山地救援队",
+        "en": "mountain rescue service"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El servicio de rescate de montaña presentó sus vehículos durante una jornada en la que los visitantes podían conocer el trabajo de los equipos locales.",
+        "zh": "山地救援队在开放日展示车辆，让游客了解本地队伍的工作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2379 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e34670408654",
+    "w": "el botiquín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "急救箱",
+        "en": "first-aid kit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El botiquín estaba en el armario donde el personal guardaba el material que utilizaba para atender las necesidades de los visitantes del centro.",
+        "zh": "急救箱放在工作人员保存游客服务用品的柜里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2380 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6fb6b7fa29c0",
+    "w": "la nieve",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雪",
+        "en": "snow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nieve cubría los árboles que veíamos desde la ventana del alojamiento donde habíamos llegado después de viajar durante buena parte de la tarde.",
+        "zh": "我们坐了大半个下午的车到住处，从窗外看见树上覆雪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2381 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a9df7c717843",
+    "w": "el polvo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "粉雪",
+        "en": "powder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El polvo de nieve formaba una capa suave que podíamos observar desde el camino mientras esperábamos al guía que acompañaría al grupo durante la visita.",
+        "zh": "粉雪铺成柔软一层，我们从路上看，等导游来带团。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2382 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-beeaf30ddaba",
+    "w": "el hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰",
+        "en": "ice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hielo brillaba sobre la superficie del pequeño lago que observamos desde el mirador antes de continuar el recorrido por el sendero del parque.",
+        "zh": "我们在观景台看小湖冰面发亮，再继续走公园小径。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2383 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-850259467e26",
+    "w": "la avalancha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雪崩",
+        "en": "avalanche"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La avalancha aparecía en una fotografía que el centro utilizaba para explicar cómo cambia el paisaje de la montaña durante las distintas estaciones del año.",
+        "zh": "中心用雪崩照片讲解山间景观一年四季怎样变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2384 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7c97fc73ff3d",
+    "w": "esquiar (fuera de pista)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪或野雪滑行",
+        "en": "to ski (off-piste)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Querían esquiar durante las vacaciones y consultaron las actividades organizadas por la estación antes de elegir el grupo al que iban a apuntarse.",
+        "zh": "他们想假期滑雪，先查滑雪区组织的活动再选组报名。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2385 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-bab17f3b94b2",
+    "w": "practicar snowboard",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑单板",
+        "en": "to snowboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidieron practicar snowboard durante el curso que habían reservado, donde una monitora les explicaría las actividades previstas para el grupo de nuevos participantes.",
+        "zh": "他们决定在预约课程里滑单板，指导员会讲新成员活动安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2386 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-999fb6e5fdaa",
+    "w": "ir en trineo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "坐雪橇",
+        "en": "to go sledging"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Fuimos en trineo con el grupo que organizaba las actividades de invierno mientras otras familias preparaban el material junto a la entrada del recinto.",
+        "zh": "我们跟冬季活动组去坐雪橇，其他家人在入口旁准备装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2387 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-13a9386fa320",
+    "w": "ir a patinar sobre hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "去滑冰",
+        "en": "to go ice skating"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos propusieron ir a patinar sobre hielo después de comer, cuando terminaran las actividades que los niños habían reservado durante la visita al centro deportivo.",
+        "zh": "有人提议午饭后滑冰，等孩子预约的体育中心活动结束。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2388 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3d8e7b38c39e",
+    "w": "hacer alpinismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登山",
+        "en": "to go mountain climbing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Querían hacer alpinismo y se acercaron al club para conocer los cursos que ofrecían a quienes deseaban aprender junto a otras personas del grupo.",
+        "zh": "他们想登山，去俱乐部了解适合跟小组一起学的课程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2389 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-00a7ac681528",
+    "w": "los crampones",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰爪",
+        "en": "crampons"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los crampones estaban sobre una mesa donde el monitor había colocado las piezas del equipo que mostraría durante la explicación prevista para aquella mañana.",
+        "zh": "冰爪放桌上，指导员摆好早晨讲解要展示的装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2390 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6be96aa46e7b",
+    "w": "el piolet",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰镐",
+        "en": "ice axe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El piolet quedó junto a la mochila mientras el guía mostraba a los visitantes las herramientas que se utilizaban durante algunas actividades en la montaña.",
+        "zh": "冰镐在背包旁，导游展示部分山地活动所用工具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2391 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3f90d938d34e",
+    "w": "los patines de hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰鞋",
+        "en": "ice skates"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los patines de hielo estaban ordenados por tallas para que los visitantes pudieran encontrar el par que necesitaban antes de dirigirse a la pista.",
+        "zh": "冰鞋按尺码摆放，游客去冰场前能找到合适的一双。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2392 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c6d922feb82e",
+    "w": "el patinaje sobre hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑冰运动",
+        "en": "ice skating"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El patinaje sobre hielo formaba parte del programa que la ciudad había organizado para quienes querían conocer actividades diferentes durante las vacaciones de invierno.",
+        "zh": "城市冬假活动包括滑冰，供想尝试不同项目的人参加。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2393 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3b9eb9b9e773",
+    "w": "la cuerda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "绳索",
+        "en": "rope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cuerda estaba enrollada junto al resto del equipo que el monitor había preparado para la demostración organizada en el salón del club de montaña.",
+        "zh": "绳索盘在装备旁，指导员准备在山地俱乐部厅里示范。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2394 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b616415ac86f",
+    "w": "el trineo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雪橇",
+        "en": "sledge"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El trineo quedó apoyado junto al cobertizo mientras las familias recogían las cosas que habían utilizado durante la mañana de actividades en la nieve.",
+        "zh": "雪橇靠棚子放着，家人收拾上午雪地活动的用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2395 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-37521b95c2c1",
+    "w": "la pista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪道",
+        "en": "piste"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pista se veía desde la terraza donde esperábamos a los compañeros que todavía estaban terminando la clase que habían comenzado por la mañana.",
+        "zh": "从露台能看滑雪道，我们等仍在上上午课的伙伴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2396 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-27da05f90d6e",
+    "w": "el peto de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪背带裤",
+        "en": "salopettes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peto de esquí estaba colgado junto a la chaqueta que llevaríamos al día siguiente para participar en las actividades organizadas por la estación.",
+        "zh": "滑雪背带裤挂在夹克旁，准备次日参加滑雪区活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2397 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a542c2cc08e7",
+    "w": "las botas de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪靴",
+        "en": "ski boots"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botas de esquí estaban junto al banco donde los participantes se preparaban mientras escuchaban las indicaciones que los monitores daban a cada grupo.",
+        "zh": "滑雪靴放凳旁，参与者准备着、听各组指导员说明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2398 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-93909ed75f0a",
+    "w": "los guantes de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪手套",
+        "en": "ski gloves"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los guantes de esquí estaban dentro de la mochila que habíamos preparado antes de salir del alojamiento para reunirnos con el grupo de la mañana.",
+        "zh": "滑雪手套在背包里，我们准备从住处出发去和上午小组集合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2399 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ad3e9cf452df",
+    "w": "las gafas de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪镜",
+        "en": "ski goggles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gafas de esquí quedaron sobre la mesa mientras comprobábamos que todo el material estuviera preparado para la actividad que comenzaríamos después del desayuno.",
+        "zh": "滑雪镜放桌上，我们核对早餐后活动的装备是否备齐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2400 条；自编例句 B1–B2",
+    "m": 0
+  }
+]

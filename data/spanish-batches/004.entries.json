@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-36c3d6f2650d",
+    "w": "la nube",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "云",
+        "en": "cloud"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nube tapa el sol mientras caminamos por la playa.",
+        "zh": "我们在海滩散步时，云遮住了太阳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 301 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-f7196077ef9e",
+    "w": "los números",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "数字（1至一百万）",
+        "en": "numbers (1 to 1,000,000)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendemos los números para entender los precios y decir nuestra edad.",
+        "zh": "我们学习数字，以便看懂价格和说出年龄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 302 条；自编例句 A2；原书数字汇总复习条（保留原始记录ID）",
+    "m": 0
+  },
+  {
+    "id": "book-f0304729c18b",
+    "w": "el helicóptero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "直升机",
+        "en": "helicopter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El helicóptero aterriza cerca del hospital para recoger a un paciente.",
+        "zh": "直升机在医院附近降落，接一位患者。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 303 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d13e35b59a9b",
+    "w": "el rotor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旋翼",
+        "en": "rotor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rotor del helicóptero empieza a girar antes de despegar.",
+        "zh": "直升机的旋翼在起飞前开始转动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 304 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-fa7e6922e016",
+    "w": "la paleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旋翼桨叶",
+        "en": "blade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La paleta del rotor gira rápidamente sobre la cabina del helicóptero.",
+        "zh": "旋翼桨叶在直升机驾驶舱上方快速转动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 305 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-0557fc0dab8d",
+    "w": "el morro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机头",
+        "en": "nose"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El piloto revisa el morro del helicóptero antes del vuelo.",
+        "zh": "飞行员在飞行前检查直升机的机头。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 306 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-f2b09540750e",
+    "w": "la cabina del piloto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "驾驶舱",
+        "en": "cockpit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cabina del piloto tiene instrumentos para controlar el helicóptero.",
+        "zh": "驾驶舱里有控制直升机的仪表。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 307 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-06cbda97a6d6",
+    "w": "la cola",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机尾",
+        "en": "tail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mecánico comprueba la cola del helicóptero antes de la salida.",
+        "zh": "机械师在出发前检查直升机的机尾。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 15 页 · 第 308 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d8324a86cd54",
+    "w": "la calle",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "街道",
+        "en": "street"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La calle está tranquila porque los coches no pueden entrar.",
+        "zh": "街道很安静，因为汽车不能驶入。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 309 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-a7b9f48fad48",
+    "w": "el conductor / la conductora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "司机",
+        "en": "driver"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La conductora mira a ambos lados antes de entrar en la carretera.",
+        "zh": "司机在驶入公路前左右观察。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 310 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-5b9cc88d4cfa",
+    "w": "el pasajero / la pasajera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乘客",
+        "en": "passenger"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pasajero guarda su mochila y se sienta junto a la ventana.",
+        "zh": "乘客收好背包，坐在窗边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 311 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-2ae7bf22ae6c",
+    "w": "el peatón / la peatona",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行人",
+        "en": "pedestrian"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La peatona espera la luz verde antes de cruzar la calle.",
+        "zh": "行人等到绿灯才过街。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 312 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-9386b6ba07d2",
+    "w": "el tráfico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "交通",
+        "en": "traffic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tráfico es intenso porque muchas personas vuelven del trabajo.",
+        "zh": "交通很繁忙，因为很多人下班回家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 313 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-ff8549e8ae54",
+    "w": "el embotellamiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "堵车",
+        "en": "traffic jam"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El embotellamiento nos impide llegar a tiempo a la estación.",
+        "zh": "堵车让我们无法准时到达车站。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 314 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-b1e5a6b77526",
+    "w": "la hora punta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高峰时间",
+        "en": "rush hour"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante la hora punta preferimos ir al trabajo en metro.",
+        "zh": "在高峰时间，我们更喜欢坐地铁上班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 315 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-bc85c6827d27",
+    "w": "el transporte público",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公共交通",
+        "en": "public transport"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usamos el transporte público para llegar al centro sin buscar aparcamiento.",
+        "zh": "我们乘公共交通去市中心，不用找停车位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 316 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d80ceb39453c",
+    "w": "el taxi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出租车",
+        "en": "taxi"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pedimos un taxi porque llevamos dos maletas muy pesadas.",
+        "zh": "我们叫了出租车，因为带着两只很重的行李箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 317 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-3b8be327d5c9",
+    "w": "la parada de taxis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出租车候车点",
+        "en": "taxi rank"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La parada de taxis está junto a la entrada de la estación.",
+        "zh": "出租车候车点就在车站入口旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 318 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-0720d718fffa",
+    "w": "el abono de transporte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "交通通票",
+        "en": "season ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Con el abono de transporte puedo viajar todos los días sin comprar billetes.",
+        "zh": "有了交通通票，我每天乘车都不用再买票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 319 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-b8089d5a1ea7",
+    "w": "la tarjeta de transporte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "交通卡",
+        "en": "travel card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardo la tarjeta de transporte en el bolsillo para encontrarla fácilmente.",
+        "zh": "我把交通卡放进口袋，方便拿取。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 320 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d97c2a743b92",
+    "w": "las señas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "路线指引",
+        "en": "directions"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vecino nos da las señas para llegar al hotel andando.",
+        "zh": "邻居告诉我们步行去酒店的路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 321 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-6ee0183c3d5c",
+    "w": "el GPS",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "全球定位系统",
+        "en": "GPS"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El GPS indica una ruta más corta para evitar el tráfico.",
+        "zh": "导航指示一条较短的路线，以避开拥堵。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 322 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-f50ac098d35c",
+    "w": "la aplicación de mapas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地图应用",
+        "en": "mapping app"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Consulto la aplicación de mapas antes de salir hacia el museo.",
+        "zh": "我出发去博物馆前查看地图应用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 323 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-36f8216dc3d5",
+    "w": "la señal de carretera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "道路标志",
+        "en": "road sign"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La señal de carretera indica que la estación está a dos kilómetros.",
+        "zh": "路标显示车站还有两公里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 324 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-22eb9772be8f",
+    "w": "la ruta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "路线",
+        "en": "route"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos una ruta tranquila para recorrer el pueblo en bicicleta.",
+        "zh": "我们选了一条安静的路线，骑车游览村庄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 325 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-3daa780ba1f7",
+    "w": "la asistencia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "特别协助",
+        "en": "special assistance"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi abuelo necesita asistencia para subir al autobús con su silla de ruedas.",
+        "zh": "我祖父需要协助，才能坐着轮椅上公交车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 326 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-758a04fa9112",
+    "w": "caminar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "步行",
+        "en": "to walk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Prefiero caminar hasta el mercado cuando hace buen tiempo por la mañana.",
+        "zh": "早上天气好时，我更喜欢步行去市场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 327 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-36e60cdc37ba",
+    "w": "conducir",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "开车",
+        "en": "to drive"
+      }
+    ],
+    "ex": [
+      {
+        "en": "No puedo conducir hoy porque mi coche está en el taller.",
+        "zh": "今天我不能开车，因为车在修理厂。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 328 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-921970c1a648",
+    "w": "regresar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "返回",
+        "en": "to return"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos regresar al hotel antes de la tormenta de esta tarde.",
+        "zh": "我们想在今天下午的暴风雨来临前回到酒店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 329 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-824f74187242",
+    "w": "cruzar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "穿过",
+        "en": "to cross"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Debemos cruzar la calle por el paso de peatones más cercano.",
+        "zh": "我们应该从最近的人行横道过街。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 330 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c797bc193ceb",
+    "w": "girar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "转弯",
+        "en": "to turn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Al llegar a la esquina tienes que girar a la derecha.",
+        "zh": "到街角时，你得向右转。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 331 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-1d4bd5ff6bf6",
+    "w": "el mapa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地图",
+        "en": "map"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mapa muestra un camino que pasa junto al río.",
+        "zh": "地图显示一条经过河边的小路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 332 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-64170ec03d17",
+    "w": "el billete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车票",
+        "en": "ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compro el billete de tren antes de sentarme en el andén.",
+        "zh": "我先买火车票，然后坐到站台上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 333 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-f3e0cae359e8",
+    "w": "el horario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "时刻表",
+        "en": "timetable"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Miramos el horario para saber cuándo sale el último autobús.",
+        "zh": "我们看时刻表，了解末班公交何时出发。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 16 页 · 第 334 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-49a115b533af",
+    "w": "el monovolumen",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "多用途汽车",
+        "en": "people carrier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El monovolumen tiene espacio suficiente para toda la familia y sus maletas.",
+        "zh": "这辆多用途汽车装得下全家人和行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 335 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-eddd8c4068a6",
+    "w": "la autocaravana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房车",
+        "en": "motorhome"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Viajamos en autocaravana para dormir cerca de los lugares que visitamos.",
+        "zh": "我们乘房车旅行，方便住在游览地点附近。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 336 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-bd5c80b8d029",
+    "w": "la caravana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拖挂式房车",
+        "en": "caravan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caravana está en un camping tranquilo junto al lago.",
+        "zh": "拖挂式房车停在湖边安静的营地里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 337 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-169d83176a11",
+    "w": "el asiento del copiloto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "副驾驶座",
+        "en": "passenger seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermana se sienta en el asiento del copiloto y consulta el mapa.",
+        "zh": "我姐妹坐在副驾驶座上查看地图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 338 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-783716674182",
+    "w": "el asiento del conductor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "驾驶座",
+        "en": "driver’s seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de arrancar ajusto el asiento del conductor para llegar a los pedales.",
+        "zh": "发动前，我调整驾驶座，以便够到踏板。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 339 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-bd93c06f70e4",
+    "w": "el asiento trasero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "后排座位",
+        "en": "back seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los niños colocan sus mochilas junto al asiento trasero del coche.",
+        "zh": "孩子们把背包放在汽车后排座位旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 340 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-4a384b17fe87",
+    "w": "la silla infantil",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "儿童安全座椅",
+        "en": "child seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sujetamos bien la silla infantil antes de iniciar el viaje.",
+        "zh": "我们在出发前把儿童安全座椅固定好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 341 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-32354906d367",
+    "w": "la baca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车顶行李架",
+        "en": "roof rack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos las bicicletas en la baca para llevarlas hasta el camping.",
+        "zh": "我们把自行车放到车顶行李架上，带去营地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 342 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-67f362eb92df",
+    "w": "el techo solar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "天窗",
+        "en": "sunroof"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos el techo solar para dejar entrar aire durante el paseo.",
+        "zh": "我们打开天窗，让兜风时有空气进来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 343 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-63a7846196be",
+    "w": "automático",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自动的",
+        "en": "automatic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi coche es automático y no necesito cambiar las marchas manualmente.",
+        "zh": "我的车是自动挡，不用手动换挡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 344 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-74c48c0be5a7",
+    "w": "eléctrico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电动的",
+        "en": "electric"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El coche eléctrico se carga mientras cenamos en casa de mis padres.",
+        "zh": "我们在父母家吃晚饭时，电动车正在充电。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 345 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d7073973ccfd",
+    "w": "híbrido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "混合动力的",
+        "en": "hybrid"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos un vehículo híbrido para gastar menos combustible en la ciudad.",
+        "zh": "我们选择混合动力车，想在城里少耗些油。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 346 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-e645d20f3223",
+    "w": "el motor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发动机",
+        "en": "engine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mecánico escucha el motor para encontrar el origen del ruido.",
+        "zh": "机械师听发动机的声音，寻找噪声来源。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 347 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-29e78d641109",
+    "w": "la batería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电池；蓄电池",
+        "en": "battery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La batería está descargada y por eso el coche no arranca.",
+        "zh": "电池没电了，所以汽车发动不了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 348 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-cf2cca455521",
+    "w": "el freno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刹车",
+        "en": "brake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El conductor pisa el freno al ver a un peatón cerca.",
+        "zh": "司机看到附近有行人时踩下刹车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 349 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-d676c5f79fa7",
+    "w": "el acelerador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油门；加速踏板",
+        "en": "accelerator"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Piso suavemente el acelerador cuando la carretera vuelve a estar libre.",
+        "zh": "道路重新畅通时，我轻轻踩下油门。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 350 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-9e4452532c91",
+    "w": "el aire acondicionado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "空调",
+        "en": "air conditioning"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ponemos el aire acondicionado porque hace mucho calor dentro del coche.",
+        "zh": "车里很热，所以我们开了空调。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 351 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-91626584587c",
+    "w": "el embrague",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "离合器",
+        "en": "clutch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tengo que pisar el embrague antes de cambiar de marcha.",
+        "zh": "换挡前，我得先踩下离合器。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 352 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c00429656a4d",
+    "w": "el control de crucero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "定速巡航",
+        "en": "cruise control"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la autopista uso el control de crucero para mantener una velocidad constante.",
+        "zh": "在高速公路上，我用定速巡航保持匀速。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 353 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-412f77aed22f",
+    "w": "el tubo de escape",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "排气管",
+        "en": "exhaust (pipe)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mecánico revisa el tubo de escape porque hace un ruido extraño.",
+        "zh": "排气管发出奇怪的声音，所以机械师在检查。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 354 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-11b6e930137f",
+    "w": "el depósito de gasolina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油箱",
+        "en": "fuel tank"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llenamos el depósito de gasolina antes de salir hacia la montaña.",
+        "zh": "我们出发去山区前把油箱加满。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 355 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-139ca47d5598",
+    "w": "la caja de cambios",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "变速箱",
+        "en": "gearbox"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caja de cambios necesita una revisión antes del próximo viaje.",
+        "zh": "下次旅行前，变速箱需要检查。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 356 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c79820051bce",
+    "w": "la trasmisión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "传动系统",
+        "en": "transmission"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El taller revisa la trasmisión porque el coche vibra al acelerar.",
+        "zh": "汽车加速时会振动，所以修理厂检查传动系统。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 357 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-7a431f5db918",
+    "w": "el alcoholímetro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "酒精呼气测试仪",
+        "en": "Breathalyser®"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El agente utiliza el alcoholímetro para comprobar si el conductor ha bebido.",
+        "zh": "警察用酒精呼气测试仪检查司机是否喝过酒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 358 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-33f6ae9aac70",
+    "w": "poner el motor en marcha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "启动发动机",
+        "en": "to start the engine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de poner el motor en marcha, compruebo los espejos y el cinturón.",
+        "zh": "启动发动机前，我检查后视镜和安全带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 359 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-025f35f28d6b",
+    "w": "frenar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刹车",
+        "en": "to brake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tenemos que frenar con suavidad cuando la carretera está mojada.",
+        "zh": "道路湿滑时，我们得平稳刹车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 360 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-02de2c3a149e",
+    "w": "adelantar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "超车",
+        "en": "to overtake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "No debemos adelantar si no vemos bien la carretera que tenemos delante.",
+        "zh": "看不清前方道路时，我们不应该超车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 361 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-7d1106fa8d7e",
+    "w": "aparcar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "停车",
+        "en": "to park"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos un lugar donde aparcar cerca de la entrada del hotel.",
+        "zh": "我们在酒店入口附近找停车的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 362 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-ee81b0040016",
+    "w": "dar marcha atrás",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "倒车",
+        "en": "to reverse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Miro los espejos antes de dar marcha atrás para salir del aparcamiento.",
+        "zh": "倒车驶出停车位前，我先看后视镜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 363 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-871d7369c4a1",
+    "w": "aminorar la velocidad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "减速",
+        "en": "to slow down"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hay que aminorar la velocidad cuando entramos en una zona escolar.",
+        "zh": "进入学校区域时，我们得减速。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 364 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-8fdea505d94a",
+    "w": "conducir a exceso de velocidad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "超速驾驶",
+        "en": "to speed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Conducir a exceso de velocidad pone en peligro a todos los usuarios de la vía.",
+        "zh": "超速驾驶会危及所有道路使用者。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 365 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-585e551bccd8",
+    "w": "parar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "停下",
+        "en": "to stop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El autobús tiene que parar para recoger a los pasajeros de esta parada.",
+        "zh": "公交车得停下来，接这个站的乘客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 17 页 · 第 366 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-93d51ca7dd44",
+    "w": "el maletero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "后备箱",
+        "en": "boot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos las maletas en el maletero antes de subir al coche.",
+        "zh": "上车前，我们把行李箱放进后备箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 367 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-fe3b076c053b",
+    "w": "el techo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车顶",
+        "en": "roof"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lluvia golpea el techo mientras esperamos dentro del coche.",
+        "zh": "我们在车里等候时，雨点敲打车顶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 368 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-dc3839ec6f69",
+    "w": "la ventanilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车窗",
+        "en": "window"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cierro la ventanilla porque empieza a llover durante el viaje.",
+        "zh": "途中开始下雨，所以我关上车窗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 369 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-f9cda2c6d09a",
+    "w": "la rueda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车轮",
+        "en": "wheel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rueda gira lentamente mientras el mecánico comprueba si hay algún problema.",
+        "zh": "机械师检查问题时，车轮缓缓转动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 370 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-02870076ca5a",
+    "w": "la puerta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车门",
+        "en": "door"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abro la puerta con cuidado para no golpear el coche de al lado.",
+        "zh": "我小心开车门，以免撞到旁边的车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 371 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-4a18325e3fa1",
+    "w": "la aleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汽车翼子板",
+        "en": "wing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La aleta del coche tiene un pequeño golpe cerca de la rueda.",
+        "zh": "汽车轮子附近的翼子板上有个小凹痕。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 372 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-71ed9f16378d",
+    "w": "el neumático",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮胎",
+        "en": "tyre"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Comprobamos la presión del neumático antes de salir a la carretera.",
+        "zh": "上路前，我们检查轮胎气压。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 373 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-7758480ed87b",
+    "w": "el capó",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "引擎盖",
+        "en": "bonnet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mecánico abre el capó para revisar el nivel de aceite.",
+        "zh": "机械师打开引擎盖，检查机油量。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 374 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c082c2019638",
+    "w": "el parabrisas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "挡风玻璃",
+        "en": "windscreen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Limpiamos el parabrisas para ver mejor la carretera durante el viaje.",
+        "zh": "我们擦干净挡风玻璃，以便途中看清道路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 375 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-b5291ae6374b",
+    "w": "el limpiaparabrisas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雨刷",
+        "en": "windscreen wiper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El limpiaparabrisas retira el agua cuando llueve durante el trayecto.",
+        "zh": "行程中下雨时，雨刷刮去雨水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 376 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-ef5a16f5f852",
+    "w": "el retrovisor lateral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "侧后视镜",
+        "en": "wing mirror"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compruebo el retrovisor lateral antes de cambiar al carril de la derecha.",
+        "zh": "换到右侧车道前，我先看侧后视镜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 377 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-0d81e20ad206",
+    "w": "el faro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "前大灯",
+        "en": "headlight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Encendemos el faro para ver el camino cuando empieza a oscurecer.",
+        "zh": "天开始暗时，我们打开车灯看路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 378 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-ce08f42f38f2",
+    "w": "el parachoques",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "保险杠",
+        "en": "bumper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El parachoques protege la parte delantera del coche de pequeños golpes.",
+        "zh": "保险杠保护汽车前部，减轻小碰撞的影响。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 379 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-adb1a58dfefe",
+    "w": "la matrícula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车牌",
+        "en": "number plate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Anoto la matrícula para encontrar el coche en el aparcamiento.",
+        "zh": "我记下车牌，以便在停车场找到汽车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 380 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-745a36d31eef",
+    "w": "el intermitente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "转向灯",
+        "en": "indicator"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El conductor enciende el intermitente antes de girar hacia el hotel.",
+        "zh": "司机转向酒店前，打开转向灯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 381 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-a6d9e741f8a2",
+    "w": "el salpicadero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "仪表台",
+        "en": "dashboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el salpicadero vemos información importante sobre el estado del coche.",
+        "zh": "我们能从仪表台看到车辆状态的重要信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 382 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-e0ef456a9177",
+    "w": "el indicador de la gasolina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "燃油表",
+        "en": "fuel gauge"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El indicador de la gasolina muestra que debemos buscar una gasolinera.",
+        "zh": "燃油表显示我们得找加油站了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 383 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-00b330c89518",
+    "w": "la palanca de marchas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "换挡杆",
+        "en": "gearstick"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Muevo la palanca de marchas con cuidado mientras aprendo a conducir.",
+        "zh": "学开车时，我小心地移动换挡杆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 384 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-7ef3d6c97319",
+    "w": "la guantera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手套箱",
+        "en": "glove compartment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardo los documentos del coche en la guantera para tenerlos a mano.",
+        "zh": "我把汽车证件放在手套箱里，便于取用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 385 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-6332dc91ff86",
+    "w": "el freno de mano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手刹",
+        "en": "handbrake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pongo el freno de mano cuando aparco en una calle con pendiente.",
+        "zh": "在有坡度的街道停车时，我拉上手刹。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 386 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-40411a7c849d",
+    "w": "el reposacabezas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头枕",
+        "en": "headrest"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ajusto el reposacabezas antes del viaje para colocar bien la cabeza.",
+        "zh": "出发前，我调整头枕，让头部位置合适。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 387 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-6c3b1fd6a8c4",
+    "w": "el encendido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "点火装置",
+        "en": "ignition"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Giro la llave del encendido y escucho el ruido del motor.",
+        "zh": "我转动点火钥匙，听到发动机的声音。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 388 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-4593a9e1d2d8",
+    "w": "el retrovisor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车内后视镜",
+        "en": "rearview mirror"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El retrovisor me permite ver los coches que circulan detrás de mí.",
+        "zh": "车内后视镜让我能看见后方行驶的汽车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 389 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-055406dc6647",
+    "w": "el sistema de navegación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车载导航系统",
+        "en": "sat nav"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sistema de navegación calcula una ruta nueva cuando salimos de la carretera prevista.",
+        "zh": "我们离开预定道路时，导航系统计算一条新路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 390 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-9acb784f2c96",
+    "w": "el cinturón de seguridad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "安全带",
+        "en": "seatbelt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos ponemos el cinturón de seguridad antes de empezar el viaje.",
+        "zh": "出发前，我们系好安全带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 391 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-77b069bbcf57",
+    "w": "el velocímetro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "速度表",
+        "en": "speedometer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Miro el velocímetro para comprobar que no supero el límite de velocidad.",
+        "zh": "我看速度表，确认自己没有超过限速。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 392 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-219daafb3ca2",
+    "w": "el volante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "方向盘",
+        "en": "steering wheel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sujeto el volante con las dos manos mientras conduzco por la curva.",
+        "zh": "开过弯道时，我双手握着方向盘。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 18 页 · 第 393 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-6271bb624155",
+    "w": "la autovía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双向分隔公路",
+        "en": "dual carriageway"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La autovía tiene dos calzadas separadas, una para cada sentido.",
+        "zh": "双向分隔公路有两幅分开的车行道，分别供两个方向通行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 394 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-b2b41b1af967",
+    "w": "la carretera de un solo carril",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单车道公路",
+        "en": "single-track road"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la carretera de un solo carril esperamos para dejar pasar al otro coche.",
+        "zh": "在单车道公路上，我们停下等另一辆车通过。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 395 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-5ed0c25f1e06",
+    "w": "el asfalto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柏油路面",
+        "en": "tarmac®"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El asfalto está mojado y debemos conducir con especial cuidado.",
+        "zh": "柏油路面湿滑，我们得格外小心驾驶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 396 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c2c908c892b0",
+    "w": "la esquina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "街角",
+        "en": "corner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La farmacia está en la esquina, justo enfrente de la estación.",
+        "zh": "药房在街角，就在车站正对面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 397 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c2236a68f54f",
+    "w": "la salida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出口",
+        "en": "exit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tomamos la salida indicada para llegar al pueblo antes de que anochezca.",
+        "zh": "我们走标出的出口，争取在天黑前到达村庄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 398 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-a372779e9644",
+    "w": "la vía de acceso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "匝道",
+        "en": "slip road"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Por la vía de acceso entramos en la autovía cuando hay espacio suficiente.",
+        "zh": "有足够空间时，我们通过匝道驶入双向分隔公路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 399 条；自编例句 A2",
+    "m": 0
+  },
+  {
+    "id": "book-c105a4852539",
+    "w": "el área de descanso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "路边休息区",
+        "en": "layby"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Paramos en el área de descanso para beber agua y estirar las piernas.",
+        "zh": "我们在路边休息区停下，喝点水、活动腿脚。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2",
+    "note": "Collins Spanish 3000 · 原书第 19 页 · 第 400 条；自编例句 A2",
+    "m": 0
+  }
+]

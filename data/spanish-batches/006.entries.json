@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-6f8d31c1830a",
+    "w": "el manillar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车把",
+        "en": "handlebars"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sujeto el manillar con las dos manos mientras bajo por el camino.",
+        "zh": "我下坡时双手握着车把。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 501 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-97b3562186a9",
+    "w": "las marchas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "变速挡位",
+        "en": "gears"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cambio las marchas de la bicicleta antes de subir la cuesta más larga.",
+        "zh": "在上最长的坡前，我先给自行车换挡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 502 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-6db7474dc8da",
+    "w": "el tubo superior del cuadro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车架上管",
+        "en": "crossbar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tubo superior del cuadro une la parte delantera con la zona del sillín.",
+        "zh": "车架上管连接前部和车座附近区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 503 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-d6641d951441",
+    "w": "el sillín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自行车座",
+        "en": "saddle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ajusto el sillín para sentarme mejor durante el recorrido hasta el trabajo.",
+        "zh": "我调整车座，让骑车上班的路上坐得更舒服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 504 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-311420020666",
+    "w": "el cuadro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车架",
+        "en": "frame"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cuadro de mi bicicleta es ligero, pero soporta bien el uso diario.",
+        "zh": "我的自行车车架轻巧，但经得住每天使用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 505 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-c34866ae3ce1",
+    "w": "el pedal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脚踏板",
+        "en": "pedal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Un pedal hace ruido, así que llevo la bicicleta al taller del barrio.",
+        "zh": "一个脚踏板有异响，所以我把自行车送到街区修理店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 506 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-84b81bc11580",
+    "w": "la cadena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "链条",
+        "en": "chain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mecánico limpia la cadena para que la bicicleta vuelva a funcionar suavemente.",
+        "zh": "机械师清洁链条，让自行车再次顺畅运转。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 507 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b19557485cd9",
+    "w": "el neumático",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮胎",
+        "en": "tyre"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El neumático de la bicicleta perdió aire durante nuestro paseo por el campo.",
+        "zh": "我们在乡间骑车时，自行车轮胎漏了气。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 508 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-6babd0e11dd6",
+    "w": "la rueda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车轮",
+        "en": "wheel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rueda delantera gira mientras compruebo si el freno roza demasiado.",
+        "zh": "前轮转动着，我检查刹车是否摩擦过多。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 509 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b836489dd40b",
+    "w": "el motorista / la motorista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摩托车骑手",
+        "en": "motorcyclist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La motorista se pone el casco antes de salir hacia el trabajo.",
+        "zh": "摩托车骑手上班出发前戴上头盔。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 510 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-2777c88048a7",
+    "w": "el ciclomotor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轻便摩托车",
+        "en": "moped"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usamos el ciclomotor para hacer trayectos cortos dentro del pueblo donde vivimos.",
+        "zh": "我们用轻便摩托车在所住村庄内短途出行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 511 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-0d032e1b6acb",
+    "w": "la motocicleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "踏板摩托车",
+        "en": "scooter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aparcamos la motocicleta junto al hotel y seguimos a pie hasta la playa.",
+        "zh": "我们把踏板摩托车停在酒店旁，再步行到海滩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 512 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-1c921e04450a",
+    "w": "el depósito de gasolina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油箱",
+        "en": "fuel tank"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El depósito de gasolina de la moto está casi vacío después del viaje.",
+        "zh": "旅行之后，摩托车的油箱几乎空了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 513 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-eb8d356291ae",
+    "w": "el faro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "前灯",
+        "en": "headlight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El faro de la moto ilumina la carretera cuando empieza a anochecer.",
+        "zh": "天开始黑时，摩托车前灯照亮道路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 22 页 · 第 514 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-47a22f7e41bb",
+    "w": "el guardabarros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "挡泥板",
+        "en": "mudguard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El guardabarros evita que salpique tanto barro cuando pasamos por un charco.",
+        "zh": "我们驶过水洼时，挡泥板减少泥水飞溅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 515 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-392ea6d55354",
+    "w": "la pata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摩托车支脚",
+        "en": "kickstand"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Bajo la pata para dejar la moto apoyada mientras busco las llaves.",
+        "zh": "我放下支脚撑住摩托车，然后找钥匙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 516 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-a406fa7e28d0",
+    "w": "el traje de cuero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "骑行皮衣套装",
+        "en": "leathers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de cuero cuelga junto al casco en la entrada de casa.",
+        "zh": "骑行皮衣套装和头盔一起挂在家门口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 517 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b625b1334d17",
+    "w": "las botas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "靴子",
+        "en": "boots"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botas del motorista están llenas de polvo después de recorrer el camino.",
+        "zh": "走过那段路后，摩托车骑手的靴子满是灰尘。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 518 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-774f49711b21",
+    "w": "el casco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头盔",
+        "en": "helmet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reviso el casco y cierro bien la correa antes de subir a la moto.",
+        "zh": "上摩托车前，我检查头盔并扣好带子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 519 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-9ae30b865f77",
+    "w": "la cámara para casco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头盔摄像机",
+        "en": "helmet cam"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cámara para casco graba el paisaje mientras recorremos la carretera de montaña.",
+        "zh": "我们沿山路骑行时，头盔摄像机记录沿途风景。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 520 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-09fdfd94fb60",
+    "w": "los guantes de cuero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮手套",
+        "en": "leather gloves"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevo guantes de cuero para proteger las manos durante el viaje en moto.",
+        "zh": "骑摩托车旅行时，我戴皮手套保护双手。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 521 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-8c05ff360a23",
+    "w": "la chaqueta de cuero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮夹克",
+        "en": "leather jacket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chaqueta de cuero tiene varios bolsillos donde guardo mis documentos y llaves.",
+        "zh": "皮夹克有几个口袋，我把证件和钥匙放在里面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 522 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-ad8bd8be223a",
+    "w": "la moto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摩托车",
+        "en": "motorbike"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La moto consume poco combustible y nos resulta práctica para movernos por la ciudad.",
+        "zh": "这辆摩托车耗油少，在城里出行很方便。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 523 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-a8230c64898a",
+    "w": "la red ferroviaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铁路网",
+        "en": "rail network"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La red ferroviaria conecta las ciudades principales y facilita los viajes sin coche.",
+        "zh": "铁路网连接主要城市，让不开车的旅行更方便。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 524 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b586e16aeaed",
+    "w": "el tren de alta velocidad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高速列车",
+        "en": "high-speed train"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tomamos el tren de alta velocidad para llegar a Madrid antes de comer.",
+        "zh": "我们乘高速列车，午饭前就到达马德里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 525 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-45d4d3229c11",
+    "w": "el tren de pasajeros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅客列车",
+        "en": "passenger train"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tren de pasajeros se detiene en varios pueblos durante el recorrido.",
+        "zh": "这趟旅客列车沿途在几个村镇停车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 526 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-681008278941",
+    "w": "el tren de mercancías",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "货运列车",
+        "en": "freight train"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tren de mercancías transporta grandes contenedores desde el puerto hasta el interior.",
+        "zh": "货运列车把大型集装箱从港口运到内陆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 527 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-dc87cbfac52e",
+    "w": "el trenhotel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卧铺列车",
+        "en": "sleeper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Viajamos en trenhotel para dormir durante el trayecto y llegar por la mañana.",
+        "zh": "我们乘卧铺列车，途中睡觉，早上到达。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 528 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-eb0aca19bbe6",
+    "w": "el vagón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车厢",
+        "en": "coach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nuestro vagón está al final del tren, cerca del coche restaurante.",
+        "zh": "我们的车厢在列车尾部，靠近餐车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 529 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-d3fa0a77ed4e",
+    "w": "la línea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "线路",
+        "en": "line"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta línea une la estación central con varios pueblos situados cerca del río.",
+        "zh": "这条线路连接中央车站和河边的几个村镇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 530 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-987f643e4042",
+    "w": "la estación de metro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地铁站",
+        "en": "metro station"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La estación de metro está debajo de la plaza donde quedamos con nuestros amigos.",
+        "zh": "地铁站就在我们和朋友约见的广场下面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 531 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-31405116ad51",
+    "w": "la consigna de equipaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李寄存处",
+        "en": "left luggage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos las maletas en la consigna de equipaje para visitar el centro cómodamente.",
+        "zh": "我们把箱子放在行李寄存处，轻松游览市中心。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 532 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b2863e7dd1c8",
+    "w": "el revisor / la revisora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "列车查票员",
+        "en": "train conductor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El revisor comprueba nuestros billetes y nos indica dónde están los asientos reservados.",
+        "zh": "查票员检查车票，并告诉我们预订的座位在哪里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 533 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-5b91438e7155",
+    "w": "el control de acceso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "进站检查",
+        "en": "security check"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pasamos por el control de acceso antes de buscar el andén de nuestro tren.",
+        "zh": "我们经过进站检查，再找列车所在的站台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 534 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-fd4e5f1aeeea",
+    "w": "la tarjeta de descuento para viajes en tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "火车优惠卡",
+        "en": "railcard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Con la tarjeta de descuento para viajes en tren pagamos menos por los billetes.",
+        "zh": "有火车优惠卡，我们买车票能少花钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 535 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-a0bef7f47503",
+    "w": "el billete de ida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单程票",
+        "en": "single ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compro un billete de ida porque todavía no sé cuándo voy a volver.",
+        "zh": "我买单程票，因为还不知道何时回程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 536 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-653d25649f72",
+    "w": "el billete de ida y vuelta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "往返票",
+        "en": "return ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El billete de ida y vuelta incluye el regreso del domingo por la tarde.",
+        "zh": "这张往返票包含周日下午的回程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 537 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-80768d367921",
+    "w": "el billete electrónico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电子票",
+        "en": "e-ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Muestro el billete electrónico en el móvil cuando llegamos al control de acceso.",
+        "zh": "到了进站检查处，我出示手机上的电子票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 538 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-09451036a268",
+    "w": "el abono transporte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "交通通票",
+        "en": "season ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El abono transporte me sirve para usar el tren durante todo el mes.",
+        "zh": "用这张交通通票，我整个月都能乘火车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 539 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-0f2cd603d21b",
+    "w": "el lector de billetes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "验票读卡器",
+        "en": "ticket reader"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lector de billetes reconoce el código y permite pasar a los pasajeros.",
+        "zh": "验票读卡器识别票上的码，让乘客通过。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 540 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-067f983566bd",
+    "w": "la primera clase",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头等车厢",
+        "en": "first-class"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Viajamos en primera clase porque necesitamos trabajar con tranquilidad durante el trayecto.",
+        "zh": "我们乘头等车厢，因为途中需要安静工作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 541 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-3e568c7c0968",
+    "w": "el vagón silencioso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "静音车厢",
+        "en": "quiet coach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el vagón silencioso los pasajeros leen o descansan sin hablar por teléfono.",
+        "zh": "静音车厢里，乘客看书或休息，不打电话。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 542 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-5ba2d200f289",
+    "w": "el asiento reservado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "预订座位",
+        "en": "reserved seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos nuestro asiento reservado siguiendo los números que aparecen en el billete.",
+        "zh": "我们按车票上的号码寻找预订的座位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 543 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-dd9cd09a57e7",
+    "w": "cambiar de tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "换乘火车",
+        "en": "to change trains"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tenemos que cambiar de tren en la próxima estación para llegar al pueblo.",
+        "zh": "要到那个村镇，我们得在下一站换乘。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 544 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-58e2874d213a",
+    "w": "validar un billete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "验票；激活车票",
+        "en": "to validate a ticket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de subir debemos validar el billete en la máquina situada junto al andén.",
+        "zh": "上车前，我们要在站台旁的机器上验证车票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 545 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-4820310de048",
+    "w": "el vagón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铁路车厢",
+        "en": "carriage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vagón tiene espacio para las bicicletas cerca de una de las puertas.",
+        "zh": "这节车厢一扇门旁有放自行车的空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 546 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-daa36c84379c",
+    "w": "la litera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卧铺铺位",
+        "en": "couchette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi litera está junto a la ventana y puedo ver las luces del pueblo.",
+        "zh": "我的铺位靠窗，可以看到村庄的灯光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 547 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-216936bd7e6e",
+    "w": "la pantalla de información",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出发信息屏",
+        "en": "departure board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pantalla de información anuncia un cambio de andén para nuestro tren.",
+        "zh": "信息屏宣布我们的火车换了站台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 548 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-6c9f2fdb0bfa",
+    "w": "el jefe de tren / la jefa de tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "列车长",
+        "en": "guard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jefa de tren ayuda a una familia que no encuentra su vagón.",
+        "zh": "列车长帮助一家找不到车厢的乘客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 23 页 · 第 549 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-3fa51e25ea09",
+    "w": "el tren ligero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轻轨",
+        "en": "light railway"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tren ligero atraviesa varios barrios antes de llegar a la universidad.",
+        "zh": "轻轨经过几个街区，最后到达大学。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 550 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-94ace3a58fbc",
+    "w": "el portaequipajes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李架",
+        "en": "luggage rack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Coloco la mochila en el portaequipajes para dejar libre el asiento de al lado.",
+        "zh": "我把背包放到行李架上，空出旁边的座位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 551 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-e125bac4a3b1",
+    "w": "el metro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地铁",
+        "en": "metro"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El metro suele ser más rápido que el coche cuando hay mucho tráfico.",
+        "zh": "堵车时，地铁通常比汽车快。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 552 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-0f3e980747aa",
+    "w": "el andén",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "站台",
+        "en": "platform"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esperamos en el andén mientras miramos la hora de llegada del tren.",
+        "zh": "我们在站台等候，同时查看火车到达时间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 553 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-4dec7058e167",
+    "w": "el bar móvil",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "流动售货车",
+        "en": "refreshments trolley"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bar móvil recorre el pasillo y ofrece bebidas a los pasajeros.",
+        "zh": "流动售货车沿过道走，为乘客提供饮料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 554 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-f8d223968b15",
+    "w": "el coche restaurante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐车",
+        "en": "restaurant car"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Vamos al coche restaurante para tomar un café antes de llegar a destino.",
+        "zh": "到站之前，我们去餐车喝杯咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 555 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-faf40d556bb9",
+    "w": "las puertas corredizas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑动门",
+        "en": "sliding doors"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las puertas corredizas se abren cuando el tren se detiene en la estación.",
+        "zh": "火车在车站停稳时，滑动门打开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 556 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-11a8aa078c80",
+    "w": "el torno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "检票闸机",
+        "en": "ticket barrier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El torno se abre después de leer la tarjeta que llevamos para viajar.",
+        "zh": "检票闸机读取我们的乘车卡后打开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 557 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-50c10945b574",
+    "w": "la máquina expendedora de billetes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自动售票机",
+        "en": "ticket machine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La máquina expendedora de billetes permite elegir el destino y pagar con tarjeta.",
+        "zh": "自动售票机可以选择目的地并刷卡支付。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 558 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b9921a417816",
+    "w": "la taquilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "售票处",
+        "en": "ticket office"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preguntamos en la taquilla si quedan billetes para el último tren de hoy.",
+        "zh": "我们在售票处询问今天末班车是否还有票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 559 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-14be1ab52656",
+    "w": "la vía de tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铁轨",
+        "en": "track"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desde el puente vemos la vía de tren que pasa junto al río.",
+        "zh": "从桥上能看见沿河经过的铁轨。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 560 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-e35854a48714",
+    "w": "el tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "火车",
+        "en": "train"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tren sale puntual y nos deja tiempo para visitar el mercado al llegar.",
+        "zh": "火车准时出发，让我们到达后还有时间逛市场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 561 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-650086940941",
+    "w": "la estación de tren",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "火车站",
+        "en": "train station"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La estación de tren tiene una entrada nueva que da directamente a la plaza.",
+        "zh": "火车站的新入口直接通向广场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 562 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-cce6fe673b22",
+    "w": "el tranvía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "有轨电车",
+        "en": "tram"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tranvía pasa cerca de casa y nos lleva al centro en pocos minutos.",
+        "zh": "有轨电车经过家附近，几分钟就把我们送到市中心。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 563 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-0e8ffdb113ab",
+    "w": "la compañía aérea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "航空公司",
+        "en": "airline"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La compañía aérea nos envía un mensaje con la nueva hora de salida.",
+        "zh": "航空公司发消息，告诉我们新的出发时间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 564 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-451d9d3fe375",
+    "w": "la terminal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "航站楼",
+        "en": "terminal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos la terminal correcta antes de despedirnos del conductor del taxi.",
+        "zh": "和出租车司机告别前，我们先确认正确的航站楼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 565 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-fb96d3f3a6c5",
+    "w": "Llegadas / Salidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "到达／出发",
+        "en": "Arrivals/Departures"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Seguimos las señales de Salidas para encontrar el mostrador de nuestra compañía.",
+        "zh": "我们沿出发指示牌寻找航空公司柜台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 566 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-9746851ebd17",
+    "w": "el mostrador de facturación automática",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自助值机柜台",
+        "en": "self check-in"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usamos el mostrador de facturación automática para obtener las tarjetas de embarque.",
+        "zh": "我们在自助值机柜台领取登机牌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 567 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-242d2370312c",
+    "w": "la seguridad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "安检",
+        "en": "security"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Después de pasar por seguridad buscamos un lugar tranquilo para esperar el vuelo.",
+        "zh": "通过安检后，我们找个安静地方等航班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 568 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-cd92be3c13c1",
+    "w": "el escáner corporal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "人体安检扫描仪",
+        "en": "body scanner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El escáner corporal está situado en la zona de seguridad del aeropuerto.",
+        "zh": "人体安检扫描仪位于机场安检区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 569 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-737fdb5785df",
+    "w": "la aduana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海关",
+        "en": "customs"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Al llegar a la aduana mostramos los documentos que nos solicita el agente.",
+        "zh": "到达海关时，我们向工作人员出示所需文件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 570 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-a9cb2a7e58c6",
+    "w": "el control de pasaportes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "护照检查",
+        "en": "passport control"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hay una fila de pasajeros esperando su turno en el control de pasaportes.",
+        "zh": "护照检查处排着一队等待办理的乘客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 571 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-c7c6de8c8eea",
+    "w": "la puerta de embarque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登机口",
+        "en": "gate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La puerta de embarque está al final del pasillo, junto a una cafetería.",
+        "zh": "登机口在走廊尽头的一家咖啡店旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 572 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-e7d999533b17",
+    "w": "la clase business / turista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "商务舱／经济舱",
+        "en": "business/economy class"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos la clase turista para gastar menos dinero en este viaje corto.",
+        "zh": "这次短途旅行，我们选择经济舱来节省费用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 573 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-ade4d9e096d5",
+    "w": "la tripulación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机组人员",
+        "en": "cabin crew"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tripulación recibe a los pasajeros y les ayuda a encontrar sus asientos.",
+        "zh": "机组人员迎接乘客，帮他们找座位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 574 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-1292ce7a2be5",
+    "w": "el auxiliar de vuelo / la auxiliar de vuelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乘务员",
+        "en": "flight attendant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La auxiliar de vuelo guarda una manta para el pasajero que tiene frío.",
+        "zh": "乘务员给一位觉得冷的乘客准备毯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 575 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-1316e651782c",
+    "w": "el pasillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "过道",
+        "en": "aisle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos libre el pasillo para que los demás pasajeros puedan llegar a sus asientos.",
+        "zh": "我们让出过道，方便其他乘客去座位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 576 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-b0d824534852",
+    "w": "la bandeja plegable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "折叠餐桌",
+        "en": "tray table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abro la bandeja plegable para apoyar el vaso que me ofrece la auxiliar.",
+        "zh": "我打开折叠餐桌，放上乘务员递来的杯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 577 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-116d6e5af602",
+    "w": "el compartimento superior",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上方行李舱",
+        "en": "overhead locker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos las mochilas en el compartimento superior y después buscamos nuestros cinturones.",
+        "zh": "我们把背包放进上方行李舱，然后找安全带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 578 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-bd7ec40e0758",
+    "w": "el cinturón de seguridad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "安全带",
+        "en": "seatbelt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La señal recuerda a los pasajeros que deben llevar el cinturón de seguridad abrochado.",
+        "zh": "指示灯提醒乘客系好安全带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 579 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-20a7eed038a3",
+    "w": "el ala",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机翼",
+        "en": "wing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desde mi ventanilla puedo ver el ala y las nubes que cubren la costa.",
+        "zh": "从舷窗可以看到机翼和笼罩海岸的云。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 580 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-30d867aa9042",
+    "w": "el motor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "飞机发动机",
+        "en": "engine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El motor del avión se pone en marcha mientras los pasajeros terminan de sentarse.",
+        "zh": "乘客陆续坐下时，飞机发动机启动了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 581 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-1c2c34ab3f16",
+    "w": "el fuselaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机身",
+        "en": "fuselage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fuselaje del avión tiene varias filas de ventanillas a lo largo de sus lados.",
+        "zh": "飞机机身两侧排列着几排舷窗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 582 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-656563620d3c",
+    "w": "la bodega",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "货舱",
+        "en": "hold"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los trabajadores colocan las maletas en la bodega antes de que termine el embarque.",
+        "zh": "登机结束前，工作人员把箱子放进货舱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 24 页 · 第 583 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-607bf71a4144",
+    "w": "el equipaje facturado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "托运行李",
+        "en": "hold luggage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El equipaje facturado viaja en la bodega y se recoge al llegar a destino.",
+        "zh": "托运行李放在货舱运输，到达目的地后领取。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 584 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-604319c0b681",
+    "w": "el exceso de equipaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "超重行李",
+        "en": "excess baggage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tenemos que reorganizar las maletas para reducir el exceso de equipaje del grupo.",
+        "zh": "我们得重新整理箱子，减少团体的超重行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 585 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-812b9f964a07",
+    "w": "el equipaje de mano / cabina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手提／随身行李",
+        "en": "hand/cabin baggage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi equipaje de mano contiene los documentos y una muda para el viaje.",
+        "zh": "我的随身行李里放着证件和一套换洗衣服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 586 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-083cbe965f0b",
+    "w": "el vuelo de conexión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "转机航班",
+        "en": "connecting flight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nuestro vuelo de conexión sale una hora después de la llegada del primero.",
+        "zh": "我们的转机航班在首个航班到达一小时后出发。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 587 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-4c4eae7e0fc9",
+    "w": "el desfase horario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "时差反应",
+        "en": "jetlag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El desfase horario me da sueño durante el día después de un vuelo largo.",
+        "zh": "长途飞行后，时差让我白天犯困。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 588 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-ea5a1e3aa4b9",
+    "w": "facturar (en línea)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "办理值机（在线）",
+        "en": "to check in (online)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Prefiero facturar en línea para llegar al aeropuerto con la tarjeta de embarque preparada.",
+        "zh": "我更喜欢在线值机，到机场时登机牌就准备好了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 589 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-8de7b01605da",
+    "w": "el avión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "飞机",
+        "en": "aeroplane"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El avión despega mientras vemos cómo se alejan las casas junto al aeropuerto.",
+        "zh": "飞机起飞时，我们看着机场附近的房屋渐渐远去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 590 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-67dbf11da3b0",
+    "w": "el aeropuerto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "机场",
+        "en": "airport"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llegamos al aeropuerto con tiempo para comer algo antes de pasar por seguridad.",
+        "zh": "我们提前到机场，有时间在安检前吃点东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 591 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-a22dc1544d68",
+    "w": "la recogida de equipajes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李提取处",
+        "en": "baggage reclaim"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la recogida de equipajes esperamos junto a la cinta indicada para nuestro vuelo.",
+        "zh": "在行李提取处，我们在本航班对应的转盘旁等候。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 592 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-6a8db6176d6a",
+    "w": "la tarjeta de embarque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登机牌",
+        "en": "boarding card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarjeta de embarque muestra el número de asiento y la puerta de salida.",
+        "zh": "登机牌上显示座位号和登机口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 593 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-50e640751e90",
+    "w": "la cabina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "客舱",
+        "en": "cabin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cabina queda en silencio cuando apagan las luces durante el vuelo nocturno.",
+        "zh": "夜航时灯光熄灭，客舱安静下来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 594 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-15b6ca4f64ff",
+    "w": "el mostrador de facturación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "值机柜台",
+        "en": "check-in desk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el mostrador de facturación pesamos las maletas y entregamos el equipaje.",
+        "zh": "我们在值机柜台给箱子称重，并办理托运。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 595 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-351663a4f30a",
+    "w": "la cabina del piloto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "驾驶舱",
+        "en": "cockpit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cabina del piloto está en la parte delantera del avión de pasajeros.",
+        "zh": "驾驶舱位于客机前部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 596 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-9e0929544b39",
+    "w": "la pantalla de información",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "航班信息屏",
+        "en": "departure board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Consultamos la pantalla de información para comprobar si nuestro vuelo sigue saliendo puntual.",
+        "zh": "我们查看航班信息屏，确认航班是否仍准时起飞。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 597 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-9231c9907772",
+    "w": "la tienda libre de impuestos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "免税店",
+        "en": "duty-free shop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pasamos por la tienda libre de impuestos mientras esperamos la hora del embarque.",
+        "zh": "等候登机时，我们逛了免税店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 598 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-24965e44cb08",
+    "w": "la bolsa de viaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅行袋",
+        "en": "holdall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bolsa de viaje cabe debajo del asiento y contiene todo lo necesario.",
+        "zh": "旅行袋放得进座位下，里面有需要的物品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 599 条；自编例句 A2+",
+    "m": 0
+  },
+  {
+    "id": "book-12517204d3c4",
+    "w": "el carrito portaequipajes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李手推车",
+        "en": "luggage trolley"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usamos el carrito portaequipajes para llevar las maletas hasta la salida del aeropuerto.",
+        "zh": "我们用行李手推车，把箱子推到机场出口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2+",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 600 条；自编例句 A2+",
+    "m": 0
+  }
+]

@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-649eb7d9dc33",
+    "w": "el gorrión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "麻雀",
+        "en": "sparrow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gorrión se posa en la barandilla del balcón aunque la familia siga conversando junto a la ventana que han dejado abierta para ventilar el salón.",
+        "zh": "一家人在敞开的窗边聊天，麻雀仍落在阳台栏杆上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3001 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-521751c34a04",
+    "w": "la cigüeña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鹳",
+        "en": "stork"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cigüeña aparece en la torre que los visitantes observan desde la plaza mientras la guía les pide que no abandonen el recorrido previsto para el grupo.",
+        "zh": "鹳出现在高塔上，游客从广场观察，向导提醒大家不要离开规定路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3002 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-c9c5dc2d7edd",
+    "w": "la golondrina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "燕子",
+        "en": "swallow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La golondrina cruza el patio antes de que la fotógrafa consiga enfocar la cámara que había preparado para observar a las aves durante la visita del pueblo.",
+        "zh": "燕子飞过院子时，摄影师还没对好焦，她原本想在村中参观时拍鸟。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3003 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-109c2ee48c15",
+    "w": "el cisne",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "天鹅",
+        "en": "swan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cisne se acerca a la orilla mientras los visitantes permanecen en el sendero para que las aves puedan continuar sus movimientos sin que nadie las moleste.",
+        "zh": "天鹅靠近岸边，游客留在步道，让鸟类不受打扰地活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3004 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-7a5aa49c5de0",
+    "w": "el buitre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "秃鹫",
+        "en": "vulture"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El buitre planea sobre las montañas aunque el grupo apenas consiga distinguirlo desde el mirador que se encuentra al final del sendero de la reserva natural.",
+        "zh": "秃鹫在群山上空盘旋，小组从保护区步道尽头的观景台几乎看不清它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3005 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-8b52e03130b9",
+    "w": "el enjambre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜂群",
+        "en": "swarm"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El enjambre aparece en una fotografía ampliada que la instructora utiliza para explicar por qué los visitantes deben permanecer en el recorrido señalado durante la actividad educativa.",
+        "zh": "讲师用放大照片展示蜂群，解释科普活动为何要留在规定路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3006 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-d95fb460f672",
+    "w": "la colonia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "群落",
+        "en": "colony"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La colonia de insectos se muestra en el modelo que los alumnos observan antes de comparar las tareas descritas en el material de la clase de ciencias.",
+        "zh": "学生先观察昆虫群落模型，再比较科学课教材描述的分工。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3007 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6117de7ebb15",
+    "w": "la telaraña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛛网",
+        "en": "cobweb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La telaraña brilla con las gotas de agua que han quedado después de la lluvia, aunque apenas se distinguía cuando el grupo pasó por allí ayer por la tarde.",
+        "zh": "雨后水珠让蛛网闪闪发亮，昨天傍晚经过时却几乎看不见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3008 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-2e744f2f1168",
+    "w": "la picadura de insecto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "虫咬",
+        "en": "insect bite"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La picadura de insecto aparece representada en un dibujo sencillo que los alumnos relacionan con la expresión correspondiente durante una actividad de vocabulario sobre situaciones de la vida cotidiana.",
+        "zh": "日常情境词汇练习中，学生将表现虫咬的简图与对应表达配对。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3009 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-7b51240b7261",
+    "w": "zumbar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嗡嗡作响",
+        "en": "to buzz"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Zumbar es el verbo que los estudiantes eligen después de escuchar la grabación que la profesora ha preparado para distinguir los sonidos de distintos animales del jardín.",
+        "zh": "老师播放花园动物声音录音，学生听后选出了“嗡嗡作响”。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3010 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-dec6c5e02470",
+    "w": "picar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜇",
+        "en": "to sting"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Picar aparece como verbo en el relato que los estudiantes leen para comprender cómo se describe un encuentro con una avispa durante una excursión al campo.",
+        "zh": "学生阅读郊游时遇到黄蜂的故事，学习其中“蜇”这一动词。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3011 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f9ef68a9f857",
+    "w": "la hormiga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蚂蚁",
+        "en": "ant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hormiga avanza junto a la hoja mientras los niños observan desde una distancia que les permite seguir su recorrido sin interrumpir el movimiento de otros insectos.",
+        "zh": "蚂蚁沿叶片旁前行，孩子们保持距离观察，不干扰其他昆虫活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3012 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-04dc765bf6ad",
+    "w": "la abeja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜜蜂",
+        "en": "bee"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La abeja se acerca a la flor aunque la jardinera todavía esté trabajando en el parterre que los visitantes van a observar durante la actividad educativa de esta mañana.",
+        "zh": "园丁仍在整理花坛，蜜蜂已靠近花朵，游客早上将来这里观察。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3013 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-565ba9e2fe5b",
+    "w": "el escarabajo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "甲虫",
+        "en": "beetle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El escarabajo aparece en una imagen ampliada que permite reconocer los detalles de su cuerpo sin que el grupo tenga que acercarse al lugar donde se encuentra.",
+        "zh": "放大的甲虫图片帮助辨认身体细节，小组无需靠近它所在的位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3014 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-e3d32b6bdfed",
+    "w": "la mariposa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蝴蝶",
+        "en": "butterfly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mariposa se detiene sobre una flor antes de que los excursionistas continúen por el sendero que conecta el jardín del centro con la entrada del bosque.",
+        "zh": "蝴蝶停在花上，徒步者随后沿步道从中心花园走向森林入口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3015 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-1d7a9f3690e0",
+    "w": "la oruga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "毛毛虫",
+        "en": "caterpillar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La oruga se mueve lentamente por la hoja que los estudiantes observan a través de una lupa mientras anotan las características que pueden distinguir durante la actividad.",
+        "zh": "学生用放大镜观察叶上的毛毛虫缓慢爬行，记录可辨认的特征。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3016 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-e39cba96384a",
+    "w": "el ciempiés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜈蚣",
+        "en": "centipede"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ciempiés aparece en el dibujo que el guía compara con otros pequeños animales para que los visitantes reconozcan las diferencias de forma y número de patas.",
+        "zh": "向导比较蜈蚣与其他小动物的图画，帮助访客辨认形态和足数差别。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3017 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-81f8f19b6561",
+    "w": "la cucaracha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蟑螂",
+        "en": "cockroach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cucaracha se muestra en un modelo que permite estudiar sus detalles aunque los visitantes prefieran no observar un ejemplar real durante la actividad del museo de ciencias.",
+        "zh": "科学博物馆用蟑螂模型讲解细节，照顾不愿看活体的访客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3018 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-45d76b764ab6",
+    "w": "el grillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蟋蟀",
+        "en": "cricket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El grillo aparece entre las plantas del dibujo que los alumnos relacionan con una grabación antes de preparar su presentación sobre los sonidos que se escuchan en el campo.",
+        "zh": "学生把植物间的蟋蟀图画与录音配对，再准备田野声音报告。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3019 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-3a505368982d",
+    "w": "la libélula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜻蜓",
+        "en": "dragonfly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La libélula pasa sobre el estanque mientras la fotógrafa espera junto al sendero para captar sus movimientos sin acercarse a la zona donde descansan las aves del parque.",
+        "zh": "蜻蜓飞过池塘，摄影师在步道旁等待拍摄，不靠近鸟类休息处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3020 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-ab3e8b5ec472",
+    "w": "la lombriz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蚯蚓",
+        "en": "earthworm"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lombriz aparece en la tierra húmeda que los estudiantes observan antes de devolverla al lugar de donde habían tomado una pequeña muestra para la clase de ciencias.",
+        "zh": "学生观察湿土中的蚯蚓，再把科学课采集的小份土样放回原处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3021 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-9cc0de91813c",
+    "w": "la mosca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "苍蝇",
+        "en": "fly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mosca se posa en el marco de la ventana aunque la dueña de la casa haya abierto la puerta para que salga hacia el jardín de atrás.",
+        "zh": "主人打开后门让苍蝇出去，它却落在窗框上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3022 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-75c127c374f0",
+    "w": "el saltamontes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蚱蜢",
+        "en": "grasshopper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El saltamontes se mueve entre la hierba antes de que los niños consigan señalar la hoja donde lo habían descubierto durante el paseo organizado por el centro educativo.",
+        "zh": "孩子们还没指出最初发现它的叶子，蚱蜢已钻入草间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 112 页 · 第 3023 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-712c55ee47a8",
+    "w": "la mariquita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "瓢虫",
+        "en": "ladybird"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mariquita destaca sobre una hoja verde mientras los alumnos preparan el dibujo que acompañará las notas de la visita al huerto que cuidan los vecinos del barrio.",
+        "zh": "学生参观邻里菜园并配图记录，绿叶上的瓢虫十分醒目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3024 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-c4048df33b53",
+    "w": "la cachipolla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜉蝣",
+        "en": "mayfly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cachipolla aparece en una fotografía que la profesora compara con otras imágenes para que los estudiantes puedan reconocer el insecto cuando estudien el vocabulario de la naturaleza.",
+        "zh": "老师将蜉蝣照片与其他图像比较，帮助学生学习自然词汇时辨认它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3025 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-38c69266e457",
+    "w": "el mosquito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蚊子",
+        "en": "mosquito"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mosquito se representa ampliado en el panel que los visitantes consultan para conocer los nombres de algunos insectos antes de empezar el recorrido por la exposición del museo.",
+        "zh": "展览开始前，访客看展板上放大的蚊子，认识昆虫名称。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3026 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-16c04ab77771",
+    "w": "la polilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛾",
+        "en": "moth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La polilla se acerca a la luz del porche mientras la familia termina de recoger las sillas que había colocado en el jardín para la cena de esta noche.",
+        "zh": "蛾靠近门廊灯光，家人收起晚上在花园吃饭用的椅子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3027 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-ede99d3d83b6",
+    "w": "la babosa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛞蝓",
+        "en": "slug"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La babosa avanza junto a las hojas mojadas aunque el grupo tenga que mirar con atención para distinguirla del suelo oscuro después de la lluvia de esta mañana.",
+        "zh": "蛞蝓在湿叶旁爬行，晨雨后的土色很深，小组须仔细观察才看得出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3028 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-804b7702467e",
+    "w": "el caracol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜗牛",
+        "en": "snail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El caracol cruza el pequeño camino mientras la jardinera espera a que termine de pasar antes de mover las macetas que ha preparado junto a la puerta del invernadero.",
+        "zh": "蜗牛穿过小路，园丁等它过去，再搬温室门旁准备好的花盆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3029 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0b352504fe0d",
+    "w": "la araña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜘蛛",
+        "en": "spider"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La araña permanece en el centro de la red que los estudiantes observan desde el sendero para que la actividad no altere el pequeño entorno que están estudiando.",
+        "zh": "蜘蛛待在蛛网中央，学生在步道观察，避免活动打扰所研究的小环境。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3030 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5c19f6f9b66a",
+    "w": "la avispa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黄蜂",
+        "en": "wasp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La avispa aparece en una fotografía que el guía utiliza para comparar su aspecto con el de la abeja durante la explicación que ofrece antes de recorrer el jardín.",
+        "zh": "向导游览花园前，用黄蜂照片与蜜蜂比较外形。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3031 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-98f4a329c8ae",
+    "w": "la cochinilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鼠妇",
+        "en": "woodlouse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cochinilla se encuentra bajo una hoja en el dibujo que los niños comparan con otros animales pequeños para aprender los nombres que aparecen en el cuaderno de la excursión.",
+        "zh": "孩子们比较叶下鼠妇与其他小动物的图画，学习远足笔记里的名称。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3032 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-b8b2d8a9d13a",
+    "w": "el coral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "珊瑚",
+        "en": "coral"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El coral aparece en una imagen submarina que la guía muestra al grupo antes de explicar por qué la observación de ese entorno requiere evitar cualquier contacto con sus estructuras.",
+        "zh": "向导展示水下珊瑚图像，解释观察时为何要避免触碰其结构。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3033 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0d932768178a",
+    "w": "el cangrejo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "螃蟹",
+        "en": "crab"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cangrejo se mueve entre las rocas mientras los visitantes permanecen en la zona señalada para que los animales puedan continuar sus actividades sin que nadie los moleste.",
+        "zh": "螃蟹在岩石间移动，访客留在指定区域，不打扰动物活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3034 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f20064aa0eed",
+    "w": "el delfín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海豚",
+        "en": "dolphin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El delfín aparece en la superficie justo cuando los pasajeros dejan de conversar para observar el mar desde la parte del barco que la guía les ha indicado.",
+        "zh": "乘客到向导指定的甲板位置安静看海，海豚恰好浮出水面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3035 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-319fab39cc24",
+    "w": "la anguila",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鳗鱼",
+        "en": "eel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La anguila se distingue entre las plantas del acuario aunque su color haga que los visitantes tengan que observar con atención antes de reconocer la forma alargada de su cuerpo.",
+        "zh": "鳗鱼藏在水族箱水草间，颜色使游客需要仔细观察才辨出细长身形。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3036 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-48728ef68a06",
+    "w": "la medusa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水母",
+        "en": "jellyfish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La medusa se mueve lentamente en el agua mientras los alumnos comparan lo que observan con la imagen que acompaña al texto preparado para la visita del centro educativo.",
+        "zh": "水母在水里缓缓移动，学生把眼前所见与参观教材配图比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3037 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-2848f88e2ff6",
+    "w": "la orca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "虎鲸",
+        "en": "killer whale"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La orca aparece en la fotografía que la guía compara con otras imágenes para que el grupo pueda distinguir los animales durante una actividad dedicada a la vida marina.",
+        "zh": "海洋生物活动中，向导把虎鲸照片与其他图像比较，帮助大家辨认。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3038 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f9002c841686",
+    "w": "la langosta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "龙虾",
+        "en": "lobster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La langosta está representada en un modelo que permite observar los detalles de su cuerpo sin que sea necesario sacar ningún animal del agua durante la actividad educativa del museo.",
+        "zh": "博物馆用龙虾模型观察身体细节，不必将任何动物捞出水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3039 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-920cd83713de",
+    "w": "la foca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海豹",
+        "en": "seal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La foca descansa sobre una roca mientras los visitantes la observan desde el camino que mantiene la distancia necesaria para que no se interrumpa la tranquilidad del lugar.",
+        "zh": "海豹伏在岩上，游客从保持距离的步道观察，不打扰这里的宁静。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3040 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0aaadc2caf09",
+    "w": "el erizo de mar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海胆",
+        "en": "sea urchin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El erizo de mar aparece ampliado en el panel que los estudiantes consultan antes de intentar reconocer otros animales representados en las imágenes submarinas de la exposición del centro.",
+        "zh": "学生先看展板中放大的海胆，再辨认展览水下照片里的其他动物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3041 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-3563d2bb2e28",
+    "w": "el tiburón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鲨鱼",
+        "en": "shark"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tiburón pasa detrás del cristal mientras los visitantes escuchan la explicación de la guía sobre los animales que aparecen en esa parte de la exposición dedicada al océano.",
+        "zh": "鲨鱼游过玻璃后方，访客听向导介绍海洋展这一部分的动物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3042 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-87ac051dc3ff",
+    "w": "la estrella de mar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海星",
+        "en": "starfish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La estrella de mar se observa en una fotografía tomada bajo el agua que los niños utilizan para preparar una presentación sin tener que recoger animales de la playa.",
+        "zh": "孩子们用水下海星照片做报告，无需从海滩带走动物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3043 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-922e2e769451",
+    "w": "la ballena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鲸",
+        "en": "whale"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ballena aparece a lo lejos aunque los pasajeros ya habían empezado a guardar las cámaras después de pasar bastante tiempo observando el mar desde la cubierta del barco.",
+        "zh": "乘客在甲板看海很久，正收相机时，鲸出现在远处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3044 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-715222322187",
+    "w": "el tallo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "茎",
+        "en": "stalk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tallo sostiene las flores que la jardinera observa antes de decidir dónde colocar la planta para que los visitantes puedan reconocer sus principales partes durante la actividad del huerto.",
+        "zh": "园丁观察茎托着的花，决定摆放位置，让菜园活动访客辨认植物部位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3045 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-65279b5250cc",
+    "w": "la hoja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "叶片",
+        "en": "leaf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hoja muestra varias líneas que los estudiantes comparan con las de otras plantas antes de terminar el dibujo que acompañará sus notas de la visita al jardín botánico.",
+        "zh": "学生比较叶脉与其他植物，再画图补充植物园参观笔记。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3046 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-115c8a280dad",
+    "w": "el pétalo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "花瓣",
+        "en": "petal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pétalo se ha separado de la flor y queda sobre la mesa donde la artista prepara las ilustraciones que acompañarán el catálogo de la próxima exposición del jardín.",
+        "zh": "花瓣落在桌上，画家在那里为花园即将举行的展览画目录插图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3047 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0c9f167946bf",
+    "w": "el polen",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "花粉",
+        "en": "pollen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El polen aparece ampliado en la pantalla que la profesora utiliza para mostrar detalles que los estudiantes no podrían distinguir si observaran la flor únicamente a simple vista durante la clase.",
+        "zh": "老师在屏幕放大花粉，展示学生肉眼看花时无法分辨的细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3048 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-df433620e692",
+    "w": "el brote",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嫩芽",
+        "en": "bud"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El brote destaca en la rama que parecía seca cuando la familia revisó las plantas antes de que comenzaran los primeros días templados de la primavera de este año.",
+        "zh": "春日转暖前家人查看时仍似干枯的枝条，如今长出了醒目的嫩芽。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3049 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-b31d5e12a0cb",
+    "w": "la semilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "种子",
+        "en": "seed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La semilla está sobre la palma de la mano mientras la jardinera explica al grupo por qué conviene observar los detalles antes de preparar los dibujos del cuaderno de la actividad.",
+        "zh": "种子放在掌心，园丁请大家先观察细节，再画活动笔记。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 113 页 · 第 3050 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6b0d7d14c972",
+    "w": "el bulbo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球茎",
+        "en": "bulb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bulbo aparece en una ilustración que los estudiantes comparan con otras partes de las plantas para comprender las palabras nuevas que encontrarán durante la visita al jardín botánico del barrio.",
+        "zh": "学生将球茎插图与其他植物部位比较，为社区植物园参观学习新词。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3051 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-a22be72b1e05",
+    "w": "el bosque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "树林",
+        "en": "wood"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bosque rodea el camino que seguimos aunque el mapa parezca indicar una zona abierta al otro lado de la colina que todavía no hemos terminado de subir.",
+        "zh": "地图似乎显示山丘另一侧是空地，但我们尚未登顶，眼前步道仍被树林包围。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3052 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5455de21ac21",
+    "w": "la rama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "树枝",
+        "en": "branch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rama se inclina sobre el sendero mientras el grupo avanza con cuidado para no rozar las hojas que los estudiantes quieren observar durante la visita de esta mañana al jardín.",
+        "zh": "树枝伸向步道，小组小心前行，不碰到早上要观察的叶片。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3053 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-dd263eaa6487",
+    "w": "el tronco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "树干",
+        "en": "trunk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tronco tiene una forma irregular que la artista intenta reproducir aunque la luz cambie a medida que avanza la tarde y las nubes cubren parte del jardín del museo.",
+        "zh": "画家试画树干的不规则形状，午后云层却让博物馆花园光线不断变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3054 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-9191f63d3f52",
+    "w": "la corteza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "树皮",
+        "en": "bark"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La corteza muestra una textura que los visitantes comparan con la de otros árboles mientras la guía les pide que observen los detalles sin desprender ningún fragmento durante la actividad.",
+        "zh": "向导请访客比较树皮纹理，只观察，不剥下任何碎片。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3055 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f7f006364101",
+    "w": "la raíz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "根",
+        "en": "root"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La raíz se ve en el modelo que la profesora ha preparado para explicar las partes de una planta sin que los estudiantes tengan que arrancar ninguna del huerto del colegio.",
+        "zh": "老师用模型展示根等植物部位，学生不必拔起学校菜园的植物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3056 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-8f1c4576b1c8",
+    "w": "la buganvilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三角梅",
+        "en": "bougainvillea"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La buganvilla cubre parte del muro aunque la familia había pensado dejarlo libre cuando empezó a organizar las plantas que rodean el patio de la casa de sus abuelos.",
+        "zh": "家人原想留空祖父母家院墙一部分，如今三角梅却已覆盖上去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3057 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-a26b07122f1b",
+    "w": "el clavel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "康乃馨",
+        "en": "carnation"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El clavel ocupa el centro del ramo que la florista prepara mientras una clienta le explica qué colores prefiere para la celebración que organizará durante el próximo fin de semana.",
+        "zh": "顾客说明下周末庆典喜欢的颜色，花艺师把康乃馨放在花束中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3058 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-3ef66a876eb3",
+    "w": "el crisantemo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "菊花",
+        "en": "chrysanthemum"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El crisantemo aparece en una ilustración que permite comparar sus pétalos con los de otras flores antes de que los estudiantes comiencen el recorrido previsto por el jardín botánico del centro.",
+        "zh": "学生游览植物园前，用菊花插图与其他花朵的花瓣比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3059 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6d38bcdfb009",
+    "w": "el narciso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水仙",
+        "en": "daffodil"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El narciso se distingue junto al sendero aunque los visitantes tengan que detenerse para observarlo entre las plantas que crecen cerca de la entrada principal del jardín de la exposición.",
+        "zh": "水仙长在步道旁，访客停下来，从花展主入口的植物间辨认它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3060 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0f472a9a1a25",
+    "w": "la margarita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雏菊",
+        "en": "daisy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La margarita aparece en el dibujo que la niña prepara para su abuela aunque todavía no haya decidido qué colores utilizará para representar el resto del jardín de la casa.",
+        "zh": "女孩给奶奶画雏菊，但还没决定用什么颜色表现家中花园其余部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3061 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-d389863c982e",
+    "w": "el geranio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "天竺葵",
+        "en": "geranium"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El geranio está en la maceta que la vecina coloca junto al balcón para que pueda verse desde la calle cuando lleguen los invitados que espera durante la tarde del domingo.",
+        "zh": "邻居把天竺葵花盆放在阳台边，让周日下午来的客人从街上能看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3062 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5f0033f8a9f9",
+    "w": "el jacinto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "风信子",
+        "en": "hyacinth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jacinto forma parte de la exposición que los visitantes recorren mientras la guía explica cómo se han organizado las distintas flores para facilitar la comparación de sus formas y colores.",
+        "zh": "访客参观有风信子的花展，向导介绍怎样陈列花卉以比较形态和颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3063 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f5ed5a2db78a",
+    "w": "el iris",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鸢尾",
+        "en": "iris"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El iris destaca en el cuadro que la artista ha colocado junto a las ilustraciones botánicas que servirán de ejemplo durante el taller de pintura preparado para los vecinos del barrio.",
+        "zh": "画作中的鸢尾格外醒目，旁边的植物插图将用于社区绘画工作坊示范。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3064 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-9f8ce838cec1",
+    "w": "la azucena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "百合",
+        "en": "lily"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La azucena ocupa una zona del jardín que los estudiantes dibujan desde el sendero para que las plantas no sufran ningún daño mientras se realiza la actividad educativa de esta mañana.",
+        "zh": "学生从步道画百合，不进入花坛，避免早上教学活动损伤植物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3065 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-87ca7205f0d9",
+    "w": "la orquídea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "兰花",
+        "en": "orchid"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La orquídea está detrás del cristal donde los visitantes pueden observarla aunque la sala reciba menos luz que el espacio abierto que acaban de recorrer durante la visita del jardín botánico.",
+        "zh": "兰花陈列在玻璃后供人观察，这间展室比刚经过的室外区域更暗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3066 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-4aee91618b24",
+    "w": "el pensamiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三色堇",
+        "en": "pansy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pensamiento tiene varios colores que la fotógrafa compara con las otras flores antes de elegir la imagen que acompañará el artículo sobre las actividades de primavera del centro cultural del barrio.",
+        "zh": "摄影师比较三色堇与其他花色，挑选社区文化中心春季活动文章的配图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3067 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-a1614ca64069",
+    "w": "la flor de pascua",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一品红",
+        "en": "poinsettia"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La flor de pascua aparece junto a la entrada de la tienda aunque el resto de las plantas se encuentre en la sala donde la dependienta atiende a sus clientes.",
+        "zh": "一品红放在店门口，其余植物在店员接待顾客的展室。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3068 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-71520e74f838",
+    "w": "la amapola",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "罂粟花",
+        "en": "poppy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La amapola crece al borde del campo que los excursionistas observan sin abandonar el sendero para que las plantas puedan permanecer intactas después de la visita organizada por el centro educativo.",
+        "zh": "罂粟花长在田边，科普参观者留在步道上观察，确保植物完好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3069 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e0e8aced774",
+    "w": "la rosa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玫瑰",
+        "en": "rose"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rosa que aparece en el boceto tiene una forma distinta de la que la artista había imaginado antes de observar con atención las flores del jardín durante la mañana.",
+        "zh": "画家早上仔细观察花园后，草图中玫瑰的形状与原先想象不同。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3070 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-baf58b085a05",
+    "w": "el girasol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "向日葵",
+        "en": "sunflower"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El girasol destaca junto a la valla del huerto mientras los niños comparan su altura con la de las otras plantas antes de comenzar a dibujar en sus cuadernos de la actividad.",
+        "zh": "向日葵在菜园围栏旁很醒目，孩子们画图前比较它与其他植物的高度。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3071 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-b34e3a315485",
+    "w": "el almendro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扁桃树",
+        "en": "almond tree"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El almendro aparece en la fotografía que la familia compara con otra tomada años atrás aunque todavía no haya decidido cuál de las dos quiere colocar en el salón de la casa.",
+        "zh": "家人比较扁桃树新旧照片，还没决定把哪张挂在客厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3072 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-25cab26149bb",
+    "w": "el castaño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "栗树",
+        "en": "chestnut"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El castaño ofrece sombra al banco donde los vecinos conversan mientras esperan a que el grupo termine de recorrer el jardín que rodea el edificio del centro cultural de la localidad.",
+        "zh": "邻居在栗树荫下长椅聊天，等小组参观完文化中心周围的花园。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3073 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-92fe0f1d9edc",
+    "w": "el ciprés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柏树",
+        "en": "cypress"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ciprés se distingue al fondo del paisaje aunque la niebla impida ver con claridad las montañas que los excursionistas esperaban fotografiar cuando llegaron al mirador durante la mañana.",
+        "zh": "雾挡住了徒步者想拍的群山，远景中的柏树却仍可辨认。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3074 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-8f99c3c8b3af",
+    "w": "el abeto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冷杉",
+        "en": "fir"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El abeto aparece junto al camino que el grupo sigue mientras la guía compara las hojas con las imágenes que los estudiantes han encontrado en el libro de la excursión escolar.",
+        "zh": "小组沿路前进，向导将路旁冷杉的叶与学校远足用书图片比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3075 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-3ff9e7fcb3a7",
+    "w": "el hongo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "真菌",
+        "en": "fungus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hongo se observa en una fotografía ampliada que permite estudiar sus detalles sin recoger ningún ejemplar del bosque durante la actividad que el centro organiza para los estudiantes del barrio.",
+        "zh": "科普活动用放大真菌照片观察细节，不从森林采集标本。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3076 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-7df4f866cf52",
+    "w": "la parra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "葡萄藤",
+        "en": "grapevine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La parra cubre parte de la estructura que la familia instaló para crear una zona de sombra donde recibir a los amigos cuando lleguen las tardes más cálidas del verano.",
+        "zh": "家人为夏日接待朋友搭建遮阴架，葡萄藤已覆盖其中一部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3077 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-e352db2536a8",
+    "w": "la hiedra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "常春藤",
+        "en": "ivy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hiedra se extiende sobre el muro que aparece detrás de la protagonista en la fotografía elegida para acompañar la entrevista sobre la historia de la casa y de sus habitantes.",
+        "zh": "常春藤爬满人物背后的墙，照片将为介绍房屋与住户历史的采访配图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3078 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-141fab926a94",
+    "w": "el laurel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "月桂",
+        "en": "laurel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El laurel está junto a las plantas que los visitantes observan mientras la guía explica cómo reconocer algunos de los nombres que encontrarán en el catálogo del jardín botánico de la ciudad.",
+        "zh": "向导在月桂等植物旁，讲解怎样辨认市植物园目录中的名称。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3079 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-e164cbb8f6ae",
+    "w": "el musgo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "苔藓",
+        "en": "moss"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El musgo cubre parte de la piedra aunque los visitantes apenas lo distingan desde el camino que deben seguir para no alterar el pequeño entorno que rodea el arroyo del bosque.",
+        "zh": "石头部分覆盖苔藓，但游客为保护林溪环境留在步道，几乎看不清。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3080 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-01d40ddc264e",
+    "w": "el roble",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橡树",
+        "en": "oak"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El roble aparece al fondo de un cuadro que la artista ha dejado sin terminar porque quiere volver a observar cómo cambia la luz durante las últimas horas de la tarde.",
+        "zh": "画家暂未完成画中远处的橡树，想再观察傍晚光线的变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3081 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-530967aed4a4",
+    "w": "el olivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橄榄树",
+        "en": "olive"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El olivo se encuentra junto al patio donde la familia reúne a sus invitados aunque el resto de los árboles crezca al otro lado del camino que conduce a la casa.",
+        "zh": "橄榄树长在家人接待客人的院旁，其他树在通往房屋的小路另一边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3082 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-ba463bd0f222",
+    "w": "el pino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "松树",
+        "en": "pine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pino ofrece sombra a los excursionistas que se detienen para consultar el mapa antes de continuar hacia el mirador desde el que esperan observar el valle durante la tarde.",
+        "zh": "徒步者在松荫下查地图，再继续前往打算下午观谷的观景台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3083 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6c56afa123a3",
+    "w": "el plátano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "悬铃木",
+        "en": "plane"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El plátano de la plaza aparece en el plano que los estudiantes utilizan para localizar los árboles sin confundir esta especie con la planta que produce la fruta del mismo nombre.",
+        "zh": "学生用地图定位广场悬铃木，避免把它与西语同名的香蕉混淆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3084 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f92439e74ca5",
+    "w": "el álamo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "杨树",
+        "en": "poplar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El álamo se encuentra cerca del río que los visitantes siguen mientras la guía les pide que comparen las hojas con los dibujos que aparecen en el cuaderno preparado para la actividad.",
+        "zh": "杨树在河边，向导请沿河参观的人比较叶片与活动笔记中的图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3085 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f2bd6e242e2f",
+    "w": "el sauce",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柳树",
+        "en": "willow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sauce inclina sus ramas hacia el agua mientras los visitantes observan desde el pequeño puente para no acercarse a la orilla que el centro ha reservado como zona protegida del jardín.",
+        "zh": "柳枝垂向水面，游客从小桥观察，不靠近花园规定的保护岸区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 114 页 · 第 3086 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-fe5d79aab337",
+    "w": "el paisaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地貌景观",
+        "en": "landscape"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paisaje cambia tanto al subir la colina que el grupo decide detenerse de nuevo aunque ya haya dedicado bastante tiempo a observar el valle desde el primer mirador de la ruta.",
+        "zh": "上坡后景观变化很大，尽管已在首个观景台看谷许久，小组仍再停下。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3087 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-af112b39aa6e",
+    "w": "la tierra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "土壤",
+        "en": "soil"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tierra se muestra en varias muestras que los estudiantes comparan antes de preparar el informe sobre las diferencias que han observado durante la visita al huerto del colegio esta mañana.",
+        "zh": "学生比较几份土壤样本，准备报告早上学校菜园参观中发现的差别。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3088 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5a749da9a944",
+    "w": "el barro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泥",
+        "en": "mud"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El barro cubre parte del camino aunque la lluvia haya terminado hace varias horas y los excursionistas esperaran encontrar un terreno más seco al comenzar el regreso hacia el pueblo.",
+        "zh": "雨停几小时后，步道仍有泥，徒步者原以为回村时路会更干。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3089 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e7c0e1acda1",
+    "w": "el agua",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水",
+        "en": "water"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El agua refleja los árboles que rodean el estanque mientras la artista busca un punto desde el que pueda dibujar la escena sin ocupar el paso de los demás visitantes del jardín.",
+        "zh": "水面映着池边树木，画家找不挡其他访客的位置写生。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3090 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-ec2647123a5d",
+    "w": "la meseta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高原",
+        "en": "plateau"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La meseta se extiende al otro lado de las montañas que el grupo acaba de cruzar aunque el mapa no permita apreciar con claridad las diferencias de altura del terreno durante la ruta.",
+        "zh": "小组翻山后看见高原，地图却难清楚表现路线中地势的高度差。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3091 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-0ec1aa5a243c",
+    "w": "el estuario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "河口",
+        "en": "estuary"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estuario aparece en la fotografía aérea que la guía utiliza para explicar cómo se conectan las distintas zonas del paisaje que los visitantes han recorrido durante la excursión de esta mañana.",
+        "zh": "向导用河口航拍图，解释早上游览的不同景观区域怎样连接。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3092 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e97fb47999e",
+    "w": "el aire",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "空气",
+        "en": "air"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aire mueve las hojas del árbol aunque apenas se note junto al muro donde los visitantes se han detenido para escuchar la explicación que ofrece la guía antes de continuar el recorrido.",
+        "zh": "风吹动树叶，访客停下听导览的墙边却几乎感觉不到空气流动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3093 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-fd1907844dc5",
+    "w": "la atmósfera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大气层",
+        "en": "atmosphere"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La atmósfera aparece representada en una ilustración que permite comparar diferentes capas sin que los estudiantes tengan que interpretar los datos más complejos del material que consultarán en la siguiente clase de ciencias.",
+        "zh": "图示表现大气层，帮助学生比较各层，无需先解读下节科学课的复杂数据。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3094 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-f63c326d44c9",
+    "w": "la salida del sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "日出",
+        "en": "sunrise"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La salida del sol atrae a los fotógrafos que llegan al mirador antes de que abra el centro donde los visitantes suelen comenzar el recorrido por la reserva natural de la costa.",
+        "zh": "摄影师为拍日出提前到观景台，此时海岸保护区游客中心尚未开门。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3095 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-a09ae1307e1a",
+    "w": "la puesta del sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "日落",
+        "en": "sunset"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La puesta del sol cambia los colores del valle aunque el grupo todavía no haya alcanzado el punto desde el que esperaba observar el paisaje antes de iniciar el regreso al pueblo.",
+        "zh": "日落改变山谷颜色，小组却还没到计划返村前观景的地点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3096 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-107568c162ea",
+    "w": "rural",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乡村的",
+        "en": "rural"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paisaje rural aparece en el cuadro que la artista compara con varias fotografías para decidir qué detalles conservará antes de terminar la obra destinada a la exposición del centro cultural de la ciudad.",
+        "zh": "画家对照照片描画乡村景观，决定城市文化中心展览作品要保留的细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3097 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-7f51bcd9d8c5",
+    "w": "urbano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "城市的",
+        "en": "urban"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El entorno urbano cambia alrededor del edificio aunque los vecinos intenten conservar algunos espacios donde puedan reunirse para conversar sin que el ruido del tráfico interrumpa las actividades del centro cultural del barrio.",
+        "zh": "建筑周围的城市环境在变，居民仍努力保留不受交通噪声打扰的社区交流空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3098 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6e4a73b74e28",
+    "w": "polar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "极地的",
+        "en": "polar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paisaje polar aparece en una fotografía que los estudiantes comparan con otra de una región tropical antes de preparar la presentación sobre las diferencias que observan entre ambos entornos durante la actividad de clase.",
+        "zh": "学生比较极地与热带景观照片，再做报告介绍课堂中观察到的环境差别。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3099 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-278da339f02c",
+    "w": "alpino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高山的",
+        "en": "alpine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El entorno alpino se muestra en el documental que el grupo comenta después de comparar las imágenes con las fotografías tomadas durante una excursión organizada por el centro educativo en la primavera del año pasado.",
+        "zh": "小组将纪录片中的高山环境与去年春季学校远足照片比较后展开讨论。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-8",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 115 页 · 第 3100 条；自编例句 B2",
+    "m": 0
+  }
+]

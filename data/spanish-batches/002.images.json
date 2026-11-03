@@ -1,0 +1,802 @@
+[
+  {
+    "id": "book-29962aa05bb1",
+    "word": "¿Cómo está (él / ella)?",
+    "example": "¿Cómo está ella esta mañana?",
+    "zh": "她今天早上怎么样？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-a8db71e5-e9f3-4c51-91e9-1944122dabc5.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¿Cómo está (él / ella)?. Exact teaching example to visualize: ¿Cómo está ella esta mañana?. Meaning: 她今天早上怎么样？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-564cb4b798f4",
+    "word": "¿Cómo están?",
+    "example": "¿Cómo están tus padres hoy?",
+    "zh": "你的父母今天怎么样？",
+    "prompt": "Warm hand-painted textbook illustration for Spanish learning. One scene: a woman asks a friend how her parents are, while the two healthy elderly parents smile in a sunny home garden nearby. Meaning: ¿Cómo están tus padres hoy? (How are your parents today?). Cream paper texture, muted terracotta and teal, natural proportions, landscape, square-crop-friendly, no writing, no speech bubbles.",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-2b13e760-b610-465e-9ebe-ff356f7860a8.png"
+  },
+  {
+    "id": "book-b15d53fde465",
+    "word": "Muy bien, gracias. ¿Y tú?",
+    "example": "Muy bien, gracias. ¿Y tú, Ana?",
+    "zh": "很好，谢谢。安娜，你呢？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-6a584d31-05cd-47a4-a181-590890ecc2c0.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Muy bien, gracias. ¿Y tú?. Exact teaching example to visualize: Muy bien, gracias. ¿Y tú, Ana?. Meaning: 很好，谢谢。安娜，你呢？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-9488636592d0",
+    "word": "Bien, gracias.",
+    "example": "Bien, gracias. Hoy tengo tiempo libre.",
+    "zh": "很好，谢谢。我今天有空。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-71bc043b-b2f8-4915-bb51-e1cb3ee5597f.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Bien, gracias.. Exact teaching example to visualize: Bien, gracias. Hoy tengo tiempo libre.. Meaning: 很好，谢谢。我今天有空。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c4c7278f66c6",
+    "word": "¡Fenomenal!",
+    "example": "¡Fenomenal! Hoy vamos a la playa.",
+    "zh": "太棒了！今天我们去海滩。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-04a53fdb-b0c0-4f33-9946-3a5046dab148.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¡Fenomenal!. Exact teaching example to visualize: ¡Fenomenal! Hoy vamos a la playa.. Meaning: 太棒了！今天我们去海滩。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-98dd7e466598",
+    "word": "Así, así.",
+    "example": "Así, así. Tengo un poco de sueño.",
+    "zh": "一般般。我有点困。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-805d0175-781a-40cf-af9a-4a7586b203f4.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Así, así.. Exact teaching example to visualize: Así, así. Tengo un poco de sueño.. Meaning: 一般般。我有点困。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-040031464830",
+    "word": "Bastante bien, gracias.",
+    "example": "Bastante bien, gracias. Estoy en casa.",
+    "zh": "相当好，谢谢。我在家。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-0bd27f02-326f-4ec6-a123-e57bf37bdcb4.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Bastante bien, gracias.. Exact teaching example to visualize: Bastante bien, gracias. Estoy en casa.. Meaning: 相当好，谢谢。我在家。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-afe443ff50f6",
+    "word": "Voy tirando.",
+    "example": "Voy tirando, pero necesito unas vacaciones.",
+    "zh": "还过得去，不过我需要休假。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-1d2544f4-9dfb-4023-a021-42ce9360f307.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Voy tirando.. Exact teaching example to visualize: Voy tirando, pero necesito unas vacaciones.. Meaning: 还过得去，不过我需要休假。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-245748bd97f9",
+    "word": "Fatal.",
+    "example": "Fatal. Tengo mucho trabajo esta semana.",
+    "zh": "糟透了。我这周有很多工作。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b7b263d1-f38d-4305-95a7-edd5deaa41a6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Fatal.. Exact teaching example to visualize: Fatal. Tengo mucho trabajo esta semana.. Meaning: 糟透了。我这周有很多工作。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a0f199d7ab34",
+    "word": "Estoy bien.",
+    "example": "Estoy bien y quiero dar un paseo.",
+    "zh": "我很好，想去散散步。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-829d4843-0ae2-49df-881e-901b762d406f.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy bien.. Exact teaching example to visualize: Estoy bien y quiero dar un paseo.. Meaning: 我很好，想去散散步。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-7d199b12e816",
+    "word": "Estoy cansado.",
+    "example": "Estoy cansado después de caminar tanto.",
+    "zh": "走了这么久，我累了。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d6659b5b-f206-42b1-9790-a24f60023e59.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy cansado.. Exact teaching example to visualize: Estoy cansado después de caminar tanto.. Meaning: 走了这么久，我累了。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-68dfc12d9543",
+    "word": "Tengo hambre / sed.",
+    "example": "Tengo hambre y sed después del paseo.",
+    "zh": "散步后，我又饿又渴。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-685ebcab-86f6-4bd3-a5d1-128ad576fd15.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Tengo hambre / sed.. Exact teaching example to visualize: Tengo hambre y sed después del paseo.. Meaning: 散步后，我又饿又渴。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ee3989cd1dd8",
+    "word": "Estoy lleno.",
+    "example": "Estoy lleno, no quiero más pan.",
+    "zh": "我吃饱了，不想再吃面包了。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-c0c6e4a1-44df-44fe-9860-2e8d2ba299e5.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy lleno.. Exact teaching example to visualize: Estoy lleno, no quiero más pan.. Meaning: 我吃饱了，不想再吃面包了。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b00d9db3b771",
+    "word": "Tengo frío.",
+    "example": "Tengo frío porque la ventana está abierta.",
+    "zh": "我冷，因为窗户开着。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-c88a1217-941c-4447-8476-ccaae9316761.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Tengo frío.. Exact teaching example to visualize: Tengo frío porque la ventana está abierta.. Meaning: 我冷，因为窗户开着。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-334cbed97296",
+    "word": "Tengo calor.",
+    "example": "Tengo calor y necesito un poco de agua.",
+    "zh": "我热，需要一点水。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-596bc9c4-d389-4f1a-ba4c-c4c2a33eb490.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Tengo calor.. Exact teaching example to visualize: Tengo calor y necesito un poco de agua.. Meaning: 我热，需要一点水。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-5ed2970faa0f",
+    "word": "Estoy…",
+    "example": "Estoy tranquilo en casa con mi familia.",
+    "zh": "我和家人在家，心情平静。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-32c0ed76-eb97-4205-be6e-9d325acb609e.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy…. Exact teaching example to visualize: Estoy tranquilo en casa con mi familia.. Meaning: 我和家人在家，心情平静。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-52aa8ddcd2ea",
+    "word": "Está…",
+    "example": "Está contenta con su nuevo trabajo.",
+    "zh": "她对新工作很满意。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-e0a25c6b-5981-456d-90ad-370a09a1b209.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Está…. Exact teaching example to visualize: Está contenta con su nuevo trabajo.. Meaning: 她对新工作很满意。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-bf1f7ab8bfb2",
+    "word": "Están…",
+    "example": "Están cansados después del viaje en tren.",
+    "zh": "坐火车旅行后，他们累了。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-0ebf35b6-2141-4200-937d-1f62f911870b.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Están…. Exact teaching example to visualize: Están cansados después del viaje en tren.. Meaning: 坐火车旅行后，他们累了。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-2a584455e568",
+    "word": "contento",
+    "example": "Estoy contento con mi nueva bicicleta.",
+    "zh": "我很喜欢我的新自行车。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-4b60fd0e-5622-4376-9736-70da2aef95a6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: contento. Exact teaching example to visualize: Estoy contento con mi nueva bicicleta.. Meaning: 我很喜欢我的新自行车。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b6e6d818df5f",
+    "word": "entusiasmado",
+    "example": "Luis está entusiasmado con el viaje.",
+    "zh": "路易斯对这次旅行很兴奋。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-8fc8fe32-093e-4baf-8380-463e6d018d90.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: entusiasmado. Exact teaching example to visualize: Luis está entusiasmado con el viaje.. Meaning: 路易斯对这次旅行很兴奋。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-73199825f994",
+    "word": "sorprendido",
+    "example": "Estoy sorprendido por este regalo tan bonito.",
+    "zh": "收到这么漂亮的礼物，我很惊讶。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-c586dd7f-45f2-42e0-ae8f-001eeb0c5d8e.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: sorprendido. Exact teaching example to visualize: Estoy sorprendido por este regalo tan bonito.. Meaning: 收到这么漂亮的礼物，我很惊讶。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-18af2620b61c",
+    "word": "enfadado",
+    "example": "Pablo está enfadado por el ruido.",
+    "zh": "巴勃罗因噪声而恼火。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-728ddcd2-c86d-4d3f-8f76-a35ccf0c1c8b.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: enfadado. Exact teaching example to visualize: Pablo está enfadado por el ruido.. Meaning: 巴勃罗因噪声而恼火。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c8507ee6c396",
+    "word": "enfadado",
+    "example": "El padre está enfadado con su hijo.",
+    "zh": "父亲在生儿子的气。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-817ba24f-cd5c-4214-948d-38fdc63819ac.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: enfadado. Exact teaching example to visualize: El padre está enfadado con su hijo.. Meaning: 父亲在生儿子的气。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-4a58f7b90290",
+    "word": "triste",
+    "example": "Ana está triste porque su amigo se va.",
+    "zh": "安娜很难过，因为她的朋友要走了。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-558f66d2-0993-4959-b801-2fd4d40146f5.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: triste. Exact teaching example to visualize: Ana está triste porque su amigo se va.. Meaning: 安娜很难过，因为她的朋友要走了。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ea4910da3adc",
+    "word": "preocupado",
+    "example": "Estoy preocupado por el examen de mañana.",
+    "zh": "我担心明天的考试。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-ae34e4d3-95f9-4915-82b9-f40d8ecc2093.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: preocupado. Exact teaching example to visualize: Estoy preocupado por el examen de mañana.. Meaning: 我担心明天的考试。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a301c20d37cb",
+    "word": "deprimido",
+    "example": "Se siente deprimido y habla con un amigo.",
+    "zh": "他情绪低落，和一位朋友谈心。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-28d48171-654d-4060-8f49-3543e3588e92.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: deprimido. Exact teaching example to visualize: Se siente deprimido y habla con un amigo.. Meaning: 他情绪低落，和一位朋友谈心。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-6627484d2712",
+    "word": "aburrido",
+    "example": "El niño está aburrido en la sala.",
+    "zh": "男孩在房间里觉得无聊。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b67abfe8-9cbf-4cab-8481-08d419c8de1c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: aburrido. Exact teaching example to visualize: El niño está aburrido en la sala.. Meaning: 男孩在房间里觉得无聊。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-d5ea2c3558a2",
+    "word": "Tengo miedo.",
+    "example": "Tengo miedo cuando oigo ruidos de noche.",
+    "zh": "晚上听到声响时，我会害怕。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-bfd9f5a6-4873-421c-919f-14cb317a540a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Tengo miedo.. Exact teaching example to visualize: Tengo miedo cuando oigo ruidos de noche.. Meaning: 晚上听到声响时，我会害怕。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-e5548c330af8",
+    "word": "Me siento...",
+    "example": "Me siento tranquilo después de hablar contigo.",
+    "zh": "和你交谈后，我感到平静。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-5d09c074-7e0e-4840-af5a-a35934172a02.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Me siento.... Exact teaching example to visualize: Me siento tranquilo después de hablar contigo.. Meaning: 和你交谈后，我感到平静。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-79abebc73dd3",
+    "word": "Se siente…",
+    "example": "Se siente feliz con sus amigos del colegio.",
+    "zh": "他和学校的朋友们在一起时感到快乐。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-12d326be-1770-49b6-94ee-38ae36d882e0.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Se siente…. Exact teaching example to visualize: Se siente feliz con sus amigos del colegio.. Meaning: 他和学校的朋友们在一起时感到快乐。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-adfe0dffd494",
+    "word": "Se sienten…",
+    "example": "Se sienten cansados después de trabajar tanto.",
+    "zh": "干了这么多活后，他们感到疲倦。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-a51eb489-d13b-42fa-8286-fc310c4e4c35.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Se sienten…. Exact teaching example to visualize: Se sienten cansados después de trabajar tanto.. Meaning: 干了这么多活后，他们感到疲倦。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ceec15968b2f",
+    "word": "bien",
+    "example": "Mi abuela se siente bien esta mañana.",
+    "zh": "我祖母今天早上身体感觉不错。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-9a71dd7d-3bca-4e3c-91b7-2591ec41775c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: bien. Exact teaching example to visualize: Mi abuela se siente bien esta mañana.. Meaning: 我祖母今天早上身体感觉不错。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-73d902f26f4f",
+    "word": "mal",
+    "example": "Me siento mal y necesito descansar en casa.",
+    "zh": "我身体不舒服，需要在家休息。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d6204595-1c02-4a32-b825-6020373228bf.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: mal. Exact teaching example to visualize: Me siento mal y necesito descansar en casa.. Meaning: 我身体不舒服，需要在家休息。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ab2d14e04f7e",
+    "word": "mejor",
+    "example": "Hoy me siento mejor y salgo a caminar.",
+    "zh": "今天我感觉好些了，出门走走。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b9c6af94-b0c2-4515-9337-0d657e9bc973.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: mejor. Exact teaching example to visualize: Hoy me siento mejor y salgo a caminar.. Meaning: 今天我感觉好些了，出门走走。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-97c10a2a0afd",
+    "word": "peor",
+    "example": "Hoy me siento peor y llamo al médico.",
+    "zh": "今天我感觉更糟了，便给医生打电话。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b8d06e68-c812-40a4-a10e-8fd2066f8f51.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: peor. Exact teaching example to visualize: Hoy me siento peor y llamo al médico.. Meaning: 今天我感觉更糟了，便给医生打电话。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-9831afdf7cd4",
+    "word": "¿Dónde trabajas?",
+    "example": "¿Dónde trabajas ahora, cerca de tu casa?",
+    "zh": "你现在在哪里工作，离你家近吗？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-4cb7cb08-f713-4d03-98af-855856867b86.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¿Dónde trabajas?. Exact teaching example to visualize: ¿Dónde trabajas ahora, cerca de tu casa?. Meaning: 你现在在哪里工作，离你家近吗？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c7fca459f0de",
+    "word": "¿A qué te dedicas?",
+    "example": "¿A qué te dedicas, además de estudiar?",
+    "zh": "除了读书，你还做什么工作？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-3c092f92-74b3-4b8d-8b38-2ae1a70ceff1.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¿A qué te dedicas?. Exact teaching example to visualize: ¿A qué te dedicas, además de estudiar?. Meaning: 除了读书，你还做什么工作？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a144b331934d",
+    "word": "¿Cuál es tu ocupación?",
+    "example": "¿Cuál es tu ocupación en esta empresa?",
+    "zh": "你在这家公司的工作是什么？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-39f75caa-3f35-48e8-be9e-bdd41b8199e6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¿Cuál es tu ocupación?. Exact teaching example to visualize: ¿Cuál es tu ocupación en esta empresa?. Meaning: 你在这家公司的工作是什么？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-d7f8b787caaf",
+    "word": "¿Trabajas / Estudias?",
+    "example": "¿Trabajas o estudias en esta ciudad?",
+    "zh": "你在这座城市工作还是上学？",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-60f79b9a-b597-4fc8-8ee6-3c08524900d1.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: ¿Trabajas / Estudias?. Exact teaching example to visualize: ¿Trabajas o estudias en esta ciudad?. Meaning: 你在这座城市工作还是上学？. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-02c3aa9b0e01",
+    "word": "Soy autónomo.",
+    "example": "Soy autónomo y trabajo con varios clientes.",
+    "zh": "我是个体经营者，和几位客户合作。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-015709d2-1317-40c5-b724-2a1fffb05654.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Soy autónomo.. Exact teaching example to visualize: Soy autónomo y trabajo con varios clientes.. Meaning: 我是个体经营者，和几位客户合作。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c7590728910f",
+    "word": "Estoy en paro.",
+    "example": "Estoy en paro y busco trabajo cada día.",
+    "zh": "我失业了，每天都在找工作。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-2abae730-c319-4f96-9c4e-97f0a8b35179.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy en paro.. Exact teaching example to visualize: Estoy en paro y busco trabajo cada día.. Meaning: 我失业了，每天都在找工作。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ce327db86144",
+    "word": "Estoy en la universidad.",
+    "example": "Estoy en la universidad y estudio historia.",
+    "zh": "我在读大学，学习历史。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-6d1ac4ce-4fe8-4ffe-bb69-67af755edbe6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy en la universidad.. Exact teaching example to visualize: Estoy en la universidad y estudio historia.. Meaning: 我在读大学，学习历史。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a1af126ac38e",
+    "word": "Estoy jubilado.",
+    "example": "Estoy jubilado y tengo tiempo para leer.",
+    "zh": "我退休了，有时间看书。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-c2de7ca9-eff6-4d12-b727-ad542f1b2617.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Estoy jubilado.. Exact teaching example to visualize: Estoy jubilado y tengo tiempo para leer.. Meaning: 我退休了，有时间看书。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-f9aacf71481d",
+    "word": "Me dedico a viajar.",
+    "example": "Ahora me dedico a viajar por España.",
+    "zh": "现在我主要在西班牙各地旅行。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-f173b203-116f-4cca-afa5-a42ac5bce1cd.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Me dedico a viajar.. Exact teaching example to visualize: Ahora me dedico a viajar por España.. Meaning: 现在我主要在西班牙各地旅行。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-8a46657c2ac4",
+    "word": "Trabajo desde casa.",
+    "example": "Trabajo desde casa y preparo mi comida.",
+    "zh": "我在家办公，自己准备饭菜。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b8b3d555-5c44-4858-98e3-64622bc159f2.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Trabajo desde casa.. Exact teaching example to visualize: Trabajo desde casa y preparo mi comida.. Meaning: 我在家办公，自己准备饭菜。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-d055fcdd4474",
+    "word": "Trabajo a tiempo parcial / completo.",
+    "example": "Trabajo a tiempo parcial en una tienda.",
+    "zh": "我在一家商店做兼职。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-ea96a421-f96a-430f-8fee-8ecfa3e60db9.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Trabajo a tiempo parcial / completo.. Exact teaching example to visualize: Trabajo a tiempo parcial en una tienda.. Meaning: 我在一家商店做兼职。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-1f65a3d812d3",
+    "word": "Trabajo de…",
+    "example": "Trabajo de camarero en un restaurante pequeño.",
+    "zh": "我在一家小餐馆当服务员。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-435fded6-aba8-4048-9569-b0507b4f0aa5.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Trabajo de…. Exact teaching example to visualize: Trabajo de camarero en un restaurante pequeño.. Meaning: 我在一家小餐馆当服务员。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-0803e48c6ca7",
+    "word": "Soy…",
+    "example": "Soy profesora y trabajo cerca de casa.",
+    "zh": "我是老师，在家附近工作。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-f7a64ec5-426b-4fba-b800-c0e5721be891.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Soy…. Exact teaching example to visualize: Soy profesora y trabajo cerca de casa.. Meaning: 我是老师，在家附近工作。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-1281a0c55399",
+    "word": "Soy dependiente.",
+    "example": "Soy dependiente y ayudo a los clientes.",
+    "zh": "我是店员，帮助顾客。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-5c665bab-b73a-4f34-a242-0c2ceb35bbdc.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Soy dependiente.. Exact teaching example to visualize: Soy dependiente y ayudo a los clientes.. Meaning: 我是店员，帮助顾客。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c60ef9cccb08",
+    "word": "Mi hermana es ingeniera.",
+    "example": "Mi hermana es ingeniera y diseña puentes.",
+    "zh": "我的姐妹是工程师，设计桥梁。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-30dec125-132d-47f9-b5ec-d0ac5d19ea89.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Mi hermana es ingeniera.. Exact teaching example to visualize: Mi hermana es ingeniera y diseña puentes.. Meaning: 我的姐妹是工程师，设计桥梁。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b084cf7f881d",
+    "word": "el albañil / la albañil",
+    "example": "El albañil construye una pared de ladrillos.",
+    "zh": "泥瓦工在砌一堵砖墙。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-0302c982-0d3a-427a-a70d-da27c94c1450.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el albañil / la albañil. Exact teaching example to visualize: El albañil construye una pared de ladrillos.. Meaning: 泥瓦工在砌一堵砖墙。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-9b1f71c49e6c",
+    "word": "el chef / la chef",
+    "example": "La chef prepara la cena para los invitados.",
+    "zh": "主厨为客人准备晚餐。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b85261e9-8978-4476-921a-e7153caa9564.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el chef / la chef. Exact teaching example to visualize: La chef prepara la cena para los invitados.. Meaning: 主厨为客人准备晚餐。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c5c824d63143",
+    "word": "el funcionario / la funcionaria",
+    "example": "La funcionaria atiende a una familia en su oficina.",
+    "zh": "公务员在办公室接待一家人。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-28995de7-9c02-42f7-9cfd-713ec68e673a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el funcionario / la funcionaria. Exact teaching example to visualize: La funcionaria atiende a una familia en su oficina.. Meaning: 公务员在办公室接待一家人。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-e5066f6c1f48",
+    "word": "el limpiador / la limpiadora",
+    "example": "El limpiador limpia las ventanas de la escuela.",
+    "zh": "清洁工在擦学校的窗户。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d5d2339e-474f-4f0b-953a-aab5693f365a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el limpiador / la limpiadora. Exact teaching example to visualize: El limpiador limpia las ventanas de la escuela.. Meaning: 清洁工在擦学校的窗户。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-1250588c65b3",
+    "word": "el cocinero / la cocinera",
+    "example": "La cocinera corta verduras para la sopa.",
+    "zh": "厨师在切煮汤用的蔬菜。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-2e30cf49-b90a-4178-bd01-c73eca9822c1.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el cocinero / la cocinera. Exact teaching example to visualize: La cocinera corta verduras para la sopa.. Meaning: 厨师在切煮汤用的蔬菜。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-024921191642",
+    "word": "el dentista / la dentista",
+    "example": "La dentista revisa los dientes de un niño.",
+    "zh": "牙医在检查一个孩子的牙齿。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-26ae9ee1-d0d2-4b00-962e-0fd73f9a2914.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el dentista / la dentista. Exact teaching example to visualize: La dentista revisa los dientes de un niño.. Meaning: 牙医在检查一个孩子的牙齿。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-10e3088b5fe2",
+    "word": "el médico / la médica",
+    "example": "El médico escucha al paciente con atención.",
+    "zh": "医生仔细听患者讲述。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-40567fea-e852-4e5b-8969-d34430fc56a1.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el médico / la médica. Exact teaching example to visualize: El médico escucha al paciente con atención.. Meaning: 医生仔细听患者讲述。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ab586f800563",
+    "word": "el conductor / la conductora",
+    "example": "La conductora lleva a los pasajeros al aeropuerto.",
+    "zh": "司机把乘客送往机场。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-79364195-9b2d-48c3-8358-6cfc5cccce26.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el conductor / la conductora. Exact teaching example to visualize: La conductora lleva a los pasajeros al aeropuerto.. Meaning: 司机把乘客送往机场。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b1987816294c",
+    "word": "el electricista / la electricista",
+    "example": "La electricista repara una lámpara en la cocina.",
+    "zh": "电工在厨房修灯。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-580f1c36-7b83-4e8f-ab13-3692282e6d1a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el electricista / la electricista. Exact teaching example to visualize: La electricista repara una lámpara en la cocina.. Meaning: 电工在厨房修灯。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-732ef81dcb9b",
+    "word": "el ingeniero / la ingeniera",
+    "example": "El ingeniero trabaja con los planos del puente.",
+    "zh": "工程师在研究桥梁图纸。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-6bfe86c7-6e7e-4b9c-9288-2b5494386d6a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el ingeniero / la ingeniera. Exact teaching example to visualize: El ingeniero trabaja con los planos del puente.. Meaning: 工程师在研究桥梁图纸。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-0ac7cb2be262",
+    "word": "el agricultor / la agricultora",
+    "example": "La agricultora recoge tomates en el campo.",
+    "zh": "农民在田里收西红柿。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-04098e2a-1790-43f9-bd78-738594b54273.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el agricultor / la agricultora. Exact teaching example to visualize: La agricultora recoge tomates en el campo.. Meaning: 农民在田里收西红柿。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-f100f069307c",
+    "word": "el bombero / la bombera",
+    "example": "El bombero ayuda a una familia a salir.",
+    "zh": "消防员帮助一家人撤离。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-4548f777-232e-4ca3-8f39-d3e528a62ef3.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el bombero / la bombera. Exact teaching example to visualize: El bombero ayuda a una familia a salir.. Meaning: 消防员帮助一家人撤离。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c4ee65a90a21",
+    "word": "el pescador / la pescadora",
+    "example": "La pescadora prepara sus redes junto al barco.",
+    "zh": "渔民在船边整理渔网。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-5a3fa85c-7cff-4376-9dca-a476cad662e6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el pescador / la pescadora. Exact teaching example to visualize: La pescadora prepara sus redes junto al barco.. Meaning: 渔民在船边整理渔网。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-6c2040f83efa",
+    "word": "el informático / la informática",
+    "example": "El informático instala un programa en mi ordenador.",
+    "zh": "信息技术人员在我的电脑上安装软件。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-58cd3201-7ec3-4017-b566-1ef992afa6dd.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el informático / la informática. Exact teaching example to visualize: El informático instala un programa en mi ordenador.. Meaning: 信息技术人员在我的电脑上安装软件。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-e13c524ea6fc",
+    "word": "el carpintero / la carpintera",
+    "example": "La carpintera hace una mesa de madera.",
+    "zh": "木工在制作一张木桌。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-dccaa995-cc1b-43d8-ab3a-cd4842eb57b2.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el carpintero / la carpintera. Exact teaching example to visualize: La carpintera hace una mesa de madera.. Meaning: 木工在制作一张木桌。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ff9840bf8364",
+    "word": "el periodista / la periodista",
+    "example": "La periodista entrevista a una mujer en la plaza.",
+    "zh": "记者在广场采访一位女士。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-25b3ffc8-6a95-4b59-9a16-6fac0d120e9e.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el periodista / la periodista. Exact teaching example to visualize: La periodista entrevista a una mujer en la plaza.. Meaning: 记者在广场采访一位女士。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-570e4e559d9b",
+    "word": "el abogado / la abogada",
+    "example": "El abogado explica el documento a su cliente.",
+    "zh": "律师向客户解释文件内容。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-ea4e6fb2-35e9-4a58-9f4a-8da50a93ef14.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el abogado / la abogada. Exact teaching example to visualize: El abogado explica el documento a su cliente.. Meaning: 律师向客户解释文件内容。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a914184871ba",
+    "word": "el mecánico / la mecánica",
+    "example": "La mecánica repara un coche en el taller.",
+    "zh": "修理工在车间修汽车。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-12d4afea-9aee-4190-8276-04221b450a82.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el mecánico / la mecánica. Exact teaching example to visualize: La mecánica repara un coche en el taller.. Meaning: 修理工在车间修汽车。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-16cc7b716ada",
+    "word": "el enfermero / la enfermera",
+    "example": "El enfermero ayuda al paciente a levantarse.",
+    "zh": "护士帮助患者起身。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-f36de26e-15b7-40ef-8160-3a26ab00a92b.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el enfermero / la enfermera. Exact teaching example to visualize: El enfermero ayuda al paciente a levantarse.. Meaning: 护士帮助患者起身。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-d1b1e9e9f161",
+    "word": "el oficinista / la oficinista",
+    "example": "La oficinista organiza los documentos de la empresa.",
+    "zh": "办公室职员整理公司的文件。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d92e4b18-0788-42d6-823a-38501df3a92f.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el oficinista / la oficinista. Exact teaching example to visualize: La oficinista organiza los documentos de la empresa.. Meaning: 办公室职员整理公司的文件。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-e03847078057",
+    "word": "el fontanero / la fontanera",
+    "example": "El fontanero repara el grifo del baño.",
+    "zh": "水管工在修浴室的水龙头。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-e89c28c4-8f2e-4c55-ba7d-ea1ff94e0d2d.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el fontanero / la fontanera. Exact teaching example to visualize: El fontanero repara el grifo del baño.. Meaning: 水管工在修浴室的水龙头。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a557d96a1ca2",
+    "word": "el agente de policía / la agente de policía",
+    "example": "La agente de policía ayuda a un turista.",
+    "zh": "女警察帮助一名游客。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-340c4094-11b7-4cbc-97a9-c115d3e2e504.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el agente de policía / la agente de policía. Exact teaching example to visualize: La agente de policía ayuda a un turista.. Meaning: 女警察帮助一名游客。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-ff5d3e2b5e22",
+    "word": "el cartero / la cartera",
+    "example": "El cartero entrega una carta a mi abuela.",
+    "zh": "邮递员给我的祖母送来一封信。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-6aff6843-5616-450f-b4a5-4363afe93ea0.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el cartero / la cartera. Exact teaching example to visualize: El cartero entrega una carta a mi abuela.. Meaning: 邮递员给我的祖母送来一封信。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b1a44d9445d8",
+    "word": "el maestro / la maestra",
+    "example": "La maestra enseña a leer a los niños.",
+    "zh": "小学老师教孩子们识字。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b943d5a1-8b85-4572-98f8-045004aceaa3.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el maestro / la maestra. Exact teaching example to visualize: La maestra enseña a leer a los niños.. Meaning: 小学老师教孩子们识字。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-8b391e6a1083",
+    "word": "el marinero / la marinera",
+    "example": "El marinero limpia la cubierta del barco.",
+    "zh": "水手在清洗船的甲板。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-afb998dd-4663-44d6-83c2-61135ab55f6f.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el marinero / la marinera. Exact teaching example to visualize: El marinero limpia la cubierta del barco.. Meaning: 水手在清洗船的甲板。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-455bb142b5bd",
+    "word": "el vendedor / la vendedora",
+    "example": "La vendedora muestra una chaqueta a una clienta.",
+    "zh": "销售员向一位女顾客展示夹克。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-958c48ff-15c9-4264-b7d8-717e9db10ee9.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el vendedor / la vendedora. Exact teaching example to visualize: La vendedora muestra una chaqueta a una clienta.. Meaning: 销售员向一位女顾客展示夹克。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-7d7f013906f3",
+    "word": "el científico / la científica",
+    "example": "La científica observa las plantas en el laboratorio.",
+    "zh": "科学家在实验室观察植物。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d3d5b01e-a974-4b15-a462-6c9b4a7c7912.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el científico / la científica. Exact teaching example to visualize: La científica observa las plantas en el laboratorio.. Meaning: 科学家在实验室观察植物。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-71a4a82d3621",
+    "word": "el profesor / la profesora",
+    "example": "El profesor explica un problema a sus alumnos.",
+    "zh": "中学老师向学生解释一道题。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-ce278de8-553d-45a5-b618-be9d515019a6.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el profesor / la profesora. Exact teaching example to visualize: El profesor explica un problema a sus alumnos.. Meaning: 中学老师向学生解释一道题。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-af8a4929b20c",
+    "word": "el soldado / la soldado",
+    "example": "La soldado lleva agua a un pueblo aislado.",
+    "zh": "女兵把水送到一个偏远村庄。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-190dd24b-5f61-4851-991b-09c8c25f4100.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el soldado / la soldado. Exact teaching example to visualize: La soldado lleva agua a un pueblo aislado.. Meaning: 女兵把水送到一个偏远村庄。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-2795f4c38b51",
+    "word": "el veterinario / la veterinaria",
+    "example": "El veterinario examina al perro de mi vecino.",
+    "zh": "兽医在检查我邻居的狗。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-52dd9dbd-e48f-485c-b49f-2b7c570128d3.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el veterinario / la veterinaria. Exact teaching example to visualize: El veterinario examina al perro de mi vecino.. Meaning: 兽医在检查我邻居的狗。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b84998f25bae",
+    "word": "el camarero",
+    "example": "El camarero trae la cuenta después del café.",
+    "zh": "喝完咖啡后，男服务员送来账单。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-eb039444-8e9e-47d8-8154-c17d6c455e3a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el camarero. Exact teaching example to visualize: El camarero trae la cuenta después del café.. Meaning: 喝完咖啡后，男服务员送来账单。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-7db9ea8642b0",
+    "word": "la camarera",
+    "example": "La camarera sirve la comida en la terraza.",
+    "zh": "女服务员在露台上餐。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-12574373-8b54-419f-b972-b244f931651c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la camarera. Exact teaching example to visualize: La camarera sirve la comida en la terraza.. Meaning: 女服务员在露台上餐。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-d8b7f10116e7",
+    "word": "Trabajo en…",
+    "example": "Trabajo en un hotel cerca de la estación.",
+    "zh": "我在车站附近的一家酒店工作。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-b13b4e25-9700-49f3-8ba5-5a5bb6187fb2.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: Trabajo en…. Exact teaching example to visualize: Trabajo en un hotel cerca de la estación.. Meaning: 我在车站附近的一家酒店工作。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b90f990e69c8",
+    "word": "el negocio",
+    "example": "Mi padre abre su negocio a las ocho.",
+    "zh": "我父亲八点开门营业。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-c36c32d6-3b6e-402b-bdaf-c97623c30494.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el negocio. Exact teaching example to visualize: Mi padre abre su negocio a las ocho.. Meaning: 我父亲八点开门营业。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a996980a0469",
+    "word": "la empresa",
+    "example": "La empresa tiene una oficina en esta ciudad.",
+    "zh": "这家公司在这座城市有一个办公室。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-20009b0a-593f-480b-a668-d7cc31e02482.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la empresa. Exact teaching example to visualize: La empresa tiene una oficina en esta ciudad.. Meaning: 这家公司在这座城市有一个办公室。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-81335a3baa22",
+    "word": "la obra",
+    "example": "Los trabajadores llevan casco en la obra.",
+    "zh": "工人在工地戴着安全帽。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-35a86ca4-8320-4b36-a171-56f9f70d2f7c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la obra. Exact teaching example to visualize: Los trabajadores llevan casco en la obra.. Meaning: 工人在工地戴着安全帽。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-7e847d50708b",
+    "word": "la fábrica",
+    "example": "La fábrica produce muebles para varias tiendas.",
+    "zh": "这家工厂为几家商店生产家具。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-31fdfdaf-53f6-4df5-9365-f164b40f5a93.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la fábrica. Exact teaching example to visualize: La fábrica produce muebles para varias tiendas.. Meaning: 这家工厂为几家商店生产家具。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-9ac002248330",
+    "word": "el gobierno",
+    "example": "El gobierno construye una escuela en el pueblo.",
+    "zh": "政府在村里建一所学校。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-618809fd-6bfe-4922-92d2-e9f5dc70fec7.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el gobierno. Exact teaching example to visualize: El gobierno construye una escuela en el pueblo.. Meaning: 政府在村里建一所学校。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-0d739addb77b",
+    "word": "el hospital",
+    "example": "Mi madre trabaja en el hospital de noche.",
+    "zh": "我母亲在医院上夜班。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-07515109-9b08-4fb1-bd31-2a933171f49e.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el hospital. Exact teaching example to visualize: Mi madre trabaja en el hospital de noche.. Meaning: 我母亲在医院上夜班。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-b7bca80eeb05",
+    "word": "el hotel",
+    "example": "El hotel tiene habitaciones con vistas al mar.",
+    "zh": "这家酒店有能看到海景的客房。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-5e61389e-b94e-4953-a70e-a14be9258826.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el hotel. Exact teaching example to visualize: El hotel tiene habitaciones con vistas al mar.. Meaning: 这家酒店有能看到海景的客房。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-c6ed63e5614d",
+    "word": "la oficina",
+    "example": "La oficina está cerrada durante el fin de semana.",
+    "zh": "办公室周末不开放。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-5c52b9c8-90d8-4c0d-ac0f-1c2d748984e8.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la oficina. Exact teaching example to visualize: La oficina está cerrada durante el fin de semana.. Meaning: 办公室周末不开放。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-432abe95871a",
+    "word": "el restaurante",
+    "example": "El restaurante sirve pescado fresco todos los días.",
+    "zh": "这家餐馆每天供应新鲜的鱼。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-d423d5c9-2b16-4628-8b5d-b55d9edaef3f.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el restaurante. Exact teaching example to visualize: El restaurante sirve pescado fresco todos los días.. Meaning: 这家餐馆每天供应新鲜的鱼。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-da5243373d28",
+    "word": "el colegio",
+    "example": "El colegio está cerca del parque de mi barrio.",
+    "zh": "学校靠近我家街区的公园。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-033c487a-d49b-4585-be5c-816e128d5c21.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el colegio. Exact teaching example to visualize: El colegio está cerca del parque de mi barrio.. Meaning: 学校靠近我家街区的公园。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-85655260f60c",
+    "word": "la tienda",
+    "example": "La tienda vende fruta y pan recién hecho.",
+    "zh": "这家商店出售水果和新鲜出炉的面包。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-828eeb7e-d864-4320-a4cf-6dd4ff921e3a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la tienda. Exact teaching example to visualize: La tienda vende fruta y pan recién hecho.. Meaning: 这家商店出售水果和新鲜出炉的面包。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-a60fbad8f70f",
+    "word": "la mañana",
+    "example": "Por la mañana camino al trabajo con mi hermana.",
+    "zh": "早上我和姐妹一起步行去上班。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-64b64cd9-d81b-4193-b155-b7e8c48b058c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la mañana. Exact teaching example to visualize: Por la mañana camino al trabajo con mi hermana.. Meaning: 早上我和姐妹一起步行去上班。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-151066f9b596",
+    "word": "la tarde",
+    "example": "Por la tarde estudio español antes de cenar.",
+    "zh": "下午我在吃晚饭前学习西班牙语。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-4b9db016-a9be-4cca-8b80-a1291b7b3b0e.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la tarde. Exact teaching example to visualize: Por la tarde estudio español antes de cenar.. Meaning: 下午我在吃晚饭前学习西班牙语。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-df50e1144ba3",
+    "word": "la noche",
+    "example": "Por la noche cenamos juntos y hablamos del día.",
+    "zh": "晚上我们一起吃饭，聊聊这一天。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-7382862e-fdb7-4f4a-a614-3dc545c1d36c.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la noche. Exact teaching example to visualize: Por la noche cenamos juntos y hablamos del día.. Meaning: 晚上我们一起吃饭，聊聊这一天。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-5fa4f7741ef8",
+    "word": "la noche",
+    "example": "Durante la noche, la calle está tranquila y oscura.",
+    "zh": "夜里街道安静而昏暗。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-9c68be4c-4c53-4668-928e-dd4f48a18b4a.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la noche. Exact teaching example to visualize: Durante la noche, la calle está tranquila y oscura.. Meaning: 夜里街道安静而昏暗。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-5c90eff02b8f",
+    "word": "el mediodía",
+    "example": "Al mediodía comemos en una terraza cerca del trabajo.",
+    "zh": "中午我们在工作地点附近的露台吃饭。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-6ccb25e4-5197-44b8-825b-0ba2faa98452.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: el mediodía. Exact teaching example to visualize: Al mediodía comemos en una terraza cerca del trabajo.. Meaning: 中午我们在工作地点附近的露台吃饭。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  },
+  {
+    "id": "book-5c20bf539b15",
+    "word": "la medianoche",
+    "example": "A medianoche las luces del pueblo siguen encendidas.",
+    "zh": "到了午夜，村庄的灯还亮着。",
+    "path": "C:\\Users\\liang_jia\\.codex\\generated_images\\01a195e2-1fa2-7f73-b2fb-e2eac92b1d4e\\exec-484cbe57-f1ee-4a5e-88d5-25c43b0180cc.png",
+    "prompt": "Use case: illustration-story. Asset: one polished learning-card scene for Lingua Atlas Spanish vocabulary. Target expression: la medianoche. Exact teaching example to visualize: A medianoche las luces del pueblo siguen encendidas.. Meaning: 到了午夜，村庄的灯还亮着。. Warm hand-painted editorial style, cream paper texture, soft terracotta and teal, warm daylight where appropriate; natural human proportions and friendly expressive characters. One clear scene depicting this specific example, using appropriate gender and number, recognizable everyday setting or profession. For feelings convey the expression naturally without labels; for night use appropriate nighttime lighting. Landscape image, no captions, letters, watermarks, speech bubbles, collage or text. Composition must remain recognizable when square cropped. Maintain the cohesive warm illustrated textbook look of earlier cards."
+  }
+]

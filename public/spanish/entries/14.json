@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-88d5fb6f275e",
+    "w": "la ropa de mujer",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女装",
+        "en": "womenswear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa de mujer ocupa la sección que vemos al subir por las escaleras que llevan a la primera planta.",
+        "zh": "女装位于一楼，我们沿楼梯上去就能看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1401 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f5cf77ce07e3",
+    "w": "las escaleras mecánicas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自动扶梯",
+        "en": "escalators"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las escaleras mecánicas nos llevan hasta la planta donde la tienda ha organizado los productos de la nueva temporada.",
+        "zh": "自动扶梯把我们送到店里陈列新季商品的楼层。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1402 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ea54eb526ee3",
+    "w": "la planta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "楼层",
+        "en": "floor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La planta donde venden los muebles también tiene un pequeño café que los clientes visitan cuando necesitan descansar.",
+        "zh": "卖家具的楼层还有小咖啡馆，顾客累了会去那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1403 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-48331faf5e05",
+    "w": "el ascensor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电梯",
+        "en": "lift"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ascensor está al fondo del pasillo que recorremos para llegar a la sección donde venden los artículos de cocina.",
+        "zh": "电梯在走廊尽头，我们沿走廊去厨具区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1404 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-30ecadc74bd6",
+    "w": "lujoso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "豪华的",
+        "en": "luxury"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salón lujoso aparece en el escaparate que la tienda ha preparado para mostrar los muebles de su nueva colección.",
+        "zh": "店铺橱窗布置成豪华客厅，展示新系列家具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1405 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e580646bf839",
+    "w": "las rebajas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "减价促销",
+        "en": "sale"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las rebajas atraen a los clientes que esperan junto a la puerta antes de que abra el centro comercial.",
+        "zh": "减价促销吸引顾客在商场开门前到门口等候。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1406 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e8403f9fc6ff",
+    "w": "los accesorios",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "配饰",
+        "en": "accessories"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los accesorios están en una vitrina donde la dependienta organiza los cinturones que combinan con los vestidos de la tienda.",
+        "zh": "配饰放在展示柜里，店员正在摆放配店里裙装的腰带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1407 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-825ace12d927",
+    "w": "los cosméticos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "化妆品",
+        "en": "cosmetics"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los cosméticos se presentan sobre una mesa donde los clientes pueden comparar los distintos colores que ofrece cada colección.",
+        "zh": "化妆品陈列在桌上，顾客能对比各系列不同的颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1408 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5c30360ea19a",
+    "w": "la moda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "时尚",
+        "en": "fashion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La moda cambia cada temporada, como muestran las fotografías que hemos visto al visitar la exposición de ropa del museo.",
+        "zh": "博物馆服装展的照片显示，时尚每季都在变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1409 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-615dd0fdd60b",
+    "w": "la comida y la bebida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "食品和饮料",
+        "en": "food and drink"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La comida y la bebida se venden en una planta donde también podemos encontrar mesas para descansar durante las compras.",
+        "zh": "食品和饮料在某一楼层出售，那里也有桌子供购物途中休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1410 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2d67d49405e9",
+    "w": "el calzado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鞋类",
+        "en": "footwear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El calzado está organizado por estilos para que los clientes encuentren fácilmente los modelos que les gustaría probarse esta tarde.",
+        "zh": "鞋类按款式整理，方便顾客找到下午想试穿的型号。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1411 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1fe5cc6661f5",
+    "w": "el mobiliario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "家具",
+        "en": "furniture"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mobiliario que aparece en la exposición combina colores claros con la madera que han utilizado para construir las mesas.",
+        "zh": "展出的家具把浅色与制作桌子的木料相搭配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1412 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c300d2b0194e",
+    "w": "los artículos de cocina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "厨具",
+        "en": "kitchenware"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los artículos de cocina están en el estante que hemos encontrado después de preguntar a una dependienta dónde se vendían.",
+        "zh": "问店员厨具在哪里卖后，我们找到了陈列厨具的架子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1413 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c2dcc67b26ef",
+    "w": "los artículos de cuero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮具",
+        "en": "leather goods"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los artículos de cuero están expuestos en una vitrina donde podemos comparar los bolsos que la tienda ha recibido esta semana.",
+        "zh": "皮具陈列在柜里，我们能比较店里本周到货的包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1414 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-20d53271a3ff",
+    "w": "la iluminación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "照明用品",
+        "en": "lighting"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La iluminación de esta sala permite ver cómo quedan las lámparas que la tienda vende para los distintos espacios de una casa.",
+        "zh": "这个展厅能让人看到店里给不同家居空间提供的灯具效果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1415 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d8aa9b66d79d",
+    "w": "la lencería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "内衣",
+        "en": "lingerie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lencería está en una sección donde la dependienta coloca las prendas nuevas sobre perchas antes de abrir la tienda.",
+        "zh": "内衣位于专区，店员开店前把新衣物挂上衣架。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1416 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9a892c49b795",
+    "w": "las telas para cortinas y tapicerías",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "窗帘和家具装饰布料",
+        "en": "soft furnishings"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las telas para cortinas y tapicerías están en muestras que podemos acercar a la ventana para comparar sus colores con luz natural.",
+        "zh": "窗帘和家具装饰布有样品，我们能拿到窗边在自然光下比色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1417 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c147eb728484",
+    "w": "los juguetes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玩具",
+        "en": "toys"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los juguetes están en la planta donde los niños observan el tren que la tienda ha colocado dentro de una vitrina.",
+        "zh": "玩具所在的楼层里，孩子们在看店家摆进展示柜的小火车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1418 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-121d7702ee18",
+    "w": "la ropa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "衣服",
+        "en": "clothes/clothing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa que hemos elegido está sobre una silla mientras buscamos las tallas que necesitamos para completar la compra de hoy.",
+        "zh": "选好的衣服放在椅上，我们继续找今天购物所需的尺码。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1419 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-66d56a5fcd42",
+    "w": "los zapatos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鞋子",
+        "en": "shoes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los zapatos que nos gustan están en una caja que la dependienta ha traído del almacén después de consultar el número.",
+        "zh": "店员查看鞋码后从仓库取来一盒我们喜欢的鞋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1420 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3acaf999c660",
+    "w": "la ropa interior",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "内裤",
+        "en": "underwear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa interior permanece doblada en los cajones que la tienda ha colocado junto a la sección donde vende los pijamas.",
+        "zh": "内衣叠放在抽屉里，店家将抽屉摆在睡衣区旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1421 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-215c6d723358",
+    "w": "el probador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "试衣间",
+        "en": "fitting room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El probador está libre, así que podemos entrar para comprobar cómo nos queda la chaqueta que acabamos de elegir.",
+        "zh": "试衣间空着，我们可以进去看看刚选的夹克合不合身。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1422 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4e8b003f686a",
+    "w": "el monedero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "零钱包",
+        "en": "purse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El monedero cabe en el bolsillo pequeño del bolso donde mi madre guarda las cosas que utiliza durante sus compras.",
+        "zh": "零钱包能放进母亲购物用包的小口袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1423 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ac7423896782",
+    "w": "la cartera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钱包",
+        "en": "wallet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cartera tiene varios compartimentos donde podemos guardar las tarjetas que necesitamos cuando salimos a hacer compras por el centro.",
+        "zh": "钱包有几个夹层，可放进市中心购物时要用的卡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1424 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-082262e6165d",
+    "w": "las joyas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "珠宝",
+        "en": "jewellery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las joyas están protegidas dentro de una vitrina que la dependienta abre cuando una clienta quiere ver un collar más de cerca.",
+        "zh": "珠宝放在展示柜中，顾客想细看项链时店员会打开柜子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1425 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-770b36d1a992",
+    "w": "el paraguas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雨伞",
+        "en": "umbrella"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paraguas está mojado porque hemos llegado andando desde la estación mientras llovía sobre las calles del centro de la ciudad.",
+        "zh": "我们冒雨从车站步行穿过市中心，雨伞已经湿了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1426 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-69a3d6fe783e",
+    "w": "de sport",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "休闲式的",
+        "en": "casual"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chaqueta de sport combina bien con los pantalones que hemos elegido para caminar cómodamente durante el viaje del fin de semana.",
+        "zh": "休闲夹克与所选裤子很配，适合周末旅行时舒适步行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1427 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ccb5b044e332",
+    "w": "elegante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "正式时髦的",
+        "en": "smart"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje elegante que está en el escaparate tiene un corte que nos recuerda a los modelos que vimos en la revista.",
+        "zh": "橱窗里正式时髦的西装剪裁让我们想起杂志上的款式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1428 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-14bdc4476f79",
+    "w": "la tela vaquera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牛仔布",
+        "en": "denim"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tela vaquera es más gruesa que la tela de la camisa que hemos colocado junto a los pantalones sobre la mesa.",
+        "zh": "桌上裤子的牛仔布比旁边衬衫的布料更厚。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1429 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-74d3f3320ee3",
+    "w": "el algodón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "棉",
+        "en": "cotton"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El algodón de esta camiseta resulta suave cuando comparamos la prenda con las otras que hemos elegido para llevar de viaje.",
+        "zh": "与其他准备旅行穿的衣服比较时，这件棉质T恤摸起来柔软。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1430 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e94f950b9bef",
+    "w": "el poliéster",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "聚酯纤维",
+        "en": "polyester"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El poliéster aparece en la etiqueta que estamos leyendo para conocer los materiales con los que se ha fabricado la chaqueta.",
+        "zh": "我们查看夹克材料标签，上面写着聚酯纤维。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1431 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7bf2e6a314bf",
+    "w": "la piel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮革",
+        "en": "leather"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piel del bolso tiene una textura que podemos apreciar cuando la dependienta nos acerca el modelo que hemos elegido.",
+        "zh": "店员把我们选的包递近，我们能感受到皮革的纹理。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1432 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-535f69f79fc2",
+    "w": "la seda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "丝绸",
+        "en": "silk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La seda de este pañuelo refleja suavemente la luz que entra por la ventana junto a la mesa donde está expuesto.",
+        "zh": "展示桌旁的窗光照进来，这条丝巾柔和地反光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1433 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cf3b262e2343",
+    "w": "la lana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羊毛",
+        "en": "wool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lana del jersey se ve en una muestra que la tienda ha colocado junto a otras prendas de la colección de invierno.",
+        "zh": "商店把毛衣羊毛样品放在其他冬装旁边供人查看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1434 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7144d980ac98",
+    "w": "la talla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "服装尺码",
+        "en": "size (clothing)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La talla que buscamos está escrita en la etiqueta que cuelga de la chaqueta que la dependienta acaba de traer del almacén.",
+        "zh": "店员刚从仓库取来的夹克标签上写着我们要找的尺码。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1435 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5e7980d59892",
+    "w": "el número",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鞋码",
+        "en": "size (shoe)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El número que necesitamos aparece dentro del zapato que hemos sacado de la caja para comprobar si nos queda bien.",
+        "zh": "我们取出鞋子看看合不合脚，鞋内写着所需鞋码。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 53 页 · 第 1436 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-800178bf38c4",
+    "w": "petite",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小个子尺码",
+        "en": "petite"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sección petite tiene prendas con proporciones distintas que la dependienta nos muestra después de escuchar qué tipo de ropa buscamos.",
+        "zh": "店员听完我们的需求后，展示小个子尺码区中比例不同的衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1437 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-73b8d4913976",
+    "w": "tallas grandes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大尺码",
+        "en": "plus-size"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las tallas grandes están en una zona donde podemos encontrar los mismos colores que aparecen en otras secciones de la tienda.",
+        "zh": "大码区也能找到店内其他区域陈列的相同颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1438 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e8e499b0f25f",
+    "w": "probarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "试穿",
+        "en": "to try on"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos probarnos las chaquetas antes de decidir cuál combina mejor con los pantalones que llevaremos durante la reunión del sábado.",
+        "zh": "我们想先试穿夹克，再决定哪件更配周六聚会的裤子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1439 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-fef24db02bc0",
+    "w": "el bikini",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "比基尼",
+        "en": "bikini"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bikini está colocado sobre una percha en el escaparate que la tienda ha preparado para mostrar su colección de verano.",
+        "zh": "比基尼挂在橱窗衣架上，商店展示着夏季系列。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1440 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8ec1703f3f38",
+    "w": "la blusa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女式衬衫",
+        "en": "blouse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La blusa tiene unas mangas ligeras que combinan con la falda que hemos elegido para asistir a la comida familiar.",
+        "zh": "女式衬衫袖子轻薄，与家庭聚餐准备穿的裙子相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1441 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ad0ce222e658",
+    "w": "los calzoncillos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "平角内裤",
+        "en": "boxer shorts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los calzoncillos están doblados dentro de una caja que la tienda presenta junto a otras prendas de la misma colección de algodón.",
+        "zh": "平角内裤折好装在盒中，旁边是同一棉质系列的其他衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1442 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-010e3ce15173",
+    "w": "el sujetador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胸罩",
+        "en": "bra"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sujetador está en una percha junto a los modelos que la dependienta organiza por talla antes de abrir la tienda.",
+        "zh": "胸罩挂在衣架上，店员开店前按尺码整理其他款式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1443 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1ee9fe050334",
+    "w": "la chaqueta de punto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "开衫",
+        "en": "cardigan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chaqueta de punto queda sobre los hombros de la clienta que se mira al espejo para comprobar cómo le sienta.",
+        "zh": "顾客披着开衫照镜子，查看上身效果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1444 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e78219b1999b",
+    "w": "el abrigo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大衣",
+        "en": "coat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El abrigo tiene bolsillos grandes donde podemos guardar los guantes que llevaremos cuando salgamos a caminar durante el invierno.",
+        "zh": "大衣口袋很大，能放下冬天出门散步要带的手套。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1445 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f5060947d46e",
+    "w": "el vestido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "连衣裙",
+        "en": "dress"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vestido que aparece en el escaparate tiene un color parecido al de las flores que adornan la entrada de la tienda.",
+        "zh": "橱窗连衣裙的颜色与店门口装饰的花相似。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1446 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1870573c696a",
+    "w": "la bata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晨袍",
+        "en": "dressing gown"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bata está colgada detrás de la puerta de la habitación donde hemos colocado las zapatillas junto a la cama del hotel.",
+        "zh": "晨袍挂在酒店房门后，我们把拖鞋放在床旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1447 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ea3074e24110",
+    "w": "el peto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "背带裤",
+        "en": "dungarees"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peto tiene tirantes que podemos ajustar antes de comprobar si la prenda permite movernos cómodamente al caminar por la tienda.",
+        "zh": "试穿背带裤时可先调肩带，再在店里走走看看活动是否舒适。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1448 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-09f74bdece40",
+    "w": "la chaqueta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "夹克",
+        "en": "jacket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chaqueta queda bien sobre la camisa que hemos elegido para la reunión que tendremos en la oficina el próximo lunes.",
+        "zh": "这件夹克很配我们为下周一办公室会议选的衬衫。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1449 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ad09f285eed4",
+    "w": "los vaqueros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牛仔裤",
+        "en": "jeans"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los vaqueros están colgados junto a los modelos que la tienda organiza según el tipo de corte que tiene cada pantalón.",
+        "zh": "牛仔裤挂在一起，店里按裤型整理了不同款式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1450 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8285e801e317",
+    "w": "los pantalones de chándal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "运动长裤",
+        "en": "jogging bottoms"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los pantalones de chándal están en la bolsa que hemos preparado para cambiarnos después de terminar la clase de deporte del viernes.",
+        "zh": "运动长裤放进包里，准备周五体育课后换穿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1451 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9d52742300bb",
+    "w": "el suéter",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "套头毛衣",
+        "en": "jumper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El suéter tiene un dibujo sencillo que combina con la bufanda que mi hermana ha tejido durante las tardes de este invierno.",
+        "zh": "套头毛衣图案简洁，与姐姐冬日午后织的围巾相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1452 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-fb84b2de9887",
+    "w": "las mallas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "紧身裤",
+        "en": "leggings"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las mallas están colocadas junto a la camiseta que utilizaremos cuando vayamos a la clase de baile que empieza esta tarde.",
+        "zh": "紧身裤放在T恤旁，今天下午开始的舞蹈课会穿这套衣服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1453 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c386fff820a7",
+    "w": "las bragas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "女式内裤",
+        "en": "pants"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las bragas están dobladas dentro del paquete que la tienda expone junto a las camisetas de la misma colección de ropa interior.",
+        "zh": "女式内裤叠好装在包装里，与同一内衣系列的背心一起陈列。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1454 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-24b7b7b8aa8d",
+    "w": "el pijama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "睡衣",
+        "en": "pyjamas"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pijama está sobre la cama junto al libro que mi hermano ha dejado preparado para leer antes de acostarse esta noche.",
+        "zh": "睡衣放在床上，旁边是哥哥准备今晚睡前看的书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1455 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-54e879c2cd91",
+    "w": "la camisa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "衬衫",
+        "en": "shirt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La camisa tiene un cuello que queda bien bajo la chaqueta que hemos elegido para asistir a la celebración de nuestros amigos.",
+        "zh": "这件衬衫领子与参加朋友庆祝会选的夹克很搭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1456 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9bcc483b5602",
+    "w": "el pantalón corto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "短裤",
+        "en": "shorts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pantalón corto está en la maleta que hemos preparado para pasar unos días caminando por los pueblos de la costa.",
+        "zh": "短裤装在行李箱里，我们准备去沿海村镇步行玩几天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1457 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4ba5bdf4c343",
+    "w": "la falda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "半身裙",
+        "en": "skirt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La falda se mueve suavemente cuando la clienta camina frente al espejo para ver cómo le queda la prenda que ha elegido.",
+        "zh": "顾客在镜前走动查看裙子的效果，裙摆轻轻摇动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1458 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e9c76e84b3a2",
+    "w": "los calcetines",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "袜子",
+        "en": "socks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los calcetines están organizados por parejas en el cajón que hemos ordenado antes de guardar la ropa que acabamos de lavar.",
+        "zh": "袜子成对整理在抽屉里，我们收好刚洗的衣服前先整理了抽屉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1459 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-faff3b203539",
+    "w": "la sudadera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "运动衫",
+        "en": "sweatshirt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sudadera tiene una capucha que podemos ponernos cuando hace viento durante el paseo que solemos dar al salir del trabajo.",
+        "zh": "运动衫带帽，下班散步遇到风时可以戴上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1460 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f8f7aabb3895",
+    "w": "el traje de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "连体泳衣",
+        "en": "swimsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de baño está expuesto sobre una percha junto a las toallas que la tienda ofrece para la temporada de verano.",
+        "zh": "连体泳衣挂在衣架上，旁边是店里夏季出售的毛巾。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1461 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-48c920f63755",
+    "w": "el traje de tres piezas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三件套西装",
+        "en": "(three-piece) suit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de tres piezas incluye un chaleco que la dependienta nos muestra antes de buscar una camisa que combine con todo.",
+        "zh": "三件套西装包含背心，店员展示后再找合适的衬衫。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1462 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1c109b207866",
+    "w": "la corbata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "领带",
+        "en": "tie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La corbata que hemos elegido tiene unos tonos que combinan con la camisa que llevaremos durante la ceremonia del próximo domingo.",
+        "zh": "选的领带颜色与下周日仪式要穿的衬衫相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1463 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4eb259fab29e",
+    "w": "las medias",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "连裤袜",
+        "en": "tights"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las medias están dentro de un paquete que la clienta compara con otros antes de elegir el color que necesita para su vestido.",
+        "zh": "连裤袜装在包装里，顾客与其他商品比较后选择配裙子的颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1464 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a802db1ea33b",
+    "w": "el pantalón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "长裤",
+        "en": "trousers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pantalón tiene el largo adecuado cuando nos ponemos los zapatos que llevaremos durante la reunión de trabajo del próximo martes.",
+        "zh": "穿上下周二工作会议要用的鞋后，长裤长度正好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1465 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1c22c3aea30f",
+    "w": "la camiseta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "T恤",
+        "en": "T-shirt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La camiseta tiene un dibujo que nos recuerda a las montañas que vimos durante el viaje que hicimos con nuestros amigos el verano pasado.",
+        "zh": "T恤上的图案让我们想起去年夏天和朋友旅行见过的山。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1466 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ee3757df48f4",
+    "w": "la gorra de béisbol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "棒球帽",
+        "en": "baseball cap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La gorra de béisbol está junto a la mochila que hemos preparado para pasar la tarde viendo el partido en el estadio.",
+        "zh": "棒球帽在背包旁，我们准备下午去体育场看比赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1467 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b08a368dd6d8",
+    "w": "el cinturón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腰带",
+        "en": "belt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cinturón que hemos elegido tiene una hebilla sencilla que combina bien con los zapatos que llevaremos durante la celebración familiar.",
+        "zh": "选的腰带扣很简洁，与家庭庆祝活动要穿的鞋相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1468 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1122f01e2903",
+    "w": "la pulsera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手链",
+        "en": "bracelet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pulsera queda sobre un soporte que permite ver los pequeños detalles que la joyera ha incluido en el diseño de la pieza.",
+        "zh": "手链放在支架上，可以看清珠宝师设计的小细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1469 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ce34d5baa8d3",
+    "w": "los pendientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "耳环",
+        "en": "earrings"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los pendientes están en una caja que la dependienta abre para que podamos ver cómo reflejan la luz las pequeñas piedras de colores.",
+        "zh": "店员打开耳环盒，让我们看彩色小石头如何反光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1470 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dd5af9a1bafe",
+    "w": "los guantes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手套",
+        "en": "gloves"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los guantes están dentro de los bolsillos del abrigo que hemos colgado cerca de la puerta antes de entrar en la tienda.",
+        "zh": "进店前我们把大衣挂在门旁，手套收在衣袋里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1471 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6f13cad8250d",
+    "w": "el bolso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手提包",
+        "en": "handbag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bolso tiene espacio para guardar la cartera y el cuaderno que mi hermana lleva cuando sale a hacer compras por el centro.",
+        "zh": "手提包能装钱包和笔记本，姐姐去市中心购物时会带着。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1472 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bc7ae949376b",
+    "w": "el collar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "项链",
+        "en": "necklace"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El collar está sobre una superficie oscura que permite apreciar mejor las cuentas que la artesana ha unido para crear esta pieza.",
+        "zh": "项链摆在深色表面，能更清楚地欣赏工匠串起的珠子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1473 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dff452f046b8",
+    "w": "la bufanda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "围巾",
+        "en": "scarf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bufanda rodea el cuello de la clienta que se mira al espejo para decidir si combina con el abrigo que ha elegido.",
+        "zh": "顾客围着围巾照镜子，决定是否与选的大衣相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1474 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2e5264039823",
+    "w": "el gorro de lana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羊毛帽",
+        "en": "woolly hat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gorro de lana está junto a los guantes que hemos dejado preparados para salir de casa cuando empiece a nevar esta tarde.",
+        "zh": "羊毛帽在手套旁，我们准备好下午下雪时出门用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 54 页 · 第 1475 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9a4b386cd6bc",
+    "w": "las botas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "靴子",
+        "en": "boots"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botas que estamos probando tienen una suela que parece adecuada para caminar por los senderos que recorremos durante el invierno.",
+        "zh": "正在试穿的靴子鞋底似乎适合冬天走的那些小路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1476 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f9102d93ec8d",
+    "w": "los zapatos de tacón alto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高跟鞋",
+        "en": "high heels"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los zapatos de tacón alto están en una caja que la dependienta ha colocado junto al espejo donde la clienta se prueba su vestido.",
+        "zh": "店员把高跟鞋盒放在镜旁，顾客正在那里试裙子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1477 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d3bacd405fcf",
+    "w": "los zapatos con cordones",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "系带皮鞋",
+        "en": "lace-up shoes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los zapatos con cordones necesitan ajustarse un poco antes de que podamos comprobar si resultan cómodos al caminar por la tienda.",
+        "zh": "系带皮鞋需先调紧些，再在店里走走看是否舒适。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1478 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4c99f13049c0",
+    "w": "las sandalias",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "凉鞋",
+        "en": "sandals"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las sandalias están junto al vestido que hemos preparado para llevar durante las vacaciones que pasaremos este verano cerca del mar.",
+        "zh": "凉鞋在裙子旁，我们准备夏天去海边度假时穿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1479 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1a4e0242dd2e",
+    "w": "las zapatillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拖鞋",
+        "en": "slippers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las zapatillas están al lado de la cama donde nos sentamos para descansar después de volver a casa al terminar el trabajo.",
+        "zh": "拖鞋放在床旁，我们下班回家后坐在床边休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1480 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9243ff3997e1",
+    "w": "las deportivas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "运动鞋",
+        "en": "trainers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las deportivas que hemos elegido tienen un color que combina con la ropa que utilizaremos durante la clase de entrenamiento del sábado.",
+        "zh": "选的运动鞋颜色与周六训练课的运动服相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1481 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-722377fc3a7b",
+    "w": "la ferretería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "五金店",
+        "en": "hardware shop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ferretería del barrio tiene un mostrador donde el vendedor nos ayuda a encontrar los tornillos que necesitamos para reparar la mesa.",
+        "zh": "社区五金店柜台前，店员帮我们找修桌子所需的螺丝。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1482 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9ffc62fc97fa",
+    "w": "las mejoras del hogar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "家居改造",
+        "en": "home improvements"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las mejoras del hogar empiezan con el plano que hemos dibujado para decidir dónde colocaremos los nuevos muebles de la cocina.",
+        "zh": "家居改造从我们画的平面图开始，先决定新厨房家具摆在哪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1483 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b1cf2bcac3ed",
+    "w": "la herramienta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "工具",
+        "en": "tool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La herramienta que buscamos está dentro de la caja donde mi padre guarda los objetos que utiliza para hacer pequeñas reparaciones en casa.",
+        "zh": "我们找的工具在父亲家用维修工具箱里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1484 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-985c505dc6ba",
+    "w": "la herramienta eléctrica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电动工具",
+        "en": "power tool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La herramienta eléctrica está desconectada sobre el banco donde hemos organizado los materiales que utilizaremos para construir la estantería de madera.",
+        "zh": "电动工具已断电放在工作台上，我们整理了制作木书架的材料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1485 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-91d6a04991e5",
+    "w": "la caja de herramientas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "工具箱",
+        "en": "tool box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caja de herramientas está abierta sobre el suelo para que podamos elegir los instrumentos que necesitamos antes de empezar la reparación.",
+        "zh": "工具箱在地板上打开，方便维修前挑选所需工具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1486 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-69de3da05b03",
+    "w": "hacer bricolaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "做家居手工维修",
+        "en": "to do DIY"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos gusta hacer bricolaje los fines de semana porque podemos reparar los muebles que todavía queremos conservar en nuestra casa.",
+        "zh": "我们喜欢周末做家居维修，把仍想保留的家具修好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1487 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-15376843525f",
+    "w": "el cincel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "凿子",
+        "en": "chisel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cincel está sobre el banco de trabajo junto a la pieza de madera donde el carpintero ha marcado la parte que retirará.",
+        "zh": "凿子在工作台上，旁边木料标好了木工准备去除的部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1488 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-161a4fd4bcbe",
+    "w": "el taladro eléctrico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电钻",
+        "en": "electric drill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El taladro eléctrico está guardado con sus accesorios en una caja que el vendedor abre para mostrar lo que incluye el conjunto.",
+        "zh": "电钻和配件装在盒里，店员打开盒子展示整套内容。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1489 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-12a461e37f05",
+    "w": "la sierra de arco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钢锯",
+        "en": "hacksaw"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sierra de arco está junto a la pieza de metal que el artesano ha sujetado al banco antes de comenzar su trabajo.",
+        "zh": "钢锯在金属件旁，工匠已经把金属固定到工作台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1490 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-47cf3fc41aa0",
+    "w": "el martillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锤子",
+        "en": "hammer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El martillo queda al alcance del carpintero que ha organizado sobre la mesa las piezas que necesita para montar la caja de madera.",
+        "zh": "锤子放在木工手边，他在桌上整理了组装木箱所需的部件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1491 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e063d47e1267",
+    "w": "la bombilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "灯泡",
+        "en": "light bulb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bombilla nueva permanece en su caja junto a la lámpara que hemos colocado sobre una mesa para revisar sus distintas piezas.",
+        "zh": "新灯泡仍装在盒里，旁边台灯放在桌上，准备检查各部件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1492 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-04b912a3e3e1",
+    "w": "los clavos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钉子",
+        "en": "nails"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los clavos están en un recipiente pequeño que evita que se pierdan mientras preparamos las tablas con las que montaremos la estantería.",
+        "zh": "钉子装在小容器里，准备书架木板时就不会丢失。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1493 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e582ff8d071a",
+    "w": "los tornillos y las tuercas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "螺栓和螺母",
+        "en": "nuts and bolts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los tornillos y las tuercas se encuentran separados en dos cajas que hemos colocado junto a las piezas de la estructura que vamos a montar.",
+        "zh": "螺栓和螺母分别装在两个盒里，旁边是待组装的框架部件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1494 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c0de9d121663",
+    "w": "la pintura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油漆",
+        "en": "paint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pintura está en un bote cerrado junto a las muestras de color que hemos comparado antes de elegir el tono de la pared.",
+        "zh": "油漆装在密封桶中，旁边是我们选墙面颜色前比过的色样。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1495 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bede1d0aa23a",
+    "w": "el pincel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油漆刷",
+        "en": "paintbrush"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pincel está limpio sobre una bandeja donde hemos colocado los utensilios que necesitaremos para pintar los bordes de la ventana de madera.",
+        "zh": "干净油漆刷放在托盘上，旁边是刷木窗边框要用的工具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1496 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cb804adc0dad",
+    "w": "el rodillo de pintura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "油漆滚筒",
+        "en": "paint roller"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rodillo de pintura está sobre una bandeja preparada para el trabajo que empezaremos cuando terminemos de cubrir los muebles de la habitación.",
+        "zh": "油漆滚筒放在托盘上，等盖好房间家具就开始刷墙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1497 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2c0d5791b9f4",
+    "w": "los alicates",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钳子",
+        "en": "pliers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los alicates están junto al cable que el técnico ha dejado sobre el banco donde organiza sus herramientas antes de comenzar la reparación.",
+        "zh": "钳子在电线旁，技术员维修前正在工作台上整理工具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1498 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-21adbef3ad82",
+    "w": "la sierra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锯子",
+        "en": "saw"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sierra está guardada sobre un soporte junto a las tablas que el carpintero ha medido para construir la nueva mesa del comedor.",
+        "zh": "锯子放在支架上，旁边是木工为新餐桌量好的木板。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1499 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4657579cc781",
+    "w": "el destornillador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "螺丝刀",
+        "en": "screwdriver"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El destornillador está junto a los tornillos que hemos separado antes de montar la silla que acabamos de sacar de su caja.",
+        "zh": "螺丝刀在分好的螺丝旁，我们准备组装刚拆箱的椅子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 55 页 · 第 1500 条；自编例句 B1+",
+    "m": 0
+  }
+]

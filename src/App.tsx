@@ -108,7 +108,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
       if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
         e.preventDefault();
         setPalette((p) => !p);
-      } else if (e.key === "/" && !typing && !focus) {
+      } else if (e.key === "/" && !typing) {
         e.preventDefault();
         setPalette(true);
       }
@@ -140,8 +140,8 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
           <div className="topbar-tools">
             <button className="search-pill" onClick={() => setPalette(true)} aria-label="搜索单词">
               <Search size={17} />
-              <span>搜索单词</span>
-              <kbd>⌘K</kbd>
+              <span>查词</span>
+              <kbd>Ctrl/⌘ K</kbd>
             </button>
             <AmbiencePicker />
             <button className="icon-btn" onClick={() => store.settings({ theme: dark ? "light" : "dark" })} aria-label={dark ? "切换到浅色" : "切换到深色"}>
@@ -157,7 +157,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
       <main className="main" id="main">
         {route.page === "today" && <Today />}
         {route.page === "atlas" && <AtlasPage route={route} />}
-        {route.page === "learn" && <Learn />}
+        {route.page === "learn" && <Learn onSearch={() => setPalette(true)} />}
         {route.page === "practice" && <Practice />}
         {route.page === "me" && <Me privateAvailable={privateAvailable} />}
         {route.page === "about" && <About />}

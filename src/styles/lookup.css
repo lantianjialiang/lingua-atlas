@@ -1,0 +1,40 @@
+.lookup-word {
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-bottom: 1px dashed var(--ink-4);
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: inherit;
+  text-align: inherit;
+  cursor: pointer;
+}
+.lookup-word:hover { color: var(--terra); }
+.lookup-word:focus-visible { outline: 2px solid var(--terra); outline-offset: 3px; }
+.inline-lookup {
+  position: fixed;
+  z-index: 100;
+  width: min(420px, calc(100vw - 24px));
+  max-height: calc(100dvh - 24px);
+  overflow: auto;
+  padding: 26px;
+  border: 1px solid var(--line-strong);
+  border-radius: 24px;
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: var(--shadow-lg);
+}
+.lookup-close { position: absolute; right: 10px; top: 10px; }
+.lookup-heading { display: flex; align-items: center; gap: 18px; padding-right: 20px; }
+.lookup-art { width: 72px; height: 72px; flex: 0 0 72px; border-radius: 14px; overflow: hidden; }
+.lookup-art img { width: 100%; height: 100%; object-fit: cover; }
+.lookup-heading h3 { margin: 0; font-size: 28px; overflow-wrap: anywhere; }
+.lookup-heading .ipa { margin: 8px 0 0; color: var(--ink-3); }
+.lookup-definition { margin: 22px 0; font-size: 17px; line-height: 1.7; }
+.lookup-actions { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+@media (max-width: 480px) {
+  .inline-lookup { padding: 22px; }
+  .lookup-heading h3 { font-size: 24px; }
+}

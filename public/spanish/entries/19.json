@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-361d973747de",
+    "w": "viajar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅行",
+        "en": "travelling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me gusta viajar por regiones que no conozco porque cada recorrido me permite descubrir costumbres distintas de las de mi ciudad.",
+        "zh": "我喜欢到陌生地区旅行，每次都能发现不同于家乡的习俗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1901 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-68e2274b2bf5",
+    "w": "caminar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "步行",
+        "en": "walking"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preferimos caminar hasta el pueblo, aunque el recorrido sea más largo, para disfrutar del paisaje que rodea el camino del río.",
+        "zh": "我们宁愿步行去村里，虽然更远，却能欣赏河边小路的景色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1902 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-a3d4cbca4bee",
+    "w": "ver la tele / ver películas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "看电视或电影",
+        "en": "watching TV/films"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Solemos ver películas cuando llueve durante el fin de semana, pero elegimos historias que resulten interesantes para toda la familia.",
+        "zh": "周末下雨时我们常看电影，不过会选全家都感兴趣的故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1903 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3752a21b8c9b",
+    "w": "el turista / la turista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游客",
+        "en": "tourist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La turista consultó el mapa antes de preguntar por la calle que conducía al museo donde quería pasar la mañana.",
+        "zh": "女游客先看地图，再询问去计划上午参观的博物馆怎么走。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1904 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-454fe6753476",
+    "w": "la atracción turística",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅游景点",
+        "en": "tourist attraction"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La atracción turística recibe tantos visitantes que conviene reservar la entrada antes de llegar al pueblo donde se encuentra el edificio.",
+        "zh": "那个旅游景点游客很多，最好到所在小镇之前就订好门票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1905 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-9ebc3851c7c5",
+    "w": "la ruta turística",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅游路线",
+        "en": "tourist route"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Seguimos una ruta turística que pasa por los barrios antiguos para conocer lugares que no aparecen en las visitas más habituales.",
+        "zh": "我们沿一条经过老街区的旅游路线走，认识常规行程没有的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1906 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-246ad4052746",
+    "w": "la excursión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "短途旅行",
+        "en": "excursion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Organizamos una excursión a la montaña para los amigos que querían salir de la ciudad después de una semana de trabajo.",
+        "zh": "我们为忙了一周、想离城的朋友组织了山间短途旅行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1907 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-62a59b57b17f",
+    "w": "la reserva natural",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自然保护区",
+        "en": "nature reserve"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La reserva natural tiene senderos señalizados que permiten observar las aves sin acercarse demasiado a las zonas donde construyen sus nidos.",
+        "zh": "自然保护区有标记步道，能观察鸟类而不太靠近筑巢地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1908 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-914ec7ebe499",
+    "w": "el lugar histórico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "历史遗址",
+        "en": "historic site"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Visitamos el lugar histórico con una guía que explicó cómo vivían las personas que habían ocupado aquella zona siglos atrás.",
+        "zh": "我们随导游参观历史遗址，了解几百年前当地人的生活。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1909 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-a77878e4345b",
+    "w": "la audioguía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "语音导览器",
+        "en": "audio guide"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La audioguía describe las piezas que vemos en cada sala y permite repetir las explicaciones que nos resultan más interesantes.",
+        "zh": "语音导览器介绍每个展厅的展品，还能重听最感兴趣的讲解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1910 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-16f1ee746544",
+    "w": "visitar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "参观",
+        "en": "to visit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos visitar el museo antes de que cierre para ver la exposición que han preparado los artistas que trabajan en la ciudad.",
+        "zh": "我们想在闭馆前参观博物馆，看本城艺术家准备的展览。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1911 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f507b5b0632e",
+    "w": "ver",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "观看",
+        "en": "to see"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desde la terraza podemos ver los jardines que rodean el palacio sin tener que salir del edificio donde empieza la visita.",
+        "zh": "从露台能看宫殿周围的花园，不必离开参观起点那栋楼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1912 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2f457a7159d0",
+    "w": "el museo de arte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "美术馆",
+        "en": "art gallery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El museo de arte presenta una colección que reúne obras de pintores que trabajaron en la región durante el siglo pasado.",
+        "zh": "美术馆展出一组上世纪在本地区工作的画家的作品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1913 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-bb1de9f02969",
+    "w": "la cámara",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "相机",
+        "en": "camera"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé la cámara en la mochila después de fotografiar el paisaje que habíamos descubierto al llegar al final del sendero.",
+        "zh": "拍完走到小径尽头发现的风景后，我把相机收进背包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1914 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-8656ad2af2c1",
+    "w": "el castillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "城堡",
+        "en": "castle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El castillo está en una colina desde la que se puede observar el valle que atravesamos para llegar hasta el pueblo.",
+        "zh": "城堡在山丘上，从那里能看到我们来村里时穿过的山谷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1915 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-ac830bb9f1f5",
+    "w": "la catedral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大教堂",
+        "en": "cathedral"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Entramos en la catedral cuando terminó la visita anterior para observar las esculturas que adornan las paredes junto a la entrada.",
+        "zh": "上批参观结束后，我们进入大教堂，看入口旁墙上的雕塑。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1916 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-e17656e2ae74",
+    "w": "el mapa de la ciudad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "城市地图",
+        "en": "city map"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Extendimos el mapa de la ciudad sobre una mesa para decidir qué lugares podíamos visitar antes de regresar a la estación.",
+        "zh": "我们把城市地图摊桌上，决定回车站前能逛哪些地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1917 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-b29d1f140175",
+    "w": "los jardines",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "花园",
+        "en": "gardens"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los jardines del palacio tienen caminos por los que podemos pasear mientras observamos las plantas que florecen durante la primavera.",
+        "zh": "宫殿花园有步道，我们可以边走边看春天开放的花草。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1918 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-4237b810576b",
+    "w": "la guía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅游指南",
+        "en": "guidebook"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La guía recomienda varios paseos que empiezan en la plaza donde los viajeros suelen reunirse antes de explorar el centro histórico.",
+        "zh": "旅游指南推荐几条步行路线，从旅客探索老城区前常集合的广场出发。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1919 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f7d323452d08",
+    "w": "el monumento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纪念碑",
+        "en": "monument"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El monumento recuerda a las personas que participaron en la construcción del puente por el que llegamos al centro de la ciudad.",
+        "zh": "纪念碑纪念参与建桥的人，我们就是经那座桥进城的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1920 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-602a7eca27e4",
+    "w": "el museo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "博物馆",
+        "en": "museum"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El museo ofrece visitas para familias que quieren conocer la historia de la región mediante objetos que se utilizaban en la vida cotidiana.",
+        "zh": "博物馆为家庭提供参观，通过日常旧物认识本地区历史。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1921 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-44eeb2f0b718",
+    "w": "el autobús turístico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "观光巴士",
+        "en": "sightseeing bus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Subimos al autobús turístico para conocer los barrios que quedaban demasiado lejos del hotel como para recorrerlos todos a pie.",
+        "zh": "我们坐观光巴士游览离酒店太远、难以全部步行逛完的街区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1922 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-df0fa71cc4a3",
+    "w": "el guía turístico / la guía turística",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "导游",
+        "en": "tour guide"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La guía turística nos mostró una plaza pequeña que solía pasar desapercibida para quienes visitaban la ciudad sin conocer su historia.",
+        "zh": "女导游带我们看一处小广场，不了解历史的游客常忽略它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1923 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-aced1997f5f8",
+    "w": "la oficina de turismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅游咨询处",
+        "en": "tourist office"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la oficina de turismo nos dieron información sobre los senderos que podíamos recorrer sin necesidad de alquilar un vehículo.",
+        "zh": "旅游咨询处提供了不用租车就能走的步道信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1924 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-25a5c27fa211",
+    "w": "una bebida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一杯饮料",
+        "en": "a drink"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pedimos una bebida mientras esperábamos a los amigos que habían ido a buscar las entradas para el espectáculo de aquella noche.",
+        "zh": "我们点了杯饮料，等去拿当晚演出门票的朋友。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1925 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-15e42d7d4fac",
+    "w": "las tapas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西班牙小吃",
+        "en": "tapas"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compartimos unas tapas en una terraza desde la que podíamos observar cómo cambiaba la luz sobre los edificios de la plaza.",
+        "zh": "我们在露台分享西班牙小吃，观看广场建筑上的光影变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1926 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-13db7e8040c9",
+    "w": "la vida nocturna",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "夜生活",
+        "en": "nightlife"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vida nocturna del barrio atrae a personas que buscan escuchar música después de cenar en los restaurantes de las calles cercanas.",
+        "zh": "街区夜生活吸引了在附近餐馆吃完饭、想听音乐的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1927 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-5f8b33beba46",
+    "w": "la fiesta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "聚会",
+        "en": "party"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preparamos una fiesta para celebrar que nuestra amiga había terminado el curso que llevaba varios meses estudiando después del trabajo.",
+        "zh": "朋友完成了下班后读了数月的课程，我们准备聚会庆祝。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1928 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-d80bb005f262",
+    "w": "el espectáculo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "演出",
+        "en": "show"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El espectáculo combinaba música y danza de una manera que permitió a los espectadores seguir la historia sin necesidad de palabras.",
+        "zh": "演出结合音乐与舞蹈，观众不用语言也能跟上故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1929 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-82528c1b4135",
+    "w": "la obra de teatro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "戏剧作品",
+        "en": "play"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La obra de teatro cuenta la historia de una familia que debe decidir si abandona el pueblo donde siempre ha vivido.",
+        "zh": "这部戏讲述一家人要决定是否离开一直居住的村庄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1930 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2f7ae483024c",
+    "w": "la película",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电影",
+        "en": "film"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos una película que había recomendado un amigo porque queríamos ver algo que nos diera motivos para conversar después de salir.",
+        "zh": "我们选了朋友推荐的电影，希望看完有内容可聊。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1931 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5b5b1561dbe8",
+    "w": "el festival",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "节日活动",
+        "en": "festival"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El festival reúne a músicos que llegan de varias regiones para compartir sus canciones con el público que llena las plazas.",
+        "zh": "音乐节聚集各地区的乐手，与挤满广场的观众分享歌曲。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1932 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d430fbe82f70",
+    "w": "la taquilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "售票处",
+        "en": "box office"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Recogimos las entradas en la taquilla antes de buscar el lugar donde nuestros amigos habían quedado para cenar después de la función.",
+        "zh": "我们先去售票处取票，再找朋友约好演出后吃饭的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1933 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a1eb1dc5aa33",
+    "w": "hacer vida social",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "社交",
+        "en": "to socialize"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me gusta hacer vida social los fines de semana porque durante los días de trabajo apenas encuentro tiempo para ver a mis amigos.",
+        "zh": "我喜欢周末社交，因为工作日几乎没时间见朋友。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1934 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c63bdb09987d",
+    "w": "pedir comida / bebidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "点食物或饮料",
+        "en": "to order food/drinks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de pedir comida, preguntamos qué platos podían compartir las personas que tenían preferencias distintas dentro de nuestro grupo de amigos.",
+        "zh": "点菜前，我们问哪些菜适合口味不同的朋友一起分享。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1935 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-37e3483c44af",
+    "w": "ver un espectáculo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "看演出",
+        "en": "to see a show"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidimos ver un espectáculo que empezaba temprano para poder volver al alojamiento antes de que dejara de funcionar el último autobús.",
+        "zh": "我们决定看较早开场的演出，以便末班车停运前回住处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1936 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6a6643724508",
+    "w": "ver una película",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "看电影",
+        "en": "to watch a film"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Fuimos a ver una película al cine que acababan de renovar, donde ahora había unas butacas mucho más cómodas que antes.",
+        "zh": "我们去刚翻新的影院看电影，那里的椅子比以前舒服得多。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1937 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-10f327c16f86",
+    "w": "ir a bailar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "去跳舞",
+        "en": "to go dancing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Después de cenar queríamos ir a bailar a un lugar donde la música permitiera también conversar con quienes no quisieran bailar.",
+        "zh": "晚饭后我们想去跳舞，选个不跳的人也能聊天的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1938 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8a744ce6e5be",
+    "w": "divertirse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玩得开心",
+        "en": "to enjoy oneself"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los invitados consiguieron divertirse aunque la lluvia nos obligara a trasladar los juegos al salón que habíamos preparado dentro de la casa.",
+        "zh": "虽然雨迫使我们把游戏搬进屋里的客厅，客人仍玩得开心。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1939 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-64aeee6d52f0",
+    "w": "el ballet",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "芭蕾舞",
+        "en": "ballet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ballet contaba una historia que los bailarines expresaban mediante movimientos acompañados por la música que interpretaba la orquesta del teatro.",
+        "zh": "芭蕾舞演员通过动作讲故事，由剧院乐队配乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1940 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-66113450ff9e",
+    "w": "el bar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "酒吧",
+        "en": "bar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos reunimos en un bar tranquilo donde podíamos hablar sin levantar la voz mientras esperábamos a quienes salían más tarde del trabajo.",
+        "zh": "我们在安静酒吧会合，边聊天边等下班较晚的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1941 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6ef67bd0a7e1",
+    "w": "el carnaval",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "狂欢节",
+        "en": "carnival"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante el carnaval las calles se llenan de grupos que preparan sus disfraces con meses de antelación para participar en el desfile.",
+        "zh": "狂欢节期间，街上满是提前数月准备服装参加游行的队伍。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1942 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1a955a0fc243",
+    "w": "el casino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "赌场",
+        "en": "casino"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El casino ocupa un edificio antiguo cuya fachada observamos durante el paseo que la guía había organizado por el centro histórico.",
+        "zh": "赌场在一座旧楼里，我们随导游逛老城时看了它的外墙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1943 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-813a72831e1b",
+    "w": "el cine",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电影院",
+        "en": "cinema"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cine del barrio organiza sesiones en las que se pueden ver películas que ya no aparecen en las carteleras habituales.",
+        "zh": "街区影院安排专场，放映已不在常规档期的电影。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1944 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1aa24d1c07d4",
+    "w": "el circo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马戏团",
+        "en": "circus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El circo presentó un espectáculo de acrobacias que mantuvo atentos a los niños durante toda la visita que habíamos organizado aquella tarde.",
+        "zh": "马戏团的杂技演出让孩子整个下午参观期间都看得入迷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 71 页 · 第 1945 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f2588c52fb21",
+    "w": "el espectáculo de humor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "喜剧演出",
+        "en": "comedy show"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El espectáculo de humor trataba situaciones cotidianas con las que muchos espectadores se identificaban, por lo que las risas fueron constantes.",
+        "zh": "喜剧演出讲述观众熟悉的日常情境，因此笑声不断。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1946 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cb0b2d068eb1",
+    "w": "el concierto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "音乐会",
+        "en": "concert"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compramos entradas para el concierto de una cantante que habíamos descubierto al escuchar un programa de música durante un viaje en coche.",
+        "zh": "我们买了一位歌手的音乐会门票，开车旅行听节目时认识了她。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1947 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0f2a0414d981",
+    "w": "la feria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游乐集市",
+        "en": "funfair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la feria los niños eligieron las atracciones que querían probar mientras los adultos buscaban un lugar donde dejar las mochilas.",
+        "zh": "游乐集市里孩子挑想玩的项目，大人找地方放背包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1948 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-98adc746b9e2",
+    "w": "el musical",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "音乐剧",
+        "en": "musical"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El musical combina escenas habladas con canciones que permiten comprender mejor las decisiones de los personajes a lo largo de la historia.",
+        "zh": "音乐剧把对白和歌曲结合，让人更了解角色的决定。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1949 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ee88a9bbb3b5",
+    "w": "la discoteca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "夜总会",
+        "en": "nightclub"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La discoteca está en una calle por la que pasan los autobuses nocturnos que muchos visitantes utilizan para regresar a sus alojamientos.",
+        "zh": "夜总会在夜班公交经过的街上，很多游客坐它回住处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1950 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b6aa3b1c9cff",
+    "w": "la ópera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "歌剧",
+        "en": "opera"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de asistir a la ópera, leímos un resumen del argumento para poder seguir mejor la historia que se representaba en escena.",
+        "zh": "看歌剧前，我们读了剧情梗概，以便更好跟上舞台故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1951 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-42c6745bc9cb",
+    "w": "el restaurante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐馆",
+        "en": "restaurant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reservamos una mesa en el restaurante que nos habían recomendado porque queríamos celebrar el aniversario en un lugar que no conociéramos.",
+        "zh": "我们订了别人推荐的餐馆，想在陌生地方庆祝周年纪念。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1952 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6511930efe97",
+    "w": "las tapas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西班牙小吃",
+        "en": "tapas"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las tapas que sirvieron incluían verduras y pescado, de modo que cada persona pudo elegir algo que se ajustara a sus gustos.",
+        "zh": "端来的西班牙小吃有蔬菜和鱼，每个人都能选喜欢的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1953 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-315302b256a3",
+    "w": "el teatro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "剧院",
+        "en": "theatre"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El teatro conserva la decoración antigua del vestíbulo, donde el público se reúne antes de que se abran las puertas de la sala.",
+        "zh": "剧院保留了门厅的古老装饰，开场前观众在那里集合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1954 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2fd5b5fd15e1",
+    "w": "el alojamiento y desayuno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "含早餐住宿",
+        "en": "bed and breakfast"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos alojamiento y desayuno para poder comer fuera al mediodía mientras recorríamos los pueblos que queríamos visitar durante nuestras vacaciones.",
+        "zh": "我们选含早餐住宿，白天逛度假想去的村镇时能在外吃午饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1955 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-970b2b243b04",
+    "w": "la pensión completa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "全膳",
+        "en": "full board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pensión completa incluía las tres comidas, lo que nos permitía pasar el día en el hotel sin buscar restaurantes cercanos.",
+        "zh": "全膳包括三餐，让我们整天在酒店也不用找附近餐馆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1956 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9266c715445e",
+    "w": "la media pensión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "半膳",
+        "en": "half board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reservamos media pensión porque queríamos desayunar y cenar en el hotel, pero preferíamos comer al mediodía durante nuestras excursiones por la zona.",
+        "zh": "我们订半膳，酒店吃早晚饭，中午出游时在外吃。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1957 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-46eecc854811",
+    "w": "el servicio de habitaciones",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "客房服务",
+        "en": "room service"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Consultamos el servicio de habitaciones cuando llegamos tarde al hotel después de pasar varias horas esperando la salida del tren.",
+        "zh": "我们等火车出发等了数小时，晚到酒店后查看客房服务。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1958 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4993a091a70c",
+    "w": "la llamada despertador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "叫醒电话",
+        "en": "wake-up call"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Solicitamos una llamada despertador para no perdernos el autobús que nos llevaría a la estación antes de que saliera nuestro tren.",
+        "zh": "我们申请叫醒电话，以免错过火车出发前去车站的巴士。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1959 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8de1d3ceacde",
+    "w": "el número de habitación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房间号",
+        "en": "room number"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Anoté el número de habitación en la tarjeta que guardaba en la cartera para recordarlo cuando regresáramos después de la cena.",
+        "zh": "我把房间号记在钱包里的卡片上，方便晚饭回来时记起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1960 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9fb894c8e852",
+    "w": "por persona y noche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每人每晚",
+        "en": "per person per night"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarifa se calcula por persona y noche, así que comprobamos cuánto costaría alojarnos juntos durante los tres días del viaje.",
+        "zh": "费用按每人每晚计算，我们查了三天旅行一起住多少钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1961 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f60adea7d39e",
+    "w": "el impuesto turístico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅游税",
+        "en": "tourist tax"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El recepcionista explicó que el impuesto turístico se pagaba aparte del precio que habíamos abonado al reservar la habitación por internet.",
+        "zh": "接待员说，旅游税要在网上订房已付房价之外另付。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1962 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a0bb8f8e0515",
+    "w": "registrarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "办理入住",
+        "en": "to check in"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pudimos registrarnos antes de la hora prevista porque la habitación que nos habían asignado ya estaba preparada cuando llegamos al hotel.",
+        "zh": "分配的房间在我们到酒店时已收拾好，所以能提前办理入住。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1963 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-06c1a4846001",
+    "w": "dejar la habitación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "退房",
+        "en": "to check out"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de dejar la habitación, comprobamos que no quedara nada en los cajones donde habíamos guardado los objetos pequeños durante la estancia.",
+        "zh": "退房前我们检查了存放小物件的抽屉，确保没遗漏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1964 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1638d883fd9e",
+    "w": "pedir el servicio de habitaciones",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "叫客房服务",
+        "en": "to order room service"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidimos pedir el servicio de habitaciones porque estábamos cansados del viaje y preferíamos cenar sin tener que volver a salir del hotel.",
+        "zh": "旅途太累，我们决定叫客房服务，在酒店里吃晚饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1965 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-51f5506f28f0",
+    "w": "el pasillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "走廊",
+        "en": "corridor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pasillo que conduce a nuestra habitación tiene ventanas desde las que se pueden ver los jardines que rodean el edificio principal.",
+        "zh": "通往房间的走廊有窗，可以看主楼周围的花园。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1966 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-15becb4588a3",
+    "w": "el cartel de “no molestar”",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "请勿打扰牌",
+        "en": "“do not disturb” sign"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colgamos el cartel de no molestar antes de descansar un rato, ya que habíamos llegado temprano después de viajar durante la noche.",
+        "zh": "我们坐夜车早到，休息前挂上请勿打扰牌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1967 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-118450b4dcb6",
+    "w": "la habitación doble",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双人房",
+        "en": "double room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La habitación doble tenía una cama grande y un escritorio donde podíamos organizar los documentos que necesitábamos para la reunión del día siguiente.",
+        "zh": "双人房有大床和书桌，可整理次日开会的文件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1968 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-43c2cbe84751",
+    "w": "la llave de tarjeta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房卡",
+        "en": "key card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos la llave de tarjeta lejos del teléfono para encontrarla fácilmente al regresar al hotel después de pasar el día fuera.",
+        "zh": "我们把房卡和手机分开放，好在外出一天回酒店时容易找到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1969 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-45d3c7fc70f4",
+    "w": "el minibar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "迷你吧",
+        "en": "minibar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el minibar encontramos agua y refrescos, pero consultamos los precios antes de elegir algo que pudiéramos tomar después del viaje.",
+        "zh": "迷你吧里有水和汽水，我们先查价格，再选旅途后喝的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1970 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6d3301ba1d4a",
+    "w": "el mozo / la moza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李员",
+        "en": "porter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mozo llevó las maletas hasta la habitación mientras nosotros preguntábamos en recepción dónde podíamos encontrar un restaurante que siguiera abierto.",
+        "zh": "行李员把箱子送上房，我们在前台问哪里还有开门的餐馆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1971 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-005d6ec73dc8",
+    "w": "la recepción",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "前台",
+        "en": "reception"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la recepción nos indicaron cómo llegar a la estación sin tener que cambiar de autobús durante el recorrido por la ciudad.",
+        "zh": "前台告诉我们怎样去车站，途中不用换公交。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1972 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-840e6b897dea",
+    "w": "el recepcionista / la recepcionista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "接待员",
+        "en": "receptionist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La recepcionista comprobó la reserva y nos entregó un plano donde había señalado los lugares que podíamos visitar cerca del hotel.",
+        "zh": "女接待员核对预订，给我们标出酒店附近景点的地图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1973 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7fd824e06f74",
+    "w": "la caja fuerte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "保险箱",
+        "en": "safe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos los documentos en la caja fuerte antes de salir para evitar llevarlos durante el paseo que habíamos planeado por la playa.",
+        "zh": "出门前我们把证件放保险箱，免得海滩散步时随身带着。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1974 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1b7be66dffc4",
+    "w": "la habitación individual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单人房",
+        "en": "single room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reservé una habitación individual porque necesitaba un espacio tranquilo donde preparar la presentación que debía hacer durante la conferencia del día siguiente.",
+        "zh": "我订单人房，需要安静地方准备次日会议发言。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1975 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bd557bdfdc6f",
+    "w": "los artículos de perfumería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "洗漱用品",
+        "en": "toiletries"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los artículos de perfumería estaban en una bandeja junto al lavabo, donde también habíamos dejado las cosas que traíamos de casa.",
+        "zh": "洗漱用品在洗手盆旁的托盘里，我们也把自带用品放在那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1976 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cf851031c35b",
+    "w": "la habitación de dos camas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双床房",
+        "en": "twin room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pedimos una habitación de dos camas para que cada uno pudiera descansar cómodamente después de las excursiones que haríamos durante la semana.",
+        "zh": "我们要了双床房，让每个人在一周的游览后都能舒服休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 72 页 · 第 1977 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-95aeb7ec8003",
+    "w": "el camping",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "露营地",
+        "en": "campsite"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El camping tiene una zona tranquila junto a los árboles donde podemos montar la tienda sin alejarnos demasiado de los servicios comunes.",
+        "zh": "露营地树旁有安静区域，可搭帐篷又不离公共设施太远。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1978 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6cbbdd2f5441",
+    "w": "la cabaña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小木屋",
+        "en": "chalet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cabaña que alquilamos tenía una terraza desde la que podíamos observar el bosque mientras desayunábamos antes de salir a caminar.",
+        "zh": "租的小木屋有露台，我们出发散步前边吃早餐边看森林。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1979 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b4c8f4b89970",
+    "w": "la parcela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "营位",
+        "en": "pitch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos una parcela que tuviera algo de sombra para que la tienda no se calentara demasiado durante las horas centrales del día.",
+        "zh": "我们选有阴影的营位，避免帐篷在中午太热。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1980 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-63d12f50b0c4",
+    "w": "el cable conector",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "营地电源连接线",
+        "en": "electricity hook-up"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cable conector permite llevar electricidad a la caravana desde el punto de suministro que se encuentra junto a nuestra parcela.",
+        "zh": "电源连接线把营位旁供电点的电接入房车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1981 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-119b99a800ef",
+    "w": "el bloque de los aseos / las duchas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "厕所或淋浴区",
+        "en": "toilet/shower block"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bloque de los aseos está cerca de la entrada, de modo que podemos encontrarlo fácilmente cuando regresamos al camping por la noche.",
+        "zh": "厕所区在入口附近，晚上回营地也容易找到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1982 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9a06c3700a49",
+    "w": "los cubos de basura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "垃圾桶",
+        "en": "rubbish bins"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Separamos los residuos antes de llevarlos a los cubos de basura que estaban colocados junto al camino principal del camping.",
+        "zh": "我们分类垃圾，再送到营地主路旁的垃圾桶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1983 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-65aac8fa52ef",
+    "w": "el campista / la campista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "露营者",
+        "en": "camper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La campista preparó la cena mientras sus compañeros organizaban el interior de la tienda que habían montado al llegar por la tarde.",
+        "zh": "女露营者做晚饭，同伴整理下午到达后搭起的帐篷内部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1984 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8c52cd8b5983",
+    "w": "acampar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "露营",
+        "en": "to camp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queríamos acampar cerca del lago para poder empezar a caminar temprano sin tener que conducir desde el pueblo donde habíamos dormido antes.",
+        "zh": "我们想在湖边露营，次日可早出发，不用从前晚住的村里开车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1985 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5f2ec37ef7e1",
+    "w": "montar una tienda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "搭帐篷",
+        "en": "to pitch a tent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendimos a montar una tienda siguiendo las instrucciones que habíamos leído antes de salir, aunque al principio necesitáramos ayudarnos entre todos.",
+        "zh": "我们照出发前读的说明学搭帐篷，起初需要大家互相帮助。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1986 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0f68496f048f",
+    "w": "desmontar una tienda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拆帐篷",
+        "en": "to take down a tent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empezamos a desmontar una tienda después de recoger los sacos de dormir para que todo estuviera listo antes de que llegara el autobús.",
+        "zh": "收好睡袋后，我们开始拆帐篷，争取公交到来前一切就绪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1987 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-606c5e573f6b",
+    "w": "viajar en caravana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拖挂房车旅行",
+        "en": "to go caravanning"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidimos viajar en caravana porque queríamos cambiar de lugar cada pocos días sin tener que preparar las maletas todas las mañanas.",
+        "zh": "我们决定拖挂房车旅行，隔几天换地方却不用每天早上装行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1988 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9b213928b57f",
+    "w": "la colchoneta inflable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "充气床垫",
+        "en": "air bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Inflamos la colchoneta inflable dentro de la tienda para poder descansar mejor después del largo recorrido que habíamos hecho por la montaña.",
+        "zh": "我们在帐篷里把充气床垫充好，方便爬完长山路后休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1989 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-75fddee5bf84",
+    "w": "el hornillo de gas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "露营燃气炉",
+        "en": "camping stove"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos el hornillo de gas en una superficie estable al aire libre para preparar la comida que habíamos traído desde casa.",
+        "zh": "我们把露营燃气炉放在户外稳固平面上，烹煮带来的食物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1990 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c7896ad2c415",
+    "w": "la caravana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拖挂房车",
+        "en": "caravan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caravana quedó aparcada junto a los árboles mientras preparábamos la mesa donde íbamos a cenar después de terminar de organizar el equipaje.",
+        "zh": "拖挂房车停在树旁，我们摆好整理行李后吃晚饭的桌子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1991 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5764cdf60bf7",
+    "w": "la nevera de camping",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "保温箱",
+        "en": "cool box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos los alimentos en la nevera de camping para que se mantuvieran frescos durante el viaje hasta el lugar donde pasaríamos la noche.",
+        "zh": "我们把食物放保温箱，保持新鲜直到抵达过夜处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1992 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6a37ab2473ae",
+    "w": "la bomba de pie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脚踏气泵",
+        "en": "footpump"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Utilizamos la bomba de pie para inflar la colchoneta antes de colocarla dentro de la tienda que habíamos montado junto al bosque.",
+        "zh": "我们用脚踏气泵给床垫充气，再放进林边搭好的帐篷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1993 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-92947eff6e0a",
+    "w": "la esterilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "露营垫",
+        "en": "mat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Extendimos la esterilla sobre el suelo de la tienda para tener una superficie más cómoda donde sentarnos mientras organizábamos las mochilas.",
+        "zh": "我们把露营垫铺在帐篷地上，整理背包时坐得更舒服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1994 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8507de0629d3",
+    "w": "las cerillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "火柴",
+        "en": "matches"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos las cerillas en una caja cerrada para que permanecieran secas durante el recorrido que íbamos a hacer por la montaña.",
+        "zh": "我们把火柴放进密封盒，确保接下来山间行程中保持干燥。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1995 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4787dc71e5b4",
+    "w": "la autocaravana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自行式房车",
+        "en": "motorhome"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La autocaravana nos permitió recorrer varios pueblos sin reservar alojamiento, aunque buscábamos lugares adecuados donde pasar la noche antes de que oscureciera.",
+        "zh": "自行式房车让我们游览多个村镇无需订房，不过要天黑前找好过夜处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1996 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5f976376c0ed",
+    "w": "la mochila",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "背包",
+        "en": "rucksack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Repartimos el peso de la mochila antes de empezar a caminar para llevar cómodamente el agua y la comida que necesitaríamos durante el recorrido.",
+        "zh": "我们出发前分配好背包重量，舒服携带途中所需水和食物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1997 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4fc22f9f9a4d",
+    "w": "el saco de dormir",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "睡袋",
+        "en": "sleeping bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrí el saco de dormir dentro de la tienda mientras mi compañero preparaba las linternas que utilizaríamos después de que se pusiera el sol.",
+        "zh": "我在帐篷里展开睡袋，同伴准备日落后用的手电筒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1998 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-49b141e72156",
+    "w": "la tienda de campaña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帐篷",
+        "en": "tent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tienda de campaña quedó protegida del viento detrás de unos árboles que encontramos al buscar un lugar donde pasar la noche.",
+        "zh": "找过夜处时我们发现几棵树，把帐篷搭在后面避风。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 1999 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-20ad4016c8f1",
+    "w": "la linterna",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手电筒",
+        "en": "torch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Encendimos la linterna para encontrar el camino de vuelta a la tienda después de lavar los platos en la zona común del camping.",
+        "zh": "在营地公共区洗完盘子后，我们打开手电筒，找回帐篷的路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2000 条；自编例句 B1+",
+    "m": 0
+  }
+]

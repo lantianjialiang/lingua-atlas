@@ -7,16 +7,16 @@ import { toggleBookmark, useStore } from "../store/store";
 import { Illustration } from "./Illustration";
 import { Speak } from "./Speak";
 import { shareWord } from "./share";
-import { openWord } from "../lib/router";
+import { LookupText } from "./InlineLookup";
 
 export function Highlight({ text, word }: { text: string; word: string }) {
   const parts = splitHighlight(text, word);
-  if (!parts) return <>{text}</>;
+  if (!parts) return <LookupText text={text} />;
   return (
     <>
-      {parts[0]}
-      <mark>{parts[1]}</mark>
-      {parts[2]}
+      <LookupText text={parts[0]} />
+      <mark><LookupText text={parts[1]} /></mark>
+      <LookupText text={parts[2]} />
     </>
   );
 }
@@ -118,7 +118,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
                 const { en, zh } = splitPair(c);
                 return (
                   <li key={c}>
-                    <span lang="es">{en}</span>
+                    <span lang="es"><LookupText text={en} /></span>
                     {zh && <small>{zh}</small>}
                   </li>
                 );
@@ -135,9 +135,7 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
                 <p>
                   {famLinks.map((f) =>
                     f.id && mode === "detail" ? (
-                      <button key={f.label} className="link" onClick={() => openWord(f.id!)}>
-                        {f.label}
-                      </button>
+                      <span key={f.label}><LookupText text={f.label} /></span>
                     ) : (
                       <span key={f.label}>{f.label}</span>
                     ),
@@ -148,13 +146,13 @@ export function EntryView({ entry, mode = "detail", eager = true }: { entry: Ent
             {entry.syn.length > 0 && (
               <div>
                 <h3 className="eyebrow">近义</h3>
-                <p>{entry.syn.map((s) => <span key={s}>{s}</span>)}</p>
+                <p>{entry.syn.map((s) => <span key={s}><LookupText text={s} /></span>)}</p>
               </div>
             )}
             {entry.ant.length > 0 && (
               <div>
                 <h3 className="eyebrow">反义</h3>
-                <p>{entry.ant.map((s) => <span key={s}>{s}</span>)}</p>
+                <p>{entry.ant.map((s) => <span key={s}><LookupText text={s} /></span>)}</p>
               </div>
             )}
           </section>

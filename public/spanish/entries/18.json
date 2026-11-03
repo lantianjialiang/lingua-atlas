@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-5a908f840b3e",
+    "w": "las tijeras",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "剪刀",
+        "en": "scissors"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Busqué las tijeras que habíamos guardado en el cajón para recortar las fotografías antes de pegarlas en el informe.",
+        "zh": "我找出抽屉里的剪刀，先剪照片再贴进报告。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1801 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-33fae81dae83",
+    "w": "la grapadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "订书机",
+        "en": "stapler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La grapadora dejó de funcionar cuando intentamos unir todas las páginas del documento que debíamos entregar aquella misma tarde.",
+        "zh": "我们想订好当天下午要交的文件时，订书机坏了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1802 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-a45d8ebf2dde",
+    "w": "las notas adhesivas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "便利贴",
+        "en": "sticky notes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pegamos notas adhesivas alrededor de la pantalla para recordar las tareas que todavía no habíamos terminado al salir de la oficina.",
+        "zh": "我们在屏幕周围贴便利贴，记下离开办公室前没完成的任务。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1803 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-e5d6c9b11ecb",
+    "w": "el celo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "透明胶带",
+        "en": "sticky tape"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Necesitamos el celo que está junto a la impresora para cerrar las cajas antes de que llegue la empresa de transporte.",
+        "zh": "我们需要打印机旁的透明胶带，在运输公司到来前封箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1804 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f71207c41729",
+    "w": "la silla giratoria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "转椅",
+        "en": "swivel chair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La silla giratoria permite alcanzar los cajones sin levantarse, aunque prefiero caminar un poco después de pasar varias horas sentado.",
+        "zh": "转椅让人不用起身就能拿到抽屉里的东西，不过久坐后我更愿意走走。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1805 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2e3942187fc2",
+    "w": "el teléfono",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电话",
+        "en": "telephone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El teléfono sonó mientras explicábamos el proyecto al equipo que acababa de llegar de la otra oficina de la empresa.",
+        "zh": "我们向刚从另一办公室来的团队介绍项目时，电话响了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1806 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-71e9ac5b62b0",
+    "w": "la memoria USB",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "U盘",
+        "en": "USB stick"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé una copia en la memoria USB para poder presentar el trabajo aunque la conexión a internet dejara de funcionar.",
+        "zh": "我在U盘里存了副本，这样即使断网也能展示作品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1807 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1b5c5892928d",
+    "w": "la sucursal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行分行",
+        "en": "branch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sucursal que está cerca de la estación abre más temprano, por lo que podemos hacer las gestiones antes de trabajar.",
+        "zh": "车站附近的银行分行开门早，我们能在上班前办事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1808 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-eab3b59bcebb",
+    "w": "el cajero / la cajera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行柜员",
+        "en": "cashier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cajera nos pidió un documento de identidad antes de entregarnos los billetes que habíamos solicitado para el viaje.",
+        "zh": "银行女柜员让我们出示证件，才交付旅行要用的纸币。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1809 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-c6cc450c8fa8",
+    "w": "la banca por internet",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网上银行",
+        "en": "online banking"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Utilizo la banca por internet para revisar los movimientos de mi cuenta sin tener que desplazarme a la sucursal del barrio.",
+        "zh": "我用网上银行查看账户明细，不必跑到街区里的分行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1810 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-5676bb68b452",
+    "w": "la cuenta bancaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行账户",
+        "en": "bank account"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos una cuenta bancaria compartida para pagar los gastos de la vivienda en la que nos instalamos el mes pasado.",
+        "zh": "我们开了联名银行账户，支付上个月搬入住房的开销。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1811 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-c1065a7d874c",
+    "w": "la cuenta corriente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "活期账户",
+        "en": "current account"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salario llega a mi cuenta corriente, desde la que también se pagan las facturas que recibimos cada mes.",
+        "zh": "工资打进我的活期账户，每月账单也从那里支付。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1812 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-03b0c23c7510",
+    "w": "la cuenta de ahorros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "储蓄账户",
+        "en": "savings account"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Transferimos una pequeña cantidad a la cuenta de ahorros cada mes para preparar el viaje que queremos hacer el próximo verano.",
+        "zh": "我们每月往储蓄账户转一点钱，为明年夏天的旅行做准备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 66 页 · 第 1813 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-e09f0c744c58",
+    "w": "el número de cuenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "账号",
+        "en": "account number"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Comprobé el número de cuenta antes de confirmar la operación porque no quería enviar el dinero a una persona equivocada.",
+        "zh": "我确认操作前核对账号，以免把钱打错人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1814 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-23607184ba7a",
+    "w": "el titular de la cuenta / la titular de la cuenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "账户持有人",
+        "en": "account holder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La titular de la cuenta firmó el formulario después de leer las condiciones que le había explicado el empleado del banco.",
+        "zh": "账户女持有人读完银行职员解释过的条款后，在表格上签字。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1815 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-6e3850cf484a",
+    "w": "el extracto de cuenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行对账单",
+        "en": "bank statement"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Revisamos el extracto de cuenta para localizar un pago que no aparecía en la lista de gastos que habíamos preparado.",
+        "zh": "我们检查银行对账单，寻找一笔没记在开销表里的付款。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1816 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2da439aa673d",
+    "w": "el saldo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "账户余额",
+        "en": "bank balance"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Consulté el saldo antes de comprar los billetes del tren para asegurarme de que quedaba suficiente dinero para los demás gastos.",
+        "zh": "我买火车票前查了余额，确保其他开销还有足够的钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1817 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f55c16d3b0b1",
+    "w": "el descubierto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "透支",
+        "en": "overdraft"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El empleado nos explicó que el descubierto se había producido después de pagar una factura que no habíamos previsto ese mes.",
+        "zh": "职员解释说，透支是因为支付了当月未预料到的一笔账单。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1818 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-22d6d83d71c3",
+    "w": "la transferencia bancaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行转账",
+        "en": "bank transfer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hicimos la transferencia bancaria después de comprobar que el nombre del destinatario coincidía con el que figuraba en la factura.",
+        "zh": "我们核对收款人姓名与账单一致后，做了银行转账。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1819 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-0141f0d7da97",
+    "w": "el talonario de cheques",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "支票簿",
+        "en": "chequebook"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El comerciante buscó el talonario de cheques en el cajón donde guardaba los documentos relacionados con los pagos del negocio.",
+        "zh": "商人从存放业务付款文件的抽屉里找支票簿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1820 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-fd5c76f98b61",
+    "w": "la libreta de ahorros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "存折",
+        "en": "savings book"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi abuela llevó la libreta de ahorros a la oficina para que actualizaran los movimientos que aún no estaban anotados.",
+        "zh": "祖母带存折去营业处，补登尚未记录的明细。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1821 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f58936bfcc27",
+    "w": "la moneda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "货币",
+        "en": "currency"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de salir buscamos información sobre la moneda que se utiliza en el país donde vamos a pasar las vacaciones.",
+        "zh": "出发前，我们查了度假目的国使用的货币。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1822 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-dbecfa6094ad",
+    "w": "el préstamo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贷款",
+        "en": "loan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Solicitaron un préstamo para comprar las máquinas que necesitaban al abrir el taller que habían planeado durante varios años.",
+        "zh": "他们申请贷款买机器，开起筹划多年的作坊。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1823 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-dc5bec2702ee",
+    "w": "la hipoteca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房贷",
+        "en": "mortgage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de firmar la hipoteca, la pareja comparó las condiciones que ofrecían los bancos de la ciudad donde querían vivir.",
+        "zh": "签房贷前，这对伴侣比较了目标城市各银行的条件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1824 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3d142e0fe26f",
+    "w": "el interés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "利息",
+        "en": "interest"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El asesor mostró cómo cambiaría el interés del préstamo si elegíamos un plazo distinto del que habíamos considerado al principio.",
+        "zh": "顾问说明，如果选择不同于最初考虑的期限，贷款利息会如何变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1825 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-b71baf178a5e",
+    "w": "pedir prestado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "借入",
+        "en": "to borrow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Prefiero pedir prestado el taladro a mi vecino porque solo lo necesito para colocar los estantes que compramos ayer.",
+        "zh": "我更愿向邻居借电钻，因为只用它装昨天买的架子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1826 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-c7f30db57d01",
+    "w": "devolver el dinero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "还钱",
+        "en": "to repay"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pudimos devolver el dinero antes de la fecha acordada porque el cliente pagó el trabajo que habíamos terminado la semana anterior.",
+        "zh": "客户付了上周完工的钱，我们因此能提前还钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1827 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-157cadea0c97",
+    "w": "sacar dinero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "取钱",
+        "en": "to withdraw"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Voy a sacar dinero antes de ir al mercado, ya que algunos puestos pequeños todavía no permiten pagar con tarjeta.",
+        "zh": "我去市场前要取钱，因为有些小摊仍不能刷卡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1828 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-7466584641f8",
+    "w": "depositar dinero en la cuenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "往账户存钱",
+        "en": "to make a deposit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Necesito depositar dinero en la cuenta para que el banco pueda pagar las facturas que llegarán a principios del mes próximo.",
+        "zh": "我得往账户存钱，让银行能支付下月初的账单。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1829 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-66b19f5bd10d",
+    "w": "cambiar dinero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "兑换货币",
+        "en": "to change money"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Decidimos cambiar dinero después de comparar las condiciones de varios establecimientos que habíamos encontrado cerca de la estación de autobuses.",
+        "zh": "我们比较汽车站附近几家店的条件后，决定兑换货币。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1830 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-8859b0fbe991",
+    "w": "el cajero automático",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自动取款机",
+        "en": "ATM"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cajero automático está junto a la entrada del banco, donde podemos utilizarlo incluso cuando la oficina ya ha cerrado.",
+        "zh": "自动取款机在银行入口旁，营业处关门后也能使用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1831 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1df506bd6625",
+    "w": "los billetes de banco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纸币",
+        "en": "banknotes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Separamos los billetes de banco según su valor antes de repartir el dinero que cada grupo necesitaría durante la excursión.",
+        "zh": "我们先按面额分好纸币，再分发各小组出游所需的钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1832 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-0bf7e59ec288",
+    "w": "la casa de cambio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "货币兑换处",
+        "en": "bureau de change"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La casa de cambio que encontramos cerca del hotel estaba cerrada, así que buscamos otra antes de iniciar la visita.",
+        "zh": "酒店附近的兑换处关门了，我们参观前又找了一家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1833 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-c657c06b6ded",
+    "w": "la tarjeta de débito / crédito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "借记卡或信用卡",
+        "en": "debit/credit card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé la tarjeta de crédito en un bolsillo interior para poder encontrarla cuando llegáramos al hotel que habíamos reservado.",
+        "zh": "我把信用卡放在内袋，方便到预订的酒店时取出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1834 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-14fb5a73ca86",
+    "w": "el tipo de cambio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汇率",
+        "en": "exchange rate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Comparamos el tipo de cambio que mostraban dos oficinas antes de decidir dónde íbamos a cambiar el dinero para el viaje.",
+        "zh": "我们比较了两家营业处显示的汇率，再决定在哪换旅行的钱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1835 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-792f51a8eecb",
+    "w": "la caja fuerte de seguridad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "银行保险箱",
+        "en": "safety deposit box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La familia guardó los documentos originales en una caja fuerte de seguridad y conservó copias para las gestiones que hacía habitualmente.",
+        "zh": "一家人把原件放进银行保险箱，留下副本办理日常事务。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1836 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1153e844781e",
+    "w": "la dirección",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地址",
+        "en": "address"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Escribí la dirección con cuidado para que el paquete llegara a la casa donde mi hermana se había mudado recientemente.",
+        "zh": "我仔细写好地址，让包裹送到姐姐最近搬入的家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1837 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-ac2137c7bf59",
+    "w": "el correo urgente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "特快邮件",
+        "en": "special delivery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos el correo urgente porque los documentos tenían que llegar antes de la reunión que se celebraría al día siguiente.",
+        "zh": "我们选特快邮件，因为文件必须在次日会议前送到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1838 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3250a8f5377c",
+    "w": "el correo ordinario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "普通邮件",
+        "en": "standard post"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Envié las fotografías por correo ordinario porque mi amigo no tenía prisa y prefería recibirlas junto con la carta que escribí.",
+        "zh": "我用普通邮件寄照片，因为朋友不着急，也愿连同信一起收到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1839 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-d975b03e7107",
+    "w": "la caja verde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "环保邮寄箱",
+        "en": "eco box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la oficina elegimos una caja verde para enviar los libros que habíamos separado como regalo para nuestros amigos.",
+        "zh": "我们在邮局选了环保邮寄箱，寄出为朋友挑的书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1840 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-43b6e247c3ba",
+    "w": "el localizador del envío",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮件追踪号",
+        "en": "tracking number"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé el localizador del envío para consultar por dónde iba el paquete que habíamos enviado a nuestros familiares la semana anterior.",
+        "zh": "我留好邮件追踪号，查询上周寄给家人的包裹到了哪里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1841 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1589ff188b1d",
+    "w": "el mensajero / la mensajera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "快递员",
+        "en": "courier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mensajera llamó al timbre mientras preparábamos las cajas que debíamos entregar a los clientes antes del final de la tarde.",
+        "zh": "我们正准备傍晚前要交给客户的箱子时，女快递员按了门铃。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1842 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2d1d18035091",
+    "w": "el correo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮件",
+        "en": "mail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Clasificamos el correo que había llegado durante las vacaciones antes de responder a las cartas que requerían una respuesta más rápida.",
+        "zh": "我们整理假期收到的邮件，先回复最急的信。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 67 页 · 第 1843 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-392bd17baf7e",
+    "w": "el correo aéreo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "航空邮件",
+        "en": "airmail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mandamos las postales por correo aéreo para que llegaran a nuestros amigos antes de que terminara el viaje por la costa.",
+        "zh": "我们用航空邮件寄明信片，希望海岸旅行结束前朋友能收到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1844 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-a2e706343f4f",
+    "w": "mandar por correo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮寄",
+        "en": "to post"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Voy a mandar por correo los documentos que firmamos ayer para que la oficina pueda completar el trámite durante esta semana.",
+        "zh": "我要邮寄昨天签的文件，让营业处本周办完手续。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1845 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-94014305d354",
+    "w": "enviar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发送",
+        "en": "to send"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de enviar el paquete, comprobamos que contenía todas las piezas que el cliente había pedido para reparar su bicicleta.",
+        "zh": "发包裹前，我们核对里面有客户修自行车所订的全部零件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1846 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-51608f3d32c2",
+    "w": "la caja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "箱子",
+        "en": "box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Escogimos una caja suficientemente grande para guardar los regalos que habíamos comprado sin que se estropearan durante el transporte.",
+        "zh": "我们选了够大的箱子装礼物，以免运输中损坏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1847 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1286cb870724",
+    "w": "el sobre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "信封",
+        "en": "envelope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Puse la carta en el sobre después de añadir una fotografía que había encontrado al ordenar los cajones del escritorio.",
+        "zh": "我加上一张整理书桌抽屉时找到的照片，再把信装进信封。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1848 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-793c5fd2e311",
+    "w": "la carta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "信",
+        "en": "letter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la carta contamos las novedades del barrio para que nuestros amigos supieran cómo habían cambiado las cosas desde su última visita.",
+        "zh": "信里讲了街区近况，让朋友知道上次来访后有什么变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1849 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-6145566a2beb",
+    "w": "el paquete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "包裹",
+        "en": "package"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paquete llegó a la oficina justo cuando estábamos a punto de salir para reunirnos con los clientes que lo habían solicitado.",
+        "zh": "我们正要出门见订货客户时，包裹送到办公室了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1850 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-b5d72ebe8c50",
+    "w": "el sobre acolchado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "气泡信封",
+        "en": "padded envelope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Protegimos la pieza pequeña con un sobre acolchado para que pudiera viajar junto a los documentos sin sufrir golpes durante el trayecto.",
+        "zh": "我们用气泡信封保护小零件，让它和文件一起寄出而不受撞击。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1851 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-85fca283b4ef",
+    "w": "el cartero / la cartera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮递员",
+        "en": "postal worker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cartera dejó las cartas en los buzones mientras los vecinos preparaban la entrada del edificio para las obras del día siguiente.",
+        "zh": "邻居正为次日施工整理入口时，女邮递员把信放进信箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1852 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-68f94467ac08",
+    "w": "el buzón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮筒",
+        "en": "postbox"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos las postales en el buzón que había frente al hotel antes de tomar el autobús que nos llevaría al aeropuerto.",
+        "zh": "我们坐机场巴士前，把明信片投入酒店对面的邮筒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1853 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-6f640314ec2b",
+    "w": "la postal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "明信片",
+        "en": "postcard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegí una postal con la imagen de la plaza que habíamos visitado para contar a mi familia cómo estaba siendo el viaje.",
+        "zh": "我选了印有刚游览广场的明信片，向家人讲旅行见闻。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1854 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-7ac4de0df0b7",
+    "w": "el sello",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮票",
+        "en": "stamp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El empleado nos indicó qué sello necesitábamos para enviar la carta al país donde nuestros amigos estaban trabajando desde enero.",
+        "zh": "职员告诉我们，寄信到朋友自一月起工作的国家需要哪种邮票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1855 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-ce295b9cb3d3",
+    "w": "la cafetería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "咖啡馆",
+        "en": "café"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Quedamos en la cafetería que está junto al museo para descansar un rato después de recorrer las salas de la exposición.",
+        "zh": "我们约在博物馆旁的咖啡馆，逛完展厅后休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1856 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-771752b21230",
+    "w": "la catedral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大教堂",
+        "en": "cathedral"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La catedral que visitamos conserva unas ventanas antiguas por las que entra la luz que ilumina las paredes del edificio.",
+        "zh": "我们参观的大教堂保留着古老窗户，光从那里照亮墙壁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1857 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-2e8a237565f2",
+    "w": "la iglesia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "教堂",
+        "en": "church"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La iglesia está al final de una calle estrecha que recorrimos siguiendo las indicaciones que nos había dado la recepcionista.",
+        "zh": "教堂在窄街尽头，我们按接待员的指示走到了那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1858 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-685897d93524",
+    "w": "el centro de conferencias",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "会议中心",
+        "en": "conference centre"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El centro de conferencias dispone de varias salas donde los participantes pueden reunirse después de escuchar las presentaciones del programa principal.",
+        "zh": "会议中心有几间房，参与者听完主要报告后可在那里交流。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1859 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3f8e44b50f7d",
+    "w": "el juzgado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "法院",
+        "en": "courthouse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos encontramos frente al juzgado antes de acompañar a la traductora que tenía que entregar unos documentos relacionados con su trabajo.",
+        "zh": "我们在法院前会合，陪翻译员递交工作文件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1860 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3a4994c6ff2b",
+    "w": "el parque de bomberos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "消防站",
+        "en": "fire station"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El parque de bomberos organizó una visita durante la que los vecinos pudieron conocer los vehículos que se utilizan en las emergencias.",
+        "zh": "消防站组织参观，居民了解了紧急时使用的车辆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1861 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-4f8e2316a019",
+    "w": "la fuente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "喷泉",
+        "en": "fountain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fuente del centro de la plaza estaba rodeada de personas que descansaban mientras esperaban a sus compañeros de viaje.",
+        "zh": "广场中央喷泉周围坐着休息的人，等候同行旅伴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1862 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-22c6ba487a38",
+    "w": "el hospital",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "医院",
+        "en": "hospital"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hospital que vimos desde la ventana está conectado con la estación mediante un autobús que pasa cada pocos minutos.",
+        "zh": "窗外那家医院与车站之间有公交，每隔几分钟一班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1863 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-4d4fc969ce3a",
+    "w": "el hotel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "酒店",
+        "en": "hotel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos un hotel cercano a la estación para poder dejar las maletas antes de recorrer el centro de la ciudad.",
+        "zh": "我们选车站附近的酒店，好先放行李再逛市中心。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1864 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1877134ddb94",
+    "w": "la lavandería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自助洗衣店",
+        "en": "laundrette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevamos la ropa a la lavandería que había junto al alojamiento porque después de varios días de viaje necesitábamos prendas limpias.",
+        "zh": "旅行几天后需要干净衣服，我们把衣物送到住处旁的自助洗衣店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1865 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-4aba72f6b707",
+    "w": "la biblioteca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "图书馆",
+        "en": "library"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La biblioteca ofrece un espacio tranquilo donde los estudiantes pueden preparar los trabajos que tienen que entregar al final del curso.",
+        "zh": "图书馆提供安静空间，学生能准备期末作业。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1866 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-42ff8b643197",
+    "w": "la mezquita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "清真寺",
+        "en": "mosque"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos detuvimos frente a la mezquita para observar los detalles de la fachada antes de continuar por las calles del barrio.",
+        "zh": "我们在清真寺前看了外墙细节，再继续逛街区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1867 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f7417360208e",
+    "w": "el bloque de oficinas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "办公大楼",
+        "en": "office block"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bloque de oficinas está junto a una plaza donde las personas que trabajan en la zona suelen comer al mediodía.",
+        "zh": "办公大楼旁有广场，附近上班的人常在那里吃午饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1868 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-3b3874cf3022",
+    "w": "el parque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公园",
+        "en": "park"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Atravesamos el parque al volver del trabajo porque el camino resulta más agradable que la avenida por la que pasa el tráfico.",
+        "zh": "我们下班穿过公园，因为比车流经过的大道更舒适。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1869 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-c19b24cf7821",
+    "w": "el área de juegos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游乐场",
+        "en": "playground"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El área de juegos tiene una zona de sombra donde las familias pueden descansar mientras los niños utilizan los columpios del parque.",
+        "zh": "游乐场有阴凉处，孩子荡秋千时家人可休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1870 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-0a3b63a77b6d",
+    "w": "la comisaría de policía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "警察局",
+        "en": "police station"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preguntamos en la comisaría de policía si alguien había entregado la cartera que habíamos perdido al bajar del autobús aquella mañana.",
+        "zh": "我们去警察局问，有没有人捡到早上下公交时丢的钱包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1871 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-22377e7d1e61",
+    "w": "la sinagoga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "犹太教堂",
+        "en": "synagogue"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sinagoga forma parte del recorrido que el guía preparó para explicar la historia de las comunidades que vivían en la ciudad.",
+        "zh": "导游设计的路线包括犹太教堂，用来讲述曾居此城的社群历史。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1872 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-173b1bc7a78f",
+    "w": "el ayuntamiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "市政厅",
+        "en": "town hall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ayuntamiento está frente a la plaza donde los vecinos se reúnen cuando se organizan las fiestas del barrio en verano.",
+        "zh": "市政厅对着广场，夏季街区节庆时居民会在那里集合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-4",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 68 页 · 第 1873 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-96c8adeb75d9",
+    "w": "el doble techo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帐篷外帐",
+        "en": "flysheet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos el doble techo sobre la tienda para proteger el interior de la lluvia que anunciaba la previsión del tiempo.",
+        "zh": "我们给帐篷盖好外帐，防备天气预报说的雨。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 69 页 · 第 1874 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-b54549979179",
+    "w": "el suelo impermeable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "防水地布",
+        "en": "groundsheet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Extendimos el suelo impermeable antes de montar la tienda en el lugar que habíamos elegido junto a los árboles del camping.",
+        "zh": "我们先铺防水地布，再在营地树旁选好的地方搭帐篷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 69 页 · 第 1875 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-0dd2fe59b6cf",
+    "w": "el viento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帐篷拉绳",
+        "en": "guy rope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tensamos el viento que sujetaba la tienda para que la tela quedara firme aunque empezara a soplar una brisa más fuerte.",
+        "zh": "我们拉紧固定帐篷的拉绳，使布面即使风大些也能稳固。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 69 页 · 第 1876 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-4c5fefe15eb6",
+    "w": "la estaca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帐篷钉",
+        "en": "tent peg"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Clavamos la estaca en la tierra para sujetar la cuerda que mantenía estable la tienda durante nuestra estancia en el camping.",
+        "zh": "我们把帐篷钉敲进土里，固定拉绳，让露营期间帐篷稳固。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 69 页 · 第 1877 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-af589b1cd4ca",
+    "w": "la tienda de campaña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帐篷",
+        "en": "tent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Montamos la tienda de campaña antes de que oscureciera para poder organizar el equipaje mientras todavía quedaba algo de luz natural.",
+        "zh": "我们天黑前搭好帐篷，趁还有自然光整理行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 69 页 · 第 1878 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-a9f863077ad8",
+    "w": "el tiempo libre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "空闲时间",
+        "en": "spare time"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprovecho el tiempo libre para hacer las actividades que me ayudan a descansar después de una semana especialmente intensa en el trabajo.",
+        "zh": "我利用空闲时间做些活动，在繁忙工作一周后休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1879 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-44c174e44a73",
+    "w": "la actividad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "活动",
+        "en": "activity"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos una actividad que todos pudiéramos disfrutar durante el fin de semana, aunque cada persona tuviera intereses un poco distintos.",
+        "zh": "我们寻找周末大家都能享受的活动，尽管各人兴趣略有不同。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1880 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-71373b1ab8d5",
+    "w": "el pasatiempo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "爱好",
+        "en": "hobby/pastime"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fotografía se convirtió en mi pasatiempo favorito cuando descubrí que podía explorar lugares nuevos mientras aprendía a utilizar la cámara.",
+        "zh": "发现能边学摄影边探索新地方后，摄影成了我最爱的爱好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1881 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-d27201b0f521",
+    "w": "las vacaciones",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "假期",
+        "en": "holiday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante las vacaciones visitamos a los amigos que se habían mudado a un pueblo cerca de la costa el año anterior.",
+        "zh": "假期里，我们拜访了去年搬到海边小镇的朋友。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1882 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-570907d756fe",
+    "w": "la pasión",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "热爱",
+        "en": "passion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Su pasión por la música la llevó a formar un grupo con otras personas que también querían tocar después del trabajo.",
+        "zh": "对音乐的热爱使她与同样想下班演奏的人组了乐队。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1883 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-d66cb9efb911",
+    "w": "aficionado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "热衷的",
+        "en": "keen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Soy aficionado a la fotografía y suelo llevar la cámara cuando visito pueblos que no conozco durante los fines de semana.",
+        "zh": "我热衷摄影，周末去陌生村镇时常带相机。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1884 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-905407150b04",
+    "w": "divertido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "有趣的",
+        "en": "fun"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El juego resulta divertido porque permite que participen personas de distintas edades sin tener que aprender unas reglas demasiado complicadas.",
+        "zh": "这个游戏很有趣，各年龄的人不用学复杂规则就能参与。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1885 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-bb42617b4d19",
+    "w": "aburrido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无聊的",
+        "en": "boring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El viaje parecía aburrido hasta que empezamos a mirar las fotografías que uno de nuestros compañeros había hecho durante las vacaciones.",
+        "zh": "旅途本来无聊，直到我们开始看同伴假期拍的照片。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1886 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1d6adc18f69a",
+    "w": "tener interés por",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "对……感兴趣",
+        "en": "to be interested in"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empecé a tener interés por la jardinería cuando un vecino me enseñó las plantas que cultivaba en su pequeño balcón.",
+        "zh": "邻居带我看阳台种的植物后，我开始对园艺感兴趣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1887 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1659f9644d55",
+    "w": "pasar el tiempo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "消磨时间",
+        "en": "to pass the time"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Para pasar el tiempo durante la espera, leímos las revistas que habían dejado sobre una mesa junto a la ventana.",
+        "zh": "等待时，我们读了窗边桌上的杂志来消磨时间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1888 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-95930605186c",
+    "w": "relajarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "放松",
+        "en": "to relax"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Después de terminar las tareas de la semana, salimos a caminar por el parque para relajarnos antes de preparar la cena.",
+        "zh": "做完一周的事情后，我们去公园散步，在做晚饭前放松。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1889 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-8da2342801e8",
+    "w": "disfrutar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "享受",
+        "en": "to enjoy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queríamos disfrutar del paisaje sin prisas, así que elegimos un camino que nos permitía detenernos en los lugares que más nos gustaban.",
+        "zh": "我们想悠闲享受风景，选了一条可以随时驻足的路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1890 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-1641f88f5652",
+    "w": "aburrirse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "感到无聊",
+        "en": "to be bored"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los niños empezaron a aburrirse mientras esperaban el autobús, por lo que inventamos un juego para que el tiempo pasara más rápido.",
+        "zh": "等公交时孩子开始无聊，我们编了游戏让时间过快些。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1891 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-9ae20fc10111",
+    "w": "la cocina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烹饪",
+        "en": "cooking"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cocina es una de las actividades que compartimos los domingos cuando tenemos tiempo para preparar recetas que no conocemos.",
+        "zh": "周日有时间试新食谱时，烹饪是我们共同做的活动之一。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1892 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-916503bee36d",
+    "w": "el bricolaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自己动手制作",
+        "en": "DIY"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendí bricolaje con mi padre, que me enseñó a utilizar las herramientas necesarias para arreglar los muebles que teníamos en casa.",
+        "zh": "父亲教我使用工具修家里的家具，我跟他学会了自己动手制作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1893 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-556d494b372a",
+    "w": "los videojuegos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电子游戏",
+        "en": "gaming"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reservamos un rato para los videojuegos después de terminar las tareas, siempre que podamos jugar juntos en la misma habitación.",
+        "zh": "做完任务后我们留点时间玩电子游戏，只要能在同一个房间一起玩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1894 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-da80c88b4140",
+    "w": "la jardinería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "园艺",
+        "en": "gardening"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jardinería me permite pasar más tiempo al aire libre mientras observo cómo cambian las plantas que cuido a lo largo del año.",
+        "zh": "园艺让我在户外待更久，观察照料的植物一年间如何变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1895 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-e678dbb1faa9",
+    "w": "correr",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "慢跑",
+        "en": "jogging"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me gusta correr por el camino que bordea el río antes de que empiece el movimiento de personas que van a trabajar.",
+        "zh": "我喜欢上班人流出现前沿河边小路慢跑。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1896 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-fcd75a238a8c",
+    "w": "escuchar música",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "听音乐",
+        "en": "listening to music"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Suelo escuchar música mientras ordeno la casa, aunque bajo el volumen cuando alguien necesita concentrarse en un trabajo que tiene pendiente.",
+        "zh": "我整理家时常听音乐，但有人需要专心做事时就调低音量。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1897 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-fdbfeebb4150",
+    "w": "la lectura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "阅读",
+        "en": "reading"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lectura forma parte de mi rutina diaria porque me permite conocer historias que nunca habría imaginado por mi cuenta.",
+        "zh": "阅读是我的日常习惯，它让我认识自己想不到的故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1898 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-f40462360327",
+    "w": "las compras",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购物",
+        "en": "shopping"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hacemos las compras por la mañana para tener la tarde libre y poder reunirnos con los amigos que viven cerca de casa.",
+        "zh": "我们上午购物，留出下午时间与住在附近的朋友聚会。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1899 条；自编例句 B1+",
+    "m": 1
+  },
+  {
+    "id": "book-21b2a61f3bab",
+    "w": "los deportes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "运动",
+        "en": "sports"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los deportes de equipo nos ayudan a conocer gente nueva mientras aprendemos a colaborar con personas que tienen habilidades diferentes.",
+        "zh": "团队运动让我们认识新人，同时学着和技能不同的人合作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 70 页 · 第 1900 条；自编例句 B1+",
+    "m": 1
+  }
+]

@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-e19a880b922b",
+    "w": "el repelente de insectos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "驱虫剂",
+        "en": "insect repellent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El repelente de insectos está en una bolsa junto a los objetos que hemos preparado para llevar a la excursión.",
+        "zh": "驱虫剂放在包中，旁边是准备郊游要带的物品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1301 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a6ac10aa8f49",
+    "w": "las pastillas para la garganta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "润喉含片",
+        "en": "lozenges"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las pastillas para la garganta están en una caja que la farmacéutica ha colocado sobre el mostrador de la tienda.",
+        "zh": "润喉含片装在盒里，药剂师把盒子放在店内柜台上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1302 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-609ea5e50019",
+    "w": "la medicina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "药品",
+        "en": "medicine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La medicina permanece en su envase original mientras la farmacéutica busca el folleto que acompaña a la caja del producto.",
+        "zh": "药品仍放在原包装中，药剂师正在找产品盒里的说明书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1303 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0c78205a4eb1",
+    "w": "la tirita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "创可贴",
+        "en": "plaster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tirita cubre el pequeño corte que el niño muestra a su madre mientras ella ordena la caja del botiquín.",
+        "zh": "孩子向母亲展示贴着创可贴的小伤口，母亲在整理药箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1304 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dad4ab056d1f",
+    "w": "la loción bronceadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "防晒乳",
+        "en": "suntan lotion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La loción bronceadora está junto a la toalla que hemos colocado sobre una silla antes de salir hacia la playa.",
+        "zh": "防晒乳在毛巾旁，我们去海滩前把毛巾放在椅子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1305 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-722e76d12cff",
+    "w": "la pastilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "药片",
+        "en": "tablet/pill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pastilla aparece dibujada junto a una cápsula en la lámina que muestra las diferentes formas de los medicamentos.",
+        "zh": "药片与胶囊一起画在展示各种药品形态的图板上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1306 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5de28c2ba4d0",
+    "w": "el desodorante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "止汗剂",
+        "en": "antiperspirant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El desodorante está sobre el estante donde guardamos los productos que utilizamos cuando terminamos de ducharnos por la mañana.",
+        "zh": "止汗剂放在架子上，与早晨洗澡后使用的用品放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1307 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-134fc6cb010b",
+    "w": "el suavizante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "护发素",
+        "en": "conditioner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El suavizante queda junto al champú en el estante que hemos colocado para organizar los productos del cuarto de baño.",
+        "zh": "护发素在洗发水旁，我们用这个架子整理浴室用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1308 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-37b1fca47729",
+    "w": "el enjuague bucal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "漱口水",
+        "en": "mouthwash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El enjuague bucal está en un frasco cerrado junto al vaso donde guardamos los cepillos de dientes de la familia.",
+        "zh": "漱口水装在盖好的瓶里，放在全家牙刷杯旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1309 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1aefe2584dc9",
+    "w": "la cuchilla de afeitar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "剃须刀",
+        "en": "razor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cuchilla de afeitar está guardada en un soporte donde también queda el bote de espuma que utiliza mi padre.",
+        "zh": "剃须刀收在支架上，父亲用的剃须泡沫也放在那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1310 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e1323fa219b0",
+    "w": "la compresa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卫生巾",
+        "en": "sanitary towel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La compresa está dentro de un envoltorio individual junto al paquete que la clienta acaba de comprar en la farmacia.",
+        "zh": "卫生巾独立包装，旁边是顾客刚在药店买的整包商品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1311 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8fd0279ff0be",
+    "w": "el champú",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "洗发水",
+        "en": "shampoo"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El champú que usamos en casa tiene un frasco alto que cabe en el estante junto a la ducha.",
+        "zh": "家用洗发水瓶子较高，刚好能放进淋浴旁的架子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1312 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a0e6bcdb1c0e",
+    "w": "la espuma de afeitar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "剃须泡沫",
+        "en": "shaving foam"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espuma de afeitar forma una capa blanca que el hombre extiende sobre sus mejillas mientras se mira al espejo.",
+        "zh": "男子照镜子时，把白色剃须泡沫抹在面颊上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1313 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-caac142a1d71",
+    "w": "el gel de ducha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沐浴露",
+        "en": "shower gel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gel de ducha está sobre el borde de la bañera donde hemos dejado los productos que acabamos de comprar.",
+        "zh": "沐浴露放在浴缸边，那里摆着我们刚买的洗浴用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1314 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-55eb9ebdf952",
+    "w": "el jabón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肥皂",
+        "en": "soap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jabón descansa en una jabonera que permite que el agua caiga al lavabo después de lavarnos las manos.",
+        "zh": "肥皂放在皂盒里，洗手后水能从皂盒流入洗手池。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1315 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-34cee6b66b53",
+    "w": "el tampón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卫生棉条",
+        "en": "tampon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tampón está en su envoltorio cerrado junto a una caja que aparece entre los productos de higiene de la tienda.",
+        "zh": "卫生棉条密封包装，在店内卫生用品货架的一盒商品旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1316 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-124ba5e06ff7",
+    "w": "el cepillo de dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙刷",
+        "en": "toothbrush"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cepillo de dientes se distingue de los demás por el color del mango que vemos dentro del vaso del lavabo.",
+        "zh": "洗手池旁杯子里的牙刷靠手柄颜色与其他牙刷区分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1317 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-814a50581201",
+    "w": "el dentífrico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙膏",
+        "en": "toothpaste"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dentífrico está junto al cepillo que hemos colocado en una bolsa para llevar durante el viaje de la próxima semana.",
+        "zh": "牙膏在牙刷旁，我们把它们装进包里供下周旅行用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1318 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c885136d9872",
+    "w": "el colorete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腮红",
+        "en": "blusher"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El colorete añade un tono rosado a las mejillas de la modelo que se prepara frente al espejo del camerino.",
+        "zh": "模特在化妆间镜前准备，腮红为面颊添了粉色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1319 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-396e9e385a07",
+    "w": "el peine",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "梳子",
+        "en": "comb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peine está sobre la mesa donde el peluquero organiza los instrumentos que utilizará cuando llegue la siguiente clienta.",
+        "zh": "梳子放在桌上，理发师正在整理下一位客人要用的工具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1320 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ee0959bad022",
+    "w": "el delineador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼线笔",
+        "en": "eyeliner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El delineador está junto al espejo donde la maquilladora ha preparado los productos que utilizará para la sesión de fotos.",
+        "zh": "眼线笔在镜旁，化妆师把拍照要用的产品摆在那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1321 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e1e8212ba8c9",
+    "w": "la sombra de ojos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼影",
+        "en": "eyeshadow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sombra de ojos está en una paleta que la maquilladora abre para elegir un tono antes de empezar la sesión.",
+        "zh": "化妆师打开眼影盘，在开始化妆前挑选颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1322 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8855b0e26814",
+    "w": "la base",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "粉底",
+        "en": "foundation"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La base se extiende sobre la piel con una esponja que la maquilladora utiliza mientras trabaja frente al espejo del estudio.",
+        "zh": "化妆师在工作室镜前用海绵把粉底涂在皮肤上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1323 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-68fdddce0c08",
+    "w": "el cepillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发刷",
+        "en": "hairbrush"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cepillo está sobre el tocador junto a las pinzas que mi hermana utiliza para recogerse el pelo antes de salir.",
+        "zh": "发刷放在梳妆台上，旁边是姐姐出门前束发用的夹子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1324 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-770a5b5992ca",
+    "w": "la laca para el pelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "定型喷雾",
+        "en": "hairspray"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La laca para el pelo está en un bote que la peluquera deja sobre la mesa después de terminar el peinado.",
+        "zh": "定型喷雾装在罐中，理发师做完发型后把它放在桌上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1325 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d39d79774afe",
+    "w": "el bálsamo de labios",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "润唇膏",
+        "en": "lip balm"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bálsamo de labios cabe en el bolsillo pequeño de la mochila que hemos preparado para pasar el día fuera de casa.",
+        "zh": "润唇膏能放进背包小口袋，我们准备带包出门一整天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1326 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0233d108f64c",
+    "w": "el pintalabios",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "口红",
+        "en": "lipstick"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pintalabios muestra un color rojo intenso que destaca entre los productos que la maquilladora ha colocado junto al espejo.",
+        "zh": "口红颜色鲜红，在化妆师摆到镜旁的产品中很醒目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1327 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2e53b7bf29fa",
+    "w": "el rímel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "睫毛膏",
+        "en": "mascara"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rímel tiene un cepillo pequeño que vemos cuando la maquilladora abre el tubo para preparar los productos de la sesión.",
+        "zh": "化妆师打开睫毛膏管准备化妆用品时，能看见小刷头。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1328 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-aac3d080bf5a",
+    "w": "el esmalte de uñas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "指甲油",
+        "en": "nail varnish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El esmalte de uñas está en varios frascos pequeños que la clienta observa para elegir el color que más le gusta.",
+        "zh": "顾客看着几小瓶指甲油，挑选最喜欢的颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1329 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-db8ed607de7c",
+    "w": "el polvo facial",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜜粉",
+        "en": "(face) powder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El polvo facial está en una caja redonda junto a la brocha que la maquilladora ha preparado para terminar el maquillaje.",
+        "zh": "蜜粉装在圆盒中，旁边是化妆师做最后妆容要用的刷子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1330 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0b8aa42c0f16",
+    "w": "los cólicos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿肠绞痛",
+        "en": "colic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los cólicos son el motivo de la consulta en la que los padres describen al pediatra cómo ha pasado la noche el bebé.",
+        "zh": "婴儿肠绞痛是这次就诊的原因，父母向儿科医生描述宝宝昨夜的情况。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1331 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-adacafbe3bb2",
+    "w": "la escocedura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "尿布疹",
+        "en": "nappy rash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La escocedura es el problema que los padres comentan con la pediatra mientras el bebé permanece vestido en brazos de su madre.",
+        "zh": "父母与儿科医生讨论尿布疹，穿好衣服的宝宝抱在母亲怀里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1332 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-27cd4d5a7823",
+    "w": "el pañal desechable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一次性尿布",
+        "en": "disposable nappy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pañal desechable está doblado sobre el cambiador junto al paquete que los padres han abierto para preparar los productos del bebé.",
+        "zh": "一次性尿布折放在换尿布台上，旁边是父母刚打开的用品包装。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1333 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b53ec64aa30e",
+    "w": "el pañal reutilizable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "可重复使用尿布",
+        "en": "reusable nappy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pañal reutilizable se encuentra junto a otros que hemos lavado y dejado secar antes de guardarlos en el cajón del bebé.",
+        "zh": "可重复使用尿布与其他洗净晾干的尿布放在一起，准备收进宝宝抽屉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1334 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-272033f1f6cf",
+    "w": "la bolsa para pañales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "尿布处理袋",
+        "en": "nappy sack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bolsa para pañales está en un rollo pequeño que los padres guardan dentro del bolso cuando salen con el bebé.",
+        "zh": "尿布处理袋卷成小卷，父母带宝宝出门时放进包里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1335 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-949e43bfd8cf",
+    "w": "el gel para los primeros dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乳牙萌出凝胶",
+        "en": "teething gel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gel para los primeros dientes permanece cerrado en su caja mientras la farmacéutica consulta el folleto que acompaña al producto.",
+        "zh": "乳牙萌出凝胶盖好放在盒里，药剂师正在查看附带的说明书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1336 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b8193e177e2a",
+    "w": "dar el pecho",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "哺乳",
+        "en": "to breast-feed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La madre busca un lugar tranquilo para dar el pecho mientras el resto de la familia prepara la mesa del comedor.",
+        "zh": "家人准备餐桌时，母亲找安静的地方给宝宝哺乳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1337 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-650483b4919f",
+    "w": "estar echando los dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "正在长牙",
+        "en": "to be teething"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bebé parece estar echando los dientes, según cuentan sus padres durante la visita que hacen a la consulta de pediatría.",
+        "zh": "父母在儿科就诊时说，宝宝似乎正在长牙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1338 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8df66ae12623",
+    "w": "el pelele",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿连体睡衣",
+        "en": "babygro®/sleepsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pelele está extendido sobre la cama junto a la manta que los padres han preparado para la hora de dormir.",
+        "zh": "连体睡衣铺在床上，旁边是父母为睡觉准备的毯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1339 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-913dce7a2a97",
+    "w": "el babero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "围嘴",
+        "en": "bib"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El babero cubre la parte delantera de la ropa mientras el bebé está sentado en la trona durante la comida familiar.",
+        "zh": "宝宝坐在高脚椅上参加家庭用餐，围嘴盖在衣服前面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1340 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b95d9c22d3b4",
+    "w": "las botitas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿软鞋",
+        "en": "bootees"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botitas están juntas en una cesta donde la familia guarda las prendas pequeñas que el bebé utiliza cuando sale de paseo.",
+        "zh": "婴儿软鞋放在一起，篮里收着宝宝出门散步时穿的小衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1341 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c39152ddf73d",
+    "w": "las manoplas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿手套",
+        "en": "mittens"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las manoplas están junto al abrigo que los padres han sacado del armario antes de preparar al bebé para salir de casa.",
+        "zh": "父母准备带宝宝出门，婴儿手套放在刚取出的外套旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1342 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ce8c76aa16cf",
+    "w": "el mono",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿防寒连体服",
+        "en": "snowsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mono queda abierto sobre la cama para que resulte más fácil vestir al bebé antes del paseo por el parque.",
+        "zh": "防寒连体服在床上敞开，方便公园散步前给宝宝穿上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1343 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-80e5c5ecdef5",
+    "w": "el body",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿连体内衣",
+        "en": "vest"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El body está doblado en el cajón donde guardamos las prendas que el bebé utiliza debajo de la ropa de invierno.",
+        "zh": "连体内衣折好放在抽屉里，与宝宝冬天穿在里面的衣物放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 50 页 · 第 1344 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9b613027d316",
+    "w": "la comida para bebé",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿食品",
+        "en": "baby food"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La comida para bebé está en pequeños tarros que la familia organiza en un estante separado de los demás alimentos de la despensa.",
+        "zh": "婴儿食品装在小罐里，家人把它们与储物柜其他食物分开放。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1345 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-87eed31be6d1",
+    "w": "la loción para bebé",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿润肤乳",
+        "en": "baby lotion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La loción para bebé está en un frasco cerrado junto a la toalla que hemos colocado cerca de la bañera pequeña.",
+        "zh": "婴儿润肤乳盖好放在瓶里，旁边的毛巾摆在小浴盆附近。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1346 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-71a3468b715f",
+    "w": "el biberón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "奶瓶",
+        "en": "baby’s bottle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El biberón está sobre una bandeja limpia junto a los objetos que los padres han preparado para alimentar al bebé.",
+        "zh": "奶瓶放在干净托盘中，旁边是父母为喂宝宝准备的用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1347 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-92579f7bc894",
+    "w": "el bolso cambiador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿换洗包",
+        "en": "changing bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bolso cambiador contiene ropa limpia y pañales que los padres han organizado antes de salir a visitar a sus amigos.",
+        "zh": "换洗包里装着干净衣服和尿布，父母去朋友家前已整理好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1348 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-01626565e295",
+    "w": "el bastoncillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "棉签",
+        "en": "cotton bud"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bastoncillo aparece junto a un paquete cerrado entre los productos de higiene que hemos ordenado dentro del armario del baño.",
+        "zh": "棉签在一包密封用品旁，都是我们整理进浴室柜的卫生用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1349 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2ec477f2b1da",
+    "w": "el algodón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脱脂棉",
+        "en": "cotton wool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El algodón está en una bolsa transparente que hemos colocado junto a otros productos dentro del cajón de los artículos de higiene.",
+        "zh": "脱脂棉装在透明袋中，我们把它和其他卫生用品放进抽屉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1350 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-943d0236dba8",
+    "w": "la fórmula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿配方奶",
+        "en": "formula milk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fórmula está en un envase cerrado donde se encuentra la información que los padres leen mientras organizan los productos del bebé.",
+        "zh": "配方奶密封装在罐中，父母整理婴儿用品时阅读罐上的信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1351 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-671642eeed08",
+    "w": "el pañal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "尿布",
+        "en": "nappy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pañal está doblado junto a una muda limpia que los padres han preparado sobre la mesa donde organizan las cosas del bebé.",
+        "zh": "尿布折好放在干净替换衣物旁，父母在桌上整理宝宝用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1352 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a15a4cd00630",
+    "w": "la crema de pañal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "护臀霜",
+        "en": "nappy cream"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La crema de pañal está en un tubo cerrado que los padres guardan con los demás productos del bebé dentro del cajón.",
+        "zh": "护臀霜盖好放在软管里，父母把它和其他婴儿用品收进抽屉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1353 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a2982eee2388",
+    "w": "los polvos de talco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "爽身粉",
+        "en": "talcum powder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los polvos de talco están en un bote cerrado que aparece entre los productos expuestos en la sección de higiene de la tienda.",
+        "zh": "爽身粉密封装在罐中，与店内卫生用品区的其他商品一同陈列。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1354 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-09a05924c902",
+    "w": "el anillo de dentición",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙胶环",
+        "en": "teething ring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El anillo de dentición está sobre una manta junto a los juguetes que la familia ha preparado para el bebé esta tarde.",
+        "zh": "牙胶环放在毯子上，旁边是家人为宝宝下午准备的玩具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1355 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-45a73c450e31",
+    "w": "las toallitas húmedas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "湿巾",
+        "en": "wet wipes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las toallitas húmedas están en un paquete que cabe dentro del bolso donde guardamos los objetos necesarios para salir con el bebé.",
+        "zh": "湿巾装在包里，大小刚好能放入带宝宝出门的用品袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1356 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bad44e802add",
+    "w": "la bañera para bebé",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿浴盆",
+        "en": "baby bath"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bañera para bebé está vacía junto a una toalla limpia que los padres han preparado antes de organizar el baño.",
+        "zh": "空的婴儿浴盆旁放着干净毛巾，父母准备好了洗澡用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1357 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-34b0d8941bab",
+    "w": "la sillita de coche para niño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "儿童汽车安全座椅",
+        "en": "baby seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sillita de coche para niño está instalada en el asiento trasero mientras los padres preparan las bolsas que llevarán de viaje.",
+        "zh": "儿童汽车安全座椅已装在后座，父母正在准备旅行行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1358 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a5223264abd4",
+    "w": "el portabebés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿背巾",
+        "en": "baby sling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El portabebés permite que el padre lleve al bebé cerca del pecho mientras camina despacio por el sendero del parque.",
+        "zh": "父亲把宝宝用背巾抱在胸前，慢慢走过公园小路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1359 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-786bc44a1af2",
+    "w": "el andador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "学步车",
+        "en": "baby walker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El andador está expuesto en una tienda junto a otros artículos que los clientes comparan antes de elegir los productos del bebé.",
+        "zh": "学步车陈列在店里，顾客对比旁边的婴儿用品再选购。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1360 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-031dd39b5c9d",
+    "w": "la cuna",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿床",
+        "en": "cot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cuna está junto a la ventana de una habitación donde la familia ha colocado los muebles que utilizará el bebé.",
+        "zh": "婴儿床位于窗边，房里摆着家人为宝宝准备的家具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1361 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d8e9b69c795c",
+    "w": "el chupete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "安抚奶嘴",
+        "en": "dummy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El chupete está sobre un paño limpio junto a la caja donde los padres guardan los pequeños objetos que utilizan para el bebé.",
+        "zh": "安抚奶嘴放在干净布上，旁边的盒里收着父母给宝宝用的小物件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1362 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c1fd4440afd7",
+    "w": "la trona",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高脚餐椅",
+        "en": "highchair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La trona está junto a la mesa donde la familia coloca los platos antes de sentarse para comer todos juntos.",
+        "zh": "高脚餐椅在餐桌旁，家人正在摆盘准备一起吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1363 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cf1a602b1db7",
+    "w": "el móvil",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿悬挂玩具",
+        "en": "mobile"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El móvil tiene pequeñas figuras de colores que cuelgan sobre la cuna donde la familia ha preparado la ropa de cama.",
+        "zh": "婴儿悬挂玩具上有彩色小造型，垂在家人铺好的婴儿床上方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1364 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ccab4a216696",
+    "w": "el moisés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿睡篮",
+        "en": "Moses basket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El moisés está junto al sillón donde los padres se sientan para acompañar al bebé cuando llega la hora de dormir.",
+        "zh": "睡篮放在扶手椅旁，父母会坐在那里陪宝宝入睡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1365 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-96e69c25064a",
+    "w": "el cochecito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿躺式推车",
+        "en": "pram"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cochecito está en el pasillo de la casa mientras los padres preparan la manta que llevarán durante el paseo.",
+        "zh": "躺式婴儿推车放在家里走廊上，父母正在准备散步要带的毯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1366 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-47fa64b3e523",
+    "w": "la sillita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿坐式推车",
+        "en": "pushchair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sillita está plegada junto a la puerta para que podamos guardarla fácilmente antes de subir al autobús que nos llevará al centro.",
+        "zh": "坐式推车折好放在门旁，方便坐去市中心的公交车前收起来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1367 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5fb5785829ea",
+    "w": "la cuna de viaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "旅行婴儿床",
+        "en": "travel cot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cuna de viaje está montada en la habitación donde la familia pasará la noche durante su visita a los abuelos.",
+        "zh": "旅行婴儿床搭在房间里，一家人探望祖父母时会在那里过夜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1368 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-621616014ca5",
+    "w": "el quiosco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "报刊亭",
+        "en": "kiosk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El quiosco abre temprano para recibir a los vecinos que compran el periódico antes de ir a trabajar al centro.",
+        "zh": "报刊亭很早开门，接待进市中心上班前买报的街坊。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1369 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6814f122943c",
+    "w": "el puesto de periódicos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "报摊",
+        "en": "newspaper stand"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puesto de periódicos está junto a la estación donde cada mañana pasan viajeros que buscan algo para leer durante el trayecto.",
+        "zh": "报摊在车站旁，每早经过的旅客会找路上读的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1370 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1a5800a903a4",
+    "w": "el periódico de gran formato",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大开版报纸",
+        "en": "broadsheet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El periódico de gran formato ocupa casi toda la mesa cuando lo abrimos para leer las noticias que aparecen en la portada.",
+        "zh": "我们打开大开版报纸看头版新闻时，报纸几乎占满整张桌子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1371 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3e32907dc4e3",
+    "w": "el tabloide",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小报",
+        "en": "tabloid"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tabloide cabe dentro de la bolsa que llevamos para guardar los objetos que utilizaremos durante el viaje en tren.",
+        "zh": "小报能放进包里，包中装着火车旅途中要用的物品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1372 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-39186c56f5d6",
+    "w": "los artículos de escritorio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "文具",
+        "en": "stationery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los artículos de escritorio están organizados en un estante donde podemos encontrar lo que necesitamos para preparar las clases de mañana.",
+        "zh": "文具整齐放在架子上，我们能找到备明天课程所需的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 51 页 · 第 1373 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e3509db090e5",
+    "w": "el vendedor / la vendedora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摊贩",
+        "en": "vendor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vendedora entrega el periódico a un cliente que espera junto al puesto mientras busca unas monedas dentro de su bolsillo.",
+        "zh": "顾客在摊旁等候并掏零钱，摊贩把报纸递给他。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1374 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7fe47c9b31b3",
+    "w": "diario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每日的",
+        "en": "daily"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El periódico diario llega al quiosco antes de que abra la tienda donde los vecinos compran sus primeras lecturas de la mañana.",
+        "zh": "日报在报刊亭开门前送到，邻居会来买早上的读物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1375 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b11534328a75",
+    "w": "semanal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每周的",
+        "en": "weekly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La revista semanal está en la vitrina donde la vendedora coloca las novedades que han llegado esta mañana al puesto.",
+        "zh": "周刊放在展示柜里，售货员把今早新到的刊物摆在那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1376 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1d7c078993e2",
+    "w": "el cigarro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雪茄",
+        "en": "cigar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cigarro está guardado en una caja cerrada que forma parte de la exposición de productos de una tienda especializada.",
+        "zh": "雪茄收在关好的盒里，是专卖店陈列商品的一部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1377 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-31d86fee1e71",
+    "w": "el cigarrillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香烟",
+        "en": "cigarette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cigarrillo aparece en un paquete cerrado que el vendedor coloca en una vitrina detrás del mostrador de la tienda.",
+        "zh": "香烟装在封好的盒里，店员把它放进柜台后方的展示柜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1378 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b56562846e57",
+    "w": "el cómic",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "漫画书",
+        "en": "comic book"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cómic que ha elegido mi hermana cuenta una historia con dibujos que podemos seguir mientras esperamos que llegue nuestro tren.",
+        "zh": "姐姐选的漫画用图画讲故事，等火车时我们可以一起看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1379 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b158e390d176",
+    "w": "los productos de confitería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糖果制品",
+        "en": "confectionery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los productos de confitería están en una vitrina donde el vendedor ha organizado los paquetes según sus diferentes colores y tamaños.",
+        "zh": "糖果制品放在展示柜中，商贩按颜色和大小整理了包装。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1380 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-69fe589b59b0",
+    "w": "el cigarrillo electrónico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电子烟",
+        "en": "e-cigarette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cigarrillo electrónico está expuesto sin utilizar dentro de una vitrina donde la tienda presenta los dispositivos que tiene a la venta.",
+        "zh": "电子烟未经使用地摆在展示柜中，店里陈列着出售的设备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1381 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4a1befbaaaf1",
+    "w": "el sobre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "信封",
+        "en": "envelope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sobre está cerrado sobre la mesa junto a la carta que hemos escrito para enviar a nuestros amigos de otra ciudad.",
+        "zh": "信封封好放在桌上，旁边是写给另一座城市朋友的信。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1382 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-346c0a5bbf62",
+    "w": "la tarjeta de felicitación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贺卡",
+        "en": "greetings card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarjeta de felicitación tiene espacio para escribir el mensaje que queremos enviar a nuestra amiga por su próximo cumpleaños.",
+        "zh": "贺卡有空白，供我们写下给即将过生日的朋友的话。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1383 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d46b31c5f948",
+    "w": "la revista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "杂志",
+        "en": "magazine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La revista que estamos leyendo muestra fotografías de una ciudad que nos gustaría visitar cuando tengamos unos días de vacaciones.",
+        "zh": "正在读的杂志有某座城市的照片，我们想休假时去那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1384 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a46745c4b26a",
+    "w": "el mapa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地图",
+        "en": "map"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mapa está abierto sobre la mesa mientras buscamos el camino que nos llevará desde el hotel hasta el museo.",
+        "zh": "我们在摊开的地图上找从酒店去博物馆的路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1385 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dd1efc021c50",
+    "w": "el periódico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "报纸",
+        "en": "newspaper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El periódico queda sobre una silla mientras mi padre prepara el café que tomará antes de salir hacia el trabajo.",
+        "zh": "报纸放在椅子上，父亲正在准备上班前喝的咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1386 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bbc6e12a0bec",
+    "w": "el cuaderno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "笔记本",
+        "en": "notebook"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cuaderno tiene varias páginas en blanco que utilizaremos para anotar las ideas que surjan durante la reunión de esta tarde.",
+        "zh": "笔记本有几页空白，我们会记下今天下午会议产生的想法。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1387 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9461482a69e1",
+    "w": "el bolígrafo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "圆珠笔",
+        "en": "pen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bolígrafo está junto al documento que tenemos que completar antes de entregar la solicitud en la oficina del ayuntamiento.",
+        "zh": "圆珠笔在文件旁，我们填写后要把申请交到市政厅办公室。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1388 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1c7ad4f870f4",
+    "w": "el lápiz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铅笔",
+        "en": "pencil"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lápiz que utilizamos para dibujar el plano está sobre la regla que hemos colocado junto al borde de la mesa.",
+        "zh": "画平面图的铅笔放在尺上，尺子位于桌边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1389 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a9a1085351b9",
+    "w": "la postal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "明信片",
+        "en": "postcard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La postal muestra una playa que hemos visitado durante el viaje que estamos haciendo por las ciudades de la costa.",
+        "zh": "明信片上是我们沿海城市旅行期间去过的海滩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1390 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9ce324cfa8bf",
+    "w": "la revista de rompecabezas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "益智杂志",
+        "en": "puzzle book"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La revista de rompecabezas contiene varios juegos que resolveremos mientras esperamos el autobús que nos llevará de vuelta a casa.",
+        "zh": "益智杂志里有几个游戏，我们等回家公交车时会解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1391 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ec1f1268f6f4",
+    "w": "la tarjeta de rasque y gane",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刮刮乐彩票",
+        "en": "scratch card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarjeta de rasque y gane está expuesta sin rascar junto a otros productos que se venden en el mostrador del quiosco.",
+        "zh": "尚未刮开的刮刮乐彩票与报刊亭柜台出售的其他商品一起展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1392 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-def3de0a21f9",
+    "w": "el sello",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邮票",
+        "en": "stamp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sello está colocado en la esquina del sobre que enviaremos cuando pasemos por la oficina de correos esta mañana.",
+        "zh": "邮票贴在信封角上，我们今早经过邮局时会寄出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1393 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9157c8ebcbf3",
+    "w": "el tabaco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烟草",
+        "en": "tobacco"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tabaco permanece en un paquete cerrado dentro de la vitrina donde la tienda organiza los productos destinados a clientes adultos.",
+        "zh": "烟草保存在封好的包装里，店里的展示柜陈列着面向成人的商品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1394 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-fb0b369f5d7c",
+    "w": "la marca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "品牌",
+        "en": "brand"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La marca aparece en la etiqueta que consultamos antes de comparar el precio de la chaqueta con el de otras prendas.",
+        "zh": "品牌印在标签上，我们先看标签再比较这件夹克和其他衣服的价格。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1395 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f75805373e3e",
+    "w": "el mostrador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柜台",
+        "en": "counter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mostrador separa la zona donde trabaja la dependienta del espacio en el que esperan los clientes que van a pagar.",
+        "zh": "柜台将店员工作区与顾客排队付款的区域隔开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1396 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-631632bf1f13",
+    "w": "el departamento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "商品部",
+        "en": "department"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El departamento que buscamos está en la segunda planta, según indica el plano que hemos consultado al entrar en la tienda.",
+        "zh": "入店时查看的楼层图表明，我们找的商品部在二楼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1397 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4288566ff7c4",
+    "w": "la ropa de hombre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "男装",
+        "en": "menswear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa de hombre está en una sección donde la dependienta organiza las camisas que han llegado para la nueva temporada.",
+        "zh": "男装区里，店员正在整理新一季到货的衬衫。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1398 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c4d11a871f25",
+    "w": "la ropa de deporte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "运动服装",
+        "en": "sportswear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa de deporte aparece junto a las zapatillas que los clientes pueden probarse antes de elegir el conjunto que necesitan.",
+        "zh": "运动服装在运动鞋旁，顾客可以试穿后再选所需套装。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1399 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9241ffddf9be",
+    "w": "los trajes de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳装",
+        "en": "swimwear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los trajes de baño están en una sección que la tienda ha preparado para las personas que planean pasar las vacaciones en la playa.",
+        "zh": "店内泳装专区面向计划去海滩度假的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 52 页 · 第 1400 条；自编例句 B1+",
+    "m": 0
+  }
+]

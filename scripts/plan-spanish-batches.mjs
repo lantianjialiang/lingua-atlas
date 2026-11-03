@@ -2,7 +2,7 @@ import fs from 'node:fs';
 const book=JSON.parse(fs.readFileSync('../espanol/dist/data/book.json','utf8'));
 fs.writeFileSync('data/collins-spanish-source.json',JSON.stringify(book,null,2));
 const completed=JSON.parse(fs.readFileSync('public/spanish/index.json','utf8')).count;
-const batches=Array.from({length:Math.ceil(book.entries.length/100)},(_,i)=>({batch:i+1,start:i*100+1,end:Math.min((i+1)*100,book.entries.length),count:Math.min(100,book.entries.length-i*100),exampleLevel:i<5?'A1':i<12?'A2':i<22?'B1':i<30?'B1–B2':'B2',status:Math.min((i+1)*100,book.entries.length)<=completed?'complete':i===Math.floor(completed/100)?'in_progress':'planned'}));
+const batches=Array.from({length:Math.ceil(book.entries.length/100)},(_,i)=>({batch:i+1,start:i*100+1,end:Math.min((i+1)*100,book.entries.length),count:Math.min(100,book.entries.length-i*100),exampleLevel:i<2?'A1':i===2?'A1–A2':i<12?'A2':i<22?'B1':i<30?'B1–B2':'B2',status:Math.min((i+1)*100,book.entries.length)<=completed?'complete':'planned'}));
 fs.writeFileSync('data/spanish-batch-plan.json',JSON.stringify({sourceCount:book.entries.length,batchSize:100,completedEntries:completed,batches},null,2));
 fs.writeFileSync('docs/SPANISH-CONTENT-PLAN.md',`# Collins 西语内容批次计划
 

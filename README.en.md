@@ -2,7 +2,7 @@
 
 An illustrated English and Spanish vocabulary learning app, adapted from [Word Atlas](https://github.com/designfuchen/word-atlas).
 
-Includes the original 7,298 English entries and a 100-entry Collins Spanish pilot with illustrations, original teaching examples and Chinese translations. Switch dictionaries on the About page; progress is saved separately in your browser.
+Includes the original 7,298 English entries and a Collins Spanish course expanded in 100-entry batches with illustrations, original teaching examples and Chinese translations. Switch dictionaries on the About page; progress is saved separately in your browser.
 
 Run `npm install` and `npm run dev`. Validate with `npm test`, `npx tsc -b`, and `node scripts/check-spanish.mjs`. Build with `npm run build`; set `ATLAS_BASE=/lingua-atlas/` for a GitHub Pages project path.
 
@@ -11,3 +11,5 @@ Code: [MIT](LICENSE). Original English content: [content license](CONTENT_LICENS
 Legacy storage keys, dataset IDs and backup formats are preserved. Export backups before moving to a different origin.
 
 [中文说明](README.md) · [Upstream documentation](docs/UPSTREAM_README.en.md)
+
+See the [batch plan](data/spanish-batch-plan.json) for completed ranges and teaching-example difficulty targets.

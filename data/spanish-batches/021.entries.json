@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-31c9e590b9a7",
+    "w": "“Prohibido nadar.”",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "禁止游泳",
+        "en": "“No swimming.”"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cartel decía «Prohibido nadar», así que seguimos caminando hasta encontrar una zona donde estuviera permitido entrar en el agua.",
+        "zh": "牌子写着“禁止游泳”，于是我们继续找允许下水的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2001 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-96be667d8271",
+    "w": "la zona de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳区",
+        "en": "bathing zone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La zona de baño está delimitada por boyas que permiten distinguirla del espacio reservado a las embarcaciones que recorren la costa.",
+        "zh": "游泳区用浮标划定，与沿岸船只航行的区域分开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2002 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-16d911fc3faf",
+    "w": "el puesto de socorrista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生员岗亭",
+        "en": "lifeguard station"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puesto de socorrista se encuentra en un lugar elevado desde el que se puede observar casi toda la playa.",
+        "zh": "救生员岗亭在高处，从那里几乎能观察整片海滩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2003 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-10ce9b1b7a46",
+    "w": "el moreno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晒黑的肤色",
+        "en": "suntan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El moreno que tenía después de las vacaciones contrastaba con la piel que había quedado cubierta por las mangas de la camiseta.",
+        "zh": "度假后晒黑的肤色与衣袖遮住的皮肤形成对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2004 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-88f04b319fcb",
+    "w": "tomar el sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晒太阳",
+        "en": "to sunbathe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preferimos tomar el sol a primera hora y pasar el resto de la mañana bajo la sombra que ofrecían las sombrillas.",
+        "zh": "我们更愿清早晒太阳，上午其余时间待在遮阳伞下。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2005 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2cc583b1b30e",
+    "w": "nadar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳",
+        "en": "to swim"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Fuimos a nadar en la zona señalizada mientras nuestros amigos preparaban las toallas en el lugar que habíamos elegido en la arena.",
+        "zh": "朋友在选好的沙地铺毛巾时，我们去指定区域游泳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 73 页 · 第 2006 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-60c5c51c9eb0",
+    "w": "la arena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙子",
+        "en": "sand"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La arena estaba todavía húmeda cuando llegamos a la playa, lo que permitió construir un castillo antes de que subiera la marea.",
+        "zh": "到海滩时沙仍湿润，我们趁涨潮前堆了城堡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2007 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-77fd6d28d27b",
+    "w": "el mar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海",
+        "en": "sea"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mar se veía tranquilo desde el paseo, donde nos detuvimos para observar los barcos que regresaban al puerto al atardecer.",
+        "zh": "从步道看海很平静，我们驻足看傍晚归港的船。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2008 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bf97afba1ce5",
+    "w": "las olas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海浪",
+        "en": "waves"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las olas llegaban hasta las rocas mientras caminábamos por un sendero desde el que podíamos escuchar el sonido del agua.",
+        "zh": "我们沿小径走，听着海浪涌到岩石上的水声。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2009 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-555ffa49c496",
+    "w": "la sombrilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "遮阳伞",
+        "en": "parasol"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos la sombrilla cerca de las toallas para disponer de sombra mientras descansábamos después del paseo que habíamos hecho por la playa.",
+        "zh": "沿海滩散步后，我们在毛巾旁撑遮阳伞休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2010 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6ac8f280bb8e",
+    "w": "la tumbona",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "日光浴躺椅",
+        "en": "sunbed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tumbona estaba orientada hacia el mar para que pudiéramos descansar mientras observábamos los barcos que pasaban cerca de la costa.",
+        "zh": "日光浴躺椅朝向海面，我们休息时能看沿岸船只。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2011 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6a0f5e521a57",
+    "w": "la toalla de playa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙滩巾",
+        "en": "beach towel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Extendimos la toalla de playa sobre una zona de arena limpia antes de dejar las mochilas que habíamos traído desde el hotel.",
+        "zh": "我们在干净沙地铺沙滩巾，再放下从酒店带来的背包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2012 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6aeca4a6d434",
+    "w": "la pelota de playa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙滩球",
+        "en": "beach ball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelota de playa cayó cerca de la sombrilla mientras los niños organizaban un juego en el espacio libre junto a nuestras toallas.",
+        "zh": "孩子在毛巾旁的空地玩耍，沙滩球落在遮阳伞附近。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2013 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5e3e2ba70af9",
+    "w": "la tienda de playa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙滩帐篷",
+        "en": "beach tent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Montamos la tienda de playa para guardar nuestras cosas a la sombra mientras preparábamos la comida que íbamos a compartir al mediodía.",
+        "zh": "我们搭沙滩帐篷，把东西放在阴凉处，再准备午餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2014 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-600c9eb6226c",
+    "w": "el bikini",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "比基尼泳衣",
+        "en": "bikini"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bikini se secaba sobre una silla del balcón mientras guardábamos las demás prendas que habíamos utilizado durante el día de playa.",
+        "zh": "比基尼在阳台椅上晾着，我们收拾白天海滩用过的其他衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2015 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ba436d2f8ede",
+    "w": "el cubo y la pala",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水桶和铲子",
+        "en": "bucket and spade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevamos el cubo y la pala hasta la orilla para recoger la arena húmeda que necesitábamos al construir nuestro castillo.",
+        "zh": "我们带水桶和铲子到水边，取堆城堡用的湿沙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2016 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b2bd0da222c1",
+    "w": "la tumbona",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "折叠躺椅",
+        "en": "deck chair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tumbona plegable quedó junto a la tienda de playa para que mi abuelo pudiera sentarse mientras preparábamos las bolsas del almuerzo.",
+        "zh": "折叠躺椅放在沙滩帐篷旁，祖父可以坐着等我们准备午餐袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2017 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5d8dc5bb00f0",
+    "w": "las chanclas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "人字拖",
+        "en": "flip-flops"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejé las chanclas junto a la toalla antes de caminar por la arena mojada que había quedado al bajar la marea.",
+        "zh": "我把人字拖放在毛巾旁，走上退潮后留下的湿沙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2018 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-112e0cbde105",
+    "w": "las aletas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脚蹼",
+        "en": "flippers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos las aletas en una bolsa aparte después de aclararlas con el agua que había en las duchas de la playa.",
+        "zh": "我们在海滩淋浴处冲净脚蹼，再装进单独的袋子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2019 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ce3631c1aba3",
+    "w": "el paseo marítimo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海滨步道",
+        "en": "promenade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Recorrimos el paseo marítimo al atardecer para elegir un restaurante desde el que se pudieran ver los barcos del puerto.",
+        "zh": "傍晚我们逛海滨步道，选了一家能看港口船只的餐馆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2020 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-76d825d38593",
+    "w": "el flotador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游泳圈",
+        "en": "rubber ring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Inflamos el flotador antes de acercarnos a la orilla, donde un adulto acompañó al niño durante todo el rato que estuvo jugando.",
+        "zh": "我们先充好游泳圈，孩子到水边玩时始终有大人陪着。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2021 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-75d7534ce4eb",
+    "w": "el castillo de arena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙堡",
+        "en": "sandcastle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El castillo de arena tenía un pequeño canal por el que pasaba el agua que recogíamos con los cubos junto a la orilla.",
+        "zh": "沙堡有条小水渠，我们把岸边用桶取的水倒进去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2022 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-eeb56ddd9dec",
+    "w": "las conchas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贝壳",
+        "en": "seashells"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Observamos las conchas que había dejado la marea sobre la arena antes de continuar el paseo hacia las rocas del extremo de la playa.",
+        "zh": "我们看了潮水留在沙上的贝壳，再向海滩尽头的岩石走。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2023 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f395a8d9bdf2",
+    "w": "el alga marina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海藻",
+        "en": "seaweed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El alga marina estaba sobre una roca que había quedado descubierta cuando el agua empezó a retirarse de aquella parte de la playa.",
+        "zh": "海水退去，露出的岩石上有海藻。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2024 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f5201fddc994",
+    "w": "la máscara y el tubo de buceo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "潜水面镜和呼吸管",
+        "en": "snorkel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La máscara y el tubo de buceo estaban guardados en una bolsa que abrimos antes de entrar en la zona de agua tranquila.",
+        "zh": "进平静水域前，我们从袋里取出潜水面镜和呼吸管。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2025 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-033c5eb7ac07",
+    "w": "las gafas de sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "太阳镜",
+        "en": "sunglasses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me puse las gafas de sol antes de salir a caminar porque la luz se reflejaba con fuerza sobre la arena clara.",
+        "zh": "出发散步前我戴好太阳镜，因为浅色沙地反光很强。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2026 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3929236c338b",
+    "w": "el sombrero para el sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "遮阳帽",
+        "en": "sunhat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sombrero para el sol quedó sobre la mochila mientras buscábamos un lugar con sombra donde sentarnos después de caminar por la playa.",
+        "zh": "我们找阴凉处休息时，把遮阳帽放在背包上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2027 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8db3d6e08f8c",
+    "w": "la loción bronceadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "防晒乳液",
+        "en": "suntan lotion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La loción bronceadora estaba dentro de la bolsa que habíamos preparado con las toallas y las demás cosas para pasar la mañana fuera.",
+        "zh": "防晒乳液在装毛巾和上午外出用品的袋子里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2028 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e8cc89bb5cf9",
+    "w": "el bañador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "男式泳裤",
+        "en": "swimming trunks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bañador se estaba secando junto a las toallas cuando volvimos al alojamiento después de comer en un restaurante cercano a la playa.",
+        "zh": "我们在海滩附近吃饭后回住处，泳裤还和毛巾一起晾着。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2029 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2316c2dc14ab",
+    "w": "el traje de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泳衣",
+        "en": "swimsuit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de baño quedó doblado sobre la maleta mientras preparábamos las prendas que queríamos llevar a la piscina durante la tarde.",
+        "zh": "我们准备下午去泳池的衣物，泳衣叠放在行李箱上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2030 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3f1d94bdcbd8",
+    "w": "el CD",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "光盘",
+        "en": "CD"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Encontré un CD con canciones que escuchábamos durante los viajes en coche cuando todavía no utilizábamos el teléfono para reproducir música.",
+        "zh": "我找到一张光盘，是以前不用手机播放音乐时车旅常听的歌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2031 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3fdfc8af19dd",
+    "w": "el disco de vinilo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黑胶唱片",
+        "en": "vinyl record"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El disco de vinilo giraba lentamente mientras escuchábamos una grabación que mi padre había conservado desde que era estudiante en otra ciudad.",
+        "zh": "黑胶唱片缓缓转着，播放父亲外地求学时收藏的录音。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2032 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9f97d16a698e",
+    "w": "el álbum",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "音乐专辑",
+        "en": "album"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El álbum reúne canciones que el grupo había compuesto durante los viajes que realizó antes de grabar su primer concierto en directo.",
+        "zh": "这张专辑收录乐队在录制首场现场演出前的旅行中写的歌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2033 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-018195e55caf",
+    "w": "el micrófono",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "麦克风",
+        "en": "microphone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ajustamos el micrófono para que se escuchara la voz de la cantante sin tapar el sonido de los instrumentos que la acompañaban.",
+        "zh": "我们调好麦克风，让歌声清楚，又不盖住伴奏乐器。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2034 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b18d3a1471c9",
+    "w": "la canción",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "歌曲",
+        "en": "song"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La canción que escuchamos en la radio nos recordó el viaje que habíamos hecho juntos cuando terminamos nuestros estudios hace varios años.",
+        "zh": "收音机里的歌让我们想起几年前毕业时一起的旅行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2035 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5bde386a0e72",
+    "w": "el grupo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乐队",
+        "en": "band"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El grupo ensaya en una sala que comparte con otros músicos del barrio, donde pueden tocar después de terminar sus trabajos diarios.",
+        "zh": "乐队在与街区其他乐手共用的房间里练习，下班后可在那里演奏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 74 页 · 第 2036 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-eec4a88f189a",
+    "w": "la música en directo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "现场音乐",
+        "en": "live music"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La música en directo atraía a personas que se detenían en la plaza para escuchar al conjunto antes de seguir su camino.",
+        "zh": "现场音乐吸引路人停在广场听乐队，再继续赶路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2037 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3dad6660365a",
+    "w": "el cantautor / la cantautora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "创作歌手",
+        "en": "singer-songwriter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cantautora presentó una canción que había escrito al regresar al pueblo donde había pasado buena parte de su infancia.",
+        "zh": "女创作歌手介绍了一首回童年居住的村庄后写的歌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2038 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-499063e4b3fd",
+    "w": "el concierto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小型音乐会",
+        "en": "gig"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El concierto se celebró en una sala pequeña donde el público pudo escuchar de cerca a los músicos que habían preparado el programa.",
+        "zh": "音乐会在小厅举行，观众能近距离听到乐手演奏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2039 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c8b7523ed3b5",
+    "w": "el pop",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "流行音乐",
+        "en": "pop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pop que sonaba en la tienda hizo que reconociéramos varias canciones que habíamos escuchado durante las vacaciones del verano anterior.",
+        "zh": "商店里的流行音乐让我们认出几首去年暑假听过的歌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2040 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c247330cc30c",
+    "w": "el rock",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摇滚音乐",
+        "en": "rock"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rock empezó a interesarme cuando un amigo me prestó unos discos que había encontrado al ordenar la colección de su hermano.",
+        "zh": "朋友整理哥哥的唱片收藏，借给我几张，我开始对摇滚感兴趣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2041 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-84dd948ebaff",
+    "w": "el hip-hop",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嘻哈音乐",
+        "en": "hip-hop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hip-hop formaba parte del programa que habían preparado los jóvenes del barrio para mostrar los proyectos en los que estaban trabajando.",
+        "zh": "街区年轻人准备的节目有嘻哈音乐，展示正在做的项目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2042 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-aaa12865cabb",
+    "w": "el rap",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "说唱音乐",
+        "en": "rap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rap de la actuación contaba historias del barrio mediante versos que el cantante acompañaba con un ritmo marcado por la batería.",
+        "zh": "演出里的说唱用歌词讲街区故事，配着鲜明鼓点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2043 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7976cfa3eaf1",
+    "w": "la música clásica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "古典音乐",
+        "en": "classical"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La música clásica llenaba la sala mientras preparábamos las sillas para el pequeño concierto que los estudiantes ofrecerían aquella misma tarde.",
+        "zh": "我们摆椅子准备学生当天下午的小音乐会，厅里响着古典音乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2044 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-507f69458bc0",
+    "w": "el folk",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "民谣音乐",
+        "en": "folk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El folk que interpretaba el grupo mezclaba melodías antiguas con instrumentos que los músicos habían aprendido a tocar durante su infancia.",
+        "zh": "乐队演奏的民谣把古老旋律与乐手从小学的乐器结合起来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2045 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4c5f482c66d5",
+    "w": "tocar un instrumento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "演奏乐器",
+        "en": "to play an instrument"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprender a tocar un instrumento requiere práctica, pero me gusta comprobar que puedo interpretar melodías que al principio me parecían demasiado difíciles.",
+        "zh": "学演奏乐器需要练习，但弹会起初觉得太难的旋律让我高兴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2046 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dda3e6cf6dd5",
+    "w": "cantar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "唱歌",
+        "en": "to sing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos reunimos para cantar las canciones que habíamos ensayado durante varias semanas antes de presentarlas ante las familias de los participantes.",
+        "zh": "我们聚在一起唱练了数周的歌，准备向参与者的家人演出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2047 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cf2445dc3d51",
+    "w": "escuchar música",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "听音乐",
+        "en": "to listen to music"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me gusta escuchar música mientras preparo la cena, siempre que pueda conversar con quienes me acompañan sin tener que subir la voz.",
+        "zh": "我喜欢做晚饭时听音乐，只要仍能正常和身边人聊天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2048 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1032a2a14c74",
+    "w": "ir a conciertos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "去听音乐会",
+        "en": "to go to gigs"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Solemos ir a conciertos de grupos que todavía no conocemos para descubrir propuestas distintas de las que escuchamos habitualmente en casa.",
+        "zh": "我们常去听陌生乐队的音乐会，发现不同于家里常听的音乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2049 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-271fec0f9511",
+    "w": "escuchar música en streaming",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "在线听音乐",
+        "en": "to stream music"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Podemos escuchar música en streaming desde el teléfono cuando elegimos una lista que todos quieran compartir durante el viaje en tren.",
+        "zh": "火车旅行时，我们选大家想听的歌单，用手机在线听音乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2050 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6077dc7dcdb2",
+    "w": "el altavoz de Bluetooth®",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蓝牙音箱",
+        "en": "Bluetooth® speaker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos el altavoz de Bluetooth sobre una mesa para escuchar la selección de canciones que habíamos preparado para la reunión con amigos.",
+        "zh": "我们把蓝牙音箱放桌上，播放朋友聚会歌单。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2051 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-88e5a929dfa1",
+    "w": "los auriculares",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "入耳式耳机",
+        "en": "earphones"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé los auriculares pequeños en su estuche después de escuchar el programa que había descargado para el trayecto entre casa y el trabajo.",
+        "zh": "上下班路上听完下载的节目，我把入耳式耳机放回盒子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2052 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7385b04b08cc",
+    "w": "los auriculares",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头戴式耳机",
+        "en": "headphones"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los auriculares grandes permiten escuchar los detalles de la grabación mientras los demás trabajan en la sala que compartimos por las tardes.",
+        "zh": "头戴式耳机让人听清录音细节，不影响下午同室工作的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2053 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0b18413f3ce6",
+    "w": "la barra de sonido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "回音壁音箱",
+        "en": "soundbar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Instalamos la barra de sonido debajo del televisor para escuchar mejor los diálogos de las películas que solemos ver los fines de semana.",
+        "zh": "我们把回音壁装在电视下，周末看电影能更清楚听对白。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2054 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-13e40c155040",
+    "w": "los altavoces",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扬声器",
+        "en": "speakers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los altavoces estaban a ambos lados del escenario para que el público pudiera escuchar la música desde cualquier parte de la plaza.",
+        "zh": "扬声器在舞台两边，广场各处的观众都能听到音乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2055 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-00c6cdc13ff3",
+    "w": "el plato",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "唱盘",
+        "en": "turntable"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pusimos el disco sobre el plato y bajamos la aguja con cuidado para escuchar la grabación que acabábamos de comprar en el mercadillo.",
+        "zh": "我们把唱片放唱盘，小心落针，听刚在集市买的录音。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2056 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4b1384db9f43",
+    "w": "el acordeón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手风琴",
+        "en": "accordion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El acordeón acompañaba las voces de quienes cantaban en la plaza mientras otras personas se acercaban para escuchar las melodías del grupo.",
+        "zh": "广场上手风琴伴着歌声，其他人走近听乐队旋律。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2057 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d87e8e59ed94",
+    "w": "la guitarra acústica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "原声吉他",
+        "en": "acoustic guitar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La guitarra acústica descansaba sobre un soporte junto a la silla donde el músico se sentaría para comenzar el concierto de aquella tarde.",
+        "zh": "原声吉他放在椅旁支架上，乐手下午将在那里开演。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2058 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2d97253e4898",
+    "w": "el bombo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大鼓",
+        "en": "bass drum"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bombo marcaba un pulso profundo que permitía a los demás músicos mantener el ritmo durante el ensayo que preparaban para el desfile.",
+        "zh": "大鼓打着低沉节拍，让为游行排练的乐手保持节奏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2059 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7310a4ed598a",
+    "w": "el bajo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贝斯吉他",
+        "en": "bass guitar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bajo aportaba las notas graves que sostenían la canción mientras la guitarra interpretaba la melodía que habíamos preparado para la actuación.",
+        "zh": "贝斯以低音支撑歌曲，吉他奏出演出准备的旋律。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2060 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ded8470f297f",
+    "w": "el violoncelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大提琴",
+        "en": "cello"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El violoncelo estaba apoyado en el suelo mientras la intérprete ajustaba la altura del atril antes de empezar a ensayar con la orquesta.",
+        "zh": "演奏者调谱架高度准备排练，大提琴支在地上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2061 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-952c481766c6",
+    "w": "el clarinete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单簧管",
+        "en": "clarinet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El clarinete se escuchaba con claridad cuando los demás instrumentos bajaron el volumen para dejar paso a la melodía que debía interpretar.",
+        "zh": "其他乐器降低音量，让单簧管清晰奏出旋律。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2062 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-934155beeb15",
+    "w": "los platillos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钹",
+        "en": "cymbals"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los platillos brillaban bajo las luces del escenario mientras la percusionista esperaba el momento señalado en la partitura para hacerlos sonar.",
+        "zh": "钹在舞台灯下闪亮，打击乐手等谱上指定的时刻敲响。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2063 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f39c2d0b7cd7",
+    "w": "el contrabajo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "低音提琴",
+        "en": "double bass"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El contrabajo estaba al fondo del escenario, donde su sonido grave acompañaba a los instrumentos que interpretaban la parte principal de la pieza.",
+        "zh": "低音提琴在舞台后方，以低音伴奏主旋律乐器。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2064 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f4adae2b0a8e",
+    "w": "la guitarra eléctrica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电吉他",
+        "en": "electric guitar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Conectamos la guitarra eléctrica al amplificador antes de comprobar que todos los instrumentos podían escucharse claramente desde el fondo de la sala.",
+        "zh": "我们把电吉他接上音箱，再从厅后方确认各乐器听得清。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2065 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e9670d821b38",
+    "w": "la flauta travesera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "长笛",
+        "en": "flute"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La flauta travesera interpretó una melodía suave mientras el resto de los músicos esperaba la señal de la directora para volver a tocar.",
+        "zh": "长笛吹着柔和旋律，其余乐手等女指挥示意再演奏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2066 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2e2f1a3974a1",
+    "w": "el arpa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "竖琴",
+        "en": "harp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El arpa estaba junto al piano para que sus intérpretes pudieran verse durante los pasajes que debían tocar de forma coordinada.",
+        "zh": "竖琴在钢琴旁，两位演奏者能在合奏段落互相看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2067 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e2c47b4a7cac",
+    "w": "el teclado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电子键盘",
+        "en": "keyboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El teclado permite cambiar de sonido mientras ensayamos las canciones que queremos interpretar con el grupo en la próxima reunión del barrio.",
+        "zh": "电子键盘可切换音色，我们排练下次街区聚会的歌曲。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2068 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d6ba6fe449f4",
+    "w": "la armónica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "口琴",
+        "en": "mouth organ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardó la armónica en el bolsillo después de tocar una melodía que sus amigos habían reconocido durante el descanso del paseo.",
+        "zh": "散步休息时，他吹了朋友熟悉的旋律，再把口琴收进口袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2069 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-dd20a7b623f9",
+    "w": "el piano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钢琴",
+        "en": "piano"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El piano ocupaba una esquina del salón donde la profesora recibía a los alumnos que empezaban a estudiar música después del colegio.",
+        "zh": "钢琴在客厅一角，老师在那里教放学后来学音乐的学生。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2070 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f4999425abce",
+    "w": "el saxofón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "萨克斯管",
+        "en": "saxophone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El saxofón destacaba en el pequeño conjunto que tocaba en la terraza mientras los clientes esperaban la comida que habían pedido.",
+        "zh": "客人等餐时，小乐队在露台演奏，萨克斯管格外突出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2071 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cb38bde196b8",
+    "w": "la caja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小军鼓",
+        "en": "snare drum"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caja marcaba golpes precisos que ayudaban al grupo a mantener el ritmo mientras practicaba la pieza que abriría el concierto.",
+        "zh": "小军鼓打出精确节拍，帮助乐队练习开场曲时保持节奏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2072 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7c80fcff7963",
+    "w": "el trombón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "长号",
+        "en": "trombone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El trombón producía notas graves mientras el músico movía la vara para seguir la melodía que aparecía en la partitura del atril.",
+        "zh": "乐手推拉长号滑管，照谱架上的旋律吹出低音。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2073 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-e995445a74b7",
+    "w": "la trompeta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小号",
+        "en": "trumpet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La trompeta sonó desde el balcón cuando los músicos comenzaron la pieza que anunciaba el inicio de las fiestas de la localidad.",
+        "zh": "乐手奏响宣布本地节庆开始的乐曲，阳台上传来小号声。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 75 页 · 第 2074 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-102e84f4931c",
+    "w": "la tuba",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大号",
+        "en": "tuba"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tuba daba profundidad al sonido de la banda mientras los músicos avanzaban lentamente por la calle que conducía a la plaza.",
+        "zh": "乐手沿通向广场的街缓行，大号给乐队增添深沉音色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2075 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bc0cb8befb2d",
+    "w": "el violín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小提琴",
+        "en": "violin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El violín estaba dentro de su estuche mientras la alumna preparaba las partituras que iba a practicar durante la clase de aquella tarde.",
+        "zh": "学生准备下午课上练习的乐谱，小提琴还在琴盒里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2076 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bf439457ae28",
+    "w": "el xilófono",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "木琴",
+        "en": "xylophone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El xilófono tenía las láminas ordenadas frente al niño, que probaba distintas notas para repetir la melodía que acababa de escuchar.",
+        "zh": "木琴音板排列在孩子面前，他试着敲出刚听的旋律。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2077 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c6a5597867d0",
+    "w": "el grupo de acompañamiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "伴奏乐队",
+        "en": "backing group"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El grupo de acompañamiento ensayó sin la cantante para ajustar los cambios que debían realizar antes de la presentación del nuevo programa.",
+        "zh": "伴奏乐队在歌手不在时排练，调整新节目演出前需要改的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2078 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4dd4de9a9c60",
+    "w": "el coro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "合唱团",
+        "en": "choir"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El coro reunió voces de distintas edades que habían ensayado juntas para ofrecer un concierto en el salón del centro cultural.",
+        "zh": "合唱团聚集不同年龄的歌者，一起排练在文化中心的演出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2079 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4ac7bc3b1e88",
+    "w": "el director / la directora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "指挥",
+        "en": "conductor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La directora levantó la batuta para indicar el momento en que los músicos debían empezar la pieza que habían preparado durante semanas.",
+        "zh": "女指挥举起指挥棒，示意乐手开始练了数周的乐曲。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2080 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-71dcb93c7a5b",
+    "w": "el DJ / la DJ",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "DJ",
+        "en": "DJ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La DJ elegía las canciones mientras observaba cómo respondía el público a los cambios de ritmo que introducía durante la sesión.",
+        "zh": "女DJ一边选歌，一边看观众对节奏变化的反应。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2081 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-791822b59122",
+    "w": "el músico / la música",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "音乐家",
+        "en": "musician"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La música explicó cómo preparaba sus conciertos mientras mostraba los instrumentos que había aprendido a tocar durante sus años de formación.",
+        "zh": "女音乐家展示学习期间学会的乐器，讲如何准备音乐会。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2082 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1ef46420c552",
+    "w": "el atril",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "谱架",
+        "en": "music stand"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ajustamos el atril a la altura adecuada para poder leer las notas sin perder de vista las indicaciones que daba la directora.",
+        "zh": "我们调好谱架高度，既能读谱，也能看女指挥的示意。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2083 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8c782f065a7c",
+    "w": "la orquesta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "管弦乐团",
+        "en": "orchestra"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La orquesta ensayaba en una sala amplia donde cada grupo de instrumentos podía escuchar con claridad las partes que interpretaban los demás.",
+        "zh": "管弦乐团在宽敞厅排练，各声部都能听清其他声部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2084 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f333a7bc376e",
+    "w": "las hojas de partitura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乐谱纸",
+        "en": "sheet music"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ordenamos las hojas de partitura antes del ensayo para encontrar fácilmente los pasajes que la profesora quería repasar con todo el grupo.",
+        "zh": "排练前我们整理乐谱纸，方便找到老师要大家复习的段落。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2085 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5299549a851f",
+    "w": "el cantante / la cantante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "歌手",
+        "en": "singer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cantante saludó al público antes de interpretar una canción que había preparado especialmente para el concierto que cerraba el festival.",
+        "zh": "女歌手向观众致意，然后演唱为闭幕音乐会特别准备的歌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2086 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-75d7606fac16",
+    "w": "la foto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "照片",
+        "en": "photo"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La foto mostraba una calle que apenas reconocíamos porque los edificios habían cambiado mucho desde la última vez que visitamos el barrio.",
+        "zh": "照片里的街道几乎认不出，楼房自上次来访后变化很大。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2087 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-005efd3ea069",
+    "w": "el fotógrafo / la fotógrafa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摄影师",
+        "en": "photographer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fotógrafa esperó a que cambiara la luz para captar los colores que aparecían sobre los edificios cuando empezaba a ponerse el sol.",
+        "zh": "女摄影师等光线变化，拍下日落时建筑上的色彩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2088 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-125f81d05cde",
+    "w": "el selfi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自拍照",
+        "en": "selfie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El selfi que hicimos frente al museo nos permitió conservar un recuerdo del día que pasamos juntos recorriendo las exposiciones del edificio.",
+        "zh": "博物馆前的自拍照，留下我们一起逛展一天的回忆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2089 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bfde66aa12fe",
+    "w": "el paloselfi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "自拍杆",
+        "en": "selfie stick"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paloselfi permitió incluir a todo el grupo en la imagen sin tener que pedir ayuda a quienes pasaban por la plaza.",
+        "zh": "自拍杆让全组人入镜，不必请广场路人帮忙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2090 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cec5381a4031",
+    "w": "tomar una foto / un selfi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拍照或自拍",
+        "en": "to take a photo/selfie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos detuvimos para tomar una foto del paisaje que aparecía entre los árboles antes de continuar por el sendero hacia el refugio.",
+        "zh": "我们停下拍树间的风景，再沿小径向山屋走。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2091 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-19c3e050d647",
+    "w": "aumentar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "放大取景",
+        "en": "to zoom in"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Podemos aumentar la imagen para observar los detalles del edificio que se encuentra al otro lado de la plaza sin acercarnos más.",
+        "zh": "我们可以放大画面，不走近也能看广场对面建筑的细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2092 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-29fa73d477c7",
+    "w": "el objetivo de la cámara",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "相机镜头",
+        "en": "camera lens"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El objetivo de la cámara estaba protegido por una tapa que retiramos antes de fotografiar las aves que descansaban junto al lago.",
+        "zh": "拍湖边休息的鸟前，我们取下保护相机镜头的盖子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2093 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d5616df237ae",
+    "w": "la cámara compacta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "便携相机",
+        "en": "compact camera"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cámara compacta cabe en el bolsillo de la chaqueta, así que puedo llevarla cuando salgo a caminar sin una mochila grande.",
+        "zh": "便携相机能放衣袋，散步时不用大背包也能带上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2094 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-39d7a6458cc5",
+    "w": "el dron",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无人机",
+        "en": "drone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dron permanecía sobre una mesa mientras su dueño revisaba el equipo que utilizaría para grabar las imágenes del paisaje desde el aire.",
+        "zh": "无人机放桌上，主人检查拍摄空中风景所用的设备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2095 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-79f5b8f7903a",
+    "w": "la cámara DSLR",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "数码单反相机",
+        "en": "DSLR camera"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cámara DSLR estaba montada en el trípode para fotografiar el paisaje con la luz suave que aparecía antes de ponerse el sol.",
+        "zh": "数码单反相机架在三脚架上，拍日落前柔光中的景色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2096 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d3911fe6566c",
+    "w": "la tarjeta de memoria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "存储卡",
+        "en": "SD card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardé la tarjeta de memoria en su caja después de copiar las fotografías que habíamos tomado durante el recorrido por la costa.",
+        "zh": "复制沿海旅行拍的照片后，我把存储卡收进盒子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2097 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1194c539fd62",
+    "w": "el trípode",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三脚架",
+        "en": "tripod"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos el trípode sobre una superficie estable para mantener la cámara fija mientras fotografiábamos los edificios iluminados al final de la tarde.",
+        "zh": "我们在稳固地面打开三脚架，固定相机拍傍晚亮灯的楼房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 76 页 · 第 2098 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6b6c635ec5c2",
+    "w": "el jugador / la jugadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玩家",
+        "en": "player"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jugadora explicó las reglas a quienes acababan de llegar para que todos pudieran participar en la partida que íbamos a empezar.",
+        "zh": "女玩家向刚来的人解释规则，让大家参与即将开始的游戏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 77 页 · 第 2099 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-063db131bde5",
+    "w": "el juego de charadas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "猜词表演游戏",
+        "en": "charades"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El juego de charadas hizo que todos participaran mientras intentaban adivinar las palabras que sus compañeros representaban sin utilizar la voz.",
+        "zh": "猜词表演游戏让大家都参与，猜同伴无声表演的词。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-5",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 77 页 · 第 2100 条；自编例句 B1+",
+    "m": 0
+  }
+]

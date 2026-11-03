@@ -1,4 +1,4 @@
-import { ArrowRight, Check, Lightbulb, RotateCcw, Share2, Volume2, X } from "lucide-react";
+import { ArrowRight, Check, Lightbulb, RotateCcw, Search, Share2, Volume2, X } from "lucide-react";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { prefetch, useAtlas, useEntry } from "../atlas/context";
 import type { Entry, WordRef } from "../atlas/types";
@@ -18,7 +18,7 @@ import { Ring } from "../ui/Ring";
 import { Speak } from "../ui/Speak";
 import { shareSession } from "../ui/shareSession";
 
-export function Learn() {
+export function Learn({ onSearch }: { onSearch: () => void }) {
   const atlas = useAtlas();
   const session = useStore((s) => s.progress.session);
   const [ready, setReady] = useState(false);
@@ -51,10 +51,10 @@ export function Learn() {
 
   if (!session || !ready) return <div className="learn learn-loading"><span className="spinner" /></div>;
   if (session.finished || session.index >= session.steps.length) return <Summary session={session} />;
-  return <Runner session={session} />;
+  return <Runner session={session} onSearch={onSearch} />;
 }
 
-function Runner({ session }: { session: ActiveSession }) {
+function Runner({ session, onSearch }: { session: ActiveSession; onSearch: () => void }) {
   const step = session.steps[session.index];
   const total = session.steps.length;
   const exit = () => {
@@ -74,6 +74,9 @@ function Runner({ session }: { session: ActiveSession }) {
           {session.index + 1}
           <small>/{total}</small>
         </span>
+        <button className="icon-btn" onClick={onSearch} aria-label="查词" title="查词（Ctrl/⌘ K）">
+          <Search size={20} />
+        </button>
         <AmbiencePicker />
       </header>
       <main className="learn-stage" key={`${session.id}-${session.index}`}>
@@ -449,6 +452,7 @@ export function useKeys(map: Record<string, () => void>) {
   ref.current = map;
   useEffect(() => {
     const on = (e: KeyboardEvent) => {
+      if (document.querySelector('.palette-root, .sheet-root, .inline-lookup')) return;
       if (e.metaKey || e.ctrlKey || e.altKey || e.repeat) return;
       const t = e.target as HTMLElement;
       const typing = t.tagName === "INPUT" || t.tagName === "TEXTAREA";

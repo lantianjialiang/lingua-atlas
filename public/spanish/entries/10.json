@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-6a74f22ff5df",
+    "w": "la cadena comercial",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "连锁零售企业",
+        "en": "retail chain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cadena comercial ha abierto una tienda nueva en el barrio donde vivimos desde el año pasado.",
+        "zh": "那家连锁企业在我们从去年起居住的街区开了新店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1001 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-233730800cca",
+    "w": "el dinero en efectivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "现金",
+        "en": "cash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevo algo de dinero en efectivo por si en alguno de los puestos del mercado no aceptan tarjetas.",
+        "zh": "我带了一些现金，以防市场里有摊位不收卡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1002 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-aea0b15b51cd",
+    "w": "la vuelta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "找零",
+        "en": "change"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La dependienta me entrega la vuelta después de comprobar el billete con el que he pagado la compra.",
+        "zh": "店员确认我付的纸币后，把找零交给我。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1003 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-89f399619722",
+    "w": "sin contacto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "非接触式",
+        "en": "contactless"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pago sin contacto nos permite terminar la compra acercando la tarjeta al lector que hay junto a la caja.",
+        "zh": "非接触支付让我们把卡靠近收银台旁的读卡器就能完成付款。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1004 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c33df7b67ebd",
+    "w": "el cheque regalo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "礼品券",
+        "en": "gift voucher"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Con el cheque regalo que recibí por mi cumpleaños puedo elegir algo en la tienda de mis amigos.",
+        "zh": "我能用生日收到的礼品券，在朋友的店里挑选东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1005 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0827933b9dbf",
+    "w": "el PIN",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "个人密码",
+        "en": "PIN"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lector solicita el PIN y la clienta termina de pagar antes de recoger sus bolsas.",
+        "zh": "读卡器要求输入密码，顾客付完款后取走购物袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1006 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0191c4e46f4a",
+    "w": "el cambio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "换货",
+        "en": "exchange"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preguntamos por el cambio de la chaqueta porque la talla que elegimos resulta demasiado pequeña.",
+        "zh": "我们选的夹克尺码太小，因此询问换货事宜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1007 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-fd9e77c90cca",
+    "w": "el reintegro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "退款",
+        "en": "refund"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La clienta solicita el reintegro y muestra el tique de la compra que hizo la semana pasada.",
+        "zh": "顾客申请退款，出示上周购物的小票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1008 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-cdbc3bb5a77b",
+    "w": "el vale",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购物代金券",
+        "en": "voucher"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vale que guardamos en la cartera tiene una fecha que debemos comprobar antes de utilizarlo.",
+        "zh": "我们放在钱包里的代金券有日期，使用前需要查看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1009 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8d220f8c7995",
+    "w": "el dependiente / la dependienta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "店员",
+        "en": "shop assistant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La dependienta nos indica dónde están los productos que no hemos encontrado después de recorrer varios pasillos.",
+        "zh": "我们走过几个通道仍没找到商品，店员告诉我们位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1010 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e397ce51bbaa",
+    "w": "mirar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浏览；随便看看",
+        "en": "to browse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos gusta mirar las tiendas del centro antes de decidir si vamos a comprar algo para la casa.",
+        "zh": "决定是否买家用品前，我们喜欢先逛逛市中心的店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1011 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e1dbc02bbd81",
+    "w": "comprar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购买",
+        "en": "to buy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos comprar una mesa que sea lo bastante grande para reunir a toda la familia los domingos.",
+        "zh": "我们想买一张够大的桌子，让全家周日能聚在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1012 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-9cda3328623d",
+    "w": "pagar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "付款",
+        "en": "to pay"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Al pagar comprobamos el importe que aparece en la pantalla mientras la dependienta prepara nuestras bolsas.",
+        "zh": "付款时，我们看屏幕上的金额，店员则准备购物袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1013 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c5da2d1a10d2",
+    "w": "comprar (en línea)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "网上购物",
+        "en": "to shop (online)"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Prefiero comprar en línea los productos que ya conozco, pero me gusta visitar las tiendas cuando necesito probar algo.",
+        "zh": "熟悉的商品我更愿意网上买，需要试用时则喜欢去实体店。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1014 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-baa01c5d027d",
+    "w": "hacer la compra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "采购日用品",
+        "en": "to do the shopping"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de hacer la compra organizamos una lista con lo que falta para preparar las comidas de la semana.",
+        "zh": "采购前，我们先列出这周做饭还缺的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1015 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b76a558cd83b",
+    "w": "los billetes de banco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纸币",
+        "en": "banknotes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los billetes de banco están guardados en una parte de la cartera que se cierra con una cremallera.",
+        "zh": "纸币收在钱包里一个用拉链封口的夹层中。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1016 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-800620fbc437",
+    "w": "el lector de tarjetas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "读卡器",
+        "en": "card reader"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lector de tarjetas está orientado hacia el cliente para que pueda comprobar el importe antes de pagar.",
+        "zh": "读卡器朝向顾客，便于付款前核对金额。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1017 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4473382f875b",
+    "w": "las monedas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "硬币",
+        "en": "coins"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Busco unas monedas en el bolsillo mientras mi hermana espera junto a la máquina que vende los billetes.",
+        "zh": "我在口袋里找硬币，姐妹在售票机旁等候。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1018 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-aac2713fb4f8",
+    "w": "la tarjeta de débito / crédito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "借记卡／信用卡",
+        "en": "debit/credit card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarjeta de débito que utilizo para las compras está en el mismo bolsillo que la tarjeta de transporte.",
+        "zh": "购物用的借记卡和交通卡放在同一个口袋里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1019 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-65522e3eebb4",
+    "w": "la bolsa de papel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纸袋",
+        "en": "paper bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bolsa de papel contiene los regalos pequeños que hemos comprado para llevar a la cena de nuestros amigos.",
+        "zh": "纸袋里装着我们带去朋友晚餐的小礼物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1020 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0af88ab5ffbc",
+    "w": "la bolsa de plástico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "塑料袋",
+        "en": "plastic bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Guardamos la bolsa de plástico para volver a utilizarla cuando tengamos que llevar algo al mercado.",
+        "zh": "我们留着塑料袋，下次带东西去市场时再用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1021 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6ecc7a9e385a",
+    "w": "el tique de compra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购物小票",
+        "en": "receipt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Reviso el tique de compra antes de guardarlo con los documentos de los otros productos que hemos comprado.",
+        "zh": "我检查购物小票，再把它和其他购物凭据收在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1022 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-22910aea314c",
+    "w": "la bolsa reutilizable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "可重复使用购物袋",
+        "en": "reusable shopping bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevamos una bolsa reutilizable cuando vamos al supermercado para no necesitar otra cada vez que compramos algo.",
+        "zh": "去超市时我们带可重复使用购物袋，免得每次都拿新袋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1023 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3f69f00b2c87",
+    "w": "la caja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "收银台",
+        "en": "till point"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la caja esperamos nuestro turno mientras la persona que va delante termina de colocar su compra en las bolsas.",
+        "zh": "收银台前，我们等前面的顾客把东西装进袋子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 40 页 · 第 1024 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-59aaa5f336a4",
+    "w": "los comestibles",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "食品杂货",
+        "en": "groceries"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los comestibles que compramos hoy deben alcanzar para las comidas que vamos a preparar durante el fin de semana.",
+        "zh": "今天买的食品杂货，要够周末做饭使用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1025 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f73e342297c3",
+    "w": "el pasillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "过道",
+        "en": "aisle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pasillo de los productos de desayuno está al fondo de la tienda, junto a la zona de las bebidas.",
+        "zh": "早餐用品通道在商店深处，靠近饮品区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1026 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6e3da0575515",
+    "w": "la tarjeta de puntos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "积分卡",
+        "en": "loyalty card"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tarjeta de puntos está en el móvil y la mostramos cuando terminamos de hacer la compra del mes.",
+        "zh": "积分卡存在手机里，每月购物结账时我们会出示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1027 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-65444248ba89",
+    "w": "la tienda de delicatessen",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "熟食精品店",
+        "en": "delicatessen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la tienda de delicatessen buscamos un queso que pueda acompañar el pan que acabamos de comprar.",
+        "zh": "我们在熟食店挑奶酪，想搭配刚买的面包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1028 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e6f6a6e6fdce",
+    "w": "la comida preparada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "即食餐；预制餐",
+        "en": "ready meal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La comida preparada está en una sección refrigerada que vemos al pasar junto a los productos frescos.",
+        "zh": "即食餐放在冷藏区，我们经过生鲜商品时能看到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1029 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c472626a4f1a",
+    "w": "la botella",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "瓶子",
+        "en": "bottle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La botella que elegimos tiene un tamaño adecuado para llevar agua durante el paseo que hemos organizado para mañana.",
+        "zh": "选好的瓶子大小合适，能带水去参加明天的散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1030 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-599dc51d6481",
+    "w": "la caja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "盒子",
+        "en": "box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caja de galletas está en el estante donde guardamos los productos que ofrecemos cuando vienen visitas a merendar.",
+        "zh": "饼干盒放在存放招待客人吃点心的食品架上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1031 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-fa420051082e",
+    "w": "el cartón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纸盒包装",
+        "en": "carton"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cartón de leche está junto a los vasos que hemos preparado para el desayuno de toda la familia.",
+        "zh": "牛奶纸盒旁摆着为全家早餐准备的杯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1032 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-394d5dc4b291",
+    "w": "el tarro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "罐子",
+        "en": "jar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tarro de mermelada tiene una etiqueta que indica la fruta con la que se ha elaborado el producto.",
+        "zh": "果酱罐标签上写着制作这种果酱所用的水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1033 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b4fea093047c",
+    "w": "el paquete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一包",
+        "en": "packet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paquete que tenemos en la cesta contiene la pasta que vamos a cocinar para la cena de esta noche.",
+        "zh": "篮子里的那一包是我们今晚晚饭要煮的意面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1034 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-64cdc5e9ed82",
+    "w": "la lata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "罐头盒",
+        "en": "tin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lata está en la despensa, junto a otros alimentos que conservamos para preparar comidas cuando tenemos poco tiempo.",
+        "zh": "罐头放在储物间里，和没时间时便于做饭的其他食物放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1035 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-2ab546eb9b24",
+    "w": "enlatado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "罐装的",
+        "en": "tinned"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tomate enlatado que hemos comprado servirá para la salsa que vamos a preparar con nuestros amigos esta tarde.",
+        "zh": "买来的罐装番茄，将用于下午和朋友一起做的酱汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1036 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ed60bd4c5671",
+    "w": "fresco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "新鲜的",
+        "en": "fresh"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preferimos el pan fresco que venden en la tienda de la esquina cuando abre por la mañana.",
+        "zh": "我们更喜欢街角商店早上开门时卖的新鲜面包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1037 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-d6ffabd409e4",
+    "w": "congelado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冷冻的",
+        "en": "frozen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado congelado está en una sección del supermercado que visitamos al final de nuestro recorrido por la tienda.",
+        "zh": "冷冻鱼在超市里我们最后才逛到的区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1038 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8c7ef111f8ac",
+    "w": "la cesta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购物篮",
+        "en": "basket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cogemos una cesta al entrar porque solo necesitamos algunos productos para preparar el desayuno de mañana.",
+        "zh": "进店时我们拿一个购物篮，因为只需买明天早餐用的几样东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1039 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4f53282966b3",
+    "w": "el peso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "秤",
+        "en": "scales"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos las manzanas en el peso para saber cuánto van a costar antes de pasar por la caja.",
+        "zh": "我们把苹果放在秤上，结账前了解价格。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1040 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6e1e598579c1",
+    "w": "el carro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "购物车",
+        "en": "trolley"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El carro está lleno de los alimentos que vamos a compartir con la familia durante los próximos días.",
+        "zh": "购物车里满是接下来几天要与家人分享的食物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1041 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f842109cb466",
+    "w": "las galletas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "饼干",
+        "en": "biscuits"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las galletas que compramos llevan una mezcla de ingredientes que podemos consultar en la parte posterior del paquete.",
+        "zh": "买来的饼干使用了多种原料，可在包装背面查看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1042 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-511077b88a7a",
+    "w": "el cous cous",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "库斯库斯",
+        "en": "couscous"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preparamos cous cous con verduras para ofrecer una comida distinta a los amigos que vienen a vernos el domingo.",
+        "zh": "我们做蔬菜库斯库斯，周日给来访朋友换换口味。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1043 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-36b4af3d682b",
+    "w": "las hierbas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香草",
+        "en": "herbs"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las hierbas que compramos en el mercado darán más sabor a la salsa que estamos preparando para la cena.",
+        "zh": "市场买来的香草会为我们正在做的晚餐酱汁增添风味。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1044 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-d2e32e17cd8a",
+    "w": "la miel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜂蜜",
+        "en": "honey"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La miel está en un tarro pequeño que colocamos junto al pan cuando desayunamos todos juntos durante el fin de semana.",
+        "zh": "蜂蜜放在小罐里，周末全家吃早餐时摆在面包旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1045 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b7fb7c445682",
+    "w": "el azúcar glas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糖粉",
+        "en": "icing sugar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El azúcar glas está preparado junto al pastel que vamos a llevar a la celebración de nuestros vecinos.",
+        "zh": "糖粉放在蛋糕旁，蛋糕是我们准备带去参加邻居庆祝活动的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1046 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c710dfbdb954",
+    "w": "el café instantáneo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "速溶咖啡",
+        "en": "instant coffee"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El café instantáneo se guarda en un armario donde también tenemos las tazas que utilizamos cuando viajamos.",
+        "zh": "速溶咖啡放在一个柜里，里面也有旅行用的杯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1047 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c6095506e0c2",
+    "w": "la mermelada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "果酱",
+        "en": "jam"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mermelada que elegimos está hecha con la fruta que mi abuela solía recoger en su jardín.",
+        "zh": "我们选的果酱，用的水果正是祖母过去常在花园采的那种。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1048 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0c116c584ff1",
+    "w": "el ketchup",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "番茄调味酱",
+        "en": "ketchup"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ketchup está en una botella que pasamos a quien quiere añadir un poco a su comida.",
+        "zh": "番茄调味酱装在瓶子里，谁想加一些，我们就递给谁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1049 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-85226f1cd7ba",
+    "w": "las lentejas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扁豆",
+        "en": "lentils"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las lentejas forman parte del guiso que hemos preparado para las personas que vienen a comer mañana.",
+        "zh": "我们为明天来吃饭的人做的炖菜里放了扁豆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1050 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3e505db2833d",
+    "w": "la mermelada de naranja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橘皮果酱",
+        "en": "marmalade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mermelada de naranja tiene un sabor distinto al de las otras mermeladas que solemos tomar con las tostadas.",
+        "zh": "橘皮果酱的味道，与我们常抹吐司的其他果酱不同。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1051 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-1e336bdaa07d",
+    "w": "la mayonesa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛋黄酱",
+        "en": "mayonnaise"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mayonesa está al lado de la ensalada que hemos llevado a la comida organizada por nuestros amigos.",
+        "zh": "蛋黄酱放在沙拉旁，那是我们带去朋友聚餐的菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1052 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-2dc147fa9f46",
+    "w": "el aceite de oliva",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橄榄油",
+        "en": "olive oil"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aceite de oliva que usamos para la ensalada procede de una localidad que visitamos durante nuestro último viaje.",
+        "zh": "沙拉用的橄榄油，产自我们上次旅行到过的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1053 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-1e34a07cca70",
+    "w": "la pasta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "意大利面",
+        "en": "pasta"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pasta que hemos comprado tiene una forma que combina bien con la salsa de verduras que preparamos en casa.",
+        "zh": "买来的意面形状，很适合搭配我们自制的蔬菜酱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1054 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ffec33fc8b46",
+    "w": "la pimienta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胡椒",
+        "en": "pepper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pimienta está en un molinillo que colocamos en el centro de la mesa antes de servir la comida.",
+        "zh": "胡椒装在研磨器里，上菜前我们把它放到餐桌中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1055 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-16f5edf417c1",
+    "w": "el arroz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "米",
+        "en": "rice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El arroz que guardamos en la despensa nos sirve para varios de los platos que solemos preparar entre semana.",
+        "zh": "储物间的米可以做成我们平日常吃的好几道饭菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1056 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f10f26ee5977",
+    "w": "la sal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "盐",
+        "en": "salt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sal está junto a las especias que utilizamos para preparar las verduras que acompañan el plato principal.",
+        "zh": "盐放在调味香料旁，用来做搭配主菜的蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1057 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4bc601927212",
+    "w": "las especias",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香辛料",
+        "en": "spices"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Elegimos varias especias en el mercado para probar una receta que nos enseñó una amiga durante las vacaciones.",
+        "zh": "我们在市场选几种香辛料，想试做朋友假期教的菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 41 页 · 第 1058 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-812a4b37ccbb",
+    "w": "el azúcar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糖",
+        "en": "sugar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El azúcar está en un recipiente que dejamos sobre la mesa cuando servimos el café después de comer.",
+        "zh": "糖放在容器里，饭后上咖啡时我们把它摆上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1059 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3f0547763e1b",
+    "w": "las bolsitas de té",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "茶包",
+        "en": "teabags"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las bolsitas de té están organizadas en una caja que permite elegir fácilmente el sabor que prefiere cada invitado.",
+        "zh": "茶包分放在盒子里，客人可以轻松挑喜欢的口味。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1060 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-14e308f2ea79",
+    "w": "el aceite vegetal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "植物油",
+        "en": "vegetable oil"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aceite vegetal se encuentra en el estante donde guardamos los ingredientes que usamos con más frecuencia para cocinar.",
+        "zh": "植物油放在存放常用烹饪食材的架子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1061 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-06d95873dd55",
+    "w": "el vinagre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "醋",
+        "en": "vinegar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vinagre que ponemos en la mesa acompaña la ensalada que cada persona puede aliñar según sus preferencias.",
+        "zh": "餐桌上的醋可以给沙拉调味，各人按喜好添加。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1062 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-1816abe12ff9",
+    "w": "el chocolate",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "巧克力",
+        "en": "chocolate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El chocolate que compramos está dividido en porciones pequeñas para compartirlo con los amigos que vienen a merendar.",
+        "zh": "买来的巧克力分成小块，便于和来吃点心的朋友分享。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1063 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-76cafc69b229",
+    "w": "las patatas fritas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "薯片",
+        "en": "crisps"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las patatas fritas están en un cuenco que hemos colocado junto a las bebidas para recibir a los invitados.",
+        "zh": "薯片装在碗里，和饮料一起摆着迎接客人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1064 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-adcdf1479c0f",
+    "w": "los frutos secos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "坚果",
+        "en": "nuts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los frutos secos que elegimos están en un puesto del mercado donde también venden frutas deshidratadas y especias.",
+        "zh": "选好的坚果来自一个也卖果干和香辛料的市场摊位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1065 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7ef6d85d4257",
+    "w": "las aceitunas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橄榄",
+        "en": "olives"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las aceitunas se sirven en un plato pequeño mientras esperamos que todos los invitados terminen de llegar a casa.",
+        "zh": "客人还在陆续到来，我们先上一小碟橄榄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1066 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6d7f23fa0411",
+    "w": "las palomitas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "爆米花",
+        "en": "popcorn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preparamos las palomitas antes de elegir la película que vamos a ver todos juntos después de cenar.",
+        "zh": "晚饭后，我们先准备爆米花，再选要一起看的电影。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1067 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-16446f8e263b",
+    "w": "las golosinas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糖果",
+        "en": "sweets"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las golosinas están en una bolsa que guardamos para repartirlas durante la fiesta que hemos organizado en el jardín.",
+        "zh": "糖果放在一个袋里，准备在花园聚会时分给大家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1068 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-01e814cadac0",
+    "w": "la cerveza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "啤酒",
+        "en": "beer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botellas de cerveza están en el mostrador del bar, junto a las bebidas que han pedido otros clientes.",
+        "zh": "啤酒瓶摆在酒吧柜台上，旁边是其他顾客点的饮品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1069 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f2c00032f801",
+    "w": "la bebida con burbujas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汽水",
+        "en": "fizzy drink"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bebida con burbujas está en una botella transparente que hemos colocado en la mesa junto a varios vasos.",
+        "zh": "汽水装在透明瓶里，和几个杯子一起放在桌上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1070 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-093a82bc33ce",
+    "w": "el zumo de frutas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "果汁",
+        "en": "fruit juice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El zumo de frutas que hemos preparado acompaña el desayuno que tomamos cuando podemos levantarnos sin prisa.",
+        "zh": "自制果汁搭配着我们不用赶时间起床时吃的早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1071 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7918e7c7149e",
+    "w": "las bebidas alcohólicas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烈酒",
+        "en": "spirits"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las bebidas alcohólicas se encuentran en un estante distinto del que ocupa el resto de los productos de la tienda.",
+        "zh": "烈酒放在商店里一个与其他商品分开的架子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1072 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f2a58b945034",
+    "w": "el agua sin gas / con gas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无气／气泡矿泉水",
+        "en": "still/sparkling water"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pedimos agua sin gas para acompañar la comida que vamos a compartir en el restaurante de la plaza.",
+        "zh": "我们点无气矿泉水，搭配在广场餐馆共享的饭菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1073 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-416385601464",
+    "w": "el vino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "葡萄酒",
+        "en": "wine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vino está en una botella que los clientes observan mientras el camarero describe las opciones de la carta.",
+        "zh": "顾客看着瓶装葡萄酒，服务员介绍酒单上的选项。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1074 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ec916a74e2e4",
+    "w": "la plaza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "集市广场",
+        "en": "marketplace"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La plaza se llena de puestos durante la mañana y después vuelve a ser un lugar tranquilo para pasear.",
+        "zh": "早上市集广场摆满摊位，之后又恢复为安静的散步场所。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1075 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8c6a68250f29",
+    "w": "el mercadillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳蚤市场",
+        "en": "flea market"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el mercadillo encontramos objetos antiguos que nos recuerdan los que había en la casa de nuestros abuelos.",
+        "zh": "我们在跳蚤市场看到一些老物件，想起祖父母家以前的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1076 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-2f20f2cc34c1",
+    "w": "el mercado cubierto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "室内市场",
+        "en": "indoor market"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mercado cubierto permite hacer la compra con calma incluso en los días en que llueve durante toda la mañana.",
+        "zh": "即使一上午都下雨，室内市场也能让人从容购物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1077 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6c1dbe6c05ba",
+    "w": "el mercado de productores",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "农夫市场",
+        "en": "farmers’ market"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Visitamos el mercado de productores para conocer a las personas que cultivan los alimentos que compramos cada semana.",
+        "zh": "我们逛农夫市场，认识种植每周所购物品的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1078 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-252a0ac27a73",
+    "w": "local",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "本地的",
+        "en": "local"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El producto local que elegimos se elabora en un pueblo situado a pocos kilómetros de la ciudad donde vivimos.",
+        "zh": "选中的本地产品，制作地在离我们所住城市几公里的村镇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1079 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-53380ee35288",
+    "w": "ecológico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "有机的",
+        "en": "organic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puesto de productos ecológicos tiene etiquetas que los clientes consultan antes de elegir lo que van a comprar.",
+        "zh": "有机产品摊位上有标签，顾客购物前会先查看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1080 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b6b26122e8bc",
+    "w": "de temporada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "当季的",
+        "en": "seasonal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos fruta de temporada para preparar el postre que vamos a compartir con nuestros amigos después de la cena.",
+        "zh": "我们挑应季水果，准备做成饭后与朋友分享的甜点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1081 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-de0824441c79",
+    "w": "casero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "家常制作的",
+        "en": "home-made"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pastel casero que ha traído mi hermana está junto a los platos que hemos preparado para la merienda.",
+        "zh": "姐妹带来的自制蛋糕，放在下午点心用的盘子旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 42 页 · 第 1082 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-75982d7dd5fb",
+    "w": "los clientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "顾客",
+        "en": "customers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los clientes esperan mientras el vendedor coloca en bolsas los productos que acaban de elegir en el puesto.",
+        "zh": "摊主把刚挑好的商品装袋时，顾客们在等候。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1083 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6b719b14b6e3",
+    "w": "el puesto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摊位",
+        "en": "stall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puesto que visitamos cada sábado tiene frutas distintas según la estación en la que hacemos la compra.",
+        "zh": "我们每周六光顾的摊位，会随购物季节不同而出售不同水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1084 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b52819085c15",
+    "w": "el comerciante / la comerciante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "商贩",
+        "en": "trader"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La comerciante nos explica de dónde proceden las verduras que ha recibido esa mañana en su puesto.",
+        "zh": "商贩向我们介绍当天早上新到蔬菜的产地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1085 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-95c1236cbf2b",
+    "w": "la cesta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "篮子",
+        "en": "basket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cesta está llena de los productos que hemos elegido antes de recorrer los últimos puestos del mercado.",
+        "zh": "还没逛完市场最后几个摊位，篮子就装满了选好的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1086 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-04ae344f5093",
+    "w": "la bolsa de plástico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "塑料袋",
+        "en": "plastic bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bolsa de plástico contiene las verduras que vamos a separar y guardar cuando lleguemos a casa después del mercado.",
+        "zh": "塑料袋装着蔬菜，我们从市场回家后会分类存放。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1087 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-364ff592c0b8",
+    "w": "los productos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "农产品",
+        "en": "produce"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los productos del puesto están ordenados de forma que podemos ver fácilmente los precios de cada variedad.",
+        "zh": "摊位农产品摆放整齐，每一品种的价格都很容易看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1088 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-a2d4769c5d7c",
+    "w": "la caja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "木条箱",
+        "en": "crate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caja de madera está debajo del puesto y contiene la fruta que el comerciante todavía no ha colocado.",
+        "zh": "木条箱在摊位下，里面是商贩还没摆出来的水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1089 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-fe00a141b885",
+    "w": "la tienda de comestibles",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "食品杂货店",
+        "en": "grocer’s"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tienda de comestibles abre los domingos por la mañana y nos permite comprar lo que falta para la comida.",
+        "zh": "杂货店周日上午开门，我们能买到午餐缺的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1090 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-fea1be7b28b2",
+    "w": "el zumo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汁液",
+        "en": "juice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El zumo que sale de la naranja cae en el recipiente que hemos colocado debajo del exprimidor.",
+        "zh": "橙子挤出的汁液，落进我们放在榨汁器下的容器里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1091 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f41a1024e301",
+    "w": "la hoja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "叶子",
+        "en": "leaf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hoja de la planta tiene un color más claro que las que crecieron durante las semanas anteriores.",
+        "zh": "这株植物的新叶，颜色比前几周长出的叶子更浅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1092 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-406f6b36c4de",
+    "w": "la piel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "果皮",
+        "en": "peel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Quitamos la piel de la manzana antes de cortarla en los trozos que vamos a añadir al postre.",
+        "zh": "我们先削苹果皮，再切成做甜点用的小块。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1093 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-2bf7f06fda29",
+    "w": "la pepita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "果核中的籽",
+        "en": "pip"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pepita está en el centro de la manzana que hemos cortado para observar sus distintas partes.",
+        "zh": "我们切开苹果观察各部分，籽就在中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1094 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-bed97de6c1c8",
+    "w": "la cáscara",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "厚果皮",
+        "en": "rind"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cáscara de la naranja queda sobre la tabla mientras separamos los gajos que vamos a poner en la ensalada.",
+        "zh": "我们分开橙子瓣放沙拉时，厚果皮留在砧板上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1095 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-fbdaf0194e5d",
+    "w": "la semilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "种子",
+        "en": "seed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La semilla que sacamos del fruto es parecida a las que vimos al visitar el huerto de nuestros vecinos.",
+        "zh": "从果实取出的种子，和参观邻居菜园时见到的相似。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1096 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-cdba9fced096",
+    "w": "el gajo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一瓣水果",
+        "en": "segment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada gajo de mandarina se separa con facilidad antes de repartir la fruta entre las personas que están en la mesa.",
+        "zh": "橘子瓣很容易掰开，便于分给同桌的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1097 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-097b910a08bf",
+    "w": "la piel",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水果表皮",
+        "en": "skin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piel de esta fruta tiene un color intenso que contrasta con el de la pulpa que aparece al cortarla.",
+        "zh": "这种水果的表皮颜色浓烈，与切开后的果肉形成对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1098 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ede30ab96640",
+    "w": "el hueso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "硬果核",
+        "en": "stone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hueso del melocotón está en el centro y lo dejamos aparte antes de cortar la fruta para el postre.",
+        "zh": "桃子的硬核在中央，我们把它取出，再切水果做甜点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1099 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7bdcba88cc4f",
+    "w": "fresco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "新鲜的",
+        "en": "fresh"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El alimento fresco que hemos elegido se encuentra junto a otros productos que han llegado al mercado esta misma mañana.",
+        "zh": "选好的新鲜食物，和当天早上刚到市场的其他商品放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1100 条；自编例句 B1",
+    "m": 1
+  }
+]

@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-3da8c8ced940",
+    "w": "la espinilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胫部",
+        "en": "shin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espinilla queda protegida por la pieza que el jugador ajusta antes de entrar en el campo para comenzar el partido.",
+        "zh": "球员进场比赛前调整护具，保护胫部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2601 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-767b4840fe47",
+    "w": "el pie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脚",
+        "en": "foot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pie deja una huella profunda en la arena húmeda mientras la familia recorre la playa al atardecer después de la lluvia.",
+        "zh": "雨后傍晚，一家人在海滩散步，脚在湿沙上留下深深的印迹。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2602 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-510675cc31d4",
+    "w": "el hombro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肩膀",
+        "en": "body - back shoulder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hombro sostiene la correa de la mochila que lleva cada mañana cuando sale de casa para ir caminando a la universidad.",
+        "zh": "她每天早晨步行上大学，肩膀上背着书包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2603 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-ee95f75bb6ed",
+    "w": "el codo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肘部",
+        "en": "elbow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El codo se apoya en la mesa mientras el estudiante consulta el libro que necesita para terminar el trabajo de historia.",
+        "zh": "学生手肘撑着桌子，查阅完成历史作业需要的书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2604 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-16d7b562787f",
+    "w": "la espalda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "背部",
+        "en": "back"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espalda queda cubierta por la chaqueta que su compañero le acerca cuando empieza a refrescar en la terraza del restaurante.",
+        "zh": "餐厅露台渐渐转凉，同伴拿来的外套盖住了她的背。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2605 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-6f339d61b0fe",
+    "w": "la cadera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "髋部",
+        "en": "hip"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cadera aparece señalada en el dibujo que los alumnos observan antes de representar el movimiento de una persona al caminar.",
+        "zh": "学生先观察图中标出的髋部，再画出行走的人。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2606 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-5c0b61cec45f",
+    "w": "las nalgas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "臀部",
+        "en": "buttocks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las nalgas aparecen identificadas en el esquema anatómico que la profesora utiliza para explicar las principales regiones del cuerpo humano.",
+        "zh": "老师借助标明臀部的人体示意图，讲解身体的主要区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2607 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-7590705edb3a",
+    "w": "la pantorrilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小腿肚",
+        "en": "calf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pantorrilla se distingue cuando el ciclista levanta un poco el pantalón para ajustar la prenda antes de subir a la bicicleta.",
+        "zh": "骑车人上车前稍稍提起裤脚调整衣物，小腿肚露了出来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2608 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-0c26f9bc6342",
+    "w": "el órgano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "器官",
+        "en": "organ"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El órgano que aparece en la pantalla forma parte de un modelo digital que permite observar el cuerpo desde distintos ángulos.",
+        "zh": "屏幕上的器官属于一个数字模型，可以从不同角度观察人体。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2609 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-32bb80ea4222",
+    "w": "el cerebro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大脑",
+        "en": "brain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cerebro ocupa el centro de una maqueta que los visitantes pueden observar durante la exposición dedicada al funcionamiento del cuerpo.",
+        "zh": "一场介绍人体运作的展览中，大脑位于供参观者观察的模型中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2610 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-a21f8782f626",
+    "w": "el corazón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "心脏",
+        "en": "heart"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El corazón está representado en el modelo que la profesora gira lentamente para mostrar sus distintas partes al grupo de estudiantes.",
+        "zh": "老师缓缓转动模型，向学生展示心脏的各个部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2611 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-897e589bb395",
+    "w": "el pulmón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肺",
+        "en": "lung"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pulmón se muestra junto al otro en una ilustración sencilla que forma parte del material preparado para la clase de anatomía.",
+        "zh": "解剖课教材中，一幅简洁插图并排展示两个肺。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2612 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-13a36b792fc3",
+    "w": "el hígado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肝脏",
+        "en": "liver"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hígado aparece resaltado en la maqueta mientras la estudiante compara su posición con la que ocupa el estómago en el dibujo.",
+        "zh": "学生对照图画比较肝脏和胃的位置，模型上肝脏被突出展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2613 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-7c1a321a934b",
+    "w": "el estómago",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胃",
+        "en": "stomach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estómago forma parte del recorrido que los alumnos siguen en un esquema para comprender las principales etapas de la digestión.",
+        "zh": "学生沿图示观察消化过程的主要阶段，胃是其中一环。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 98 页 · 第 2614 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-8acce07e0e77",
+    "w": "el riñón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肾脏",
+        "en": "kidney"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El riñón aparece en una lámina que permite comparar su forma con la de otros órganos representados en la misma página.",
+        "zh": "图版上的肾脏可以与同页其他器官的形状进行比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2615 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-d718874632f2",
+    "w": "los intestinos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肠道",
+        "en": "intestines"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los intestinos están representados con distintos colores en el modelo que los estudiantes utilizan para reconocer las partes del aparato digestivo.",
+        "zh": "模型用不同颜色展示肠道，帮助学生辨认消化系统的各个部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2616 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-a249c4ad0329",
+    "w": "el aparato digestivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "消化系统",
+        "en": "digestive system"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aparato digestivo se explica mediante una maqueta que permite seguir el recorrido de los alimentos desde la boca hasta el intestino.",
+        "zh": "老师借助模型讲解消化系统，可追踪食物从口腔进入肠道的路径。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2617 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-79f28ac62a5d",
+    "w": "la vejiga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "膀胱",
+        "en": "bladder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vejiga se localiza en la parte inferior del esquema que la profesora ha preparado para la clase sobre los órganos internos.",
+        "zh": "老师为内脏课程准备的示意图中，膀胱位于下方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2618 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-80e42ff6d43f",
+    "w": "la sangre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "血液",
+        "en": "blood"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sangre se representa mediante pequeños círculos rojos que recorren los vasos en la animación educativa proyectada en la sala de ciencias.",
+        "zh": "科学教室播放的科普动画中，沿血管移动的小红圆点代表血液。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2619 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-e400b1cf7409",
+    "w": "la articulación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "关节",
+        "en": "joint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La articulación del modelo puede moverse para mostrar cómo se unen dos huesos y de qué manera cambia su posición al doblarse.",
+        "zh": "模型上的关节可以活动，展示骨骼如何连接以及弯曲时怎样改变位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2620 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-df9085d523e0",
+    "w": "el hueso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "骨头",
+        "en": "bone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hueso que sostiene la profesora pertenece a un modelo de plástico que los alumnos comparan con las imágenes de su libro.",
+        "zh": "老师手持塑料模型中的骨头，学生将它与书中图片比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2621 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-2d01ef87f9ac",
+    "w": "el músculo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肌肉",
+        "en": "muscle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El músculo aparece resaltado en el esquema mientras el profesor explica cómo participa en el movimiento que está realizando la figura dibujada.",
+        "zh": "老师讲解肌肉如何参与人物动作时，示意图突出展示了该肌肉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2622 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-abb22e4eb15b",
+    "w": "el nervio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "神经",
+        "en": "nerve"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El nervio se representa como una línea fina que recorre el brazo en el dibujo preparado para explicar las conexiones del cuerpo.",
+        "zh": "图中用沿手臂延伸的细线表示神经，解释身体各处的联系。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2623 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-94748a73c753",
+    "w": "el tendón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肌腱",
+        "en": "tendon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tendón aparece junto al músculo en una maqueta que permite observar cómo se conectan las diferentes estructuras de la pierna.",
+        "zh": "模型展示肌腱和相邻肌肉，便于观察腿部各结构怎样相连。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2624 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-53b19dfbfeac",
+    "w": "el tejido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "组织",
+        "en": "tissue"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tejido se observa en una imagen ampliada que los estudiantes comparan con la preparación que tienen delante durante la práctica de laboratorio.",
+        "zh": "实验课上，学生将组织的放大图片与面前的样本比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2625 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-253b3b620a45",
+    "w": "la célula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "细胞",
+        "en": "cell"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La célula aparece ampliada en la pantalla mientras el grupo intenta identificar las partes que la profesora ha explicado durante la clase.",
+        "zh": "屏幕上显示放大的细胞，学生尝试辨认老师讲解过的部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2626 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-6d89dd7792ce",
+    "w": "la arteria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "动脉",
+        "en": "artery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La arteria está marcada en rojo en el modelo que muestra las principales vías por las que circula la sangre en el cuerpo.",
+        "zh": "人体主要血液循环通路模型中，动脉用红色标出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2627 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-ba7b01cc7cdd",
+    "w": "la vena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "静脉",
+        "en": "vein"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vena se distingue de la arteria por el color que los autores han elegido para representar los vasos en este esquema educativo.",
+        "zh": "这幅教学图用不同颜色表示血管，让静脉和动脉易于区分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2628 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-579a5f276d24",
+    "w": "el oxígeno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "氧气",
+        "en": "oxygen"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El oxígeno está representado por pequeñas esferas que acompañan a los glóbulos rojos en la animación utilizada para explicar la respiración.",
+        "zh": "讲解呼吸的动画中，氧气以伴随红细胞的小球表示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2629 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-e5a1d6174cd8",
+    "w": "el cráneo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "颅骨",
+        "en": "skeleton skull"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cráneo del modelo se puede separar del resto del esqueleto para que los estudiantes observen con cuidado su forma desde abajo.",
+        "zh": "模型的颅骨可从骨架上取下，让学生仔细观察底部形态。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2630 条；自编例句 B1–B2",
+    "m": 1
+  },
+  {
+    "id": "book-5d504716d6c2",
+    "w": "la clavícula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锁骨",
+        "en": "collarbone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La clavícula se encuentra en la parte superior del modelo que el grupo examina antes de dibujar los huesos del hombro.",
+        "zh": "学生画肩部骨骼前观察模型，锁骨位于上方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2631 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-580572ce647e",
+    "w": "las vértebras",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "椎骨",
+        "en": "vertebrae"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las vértebras aparecen ordenadas en una fila que reproduce la curva natural de la columna en el modelo de la clase de ciencias.",
+        "zh": "科学课的模型把椎骨排列成行，呈现脊柱的自然曲线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2632 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-46a55cf1f00b",
+    "w": "el húmero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肱骨",
+        "en": "humerus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El húmero ocupa la parte superior del brazo en el esqueleto que la profesora utiliza para explicar la estructura de las extremidades.",
+        "zh": "老师用骨架讲解四肢结构，肱骨位于上臂。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2633 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b092da4af543",
+    "w": "el esternón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胸骨",
+        "en": "breastbone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El esternón se sitúa en el centro del pecho del modelo que los estudiantes observan junto a las ilustraciones de su manual.",
+        "zh": "学生对照教材图片观察模型，胸骨位于胸部中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2634 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7deaa52efef4",
+    "w": "las costillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肋骨",
+        "en": "ribs"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las costillas forman una estructura curva que resulta fácil de reconocer cuando la profesora gira el modelo para mostrarlo de perfil.",
+        "zh": "老师把模型转到侧面，肋骨组成的弧形结构很容易辨认。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2635 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b59953bb3d06",
+    "w": "la columna vertebral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脊柱",
+        "en": "spine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La columna vertebral sostiene la parte central del esqueleto y puede observarse claramente cuando el modelo se coloca de espaldas al grupo.",
+        "zh": "模型背对学生时，支撑骨架中部的脊柱清楚可见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2636 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b2b03c09db15",
+    "w": "el cúbito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "尺骨",
+        "en": "ulna"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cúbito aparece junto al radio en el dibujo que ayuda a los alumnos a distinguir los dos huesos del antebrazo.",
+        "zh": "图中尺骨与桡骨并列，帮助学生区分前臂的两根骨骼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2637 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-df6290cdb985",
+    "w": "el radio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "桡骨",
+        "en": "radius"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El radio se encuentra al lado del cúbito en la maqueta que el profesor utiliza para mostrar la estructura del antebrazo humano.",
+        "zh": "老师用模型展示前臂结构，桡骨位于尺骨旁边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2638 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-083e46d7b480",
+    "w": "la pelvis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "骨盆",
+        "en": "pelvis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelvis conecta la parte superior del cuerpo con las piernas en el esqueleto que los estudiantes están dibujando durante la clase.",
+        "zh": "学生在课上描画骨架，骨盆连接上半身和双腿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2639 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-adfcebbdff58",
+    "w": "el fémur",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "股骨",
+        "en": "femur"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fémur es el hueso largo que la estudiante señala en el modelo antes de escribir su nombre en el cuaderno de anatomía.",
+        "zh": "学生先指出模型中长长的股骨，再在解剖笔记上写下名称。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2640 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dc4b9c80066f",
+    "w": "la rótula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "髌骨",
+        "en": "kneecap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rótula se observa delante de la rodilla en la maqueta que permite estudiar la posición de los huesos cuando la pierna se dobla.",
+        "zh": "模型可研究屈腿时骨骼的位置，髌骨位于膝前。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2641 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-71df9ceeca7a",
+    "w": "el peroné",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腓骨",
+        "en": "fibula"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peroné aparece como el hueso más fino de los dos que los alumnos comparan en la parte inferior de la pierna.",
+        "zh": "学生比较小腿两根骨骼，腓骨是其中较细的一根。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2642 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ee82009b24b5",
+    "w": "la tibia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胫骨",
+        "en": "tibia"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tibia se distingue del peroné en el modelo que la profesora coloca sobre la mesa para explicar la estructura de la pierna.",
+        "zh": "老师把模型放在桌上讲解腿部结构，胫骨与腓骨很容易区分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2643 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6bc75ab60d09",
+    "w": "la cita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "预约",
+        "en": "appointment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cita está anotada en la agenda que consulta antes de llamar a su compañera para organizar el horario de trabajo del martes.",
+        "zh": "她先查看日程中的预约，再打电话给同事安排周二的工作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2644 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3e28e074d852",
+    "w": "el consultorio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "诊所",
+        "en": "clinic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El consultorio está en la planta baja del edificio donde los vecinos acuden para hablar con el personal sanitario de su barrio.",
+        "zh": "诊所在大楼底层，居民到那里与社区医护人员沟通。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2645 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ee78e9c2bf26",
+    "w": "el especialista / la especialista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "专科医生",
+        "en": "specialist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La especialista revisa la información que ha recibido antes de invitar al paciente a sentarse y contarle el motivo de su visita.",
+        "zh": "专科医生先查阅资料，再请患者坐下说明来访原因。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2646 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-aba46a4a8e6f",
+    "w": "el examen médico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "体检",
+        "en": "examination"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El examen médico forma parte de la información que la empresa explica a las personas que van a incorporarse al equipo este mes.",
+        "zh": "公司向本月入职的人员说明包括体检在内的相关安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2647 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3e3b0b369dc7",
+    "w": "la prueba",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "检查",
+        "en": "test"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La prueba aparece entre los documentos que la médica consulta mientras compara la información recibida con las notas de la visita anterior.",
+        "zh": "医生对照上次就诊笔记查阅资料，其中包括这项检查。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 99 页 · 第 2648 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-79fe0e396428",
+    "w": "la receta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "处方",
+        "en": "prescription"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La receta está doblada dentro de la carpeta que el paciente entrega a la farmacéutica al llegar al mostrador de la farmacia.",
+        "zh": "处方折放在文件夹里，患者到药店柜台时将它交给药剂师。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2649 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-176813ef33bb",
+    "w": "la visita a domicilio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上门诊疗",
+        "en": "home visit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La visita a domicilio permite que la médica converse con el paciente en la habitación donde lo acompaña una persona de su familia.",
+        "zh": "上门诊疗时，医生在患者房间交流，家人在旁陪同。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2650 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3b1ca9e20987",
+    "w": "la vacuna",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "接种疫苗",
+        "en": "vaccination"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vacuna aparece en el registro que la enfermera consulta mientras prepara los documentos de la persona que espera junto a la mesa.",
+        "zh": "护士整理候诊者的文件时，查看记录中的疫苗接种信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2651 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-af84d04e14a4",
+    "w": "la medicación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "药物治疗",
+        "en": "medication"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La medicación figura en la lista que la paciente lleva consigo para comentar con la médica los detalles de su próxima consulta.",
+        "zh": "患者带着列有用药情况的清单，准备下次就诊时与医生讨论。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2652 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c0b83d948aa1",
+    "w": "los antibióticos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "抗生素",
+        "en": "antibiotics"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los antibióticos aparecen en un envase cerrado que la farmacéutica coloca junto a los documentos preparados para entregar a un paciente.",
+        "zh": "药剂师把密封的抗生素包装放在要交给患者的文件旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2653 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1b8f7cc6bacd",
+    "w": "la píldora (anticonceptiva)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "避孕药",
+        "en": "the pill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La píldora anticonceptiva aparece en el folleto educativo que las personas pueden consultar durante una sesión informativa organizada en el centro de salud.",
+        "zh": "社区卫生中心的科普活动中，人们可查阅介绍避孕药的资料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2654 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8ab8e8040a72",
+    "w": "el somnífero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "安眠药",
+        "en": "sleeping pill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El somnífero aparece en la receta que el paciente muestra durante la consulta para comentar con su médica los documentos que ha traído.",
+        "zh": "患者在问诊时拿出处方，与医生讨论带来的文件，其中列有安眠药。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2655 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c1c1a3d995a6",
+    "w": "examinar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "检查",
+        "en": "to examine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Examinar el modelo anatómico permite a los estudiantes reconocer los detalles que resultaban difíciles de observar en las pequeñas imágenes del libro.",
+        "zh": "仔细检查解剖模型，帮助学生辨认书中小图上难以看清的细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2656 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ec8b325b64f2",
+    "w": "tomar medicación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "正在用药",
+        "en": "to be on medication"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tomar medicación es una de las circunstancias que la paciente menciona al responder las preguntas de la médica durante la consulta.",
+        "zh": "问诊中，患者回答医生的问题，说明自己正在用药。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2657 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-90d0bc7e6af1",
+    "w": "el tensiómetro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "血压计",
+        "en": "blood pressure monitor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tensiómetro está sobre la mesa que la enfermera acaba de ordenar antes de recibir a la siguiente persona en la sala.",
+        "zh": "护士刚整理好桌子，血压计放在上面，准备接待下一位来访者。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2658 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-72bab81bd201",
+    "w": "la sala de reconocimiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "检查室",
+        "en": "examination room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sala de reconocimiento tiene una ventana amplia y una puerta que el personal mantiene cerrada mientras atiende a cada paciente.",
+        "zh": "检查室有宽敞的窗户，接诊时工作人员会关好门。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2659 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-958f788bb7c2",
+    "w": "la mesa de exploración",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "检查床",
+        "en": "examination table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mesa de exploración está junto al biombo que separa dos zonas de la sala donde trabaja el personal del centro médico.",
+        "zh": "检查床位于屏风旁，屏风把医护人员工作的房间分成两区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2660 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-73eee22fa946",
+    "w": "el médico de familia / la médica de familia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "全科医生",
+        "en": "GP"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La médica de familia conoce a muchos vecinos del barrio porque lleva varios años trabajando en el centro de salud de la plaza.",
+        "zh": "全科医生在广场上的卫生中心工作多年，认识社区许多居民。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2661 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f42eb53d42cb",
+    "w": "el auxiliar sanitario / la auxiliar sanitaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "诊所护士",
+        "en": "practice nurse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La auxiliar sanitaria acompaña al paciente hasta la sala que le han indicado después de comprobar los datos de la cita en recepción.",
+        "zh": "诊所护士在前台核对预约信息后，陪患者前往指定房间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2662 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-31bf637eaf58",
+    "w": "el estetoscopio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "听诊器",
+        "en": "stethoscope"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estetoscopio cuelga del cuello de la médica mientras ella busca en la carpeta los documentos que necesita para la siguiente consulta.",
+        "zh": "听诊器挂在医生颈上，她正从文件夹找下一次问诊需要的资料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2663 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b316bc83f93b",
+    "w": "la jeringuilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "注射器",
+        "en": "syringe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jeringuilla permanece dentro de su envoltorio cerrado junto a otros materiales que la enfermera ha colocado sobre una bandeja limpia.",
+        "zh": "注射器仍在密封包装中，与其他器材一起放在干净托盘上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2664 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e928f8f1bfa5",
+    "w": "el termómetro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "体温计",
+        "en": "thermometer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El termómetro está guardado en el cajón que el personal de la consulta utiliza para tener ordenados los instrumentos de uso habitual.",
+        "zh": "体温计放在抽屉里，诊所工作人员在那里整理常用器材。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2665 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1e593976e4ec",
+    "w": "la sala de espera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "候诊室",
+        "en": "waiting room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sala de espera dispone de varias sillas donde los pacientes leen o conversan en voz baja hasta que llega su turno.",
+        "zh": "候诊室有几排椅子，患者安静阅读或低声交谈，等候叫号。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2666 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-148ccb21bb90",
+    "w": "la revisión dental",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙科检查",
+        "en": "dental check-up"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La revisión dental está anotada en el calendario que la familia consulta para organizar los compromisos de la semana que viene.",
+        "zh": "家人在日历上记录牙科检查，安排下周的事务。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2667 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4d90cc4e3a9c",
+    "w": "la muela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "臼齿",
+        "en": "molar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La muela aparece ampliada en un modelo que la dentista utiliza para explicar las distintas partes de un diente a sus pacientes.",
+        "zh": "牙医用放大的臼齿模型，向患者讲解牙齿的各个部分。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2668 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0cb5df175fee",
+    "w": "el incisivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "门牙",
+        "en": "incisor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El incisivo se distingue en la parte delantera del modelo que los alumnos observan para comparar la forma de los diferentes dientes.",
+        "zh": "学生观察模型，比较牙齿形状，门牙位于前部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2669 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dfa501237104",
+    "w": "las muelas del juicio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "智齿",
+        "en": "wisdom teeth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las muelas del juicio aparecen señaladas en la imagen que la dentista muestra al paciente mientras ambos comentan el resultado de la revisión.",
+        "zh": "牙医向患者展示标出智齿的影像，两人一起讨论检查结果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2670 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-96fbe8b8c259",
+    "w": "el dolor de muelas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙痛",
+        "en": "toothache"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dolor de muelas le hace interrumpir la conversación mientras busca en su agenda el número de la clínica donde suele acudir.",
+        "zh": "牙痛让他暂停谈话，在通讯录里寻找常去牙科诊所的电话。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2671 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8ac6d3212675",
+    "w": "el absceso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脓肿",
+        "en": "abscess"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El absceso aparece representado de forma sencilla en el esquema que la dentista utiliza para responder a las preguntas de su paciente.",
+        "zh": "牙医回答患者问题时，使用简洁示意图讲解脓肿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2672 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-94bb793dac1e",
+    "w": "el empaste",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "补牙填充物",
+        "en": "filling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El empaste aparece en la imagen que la dentista compara con los documentos de la visita anterior antes de comenzar la conversación.",
+        "zh": "牙医先对照上次就诊资料查看影像中的填充物，再开始交流。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2673 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-bb7390660547",
+    "w": "la corona",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙冠",
+        "en": "crown"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La corona está representada en un modelo que permite a la dentista explicar su forma sin necesidad de utilizar dibujos muy pequeños.",
+        "zh": "牙医通过模型展示牙冠形状，不必使用很小的图画。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2674 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-349a96f2c285",
+    "w": "la endodoncia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "根管治疗",
+        "en": "root canal treatment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La endodoncia figura en el folleto que el paciente lee mientras espera para plantear sus preguntas durante la consulta de esta tarde.",
+        "zh": "患者候诊时阅读介绍根管治疗的资料，准备下午问诊时提问。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2675 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-aceb6555eb08",
+    "w": "la extracción",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拔牙",
+        "en": "extraction"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La extracción aparece en el documento que la dentista repasa con el paciente antes de responder a las dudas que ha anotado.",
+        "zh": "牙医与患者一起查看文件中的拔牙事项，再回答他记下的问题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2676 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6ae7651993ce",
+    "w": "cepillarse los dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刷牙",
+        "en": "to brush one’s teeth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cepillarse los dientes forma parte de la rutina que el niño representa con un modelo grande durante la actividad educativa del colegio.",
+        "zh": "学校科普活动中，孩子用大模型演示日常刷牙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2677 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7bc39b5eb42c",
+    "w": "usar el hilo dental",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "用牙线清洁",
+        "en": "to floss"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usar el hilo dental se explica con un modelo de plástico que la profesional sostiene mientras responde a las preguntas del grupo.",
+        "zh": "工作人员手持塑料模型，讲解牙线清洁，并回答大家的问题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2678 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-41ec816f311d",
+    "w": "los brákets",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙套托槽",
+        "en": "braces"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los brákets se ven cuando la estudiante sonríe al reconocer a su amiga entre las personas que esperan delante de la biblioteca.",
+        "zh": "学生认出图书馆前等候的朋友，微笑时露出牙套托槽。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2679 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9ebe187b2f20",
+    "w": "el hilo dental",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙线",
+        "en": "dental floss"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hilo dental está junto al cepillo en el estuche que ha preparado para llevar en la maleta durante las vacaciones familiares.",
+        "zh": "她为家庭旅行准备的收纳包里，牙线和牙刷放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2680 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f58c50c2fcb2",
+    "w": "el enfermero dental / la enfermera dental",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙科护士",
+        "en": "dental nurse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La enfermera dental ordena los materiales que han llegado a la consulta mientras su compañera recibe a la siguiente persona en recepción.",
+        "zh": "牙科护士整理刚送到的器材，同事在前台接待下一位患者。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 100 页 · 第 2681 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3d882692d37c",
+    "w": "el dentista / la dentista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙医",
+        "en": "dentist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dentista escucha las preguntas de la paciente antes de mostrarle el modelo que utiliza para explicar la estructura de los dientes.",
+        "zh": "牙医先听患者提问，再展示讲解牙齿结构的模型。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2682 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7a0f7af7305b",
+    "w": "la silla del dentista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙科椅",
+        "en": "dentist’s chair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La silla del dentista ocupa el centro de una sala luminosa donde el personal prepara los materiales para la consulta de la mañana.",
+        "zh": "牙科椅位于明亮诊室中央，工作人员准备上午接诊的器材。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2683 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8481cd52ede8",
+    "w": "el torno del dentista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙钻",
+        "en": "dentist’s drill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El torno del dentista está colocado junto a otros instrumentos que aparecen en la fotografía de la consulta antes de abrir al público.",
+        "zh": "诊所营业前拍摄的照片里，牙钻与其他器械放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2684 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b72c70893388",
+    "w": "la dentadura postiza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "假牙",
+        "en": "dentures"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La dentadura postiza aparece en un modelo que los estudiantes comparan con otros ejemplos durante una clase dedicada a los materiales dentales.",
+        "zh": "牙科材料课上，学生将模型中的假牙与其他样品进行比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2685 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d32c4e5976bd",
+    "w": "las encías",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙龈",
+        "en": "gums"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las encías están representadas en rosa en el modelo que la dentista gira para mostrar la posición de los dientes desde distintos ángulos.",
+        "zh": "牙医转动模型，从不同角度展示牙齿位置，牙龈用粉色表示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2686 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-eb2a0c367c43",
+    "w": "el enjuague bucal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "漱口水",
+        "en": "mouthwash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El enjuague bucal está en una botella cerrada junto a los productos que la tienda ha colocado en el estante del cuarto de baño.",
+        "zh": "漱口水放在密封瓶里，和其他浴室用品一起陈列在商店货架上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2687 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1c7d3f9cd056",
+    "w": "los dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙齿",
+        "en": "teeth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los dientes se ven claramente en la sonrisa que la fotógrafa intenta captar mientras el niño conversa con su hermana junto a la ventana.",
+        "zh": "孩子在窗边与姐姐聊天，摄影师想拍下他露出牙齿的笑容。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2688 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-83435209bc76",
+    "w": "el cepillo de dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙刷",
+        "en": "toothbrush"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cepillo de dientes tiene un mango azul que permite reconocerlo fácilmente entre los objetos que la familia guarda junto al lavabo.",
+        "zh": "牙刷的蓝色柄让人容易从洗手池旁家人的用品中认出它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2689 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-78599954cde5",
+    "w": "el dentífrico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牙膏",
+        "en": "toothpaste"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dentífrico está dentro del neceser que la viajera abre para comprobar si ha preparado todo antes de cerrar la maleta esta noche.",
+        "zh": "旅客晚上收箱前打开洗漱包检查，牙膏已装在里面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2690 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d0ad923ad45d",
+    "w": "el oftalmólogo / la oftalmóloga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼科医生",
+        "en": "ophthalmologist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La oftalmóloga prepara el equipo de la consulta mientras su compañera acompaña al paciente desde la sala de espera hasta la puerta.",
+        "zh": "眼科医生准备诊室设备，同事陪患者从候诊室走到门口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2691 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dc9ae04458b5",
+    "w": "las gafas de lectura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "阅读眼镜",
+        "en": "reading glasses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gafas de lectura están sobre el libro que su abuelo ha dejado abierto mientras prepara una taza de té en la cocina.",
+        "zh": "爷爷去厨房泡茶，把阅读眼镜放在摊开的书上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2692 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a29c44176911",
+    "w": "las gafas bifocales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双焦眼镜",
+        "en": "bifocals"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gafas bifocales aparecen en el catálogo que el óptico muestra a una clienta mientras ambos comparan diferentes tipos de monturas.",
+        "zh": "验光配镜师与顾客比较镜框，展示的目录中有双焦眼镜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2693 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7bd4b50dd007",
+    "w": "las lentillas rígidas / blandas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "硬性或软性隐形眼镜",
+        "en": "hard/soft contact lenses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las lentillas rígidas y blandas aparecen en los ejemplos que la profesional utiliza para explicar las diferencias durante una sesión informativa.",
+        "zh": "工作人员在科普活动中，借助样品讲解硬性和软性隐形眼镜的区别。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2694 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ae328493a725",
+    "w": "la lente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "镜片",
+        "en": "lens"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lente se encuentra sobre un paño limpio mientras el óptico prepara la montura que ha elegido la persona sentada al otro lado.",
+        "zh": "镜片放在干净布上，配镜师准备对面顾客选好的镜框。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2695 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-570769220d07",
+    "w": "la conjuntivitis",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "结膜炎",
+        "en": "conjunctivitis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La conjuntivitis aparece en el material educativo que la oftalmóloga utiliza para explicar el vocabulario de una consulta a los estudiantes visitantes.",
+        "zh": "眼科医生用介绍结膜炎的科普资料，向来访学生讲解门诊词汇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2696 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2cfd167a4557",
+    "w": "el orzuelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "麦粒肿",
+        "en": "stye"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El orzuelo aparece señalado en un dibujo sencillo que forma parte del folleto informativo disponible en la sala de espera de la consulta.",
+        "zh": "候诊室的科普册中，一幅简洁图画标出了麦粒肿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2697 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a3dd05d6a5a4",
+    "w": "la visión borrosa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "视物模糊",
+        "en": "blurred vision"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La visión borrosa se representa mediante una fotografía desenfocada que la profesora compara con otra imagen nítida durante la actividad educativa del centro.",
+        "zh": "科普活动中，老师用失焦照片与清晰照片比较，表现视物模糊。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2698 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-39d2cd5ff44c",
+    "w": "las cataratas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "白内障",
+        "en": "cataracts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las cataratas aparecen en una ilustración médica sencilla que ayuda a comprender los términos utilizados en una exposición sobre la visión humana.",
+        "zh": "介绍人类视觉的展览用简洁医学插图讲解白内障这一术语。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2699 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-bba0205cac67",
+    "w": "miope",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "近视的",
+        "en": "short-sighted"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Su hermano es miope y se pone las gafas para reconocer a los amigos que lo esperan al otro lado de la plaza.",
+        "zh": "哥哥近视，戴上眼镜才能认出在广场另一端等他的朋友。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2700 条；自编例句 B1–B2",
+    "m": 0
+  }
+]

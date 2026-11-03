@@ -29,6 +29,7 @@ export function searchAtlas(atlas: Atlas, raw: string, limit = 40): WordRef[] {
 
 export function Palette({ open, onClose }: { open: boolean; onClose: () => void }) {
   const atlas = useAtlas();
+  const spanish = atlas.id.includes("spanish");
   const [q, setQ] = useState("");
   const [sel, setSel] = useState(0);
   const input = useRef<HTMLInputElement>(null);
@@ -54,7 +55,7 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
           <input
             ref={input}
             value={q}
-            placeholder="搜索英文或中文，例如 serendipity / 环境"
+            placeholder={spanish ? "搜索西语或中文，例如 rojo / 红色" : "搜索英文或中文，例如 serendipity / 环境"}
             onChange={(e) => setQ(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Escape") onClose();
@@ -87,7 +88,7 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
               onClick={() => pick(w)}
             >
               <Illustration src={atlas.img(w, "thumb")} word={w.word} topic={w.topic} className="palette-thumb" />
-              <span className="palette-word" lang="en">
+              <span className="palette-word" lang={spanish ? "es" : "en"}>
                 {w.word}
               </span>
               <span className="palette-zh">{w.zh}</span>
@@ -97,7 +98,7 @@ export function Palette({ open, onClose }: { open: boolean; onClose: () => void 
           {q && !results.length && <li className="palette-empty">没有找到「{q}」</li>}
           {!q && (
             <li className="palette-hint">
-              {atlas.count.toLocaleString()} 个词条 · 支持英文前缀与中文释义搜索 · <kbd>↑</kbd>
+              {atlas.count.toLocaleString()} 个词条 · 支持{spanish ? "西语" : "英文"}前缀与中文释义搜索 · <kbd>↑</kbd>
               <kbd>↓</kbd> 选择 <kbd>↵</kbd> 打开
             </li>
           )}

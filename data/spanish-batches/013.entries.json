@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-975cecb2f65b",
+    "w": "crudo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "生的",
+        "en": "raw"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado crudo queda en una bandeja separada mientras el cocinero organiza los ingredientes que utilizará durante el servicio.",
+        "zh": "厨师整理营业要用的食材时，生鱼单独放在托盘中。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1201 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-690134f97891",
+    "w": "cocido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "熟的",
+        "en": "cooked"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El arroz cocido está listo para acompañar las verduras que hemos terminado de preparar hace unos minutos.",
+        "zh": "煮熟的米饭已经可以配上我们几分钟前做好的蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1202 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9214f8665723",
+    "w": "el beicon",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "培根",
+        "en": "bacon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El beicon empieza a dorarse en la sartén mientras mi hermano prepara los huevos que comeremos para desayunar.",
+        "zh": "我哥哥准备早餐鸡蛋时，锅里的培根开始煎黄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1203 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a03322a10a4d",
+    "w": "la hamburguesa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汉堡",
+        "en": "burger"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hamburguesa que nos han servido lleva verduras frescas y una salsa que el restaurante prepara cada mañana.",
+        "zh": "端来的汉堡配新鲜蔬菜和餐厅每天早上做的酱汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1204 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-89a8c7f9e7e3",
+    "w": "la pechuga de pollo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鸡胸肉",
+        "en": "chicken breast"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pechuga de pollo queda cortada en tiras que añadiremos a la ensalada cuando se hayan enfriado un poco.",
+        "zh": "鸡胸肉切成条，稍凉后会加入沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1205 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-63cbbebd66c2",
+    "w": "la chuleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "带骨肉排",
+        "en": "chop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chuleta se cocina junto a las patatas que hemos colocado en la bandeja antes de encender el horno.",
+        "zh": "带骨肉排和我们开烤箱前摆在烤盘里的土豆一起烹饪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1206 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c9c145517a5a",
+    "w": "el chorizo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西班牙辣香肠",
+        "en": "chorizo"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El chorizo aporta un color rojizo al guiso que nuestra vecina prepara cuando nos reunimos para comer los domingos.",
+        "zh": "周日聚餐时邻居做的炖菜因辣香肠而呈红色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1207 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d09a331f0395",
+    "w": "el filete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肉片",
+        "en": "fillet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El filete está cortado muy fino para que podamos cocinarlo rápidamente cuando lleguemos a casa después del trabajo.",
+        "zh": "肉片切得很薄，下班回家后我们就能很快做好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1208 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-743cdf6aabc2",
+    "w": "el jamón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "火腿",
+        "en": "ham"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jamón se sirve en lonchas sobre una tabla que pondremos en el centro de la mesa durante la cena.",
+        "zh": "火腿切片放在木板上，晚饭时会摆到桌子中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1209 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4d7158f969b8",
+    "w": "la pieza de carne para asar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "供烤制的大块肉",
+        "en": "joint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pieza de carne para asar ocupa una fuente grande donde también hemos colocado las verduras que servirán de acompañamiento.",
+        "zh": "供烤制的大块肉放在大烤盘里，旁边也摆好了配菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1210 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5ee40b612dcc",
+    "w": "la carne picada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肉末",
+        "en": "mince"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne picada se mezcla con la cebolla que hemos cortado para preparar las albóndigas de la comida familiar.",
+        "zh": "肉末与切好的洋葱混合，用来做家庭午餐的肉丸。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1211 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f9ec67742dd3",
+    "w": "el costillar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "排骨",
+        "en": "ribs"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El costillar está cubierto con la salsa que hemos preparado antes de introducir la bandeja en el horno caliente.",
+        "zh": "排骨涂上事先做好的酱汁后，烤盘将放进热烤箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1212 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-52ae45fc7771",
+    "w": "la salchicha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香肠",
+        "en": "sausage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La salchicha se sirve junto al puré que el cocinero ha preparado con las patatas que compramos esta mañana.",
+        "zh": "香肠配上厨师用今早买的土豆做的土豆泥。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1213 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-70354fc34940",
+    "w": "el bistec",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牛排",
+        "en": "steak"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bistec queda sobre el plato mientras terminamos de preparar la ensalada que vamos a servir como acompañamiento.",
+        "zh": "牛排放在盘中，我们正在做用作配菜的沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1214 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-62fb55f220ca",
+    "w": "la espina (de pescado)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鱼刺",
+        "en": "(fish)bone"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espina de pescado aparece sobre el plato después de que hemos separado con cuidado la carne del pescado asado.",
+        "zh": "我们小心分开烤鱼肉后，一根鱼刺出现在盘子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1215 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-98dc3c6117bb",
+    "w": "sin espinas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "去刺的",
+        "en": "deboned"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado sin espinas está preparado en una bandeja donde el vendedor ha colocado las piezas que le hemos pedido.",
+        "zh": "商贩把我们要的去刺鱼摆在托盘里，已经准备好了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1216 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-322e7d9b2346",
+    "w": "el pescadero / la pescadera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鱼贩",
+        "en": "fishmonger"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pescadera pesa el pescado que hemos elegido mientras nos explica de qué puerto ha llegado esta mañana.",
+        "zh": "鱼贩称我们选的鱼，一边解释今早从哪个港口运来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1217 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c3a912c408c5",
+    "w": "el filete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鱼柳",
+        "en": "fillet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El filete de pescado está sobre una tabla junto al limón que utilizaremos para preparar la cena de hoy.",
+        "zh": "鱼柳放在砧板上，旁边是今晚做饭要用的柠檬。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1218 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f39684f3dfb1",
+    "w": "en filetes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "切成鱼柳的",
+        "en": "filleted"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado en filetes ocupa menos espacio en el recipiente que hemos llevado al mercado para guardar nuestra compra.",
+        "zh": "切成鱼柳的鱼在我们带去市场的购物容器里更省地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1219 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ef9329ae505c",
+    "w": "las escamas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鱼鳞",
+        "en": "scales"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las escamas brillan bajo la luz del puesto donde el pescadero está mostrando el pescado que acaba de recibir.",
+        "zh": "鱼贩展示刚到的鱼，鱼鳞在摊位灯光下发亮。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1220 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-decb6120eaa8",
+    "w": "el marisco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贝壳类海鲜",
+        "en": "shellfish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El marisco está dispuesto sobre hielo para que los clientes puedan ver las distintas variedades que ofrece el puesto.",
+        "zh": "贝壳类海鲜摆在冰上，顾客能看见摊位供应的不同种类。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1221 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2c9468f248df",
+    "w": "la concha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贝壳",
+        "en": "shell"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La concha queda abierta sobre el plato mientras el cocinero coloca alrededor los ingredientes que acompañarán el marisco.",
+        "zh": "贝壳在盘中张开，厨师在周围摆上海鲜的配料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1222 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-07e4d558ba3c",
+    "w": "de agua dulce",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "淡水的",
+        "en": "freshwater"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado de agua dulce que aparece en la ilustración procede de un río que atraviesa las montañas del norte.",
+        "zh": "图中的淡水鱼来自一条穿过北方山脉的河流。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1223 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d18939707967",
+    "w": "de agua salada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海水的",
+        "en": "saltwater"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pez de agua salada nada cerca de unas rocas que podemos observar a través del cristal del acuario.",
+        "zh": "海水鱼在岩石旁游动，我们能透过水族箱玻璃看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1224 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f31b75b9ff3d",
+    "w": "de piscifactoría",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "养殖的",
+        "en": "farmed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado de piscifactoría lleva una etiqueta que indica su origen junto al precio que ha colocado el vendedor.",
+        "zh": "养殖鱼旁有商贩放的价格牌，也标明了产地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1225 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-806294afaa7b",
+    "w": "salvaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "野生的",
+        "en": "wild"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salmón salvaje aparece en una fotografía donde se ve el río en el que fue capturado por los pescadores.",
+        "zh": "照片里的野生三文鱼旁展示了渔民捕获它的河流。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1226 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-850b26522fec",
+    "w": "salado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "盐渍的",
+        "en": "salted"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado salado está expuesto en una bandeja diferente de las que contienen los productos frescos del puesto.",
+        "zh": "盐渍鱼摆在单独的托盘里，与摊位上的鲜鱼分开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1227 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-644bce11bfc2",
+    "w": "ahumado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烟熏的",
+        "en": "smoked"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pescado ahumado tiene un aroma intenso que reconocemos cuando abrimos el paquete para preparar las tostadas de la cena.",
+        "zh": "做晚餐吐司打开包装时，我们闻到了烟熏鱼浓郁的香气。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1228 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-785e811d37cb",
+    "w": "el bacalao",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鳕鱼",
+        "en": "cod"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bacalao que hemos comprado está cortado en porciones que utilizaremos para preparar el guiso de mañana con verduras.",
+        "zh": "买来的鳕鱼已经切块，明天会与蔬菜一起炖。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1229 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7dd9989a5981",
+    "w": "la merluza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无须鳕",
+        "en": "hake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La merluza se sirve con una salsa suave que permite apreciar el sabor del pescado que hemos elegido.",
+        "zh": "无须鳕配清淡的酱汁，让人能尝出我们所选鱼的风味。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1230 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-24cc1abadd89",
+    "w": "el arenque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鲱鱼",
+        "en": "herring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El arenque está colocado junto a otros pescados que el vendedor organiza según su tamaño al abrir el mercado.",
+        "zh": "市场开门时，商贩按大小摆鱼，鲱鱼放在其他鱼旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1231 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8ab8597ada28",
+    "w": "la caballa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鲭鱼",
+        "en": "mackerel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caballa tiene unas marcas oscuras que permiten reconocerla entre los pescados que están expuestos en el puesto del mercado.",
+        "zh": "鲭鱼身上有深色花纹，在市场鱼摊上容易辨认。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1232 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-9777f69bf441",
+    "w": "el rape",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鮟鱇鱼",
+        "en": "monkfish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rape que muestra el pescadero tiene una cabeza grande que llama la atención de los clientes que pasan.",
+        "zh": "鱼贩展示的鮟鱇鱼头很大，引来路过顾客的注意。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1233 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-418126dc500f",
+    "w": "el salmón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三文鱼",
+        "en": "salmon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salmón queda cortado en porciones rosadas que el cocinero coloca sobre una bandeja antes de añadir las verduras.",
+        "zh": "三文鱼切成粉红色的块，厨师先摆上烤盘再加蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1234 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a6345c73df22",
+    "w": "la sardina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙丁鱼",
+        "en": "sardine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada sardina se coloca junto a las otras en la parrilla donde prepararemos el pescado para la cena del jardín.",
+        "zh": "沙丁鱼一条挨一条摆在烤架上，我们要做花园晚餐的鱼菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1235 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8f5adca3bce2",
+    "w": "la lubina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海鲈鱼",
+        "en": "sea bass"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lubina está preparada en una fuente con rodajas de limón que repartiremos sobre el pescado antes de cocinarlo.",
+        "zh": "海鲈鱼摆在烤盘里，烹饪前会把旁边的柠檬片铺上去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1236 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f8383da69851",
+    "w": "la dorada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "金头鲷",
+        "en": "sea bream"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La dorada que hemos elegido tiene una marca dorada cerca de los ojos que la distingue de otros pescados.",
+        "zh": "我们选的金头鲷眼睛附近有金色标记，有别于其他鱼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1237 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f6acebd17468",
+    "w": "la raya",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鳐鱼",
+        "en": "skate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La raya tiene una forma plana que resulta fácil de reconocer en la ilustración que el profesor muestra a la clase.",
+        "zh": "鳐鱼体形扁平，在老师向全班展示的插图中很容易辨认。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1238 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5e258b37aae8",
+    "w": "la trucha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鳟鱼",
+        "en": "trout"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La trucha aparece en una ilustración del río donde los alumnos observan los animales que viven en agua dulce.",
+        "zh": "河流插图里有鳟鱼，学生们借此观察淡水动物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1239 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6702bd515203",
+    "w": "el atún",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "金枪鱼",
+        "en": "tuna"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El atún se presenta en un corte grande que el pescadero divide según las cantidades que piden sus clientes.",
+        "zh": "鱼贩把一大块金枪鱼按顾客所需分量切开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1240 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1c63a0eb03a1",
+    "w": "la almeja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛤蜊",
+        "en": "clam"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La almeja queda junto a otras conchas que el cocinero ha seleccionado para preparar el arroz que comeremos este domingo.",
+        "zh": "蛤蜊放在厨师选好的其他贝类旁，用来做周日吃的米饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1241 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-bea96942dad6",
+    "w": "el berberecho",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鸟蛤",
+        "en": "cockle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El berberecho tiene una concha con líneas que podemos observar al compararlo con los otros moluscos de la bandeja.",
+        "zh": "鸟蛤贝壳上有纹路，与盘中其他软体动物比较时能看清。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1242 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d017f5abc86b",
+    "w": "el cangrejo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "螃蟹",
+        "en": "crab"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cangrejo está sobre el hielo del puesto donde los clientes se detienen para elegir el marisco de la comida.",
+        "zh": "螃蟹摆在摊位冰上，顾客停下来挑午餐要用的海鲜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1243 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5aabe6d4858f",
+    "w": "el cangrejo de río",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小龙虾",
+        "en": "crayfish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cangrejo de río aparece junto a una piedra en la ilustración que representa los animales de agua dulce.",
+        "zh": "淡水动物插图里，小龙虾位于一块石头旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1244 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d5fcb1c04a4d",
+    "w": "la langosta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "龙虾",
+        "en": "lobster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La langosta ocupa el centro de la bandeja donde el vendedor ha organizado los productos que acaba de recibir.",
+        "zh": "龙虾摆在托盘中央，商贩刚把新到的海鲜整理好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1245 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-45848dc4ca59",
+    "w": "el mejillón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "贻贝",
+        "en": "mussel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mejillón tiene una concha oscura que contrasta con el interior anaranjado que aparece cuando está abierto en el plato.",
+        "zh": "贻贝深色的壳与盘中张开后露出的橙色内部形成对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1246 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1957dde483a8",
+    "w": "el pulpo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "章鱼",
+        "en": "octopus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pulpo está preparado en una fuente con patatas que el cocinero ha espolvoreado con un poco de pimentón.",
+        "zh": "章鱼和土豆装在大盘中，厨师撒了少许红椒粉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1247 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6df5114e7268",
+    "w": "la ostra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牡蛎",
+        "en": "oyster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ostra queda abierta sobre una capa de hielo junto al limón que el camarero ha dejado en la bandeja.",
+        "zh": "牡蛎开壳放在冰上，旁边是服务员放的柠檬。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1248 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2d7bdcb7846c",
+    "w": "la gamba",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大虾",
+        "en": "prawn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La gamba cambia de color mientras se cocina en la sartén donde hemos añadido aceite y un poco de ajo.",
+        "zh": "大虾在加了油和少许蒜的锅里烹饪，颜色逐渐变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 47 页 · 第 1249 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-eee0312bad1b",
+    "w": "la vieira",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扇贝",
+        "en": "scallop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vieira se presenta en su concha sobre el plato que el cocinero termina de decorar antes del servicio.",
+        "zh": "扇贝带壳放在盘里，厨师上菜前正完成最后装饰。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1250 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-14fe6d3ba5ca",
+    "w": "el camarón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小虾",
+        "en": "shrimp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El camarón es más pequeño que las piezas de marisco que el vendedor ha colocado en la bandeja de al lado.",
+        "zh": "小虾比商贩放在旁边托盘里的海鲜小。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1251 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3f53950b51b8",
+    "w": "el calamar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鱿鱼",
+        "en": "squid"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El calamar está cortado en anillas que iremos pasando por harina antes de cocinarlas para servirlas durante el aperitivo.",
+        "zh": "鱿鱼切成圈，我们会逐个裹粉烹饪，作为开胃菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1252 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3d01cbad350c",
+    "w": "la clara de huevo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛋清",
+        "en": "egg white"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La clara de huevo queda en un cuenco distinto para que podamos batirla mientras preparamos los demás ingredientes del bizcocho.",
+        "zh": "蛋清放在另一个碗里，准备其他蛋糕材料时就能打发它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1253 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8e0bdbf656db",
+    "w": "la yema de huevo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蛋黄",
+        "en": "egg yolk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La yema de huevo conserva su forma redonda cuando la separamos con cuidado de la clara que cae al cuenco.",
+        "zh": "蛋清落入碗中时，我们小心分离，蛋黄仍保持圆形。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1254 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d6ef253b0688",
+    "w": "la leche de soja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "豆奶",
+        "en": "soymilk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La leche de soja se sirve en un vaso junto al pan que acabamos de tostar para el desayuno de hoy.",
+        "zh": "豆奶倒在玻璃杯里，旁边是今早刚烤的面包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1255 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-c077c7b822ea",
+    "w": "la leche UHT",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "超高温灭菌奶",
+        "en": "UHT milk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La leche UHT está en un envase cerrado que colocaremos en la despensa junto a los otros productos de la compra.",
+        "zh": "超高温灭菌奶装在密封盒中，我们会放进储物柜与其他采购品一起存放。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1256 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a8199f63f258",
+    "w": "la leche entera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "全脂奶",
+        "en": "whole milk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La leche entera que hemos comprado está en la misma estantería que el yogur que tomamos después de comer.",
+        "zh": "我们买的全脂奶与饭后喝的酸奶放在同一层架上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1257 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-79aa8db5e53a",
+    "w": "la leche desnatada / semidesnatada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脱脂奶／半脱脂奶",
+        "en": "skimmed/ semi-skimmed milk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La leche desnatada está junto a la semidesnatada en el estante donde el supermercado organiza las distintas variedades de leche.",
+        "zh": "超市按不同种类摆奶，脱脂奶就在半脱脂奶旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1258 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-06034a95cb17",
+    "w": "la nata líquida / para montar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "稀奶油／可打发奶油",
+        "en": "single/double cream"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nata líquida y la nata para montar están en recipientes diferentes que hemos preparado para seguir las dos recetas.",
+        "zh": "稀奶油和可打发奶油分别放在容器里，我们要做两道食谱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1259 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f7082bcc0aac",
+    "w": "de granja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "散养的",
+        "en": "free-range"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los huevos de granja están en una caja donde la productora ha colocado un dibujo de las gallinas al aire libre.",
+        "zh": "散养鸡蛋装在盒里，生产者在盒上画了户外的鸡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1260 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f25fccccc8dc",
+    "w": "pasteurizado / no pasteurizado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "巴氏杀菌的／未经巴氏杀菌的",
+        "en": "pasteurized/ unpasteurized"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso pasteurizado y el no pasteurizado llevan etiquetas diferentes que consultamos mientras elegimos los productos de la tabla.",
+        "zh": "巴氏杀菌和未经巴氏杀菌的奶酪有不同标签，我们挑拼盘食材时查看了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1261 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1a2ca6ace25d",
+    "w": "el queso azul",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蓝纹奶酪",
+        "en": "blue cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso azul muestra vetas oscuras que se distinguen cuando el vendedor corta la porción que hemos elegido.",
+        "zh": "商贩切我们选的那份蓝纹奶酪时，能看见深色纹路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1262 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5db8b7157523",
+    "w": "el queso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "奶酪",
+        "en": "cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso que compramos en el mercado se servirá con el pan que hemos preparado para compartir durante la cena.",
+        "zh": "市场买的奶酪将配上我们做的面包，在晚餐时一起分享。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1263 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f398a531d9ee",
+    "w": "el queso crema",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "奶油奶酪",
+        "en": "cream cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso crema se extiende fácilmente sobre las tostadas que mi hermana prepara mientras yo corto la fruta del desayuno.",
+        "zh": "我切早餐水果时，姐姐轻松地把奶油奶酪抹在吐司上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1264 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ead83313f38a",
+    "w": "la mantequilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黄油",
+        "en": "butter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mantequilla está fuera de la nevera para que resulte más fácil mezclarla con el azúcar cuando preparemos la masa.",
+        "zh": "黄油放在冰箱外，做面糊时更容易与糖混合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1265 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d429e4fb9f79",
+    "w": "la nata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "奶油",
+        "en": "cream"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nata forma una capa blanca sobre el postre que hemos dejado enfriar antes de llevarlo a la mesa.",
+        "zh": "甜点凉了后我们在上面铺了白色奶油，再端上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1266 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2032872715bf",
+    "w": "el huevo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鸡蛋",
+        "en": "egg"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El huevo está junto al cuenco donde mezclaremos los ingredientes que utilizamos para preparar las tortitas del desayuno.",
+        "zh": "鸡蛋放在碗旁，我们会在碗里混合早餐松饼的材料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1267 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-4a19273ef3ac",
+    "w": "la margarina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "人造黄油",
+        "en": "margarine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La margarina se encuentra junto al pan que hemos sacado para preparar las tostadas antes de que lleguen los invitados.",
+        "zh": "人造黄油在拿出的面包旁，我们准备客人来之前先做吐司。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1268 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-ae6a9fffc2bf",
+    "w": "la leche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牛奶",
+        "en": "milk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La leche cae lentamente en el vaso que hemos colocado junto al plato donde serviremos las galletas de la merienda.",
+        "zh": "牛奶缓缓倒入杯中，旁边的盘子将放下午茶饼干。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1269 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-32a52705daa0",
+    "w": "el yogurt",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "酸奶",
+        "en": "yoghurt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El yogurt que hemos elegido tiene una textura espesa que combina bien con las frutas cortadas del desayuno de hoy.",
+        "zh": "选的酸奶质地浓稠，与今天早餐的水果块很搭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1270 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-d7e3f1764c4e",
+    "w": "el brie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "布里奶酪",
+        "en": "brie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El brie tiene una corteza blanca que rodea el interior blando que el vendedor nos muestra al cortar una porción.",
+        "zh": "商贩切布里奶酪时向我们展示，白色外皮裹着柔软的内部。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1271 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1c4caf4dec98",
+    "w": "el cabrales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卡布拉莱斯奶酪",
+        "en": "Cabrales"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cabrales está sobre una tabla donde el vendedor presenta los quesos que se elaboran en las montañas de Asturias.",
+        "zh": "卡布拉莱斯奶酪摆在木板上，商贩展示阿斯图里亚斯山区制作的奶酪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1272 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-1ec24d18834d",
+    "w": "el queso cheddar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "切达奶酪",
+        "en": "cheddar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso cheddar se corta en lonchas que utilizaremos para preparar los bocadillos que llevaremos mañana a la excursión escolar.",
+        "zh": "切达奶酪切成片，将用于做明天学校郊游的三明治。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1273 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-94bfd9d5c6c5",
+    "w": "el emmental",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "埃门塔尔奶酪",
+        "en": "Emmenthal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El emmental tiene agujeros grandes que resultan visibles en la porción que acabamos de colocar sobre la tabla de madera.",
+        "zh": "刚放在木板上的埃门塔尔奶酪块有明显的大洞。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1274 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-cd2ed3de0007",
+    "w": "el queso de cabra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "山羊奶酪",
+        "en": "goat’s cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso de cabra que hemos comprado irá sobre una ensalada con verduras que recogimos esta mañana en el huerto.",
+        "zh": "买的山羊奶酪将配上今早菜园采的蔬菜沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1275 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0e7234851c05",
+    "w": "el queso de Mahón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马翁奶酪",
+        "en": "Mahon cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso de Mahón está colocado junto a un mapa que muestra la isla donde se elabora este producto tradicional.",
+        "zh": "马翁奶酪旁放着地图，标出了这种传统产品的制作岛屿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1276 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-253ec543847e",
+    "w": "el manchego",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "曼切戈奶酪",
+        "en": "Manchego"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El manchego se sirve en triángulos que el camarero coloca alrededor de las uvas que hemos elegido para acompañarlo.",
+        "zh": "服务员把三角形曼切戈奶酪摆在我们选来配它的葡萄周围。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1277 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-b6d5a93f8427",
+    "w": "la mozzarella",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马苏里拉奶酪",
+        "en": "mozzarella"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mozzarella queda repartida sobre la masa de la pizza que meteremos al horno cuando termine de calentarse.",
+        "zh": "马苏里拉奶酪铺在披萨面饼上，烤箱热了就放进去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1278 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-8ad937372961",
+    "w": "el parmesano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帕尔马奶酪",
+        "en": "parmesan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El parmesano cae rallado sobre la pasta que el cocinero acaba de servir en los platos de nuestros invitados.",
+        "zh": "厨师刚给客人盛好意面，磨碎的帕尔马奶酪撒落其上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1279 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-6d39c441fb02",
+    "w": "el requesón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "乳清奶酪",
+        "en": "ricotta"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El requesón se mezcla con las hierbas que hemos picado para preparar el relleno de la pasta que comeremos esta noche.",
+        "zh": "乳清奶酪与切碎的香草混合，做今晚意面的馅料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1280 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5e683e4d95c9",
+    "w": "el queso de oveja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "绵羊奶酪",
+        "en": "sheep’s milk cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso de oveja que hemos elegido aparece junto a una fotografía del rebaño que vive cerca de la quesería.",
+        "zh": "选的绵羊奶酪旁有照片，展示奶酪作坊附近饲养的羊群。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1281 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3e913fe62b1d",
+    "w": "el queso ahumado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烟熏奶酪",
+        "en": "smoked cheese"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El queso ahumado tiene una corteza oscura que contrasta con el interior claro que vemos al cortar la primera loncha.",
+        "zh": "切第一片时能看见烟熏奶酪深色外皮与浅色内部的对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 48 页 · 第 1282 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2c272d74461d",
+    "w": "el farmacéutico / la farmacéutica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "药剂师",
+        "en": "pharmacist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La farmacéutica escucha la pregunta de una clienta mientras busca en el ordenador la información que necesita para responderle.",
+        "zh": "药剂师听顾客提问，同时在电脑里查找回答所需的信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1283 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a8503c19f19a",
+    "w": "la receta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "处方",
+        "en": "prescription"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La receta está sobre el mostrador mientras la farmacéutica comprueba los datos que aparecen en el documento entregado por la clienta.",
+        "zh": "处方放在柜台上，药剂师核对顾客递来的文件信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1284 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-3d0751c6bcaa",
+    "w": "el resfriado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "感冒",
+        "en": "cold"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El resfriado le ha hecho quedarse en casa, donde descansa en el sofá mientras su familia prepara la cena.",
+        "zh": "感冒让他留在家中，他在沙发休息，家人则准备晚饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1285 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-0d2b979e52f8",
+    "w": "la diarrea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腹泻",
+        "en": "diarrhoea"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La diarrea es el síntoma que la paciente menciona cuando la doctora le pregunta por qué ha venido a la consulta.",
+        "zh": "医生问患者就诊原因时，患者提到的症状是腹泻。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1286 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-89462f313e86",
+    "w": "la alergia al polen",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "花粉过敏",
+        "en": "hay fever"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La alergia al polen hace que le lloren los ojos mientras camina por el parque donde han florecido los árboles.",
+        "zh": "公园树木开花时，她走过那里，花粉过敏使她眼睛流泪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1287 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-5fd5cde92f44",
+    "w": "el dolor de cabeza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头痛",
+        "en": "headache"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dolor de cabeza hace que cierre el libro y se siente un momento junto a la ventana de su habitación.",
+        "zh": "头痛让他合上书，在房间窗边坐了一会儿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1288 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-76ffb9b562b1",
+    "w": "el dolor de garganta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "喉咙痛",
+        "en": "sore throat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dolor de garganta es lo primero que menciona cuando la médica le pregunta cómo se ha sentido durante la mañana.",
+        "zh": "医生问上午感觉怎样时，他首先说自己喉咙痛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1289 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-85392505ff33",
+    "w": "el dolor de estómago",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胃痛",
+        "en": "stomachache"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dolor de estómago le preocupa, así que explica a la doctora cuándo empezó y cómo ha cambiado desde entonces.",
+        "zh": "胃痛令她担忧，所以她向医生说明开始时间和后来的变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1290 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f77228e3ecba",
+    "w": "el antihistamínico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "抗组胺药",
+        "en": "antihistamine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El antihistamínico está en su caja sobre el mostrador mientras la farmacéutica consulta la información que acompaña al medicamento.",
+        "zh": "抗组胺药装在盒中放在柜台上，药剂师正在查看药品附带的信息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1291 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-22636dbf8027",
+    "w": "el descongestivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "减充血剂",
+        "en": "decongestant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El descongestivo se encuentra en una estantería detrás del mostrador donde la farmacéutica organiza los productos que han llegado esta mañana.",
+        "zh": "减充血剂在柜台后的架子上，药剂师正在整理今早到货的商品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1292 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-2c1aa9e79e8a",
+    "w": "el calmante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "止痛药",
+        "en": "painkiller"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El calmante está guardado en su envase original junto al folleto que la farmacéutica entrega a la persona que lo recoge.",
+        "zh": "止痛药保存在原包装中，旁边是药剂师递给取药人的说明书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1293 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-f5d1d628ede6",
+    "w": "el jabón líquido para las manos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "洗手液",
+        "en": "handwash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jabón líquido para las manos está junto al lavabo donde los visitantes se lavan antes de entrar en la sala.",
+        "zh": "洗手液放在洗手池旁，访客进房间前在这里洗手。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1294 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a60a61cecb1c",
+    "w": "el antiséptico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "消毒剂",
+        "en": "antiseptic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El antiséptico permanece cerrado sobre una bandeja donde la enfermera ha organizado el material que utilizará durante su trabajo.",
+        "zh": "消毒剂盖好放在托盘上，护士把工作要用的用品整理在那里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1295 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-a74d234b9d9a",
+    "w": "el vendaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "绷带",
+        "en": "bandage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vendaje rodea la muñeca del paciente que está sentado mientras la enfermera termina de ordenar el material de la consulta.",
+        "zh": "患者坐着，腕上缠着绷带，护士正在收拾诊室用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1296 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7c314d6e2f5e",
+    "w": "la cápsula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胶囊",
+        "en": "capsule"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cápsula se ve dentro de un envase transparente que la profesora utiliza para explicar las distintas formas de los medicamentos.",
+        "zh": "胶囊放在透明包装里，老师用它讲解药品的不同形态。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1297 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-89c955ccad5b",
+    "w": "el preservativo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "避孕套",
+        "en": "condom"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El preservativo está en un envoltorio cerrado junto a la caja que se vende en la sección correspondiente de la farmacia.",
+        "zh": "避孕套装在密封包装里，旁边是药店相应货架出售的盒子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1298 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-02c7b2d63071",
+    "w": "el jarabe para la tos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "止咳糖浆",
+        "en": "cough mixture"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jarabe para la tos está en un frasco cerrado junto al vaso medidor que la farmacéutica muestra a una clienta.",
+        "zh": "止咳糖浆装在盖好的瓶中，旁边是药剂师向顾客展示的量杯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1299 条；自编例句 B1+",
+    "m": 0
+  },
+  {
+    "id": "book-7a4c0a2812df",
+    "w": "las gotas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滴剂",
+        "en": "drops"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gotas están en un frasco pequeño con cuentagotas que la farmacéutica coloca junto a la caja antes de entregarla.",
+        "zh": "滴剂装在带滴管的小瓶中，药剂师把小瓶放在盒旁再交给顾客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1+",
+    "note": "Collins Spanish 3000 · 原书第 49 页 · 第 1300 条；自编例句 B1+",
+    "m": 0
+  }
+]

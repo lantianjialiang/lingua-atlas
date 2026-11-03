@@ -1,6 +1,7 @@
 param([string]$Manifest)
+$ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName System.Drawing
-$jobs = Get-Content -LiteralPath $Manifest -Raw | ConvertFrom-Json
+$jobs = Get-Content -LiteralPath $Manifest -Raw -Encoding UTF8 | ConvertFrom-Json
 foreach ($job in $jobs) {
   $sourceImage = [System.Drawing.Image]::FromFile($job.path)
   try {
@@ -22,3 +23,4 @@ foreach ($job in $jobs) {
     }
   } finally { $sourceImage.Dispose() }
 }
+

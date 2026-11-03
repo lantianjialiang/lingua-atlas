@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-4807c599023b",
+    "w": "el pasaporte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "护照",
+        "en": "passport"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compruebo la fecha del pasaporte antes de guardarlo junto a los billetes del viaje.",
+        "zh": "我检查护照日期后，把它和旅行票据放在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 601 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-253e05225673",
+    "w": "el piloto / la piloto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "飞行员",
+        "en": "pilot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piloto saluda a la tripulación antes de entrar en la cabina del avión.",
+        "zh": "飞行员进入驾驶舱前，向机组人员打招呼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 602 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-fffa4c094248",
+    "w": "la pista de aterrizaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跑道",
+        "en": "runway"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El avión avanza por la pista de aterrizaje después de tocar tierra suavemente.",
+        "zh": "飞机平稳着陆后，沿跑道滑行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 603 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-8ff51ce15c6c",
+    "w": "la maleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "行李箱",
+        "en": "suitcase"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi maleta es fácil de reconocer porque lleva una cinta roja en el asa.",
+        "zh": "我的箱子很容易认，因为提手上系了红带子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 604 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-075f8d6bfd57",
+    "w": "la travesía de ferry",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮渡航程",
+        "en": "ferry crossing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La travesía de ferry dura dos horas y permite disfrutar de las vistas de la costa.",
+        "zh": "轮渡航程两小时，途中可以欣赏海岸风景。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 605 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-73b8c1d65591",
+    "w": "la terminal de ferry",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮渡码头航站楼",
+        "en": "ferry terminal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llegamos a la terminal de ferry con tiempo para localizar la entrada de vehículos.",
+        "zh": "我们提前到轮渡码头，有时间寻找车辆入口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 606 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-9004ec8d3a9a",
+    "w": "la cubierta para vehículos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "车辆甲板",
+        "en": "car deck"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos el coche en la cubierta para vehículos y subimos a la zona de pasajeros.",
+        "zh": "我们把车停在车辆甲板，再上到乘客区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 607 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ba4daa15c688",
+    "w": "la cubierta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "甲板",
+        "en": "deck"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desde la cubierta vemos cómo el puerto se aleja mientras empieza la travesía.",
+        "zh": "航程开始时，我们从甲板看着港口渐渐远去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 608 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ed554526bf8c",
+    "w": "la chimenea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船烟囱",
+        "en": "funnel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chimenea del barco sobresale por encima de las cubiertas donde pasean los pasajeros.",
+        "zh": "船的烟囱高出乘客散步的甲板。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 609 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-62e3a2438bd1",
+    "w": "el ojo de buey",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "圆形舷窗",
+        "en": "porthole"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Por el ojo de buey del camarote podemos ver las olas junto al barco.",
+        "zh": "透过船舱的圆形舷窗，我们能看见船旁的波浪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 610 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-f0bf329b081f",
+    "w": "el bote salvavidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生艇",
+        "en": "lifeboat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bote salvavidas está sujeto al costado del barco, cerca de la cubierta superior.",
+        "zh": "救生艇固定在船舷，靠近上层甲板。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 611 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-a82d4491f891",
+    "w": "la proa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船头",
+        "en": "bow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los pasajeros observan el horizonte desde una zona situada cerca de la proa.",
+        "zh": "乘客们在靠近船头的区域眺望地平线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 612 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-5afdeec0cfef",
+    "w": "la popa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船尾",
+        "en": "stern"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desde la popa vemos la espuma que deja el barco al avanzar por el mar.",
+        "zh": "从船尾可以看见船航行时留下的浪花。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 25 页 · 第 613 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1570b8cfa89c",
+    "w": "el camarote",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船舱客房",
+        "en": "cabin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nuestro camarote tiene dos camas y espacio suficiente para guardar las maletas del viaje.",
+        "zh": "我们的船舱有两张床，也放得下旅行箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 614 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4dbfdfe7d600",
+    "w": "el embarcadero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登船码头",
+        "en": "pier"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esperamos en el embarcadero mientras los trabajadores preparan la pasarela para subir al ferry.",
+        "zh": "工作人员准备登船通道时，我们在码头等候。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 615 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-01b44d035e2d",
+    "w": "el puerto deportivo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游艇码头",
+        "en": "marina"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el puerto deportivo hay pequeños veleros que se mueven suavemente junto al muelle.",
+        "zh": "游艇码头里，小帆船在岸边轻轻摇晃。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 616 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-acd058c4c291",
+    "w": "el guardacostas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海岸警卫队",
+        "en": "coastguard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El guardacostas se acerca al puerto mientras la tripulación comprueba las condiciones del mar.",
+        "zh": "海岸警卫船驶近港口，船员查看海况。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 617 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-5a986669134f",
+    "w": "el capitán / la capitana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船长",
+        "en": "captain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La capitana habla con la tripulación antes de dirigir el barco hacia la salida del puerto.",
+        "zh": "船长与船员交谈后，驾驶船舶驶向港口出口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 618 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-c8d226aeeaf5",
+    "w": "la tripulación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "船员",
+        "en": "crew"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tripulación ayuda a los pasajeros a encontrar sus camarotes al comienzo del viaje.",
+        "zh": "航程开始时，船员帮乘客寻找客房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 619 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-2b4150c965ba",
+    "w": "el pasajero de a pie / la pasajera de a pie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "步行登船乘客",
+        "en": "foot passenger"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pasajero de a pie utiliza una entrada distinta de la que siguen los coches.",
+        "zh": "步行乘客使用的入口与车辆不同。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 620 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-93679b0a2bf0",
+    "w": "embarcar(se)",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登船",
+        "en": "to board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de embarcar comprobamos que llevamos los billetes y los documentos en la mochila.",
+        "zh": "登船前，我们确认票据和证件都在背包里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 621 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1ec75e5ef4e5",
+    "w": "navegar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "航行",
+        "en": "to sail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos gusta navegar cerca de la costa cuando el mar está tranquilo y hace buen tiempo.",
+        "zh": "海面平静、天气好时，我们喜欢沿海岸航行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 622 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1c48455d8396",
+    "w": "atracar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "靠岸停泊",
+        "en": "to dock"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ferry empieza a atracar y los pasajeros se preparan para recoger sus maletas.",
+        "zh": "轮渡开始靠岸，乘客准备取行李。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 623 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-69d87712d6df",
+    "w": "el ancla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锚",
+        "en": "anchor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ancla está preparada en la parte delantera del barco que vamos a visitar.",
+        "zh": "我们要参观的船，船头备好了锚。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 624 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-6f2e173a5057",
+    "w": "la boya",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浮标",
+        "en": "buoy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Una boya amarilla marca una zona del agua que vemos desde la cubierta del barco.",
+        "zh": "黄色浮标标出一片水域，我们从甲板上能看见。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 625 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-2dd3f63e4799",
+    "w": "la pasarela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "登船通道",
+        "en": "gangway"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los viajeros cruzan la pasarela despacio porque algunos llevan maletas bastante pesadas.",
+        "zh": "有些旅客带着重行李，因此大家慢慢走过登船通道。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 626 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-23792a822f82",
+    "w": "el puerto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "港湾",
+        "en": "harbour"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puerto está protegido del viento y tiene espacio para barcos de distintos tamaños.",
+        "zh": "港湾有遮风的条件，可容纳不同大小的船。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 627 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-32723226fa3b",
+    "w": "el malecón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "栈桥；防波堤",
+        "en": "jetty"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Caminamos por el malecón hasta un lugar desde donde podemos observar los barcos.",
+        "zh": "我们沿防波堤走，到了一处能看船的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 628 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-06d37ecb9c65",
+    "w": "el salvavidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生圈",
+        "en": "lifebuoy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salvavidas cuelga junto a la barandilla, bien visible desde la zona de paseo.",
+        "zh": "救生圈挂在栏杆旁，从步行区域很容易看到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 629 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-77ae20b37566",
+    "w": "el chaleco salvavidas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救生衣",
+        "en": "lifejacket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tripulación muestra un chaleco salvavidas durante la explicación que ofrece a los pasajeros.",
+        "zh": "船员向乘客讲解时，展示一件救生衣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 630 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-30160e3ea970",
+    "w": "el amarradero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "系泊处",
+        "en": "mooring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El barco vuelve a su amarradero después de una mañana de navegación por la bahía.",
+        "zh": "在海湾航行一上午后，船返回系泊处。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 631 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-c21ab1ea9cd8",
+    "w": "el puerto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "港口",
+        "en": "port"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puerto recibe barcos de pasajeros y grandes buques que transportan mercancías a diario.",
+        "zh": "港口每天接待客船和运货的大型船舶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 632 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-64478c058e9f",
+    "w": "la piragua",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "独木舟",
+        "en": "canoe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piragua avanza por el lago mientras sus ocupantes observan las montañas de alrededor.",
+        "zh": "独木舟行进在湖面上，乘坐者欣赏周围的山峦。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 633 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-5eda316a5007",
+    "w": "el ferry",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮渡",
+        "en": "ferry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tomamos el ferry para llegar a la isla sin dejar el coche en el continente.",
+        "zh": "我们乘轮渡去岛上，也把汽车带过去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 634 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-6e4e0f7f08bd",
+    "w": "el bote inflable",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "充气小艇",
+        "en": "inflatable dinghy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bote inflable está junto al velero y sirve para acercarse a la orilla.",
+        "zh": "充气小艇停在帆船旁，用来靠近岸边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 635 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-3f87fd007c47",
+    "w": "el kayak",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮划艇",
+        "en": "kayak"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Recorremos la bahía en kayak y descansamos en una playa pequeña durante el paseo.",
+        "zh": "我们划皮划艇游览海湾，途中在一片小海滩休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 636 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4d01f1fa04ed",
+    "w": "el transatlántico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "远洋客轮",
+        "en": "liner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El transatlántico llega al puerto y muchos pasajeros salen a observar la ciudad desde cubierta.",
+        "zh": "远洋客轮抵港，许多乘客走到甲板看城市。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 637 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-49d271c2ed04",
+    "w": "la barca de remos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "划艇",
+        "en": "rowing boat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Alquilamos una barca de remos para pasar la tarde tranquilamente en el lago.",
+        "zh": "我们租了一艘划艇，在湖上悠闲地度过下午。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 638 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-218f9c7323a5",
+    "w": "el velero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "帆船",
+        "en": "sailing boat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El velero se aleja de la playa mientras el viento llena su vela blanca.",
+        "zh": "风鼓起白帆，帆船渐渐离开海滩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 639 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-8167133b753f",
+    "w": "el pesquero de arrastre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拖网渔船",
+        "en": "trawler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pesquero de arrastre regresa al puerto después de trabajar durante la noche.",
+        "zh": "拖网渔船夜间作业后，返回港口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 640 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-9f046e8db917",
+    "w": "el yate",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游艇",
+        "en": "yacht"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El yate está amarrado junto a otros barcos, al final del puerto deportivo.",
+        "zh": "游艇系泊在游艇码头尽头，旁边还有其他船。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-1",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 26 页 · 第 641 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-e8a769aa6449",
+    "w": "el bloque de pisos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公寓楼",
+        "en": "block of flats"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bloque de pisos donde vive mi hermana tiene un pequeño jardín junto a la entrada.",
+        "zh": "我姐妹住的公寓楼入口旁有一座小花园。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 27 页 · 第 642 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-43b8633f6539",
+    "w": "el tejado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "屋顶",
+        "en": "roof"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tejado de la casa necesita una revisión porque entró agua durante la última tormenta.",
+        "zh": "上次暴风雨时屋里漏水，所以屋顶需要检查。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 27 页 · 第 643 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-705718297613",
+    "w": "la ventana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "窗户",
+        "en": "window"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abro la ventana del dormitorio para dejar entrar aire fresco antes de empezar a trabajar.",
+        "zh": "工作前，我打开卧室窗户，让新鲜空气进来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 27 页 · 第 644 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-05341e540967",
+    "w": "el balcón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "阳台",
+        "en": "balcony"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el balcón hay dos sillas donde nos sentamos a leer después de cenar.",
+        "zh": "阳台上有两把椅子，我们晚饭后坐在那里看书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 27 页 · 第 645 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ecc9d17a542e",
+    "w": "el edificio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "建筑物",
+        "en": "building"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El edificio tiene una entrada accesible y varias oficinas distribuidas en tres plantas.",
+        "zh": "这栋楼有无障碍入口，三层楼里分布着几个办公室。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 646 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-9d11113c1bad",
+    "w": "el apartamento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公寓",
+        "en": "apartment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos un apartamento luminoso que esté cerca del transporte público y tenga dos dormitorios.",
+        "zh": "我们想找一间明亮、靠近公共交通且有两间卧室的公寓。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 647 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ba818542f51e",
+    "w": "el piso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "住宅公寓",
+        "en": "flat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El piso que visitamos ayer tiene una cocina pequeña, pero el salón es bastante amplio.",
+        "zh": "昨天参观的公寓厨房小，但客厅相当宽敞。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 648 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-b8775ab992bb",
+    "w": "la dirección",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地址",
+        "en": "address"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Anoto la dirección completa para encontrar fácilmente la casa cuando vuelva a visitar el barrio.",
+        "zh": "我记下完整地址，方便再次到这个街区时找到那座房子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 649 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-fd0f997a33c9",
+    "w": "la zona residencial",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "住宅区",
+        "en": "suburb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La zona residencial está lejos del centro, pero tiene parques y buenas conexiones de autobús.",
+        "zh": "住宅区离市中心远，不过有公园，公交也便利。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 650 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-d7f40033d849",
+    "w": "el distrito",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "区",
+        "en": "district"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este distrito reúne varios barrios donde hay mercados, escuelas y espacios para practicar deporte.",
+        "zh": "这个区包含几个街区，有市场、学校和运动场地。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 651 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-038159a4d437",
+    "w": "el agente de alquiler",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "租赁中介",
+        "en": "letting agent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El agente de alquiler nos enseña tres viviendas que están disponibles desde el próximo mes.",
+        "zh": "租赁中介带我们看了三套下个月可入住的房子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 652 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ca8fab45568c",
+    "w": "la inmobiliaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房产中介",
+        "en": "estate agent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Entramos en la inmobiliaria para preguntar por los pisos que aparecen en el escaparate.",
+        "zh": "我们走进房产中介，询问橱窗展示的公寓。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 653 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-436e4ffac5bc",
+    "w": "el portero / la portera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "门房；管理员",
+        "en": "concierge"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La portera recibe un paquete y avisa al vecino que vive en la tercera planta.",
+        "zh": "管理员收到包裹，通知住在三楼的邻居。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 654 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1207e092f5cb",
+    "w": "el casero / la casera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房东",
+        "en": "owner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La casera nos entrega las llaves después de enseñarnos dónde están los contadores de la vivienda.",
+        "zh": "房东告诉我们房屋计量表在哪里，然后交给我们钥匙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 655 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-2d22131610cc",
+    "w": "el vecino / la vecina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "邻居",
+        "en": "neighbour"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi vecino suele regar las plantas del balcón mientras hablamos de las noticias del barrio.",
+        "zh": "我和邻居聊街区新闻时，他通常在给阳台植物浇水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 656 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-caff803d1a9f",
+    "w": "el inquilino / la inquilina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "租客",
+        "en": "tenant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La inquilina organiza sus cajas antes de colocar los muebles en el nuevo salón.",
+        "zh": "租客先整理箱子，再把家具放到新客厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 657 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-60e83e0b7273",
+    "w": "la hipoteca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "住房抵押贷款",
+        "en": "mortgage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Revisamos los documentos de la hipoteca con el empleado del banco antes de seguir hablando.",
+        "zh": "我们先和银行职员查看房贷文件，然后继续交谈。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 658 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-f3e050d8d5ff",
+    "w": "el alquiler",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "租金",
+        "en": "rent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El alquiler de este piso incluye el uso de una pequeña plaza de garaje.",
+        "zh": "这套公寓的租金包含一个小车位的使用权。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 659 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-7e9b9fcf7ef4",
+    "w": "el contrato de alquiler",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "租赁合同",
+        "en": "rental agreement"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Leemos el contrato de alquiler para conocer las condiciones de la vivienda que vamos a visitar.",
+        "zh": "我们阅读租赁合同，了解要参观的房屋的条件。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 660 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-15ab6558c6cf",
+    "w": "los gastos de comunidad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "物业公共费用",
+        "en": "community charges"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los vecinos se reúnen para hablar de los gastos de comunidad y de la limpieza del edificio.",
+        "zh": "邻居们聚在一起，讨论公共费用和楼宇清洁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 661 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-c7f507548af7",
+    "w": "el alquiler vacacional",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "度假短租房",
+        "en": "holiday let"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El alquiler vacacional está junto a la playa y tiene espacio para toda nuestra familia.",
+        "zh": "度假短租房就在海滩旁，住得下我们全家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 662 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4810a69048b0",
+    "w": "alquilar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "租用",
+        "en": "to rent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos alquilar un piso cerca del trabajo para pasar menos tiempo en el transporte público.",
+        "zh": "我们想在工作地点附近租公寓，减少乘车时间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 663 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-253a23703387",
+    "w": "ser dueño / dueña de",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拥有",
+        "en": "to own"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi tía es dueña de una casa antigua que está en el centro del pueblo.",
+        "zh": "我阿姨拥有一座位于村镇中心的老房子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 664 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1db1fe80b8e6",
+    "w": "vivir",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "居住",
+        "en": "to live"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos gustaría vivir en un barrio tranquilo donde podamos llegar andando a las tiendas.",
+        "zh": "我们想住在安静、能步行去商店的街区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 665 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-a1a7ee20cde7",
+    "w": "mudarse de casa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "搬家",
+        "en": "to move house"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tenemos que mudarnos de casa porque el próximo mes empezamos a trabajar en otra ciudad.",
+        "zh": "下个月我们要去另一座城市工作，所以得搬家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 666 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-949d263d0555",
+    "w": "construir una casa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "建房",
+        "en": "to build a house"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Quieren construir una casa en el terreno donde antes estaba la vivienda de sus abuelos.",
+        "zh": "他们想在祖父母旧居所在的地块上建房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 667 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-63a1457b1b3d",
+    "w": "el bloque de apartamentos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公寓楼",
+        "en": "apartment block"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El bloque de apartamentos tiene un patio interior que comparten todas las familias del edificio.",
+        "zh": "这座公寓楼有一个由所有住户共用的内院。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 668 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-fc124ec748ef",
+    "w": "la casa individual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "独栋住宅",
+        "en": "detached house"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La casa individual está rodeada de árboles y tiene una entrada para aparcar el coche.",
+        "zh": "独栋住宅四周有树，还有一个能停车的入口。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 669 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-2930c263a048",
+    "w": "la casa de labranza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "农舍",
+        "en": "farmhouse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pasamos el fin de semana en una casa de labranza situada cerca de varios campos de cultivo.",
+        "zh": "我们在一座靠近几片农田的农舍度过周末。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 670 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-d361b9db7737",
+    "w": "la casa pareada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双拼住宅",
+        "en": "semi-detached house"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La casa pareada comparte una pared con la vivienda de la familia que vive al lado.",
+        "zh": "这座双拼住宅与邻居家的房屋共用一堵墙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 671 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-cb9ab68db5cc",
+    "w": "el estudio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单间公寓",
+        "en": "studio flat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estudio tiene una sola estancia donde se encuentran la cama, la mesa y la cocina.",
+        "zh": "这间单间公寓只有一个空间，里面有床、桌子和厨房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 672 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-5a8a25e74a62",
+    "w": "el chalet",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "别墅",
+        "en": "villa"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El chalet tiene una terraza amplia desde la que se puede ver toda la bahía.",
+        "zh": "别墅有宽敞的露台，从那里能看见整个海湾。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 28 页 · 第 673 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-67e36ac5167b",
+    "w": "la habitación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "房间",
+        "en": "room"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta habitación recibe luz por la mañana y por eso la usamos como zona de estudio.",
+        "zh": "这间房早上光线好，所以我们把它当作学习区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 674 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-c838d21b3891",
+    "w": "el sótano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地下室",
+        "en": "cellar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el sótano guardamos las herramientas y algunas cajas que todavía no hemos abierto.",
+        "zh": "地下室里放着工具和一些尚未打开的箱子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 675 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-f4512ce8dcf8",
+    "w": "el desván",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "阁楼",
+        "en": "attic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El desván está debajo del tejado y tiene una ventana pequeña que da al jardín.",
+        "zh": "阁楼在屋顶下面，有一扇朝向花园的小窗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 676 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4ea4fb9981c1",
+    "w": "el techo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "天花板",
+        "en": "ceiling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El techo del salón es alto y permite colocar una lámpara bastante grande sobre la mesa.",
+        "zh": "客厅天花板很高，桌子上方能安装一盏较大的灯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 677 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-72aec704c473",
+    "w": "el muro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "外墙",
+        "en": "(external) wall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El muro exterior protege el jardín del viento y separa la casa de la calle.",
+        "zh": "外墙给花园挡风，也把房子和街道分开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 678 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-e5892ee97b97",
+    "w": "la pared",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "内墙",
+        "en": "(internal) wall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pintamos la pared del dormitorio de un color claro para aprovechar mejor la luz.",
+        "zh": "我们把卧室内墙刷成浅色，更好地利用光线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 679 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-da5f51a7e63a",
+    "w": "el suelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地板",
+        "en": "floor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El suelo de madera necesita una limpieza después de la visita de toda la familia.",
+        "zh": "全家人来访后，木地板需要清洁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 680 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-3306caa05100",
+    "w": "el enchufe",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "插头",
+        "en": "plug"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compruebo que el enchufe de la lámpara no esté conectado antes de mover el escritorio.",
+        "zh": "搬书桌前，我确认台灯插头没有插着。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 681 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-79bdee50de1b",
+    "w": "el adaptador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "转换插头",
+        "en": "adaptor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llevamos un adaptador porque las tomas de corriente del alojamiento son distintas de las nuestras.",
+        "zh": "住宿处的插座与我们家的不同，所以我们带了转换插头。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 682 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4145a7d63c02",
+    "w": "la toma de corriente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "插座",
+        "en": "socket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La toma de corriente está detrás del sofá y resulta difícil llegar hasta ella.",
+        "zh": "插座在沙发后面，不太容易够到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 683 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-9f7a2dda9fb8",
+    "w": "la electricidad",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "电力",
+        "en": "electricity"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante el corte de electricidad utilizamos una linterna para encontrar las velas de la cocina.",
+        "zh": "停电期间，我们用手电筒找厨房的蜡烛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 684 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-ff88e70d7c82",
+    "w": "las cañerías",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "管道系统",
+        "en": "plumbing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fontanero revisa las cañerías del baño mientras nosotros vaciamos el armario de debajo del lavabo.",
+        "zh": "水管工检查浴室管道时，我们清空洗手池下面的柜子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 685 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-14e27aac65af",
+    "w": "la tubería del agua",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水管",
+        "en": "water pipe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tubería del agua pasa por la pared que separa la cocina del cuarto de baño.",
+        "zh": "水管经过厨房与浴室之间的墙。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 686 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-6651317c8e19",
+    "w": "la calefacción central",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "中央供暖",
+        "en": "central heating"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Encendemos la calefacción central un rato antes de que lleguen nuestros amigos a cenar.",
+        "zh": "朋友来吃晚饭前，我们提前一会儿打开中央供暖。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 687 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-c05912d8467c",
+    "w": "la antena parabólica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卫星天线",
+        "en": "satellite dish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La antena parabólica está instalada en el tejado, al lado de una chimenea pequeña.",
+        "zh": "卫星天线装在屋顶，一根小烟囱旁边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 688 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-858f63415263",
+    "w": "el porche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "门廊",
+        "en": "porch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el porche dejamos las botas mojadas después de volver del paseo por el bosque.",
+        "zh": "从森林散步回来后，我们把湿靴子放在门廊里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 689 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-db3fd2cea93e",
+    "w": "la puerta trasera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "后门",
+        "en": "back door"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La puerta trasera permite entrar al jardín sin tener que pasar por el salón.",
+        "zh": "后门能直接通向花园，不必经过客厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 690 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-29aa5f73aff6",
+    "w": "la puertaventana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "落地玻璃门",
+        "en": "French windows"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La puertaventana del comedor se abre directamente a la terraza donde solemos desayunar.",
+        "zh": "餐厅的落地玻璃门直接通向我们常吃早餐的露台。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 691 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-377ece224ba2",
+    "w": "la azotea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "屋顶露台",
+        "en": "roof terrace"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Subimos a la azotea para disfrutar del aire fresco cuando empieza a ponerse el sol.",
+        "zh": "太阳开始落山时，我们到屋顶露台乘凉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 692 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-4d9f98295e6c",
+    "w": "el balcón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "阳台",
+        "en": "balcony"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El balcón tiene una barandilla azul y varias macetas que cuidamos durante todo el año.",
+        "zh": "阳台有蓝色栏杆和几盆我们全年照料的植物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 693 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-0fa9653ae84d",
+    "w": "la claraboya",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "天窗",
+        "en": "skylight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La claraboya ilumina la escalera incluso cuando las puertas de las habitaciones están cerradas.",
+        "zh": "即使各房间的门都关着，天窗也能照亮楼梯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 694 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-a817e1d8d8c1",
+    "w": "reparar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "修理",
+        "en": "to fix"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El técnico viene a reparar la persiana que dejó de funcionar durante la semana pasada.",
+        "zh": "技术人员来修上周坏掉的卷帘。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 695 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-305fa983e220",
+    "w": "decorar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "装饰",
+        "en": "to decorate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Vamos a decorar el salón con las fotos que hicimos durante nuestro último viaje.",
+        "zh": "我们打算用上次旅行拍的照片装饰客厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 696 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-d80446e2d99b",
+    "w": "reformar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "翻修",
+        "en": "to renovate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Queremos reformar la cocina para aprovechar mejor el espacio que hay junto a la ventana.",
+        "zh": "我们想翻修厨房，更好地利用窗边的空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 697 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-feb3df8aec38",
+    "w": "el aire acondicionado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "空调",
+        "en": "air conditioning"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aire acondicionado mantiene fresca la habitación mientras trabajamos durante las horas de más calor.",
+        "zh": "最热的几个小时里，空调在我们工作时保持室内凉爽。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 698 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-1dc34a4279ac",
+    "w": "la caldera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锅炉",
+        "en": "boiler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El técnico revisa la caldera porque el agua tarda más de lo normal en calentarse.",
+        "zh": "热水加热比平时慢，所以技术人员来检查锅炉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 699 条；自编例句 A2向B1过渡",
+    "m": 1
+  },
+  {
+    "id": "book-520363c95d3c",
+    "w": "el ventilador de techo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "吊扇",
+        "en": "ceiling fan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ventilador de techo mueve el aire del dormitorio sin ocupar espacio en el suelo.",
+        "zh": "吊扇让卧室空气流通，又不占地面空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "A2–B1",
+    "note": "Collins Spanish 3000 · 原书第 29 页 · 第 700 条；自编例句 A2向B1过渡",
+    "m": 1
+  }
+]

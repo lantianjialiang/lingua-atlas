@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-1d717e946278",
+    "w": "hipermétrope",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "远视的",
+        "en": "long-sighted"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Su padre es hipermétrope y compara varias monturas mientras la óptica le explica qué modelos están disponibles en la tienda del barrio.",
+        "zh": "父亲远视，正在比较镜框，配镜师为他介绍店里的款式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2701 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-295930864ef1",
+    "w": "con discapacidad visual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "有视力障碍的",
+        "en": "visually impaired"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Una persona con discapacidad visual participa en el taller donde los visitantes pueden reconocer las obras mediante modelos que permiten explorarlas con las manos.",
+        "zh": "一位视障人士参加工作坊，通过可用手探索的模型了解作品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2702 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c88e28c602b8",
+    "w": "ciego",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "失明的",
+        "en": "blind"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El músico ciego reconoce a sus compañeros por la voz cuando llegan al estudio donde van a ensayar el concierto del próximo sábado.",
+        "zh": "失明的音乐家凭声音认出同伴，大家在录音室排练下周六的音乐会。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2703 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-45473e03980d",
+    "w": "daltónico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "色盲的",
+        "en": "colour-blind"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Su hermano es daltónico y utiliza las etiquetas de las pinturas para elegir los colores que necesita antes de empezar el dibujo.",
+        "zh": "哥哥有色盲，作画前根据颜料标签选择颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2704 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d92f2969c591",
+    "w": "usar gafas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "戴眼镜",
+        "en": "to wear glasses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usar gafas le permite reconocer mejor a sus amigos cuando llegan al otro lado de la plaza después de terminar las clases.",
+        "zh": "戴上眼镜，她更容易认出放学后从广场另一边走来的朋友。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2705 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dcdda14ab7b8",
+    "w": "usar lentillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "戴隐形眼镜",
+        "en": "to wear contacts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Usar lentillas es uno de los temas sobre los que quiere preguntar cuando llegue su turno en la consulta de esta tarde.",
+        "zh": "下午轮到她问诊时，她想询问戴隐形眼镜的相关事项。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2706 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5b853d812e81",
+    "w": "las lentillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "隐形眼镜",
+        "en": "contact lenses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las lentillas están dentro del envase que la profesional muestra durante una sesión informativa para las personas que visitan la óptica por primera vez.",
+        "zh": "工作人员在科普活动中向首次到店的人展示包装内的隐形眼镜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2707 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2735b590edcb",
+    "w": "el estuche de las lentillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "隐形眼镜盒",
+        "en": "contact lens case"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estuche de las lentillas está junto a las gafas en el neceser que ha preparado para llevar durante su próximo viaje.",
+        "zh": "隐形眼镜盒与眼镜一起放在洗漱包里，准备带上下一次旅程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2708 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ed998d26a351",
+    "w": "la tabla optométrica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "视力表",
+        "en": "eye chart"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tabla optométrica está al fondo de la sala donde la profesional recibe a las personas que han reservado una cita para esta mañana.",
+        "zh": "视力表位于检查室深处，工作人员接待上午预约的来访者。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2709 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-70272c860cb7",
+    "w": "el colirio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滴眼液",
+        "en": "eye drops"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El colirio aparece en la lista que la paciente lleva a la consulta para comentar con la especialista los productos que utiliza habitualmente.",
+        "zh": "患者携带的清单中列着滴眼液，准备与专科医生讨论常用产品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2710 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c0bdb383fcd2",
+    "w": "el examen ocular",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼部检查",
+        "en": "eye test"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El examen ocular está previsto para el martes, aunque todavía tiene que confirmar si podrá salir del trabajo a la hora necesaria.",
+        "zh": "眼部检查安排在周二，但她还要确认是否能及时离开工作岗位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2711 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-47c29a0efe7d",
+    "w": "la montura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "镜框",
+        "en": "frames"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La montura que más le gusta tiene un color discreto que combina con la mayoría de las prendas que suele llevar al trabajo.",
+        "zh": "她最喜欢的镜框颜色低调，能搭配平时上班穿的大部分衣服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2712 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-29d117683c39",
+    "w": "las gafas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼镜",
+        "en": "glasses"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las gafas están sobre la mesa donde dejó el periódico antes de levantarse para abrir la puerta a los invitados de esta tarde.",
+        "zh": "她起身为下午的访客开门，眼镜放在报纸旁的桌上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2713 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e9da985a139b",
+    "w": "el estuche de gafas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "眼镜盒",
+        "en": "glasses case"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estuche de gafas protege la montura dentro de la mochila que lleva cuando se desplaza en tren para visitar a sus padres.",
+        "zh": "他坐火车探望父母，眼镜盒在背包内保护着镜框。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2714 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7e546ffcccb7",
+    "w": "el oculista / la oculista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "验光配镜师",
+        "en": "optician"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La oculista compara varias monturas con la clienta mientras su compañero busca en el almacén el modelo que han visto en el catálogo.",
+        "zh": "配镜师陪顾客比较镜框，同事在库房寻找目录上的款式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 101 页 · 第 2715 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e1c0b86beb67",
+    "w": "el hospital público / privado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "公立或私立医院",
+        "en": "public/private hospital"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hospital público y el hospital privado aparecen señalados en el mapa que la oficina de información entrega a quienes llegan a la ciudad.",
+        "zh": "城市信息处发给新来者的地图上，标明了公立医院和私立医院。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2716 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e1720d9087b0",
+    "w": "Urgencias",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "急诊科",
+        "en": "A&E"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Urgencias ocupa una zona del hospital a la que se llega por la entrada que aparece indicada junto al acceso de las ambulancias.",
+        "zh": "急诊科位于医院一区，可从救护车通道旁标出的入口抵达。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2717 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a24568f74cb7",
+    "w": "el fisioterapeuta / la fisioterapeuta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "物理治疗师",
+        "en": "physiotherapist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fisioterapeuta organiza el material de la sala mientras conversa con la persona que acaba de llegar para la sesión de esta mañana.",
+        "zh": "物理治疗师整理房间器材，与刚来参加上午课程的人交谈。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2718 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-74f5c6783208",
+    "w": "el radiógrafo / la radiógrafa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "放射技师",
+        "en": "radiographer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La radiógrafa prepara la sala antes de acompañar al paciente desde la puerta hasta el lugar que le indica junto al equipo.",
+        "zh": "放射技师先准备检查室，再陪患者从门口走到设备旁指定的位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2719 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2fa0ee2f8458",
+    "w": "el cirujano / la cirujana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "外科医生",
+        "en": "surgeon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cirujana conversa con el equipo durante la reunión en la que revisan la organización de las actividades previstas para la mañana siguiente.",
+        "zh": "外科医生与团队开会，讨论第二天上午的工作安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2720 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-eccd01e6a639",
+    "w": "la ambulancia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "救护车",
+        "en": "ambulance"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ambulancia permanece junto a la entrada del hospital mientras el personal prepara el equipo que necesitará durante su próximo turno de trabajo.",
+        "zh": "救护车停在医院入口旁，工作人员准备下个班次要用的装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2721 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c625e9ed9065",
+    "w": "la operación quirúrgica",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "外科手术",
+        "en": "operation"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La operación quirúrgica figura en el documento que el equipo revisa antes de explicar a la familia cómo se organiza la jornada.",
+        "zh": "团队查看文件中的手术安排，再向家属说明当天的流程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2722 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b36ed82fc779",
+    "w": "el escáner",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扫描检查",
+        "en": "scan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El escáner aparece en las imágenes que la profesional muestra al grupo durante una visita educativa a las instalaciones del hospital de la ciudad.",
+        "zh": "工作人员带领学生参观医院，通过图片介绍扫描检查设备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2723 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ae51229430a3",
+    "w": "los cuidados intensivos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "重症监护",
+        "en": "intensive care"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los cuidados intensivos ocupan una unidad del hospital cuyo acceso está señalado en el plano que consulta la familia junto a recepción.",
+        "zh": "家属在前台旁查看平面图，重症监护单元的入口在图中标明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2724 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b7c68cb98ed2",
+    "w": "el desfibrilador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "除颤器",
+        "en": "defibrillator"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El desfibrilador está colocado en un armario visible junto a la entrada del pabellón donde se celebra la competición deportiva del fin de semana.",
+        "zh": "周末比赛的体育馆入口旁，除颤器放在显眼的柜子里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2725 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1aadba49ef54",
+    "w": "el diagnóstico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "诊断",
+        "en": "diagnosis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El diagnóstico aparece en el informe que la médica explica con calma mientras el paciente le plantea las preguntas que ha anotado antes de llegar.",
+        "zh": "医生耐心讲解报告中的诊断，患者提出提前记下的问题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2726 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2cb06de0e319",
+    "w": "el pulso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脉搏",
+        "en": "pulse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pulso aparece como tema de la actividad educativa en la que los estudiantes comparan distintas formas de representar el ritmo del cuerpo.",
+        "zh": "科普活动以脉搏为主题，学生比较表现身体节律的不同方式。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2727 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-442aed310882",
+    "w": "tomar el pulso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "测脉搏",
+        "en": "to take his/her pulse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tomar el pulso es una de las actividades que el instructor presenta mediante un modelo durante la sesión organizada para estudiantes de enfermería.",
+        "zh": "护理学生的教学活动中，讲师用模型展示测脉搏这一项目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2728 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-bf9b3c597845",
+    "w": "someterse a una operación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "接受手术",
+        "en": "to undergo surgery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Someterse a una operación es una experiencia que el protagonista describe en la entrevista dedicada a los días que pasó en el hospital.",
+        "zh": "采访中，主人公谈起住院的日子，描述了接受手术的经历。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2729 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a79b2eb9ca9d",
+    "w": "ingresar en el hospital",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "入院",
+        "en": "to be admitted"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ingresar en el hospital aparece entre los recuerdos que la autora cuenta al explicar por qué decidió escribir sobre la importancia de la compañía.",
+        "zh": "作者谈到住院的回忆，解释自己为何写作陪伴的重要性。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2730 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-79e66dfedd31",
+    "w": "recibir el alta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出院",
+        "en": "to be discharged"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Recibir el alta le permite volver a casa, donde sus familiares han preparado una habitación tranquila para darle la bienvenida después de tantos días.",
+        "zh": "出院后她可以回家，家人为她准备了安静的房间迎接她。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2731 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1c32cadf1b31",
+    "w": "las muletas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拐杖",
+        "en": "crutches"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las muletas están apoyadas junto a la silla mientras su dueño conversa con las personas que han venido a visitarlo esta tarde.",
+        "zh": "拐杖靠在椅子旁，主人与下午来看望自己的访客聊天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2732 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8242d67f3100",
+    "w": "el gotero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "输液装置",
+        "en": "drip"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gotero aparece junto a la cama en la fotografía de una habitación que forma parte del material educativo preparado por el hospital.",
+        "zh": "医院科普资料中的病房照片里，输液装置位于床边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2733 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d7ccbb8c1783",
+    "w": "la cama de hospital",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "病床",
+        "en": "hospital bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cama de hospital está junto a una ventana desde la que se puede ver el jardín que separa los dos edificios principales.",
+        "zh": "病床靠窗，窗外是分隔两幢主楼的花园。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2734 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b5fae18acbce",
+    "w": "el monitor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "监护仪",
+        "en": "monitor"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El monitor está junto a la cama de la sala que los estudiantes visitan para conocer el equipo habitual de un hospital moderno.",
+        "zh": "学生参观病房，了解现代医院的常用设备，监护仪放在床旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2735 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-12c5b7233dd2",
+    "w": "el quirófano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手术室",
+        "en": "operating theatre"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El quirófano aparece vacío en la fotografía que el hospital utiliza para mostrar sus instalaciones durante una jornada de puertas abiertas.",
+        "zh": "医院开放日用一张空手术室的照片介绍设施。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2736 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3c45f4fe9ee5",
+    "w": "la máscara de oxígeno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "氧气面罩",
+        "en": "oxygen mask"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La máscara de oxígeno forma parte del equipo que la instructora muestra a los alumnos durante la visita al interior de una ambulancia.",
+        "zh": "参观救护车时，讲师向学生展示的设备中包括氧气面罩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2737 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8d447a9d285b",
+    "w": "la escayola",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "石膏固定",
+        "en": "plaster cast"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La escayola que lleva en el brazo tiene varios dibujos que sus amigos hicieron cuando fueron a visitarlo después de las clases.",
+        "zh": "她手臂上的石膏固定上有几个图案，是朋友们放学探望时画的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2738 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0fa2b191f800",
+    "w": "los puntos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "缝合线",
+        "en": "stitches"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los puntos aparecen representados en una ilustración sencilla que forma parte del cuaderno utilizado por los alumnos en la clase de vocabulario sanitario.",
+        "zh": "卫生词汇课的练习册中，用简洁示意图表现缝合线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2739 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4c1bf1d0c641",
+    "w": "la sala de hospital",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "病房",
+        "en": "ward"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sala de hospital tiene varias camas separadas por cortinas que permiten mantener la intimidad de las personas que permanecen allí durante su estancia.",
+        "zh": "病房有几张床，用帘子隔开，为住院者保留隐私。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2740 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-800e7258ab2b",
+    "w": "la silla de ruedas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轮椅",
+        "en": "wheelchair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La silla de ruedas permite que su abuelo recorra el jardín acompañado de la familia cuando van a visitarlo durante las tardes del domingo.",
+        "zh": "周日下午家人探访时，爷爷坐轮椅在花园里一起散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2741 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-841bb575ccf2",
+    "w": "la radiografía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "X光片",
+        "en": "X-ray"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La radiografía está en la pantalla que la médica gira ligeramente para que el paciente pueda observarla mientras escucha la explicación de los resultados.",
+        "zh": "医生稍稍转动屏幕，让患者一面看X光片，一面听结果讲解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2742 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-16b53144a952",
+    "w": "el andador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "助行架",
+        "en": "Zimmer frame®"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El andador está junto a la puerta mientras su dueño conversa con una vecina antes de salir a pasear por el patio del edificio.",
+        "zh": "主人出门到楼院散步前与邻居聊天，助行架放在门旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 102 页 · 第 2743 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-15fcbc71818f",
+    "w": "el accidente",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "事故",
+        "en": "accident"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El accidente interrumpió el recorrido de la carrera, aunque los organizadores consiguieron informar al público mientras el personal preparado acudía al lugar.",
+        "zh": "事故中断了比赛，组织者向观众说明情况，工作人员赶往现场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2744 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b42899a5851f",
+    "w": "la conmoción cerebral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脑震荡",
+        "en": "concussion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La conmoción cerebral aparece en un folleto que los estudiantes leen antes de comentar el vocabulario de las lesiones durante su clase de español.",
+        "zh": "西班牙语课讨论伤病词汇前，学生阅读介绍脑震荡的资料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2745 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3fbb8543d62d",
+    "w": "la caída",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跌倒",
+        "en": "fall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caída del personaje ocurre fuera del escenario, de modo que el público comprende lo sucedido por la reacción de los otros actores.",
+        "zh": "人物的跌倒发生在台下，观众通过其他演员的反应明白了情况。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2746 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8e460abe4c53",
+    "w": "la luxación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脱臼",
+        "en": "dislocation"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La luxación se representa mediante un modelo que la profesora utiliza para explicar la diferencia entre las palabras de la unidad sobre lesiones.",
+        "zh": "老师用模型展示脱臼，讲解伤病单元各术语的区别。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2747 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d2d8a102401c",
+    "w": "el esguince",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扭伤",
+        "en": "sprain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El esguince figura en el informe que el deportista lleva a la consulta para conversar sobre lo ocurrido durante el último entrenamiento del equipo.",
+        "zh": "运动员带着列有扭伤的报告问诊，说明上次团队训练发生的事情。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2748 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-fb287dadcf0d",
+    "w": "la cicatriz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "疤痕",
+        "en": "scar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cicatriz de la mano forma parte de la historia que el artesano cuenta cuando le preguntan por sus primeros años de trabajo.",
+        "zh": "别人问及早期工作经历，工匠讲起了手上疤痕的故事。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2749 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6ffa4f887a04",
+    "w": "el latigazo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "颈部鞭打伤",
+        "en": "whiplash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El latigazo aparece en el material de la clase que los estudiantes comparan con otras palabras relacionadas con las consecuencias de un accidente.",
+        "zh": "学生在课上阅读介绍颈部鞭打伤的资料，并与其他事故相关词汇比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2750 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-962ebc8ebea2",
+    "w": "la hinchazón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肿胀",
+        "en": "swelling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hinchazón se muestra en un esquema que ayuda a los estudiantes a reconocer el significado de la palabra sin fotografías que resulten desagradables.",
+        "zh": "教学示意图展示肿胀，帮助学生理解词义，避免使用令人不适的照片。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2751 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-51667041bee2",
+    "w": "la postura de recuperación",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "恢复体位",
+        "en": "recovery position"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La postura de recuperación aparece en el cartel que el instructor comenta durante una actividad educativa organizada en el gimnasio del colegio.",
+        "zh": "学校体育馆的科普活动中，讲师讲解海报上展示的恢复体位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2752 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9a4f985cce7f",
+    "w": "la reanimación cardiopulmonar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "心肺复苏",
+        "en": "CPR"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La reanimación cardiopulmonar forma parte de una demostración que la instructora realiza con un maniquí durante el curso de formación del centro deportivo.",
+        "zh": "体育中心培训课上，讲师用模拟人演示心肺复苏。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2753 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0ca9095c205f",
+    "w": "estar sin sentido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "失去知觉",
+        "en": "to be unconscious"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estar sin sentido es la situación que representa un actor durante la escena en la que sus compañeros piden ayuda a un profesional.",
+        "zh": "演员在剧中扮演失去知觉的人，同伴向专业人员求助。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2754 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7cfd3b110946",
+    "w": "lesionarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "受伤",
+        "en": "to injure oneself"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Lesionarse durante el ensayo cambió los planes del bailarín, que ahora conversa con sus compañeros sobre la organización de la próxima función del teatro.",
+        "zh": "排练受伤改变了舞者的计划，他正与同伴商量剧院下一场演出的安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2755 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1c2549e1116c",
+    "w": "caerse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跌倒",
+        "en": "to fall"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Caerse en mitad del escenario no estaba previsto, pero la actriz consiguió continuar la escena mientras sus compañeros mantenían la calma ante el público.",
+        "zh": "台上的跌倒并非预设，但演员继续演出，同伴们也在观众面前保持镇定。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2756 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-fe807f06639e",
+    "w": "romperse un brazo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摔断手臂",
+        "en": "to break one’s arm"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Romperse un brazo alteró sus planes de vacaciones, aunque sus amigos encontraron varias actividades que podían disfrutar juntos sin salir de la ciudad.",
+        "zh": "摔断手臂打乱了假期安排，但朋友们找到了可在城里一起参与的活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2757 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9f3b0122fe53",
+    "w": "torcerse el tobillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扭伤脚踝",
+        "en": "to twist one’s ankle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Torcerse el tobillo le impidió terminar la excursión, de modo que esperó acompañado mientras el resto del grupo reorganizaba el regreso al pueblo.",
+        "zh": "扭伤脚踝让他无法完成远足，有人陪他等候，其他人安排返回村庄。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2758 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-54e4751b5397",
+    "w": "la ampolla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水泡",
+        "en": "injuries blister"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ampolla aparece en un pequeño esquema que los estudiantes utilizan para relacionar los nombres de distintas lesiones con sus representaciones más sencillas.",
+        "zh": "学生用一幅表现水泡的小图，将伤病名称与简洁图示配对。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2759 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a833e135019c",
+    "w": "la magulladura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "淤青",
+        "en": "bruise"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La magulladura que aparece en el dibujo forma parte de una actividad donde los alumnos practican cómo describir lo que ven en español.",
+        "zh": "西班牙语课堂练习中，学生描述图中的淤青。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2760 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ed1a146f54c3",
+    "w": "la quemadura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烧伤",
+        "en": "burn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La quemadura se representa de forma esquemática en el folleto que los participantes consultan durante una charla sobre el vocabulario de los accidentes.",
+        "zh": "事故词汇讲座中，参与者查阅的资料用简图表现烧伤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2761 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a4651755b0f5",
+    "w": "el corte",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "伤口",
+        "en": "cut"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El corte aparece en un dibujo sencillo que permite explicar la palabra sin utilizar imágenes reales en la actividad educativa del grupo.",
+        "zh": "教学活动用简图展示伤口，解释词义而不使用真实伤口照片。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2762 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-19661fec4a15",
+    "w": "la fractura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "骨折",
+        "en": "fracture"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fractura está representada en el modelo de plástico que la profesora muestra al grupo mientras explica las palabras relacionadas con los huesos.",
+        "zh": "老师用塑料模型展示骨折，向学生讲解骨骼相关词汇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2763 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e10714960b5",
+    "w": "la rozadura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "擦伤",
+        "en": "graze"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rozadura aparece en la ilustración que los alumnos comparan con otras imágenes para distinguir las palabras de la unidad sobre accidentes cotidianos.",
+        "zh": "学生将擦伤插图与其他图片比较，区分日常事故单元的词汇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2764 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a930ea87b881",
+    "w": "la astilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "木刺",
+        "en": "splinter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La astilla se ve sobre la mesa de trabajo después de desprenderse del trozo de madera que el artesano está lijando esta mañana.",
+        "zh": "木刺从工匠早上打磨的木块上脱落，掉在工作台上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2765 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-006f4f52db77",
+    "w": "la picadura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蜇伤",
+        "en": "sting"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La picadura aparece representada mediante un esquema sencillo en el cuaderno que los estudiantes utilizan durante la clase de vocabulario sobre lesiones.",
+        "zh": "伤病词汇课上，学生练习册用简洁图示表现蜇伤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2766 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f1ab9935ad8e",
+    "w": "la quemadura del sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晒伤",
+        "en": "sunburn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La quemadura del sol se menciona en el folleto educativo que los visitantes pueden encontrar junto a la entrada de la oficina de turismo.",
+        "zh": "旅游信息处入口旁的科普资料中，介绍了晒伤这一主题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2767 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-111f8d0268b2",
+    "w": "el antiséptico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "消毒剂",
+        "en": "first aid antiseptic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El antiséptico está en un envase cerrado dentro del armario donde el personal del centro deportivo mantiene ordenado el material de primeros auxilios.",
+        "zh": "消毒剂以密封包装放在柜内，体育中心工作人员在那里整理急救用品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2768 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9fb9bbeabcf7",
+    "w": "el vendaje",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "绷带",
+        "en": "bandage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vendaje aparece enrollado junto a otros materiales que la instructora muestra durante la presentación del contenido de un botiquín de primeros auxilios.",
+        "zh": "讲师介绍急救箱内容时，展示了与其他用品放在一起的卷状绷带。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2769 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d034c3f030a6",
+    "w": "la gasa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "敷料",
+        "en": "dressing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La gasa está dentro de un paquete cerrado que forma parte del material preparado para la actividad educativa sobre los objetos del botiquín.",
+        "zh": "介绍急救箱用品的教学活动中，展示的材料包括密封包装的敷料。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2770 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-713362c09652",
+    "w": "la compresa de hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰袋",
+        "en": "ice pack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La compresa de hielo aparece junto a otros objetos que los alumnos deben nombrar durante una actividad de vocabulario en la clase de español.",
+        "zh": "西班牙语词汇课上，学生需要说出包括冰袋在内的物品名称。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2771 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0e6276ec28ec",
+    "w": "el collarín cervical",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "颈托",
+        "en": "neck brace"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El collarín cervical forma parte del equipo que los estudiantes pueden observar durante la visita guiada al interior de una ambulancia del centro.",
+        "zh": "学生参观救护车内部，观察的装备中包括颈托。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2772 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5228543d3534",
+    "w": "la pomada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "药膏",
+        "en": "ointment"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pomada permanece en su caja original junto a los documentos que la farmacéutica prepara antes de atender a la siguiente persona del turno.",
+        "zh": "药膏仍在原盒中，放在药剂师为下一位顾客准备的文件旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2773 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e6165cbc68f1",
+    "w": "la tirita",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "创可贴",
+        "en": "plaster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tirita tiene un dibujo pequeño que la niña enseña a su hermano mientras ambos esperan sentados en la sala de la consulta.",
+        "zh": "女孩坐在候诊室，把创可贴上的小图案给弟弟看。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2774 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ddae4533a6fe",
+    "w": "el cabestrillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "吊带",
+        "en": "sling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cabestrillo sostiene el brazo del personaje que aparece en la fotografía preparada para ilustrar una actividad sobre las situaciones de la vida diaria.",
+        "zh": "日常情境教学照片中，吊带托着人物的手臂。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2775 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-71f5129387a0",
+    "w": "las pinzas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "镊子",
+        "en": "tweezers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las pinzas están sobre una bandeja junto a los objetos que los estudiantes deben identificar durante la visita al aula de formación sanitaria.",
+        "zh": "卫生培训教室参观中，托盘上的镊子是学生需要辨认的物品之一。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 103 页 · 第 2776 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-737874bc1a1d",
+    "w": "el ataque cardíaco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "心脏病发作",
+        "en": "heart attack"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ataque cardíaco aparece como tema de una conferencia cuyos participantes plantean preguntas al especialista después de escuchar la presentación preparada para el público.",
+        "zh": "一场讲座以心脏病发作为主题，听众听完介绍后向专家提问。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2777 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-12507120324c",
+    "w": "el ictus",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脑卒中",
+        "en": "stroke"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El ictus figura entre los temas de la exposición donde los visitantes consultan paneles educativos y conversan con el personal que organiza la jornada.",
+        "zh": "展览主题包括脑卒中，参观者阅读科普展板并与工作人员交流。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2778 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-96941d0a5fa8",
+    "w": "la infección",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "感染",
+        "en": "infection"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La infección se representa en una animación que los estudiantes observan mientras la profesora explica el vocabulario utilizado en el material de la clase.",
+        "zh": "学生观看表现感染的动画，老师讲解教材中的词汇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2779 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4872a3cb32a6",
+    "w": "la infección de oído",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "耳部感染",
+        "en": "ear infection"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La infección de oído aparece en un esquema que la médica utiliza para explicar el significado del término durante una charla para estudiantes visitantes.",
+        "zh": "医生在面向来访学生的讲座上，用示意图讲解耳部感染这一术语。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2780 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5aa36636f6ee",
+    "w": "el virus",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "病毒",
+        "en": "virus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El virus aparece ampliado en la pantalla del museo, donde los visitantes pueden comparar distintos modelos sin necesidad de utilizar un microscopio.",
+        "zh": "博物馆屏幕显示放大的病毒，参观者无需显微镜即可比较模型。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2781 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a275c3e3fb4e",
+    "w": "la varicela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水痘",
+        "en": "chicken pox"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La varicela forma parte de una actividad en la que los alumnos relacionan nombres de enfermedades con las descripciones preparadas por su profesora.",
+        "zh": "学生将疾病名称与老师准备的描述配对，水痘是其中之一。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2782 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4f5c2217f19c",
+    "w": "el sarpullido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皮疹",
+        "en": "rash"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sarpullido se muestra en una ilustración sencilla que permite comprender la palabra durante la clase de español dedicada al vocabulario de la salud.",
+        "zh": "健康词汇的西班牙语课上，用简洁插图解释皮疹。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2783 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-719d1ef1705a",
+    "w": "el virus estomacal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肠胃病毒感染",
+        "en": "stomach bug"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El virus estomacal aparece en el cuaderno donde la estudiante anota las palabras nuevas que ha encontrado al leer un artículo sobre salud.",
+        "zh": "学生阅读健康文章，把肠胃病毒感染等新词记在本子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2784 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-425f5ee9cb33",
+    "w": "los vómitos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "呕吐",
+        "en": "vomiting"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los vómitos se mencionan en el diálogo que los alumnos leen para practicar cómo explicar una situación durante una visita al centro de salud.",
+        "zh": "学生通过提到呕吐的对话，练习在卫生中心描述情况。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2785 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e1a4710b7e59",
+    "w": "la intoxicación alimentaria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "食物中毒",
+        "en": "food poisoning"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La intoxicación alimentaria aparece en el titular del artículo que los estudiantes comentan mientras practican la comprensión de noticias en su clase de español.",
+        "zh": "西班牙语新闻阅读课上，学生讨论的文章标题中出现了食物中毒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2786 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-520a75b8ae29",
+    "w": "la náusea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "恶心",
+        "en": "nausea"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La náusea le hace apartarse un momento del grupo mientras su amiga busca un lugar tranquilo donde puedan sentarse antes de continuar el viaje.",
+        "zh": "她感到恶心暂时离队，朋友找安静处让她坐下，稍后再继续旅行。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2787 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8d2464b03805",
+    "w": "la diarrea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腹泻",
+        "en": "diarrhoea"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La diarrea es una de las palabras que la profesora explica con un diálogo sencillo ambientado en la consulta de un centro de salud.",
+        "zh": "老师用卫生中心问诊的简短对话，讲解包括腹泻在内的词汇。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2788 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-848e663392bc",
+    "w": "el estreñimiento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "便秘",
+        "en": "constipation"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El estreñimiento aparece entre los términos que la alumna quiere comprender mejor antes de participar en la conversación simulada de la próxima clase.",
+        "zh": "学生准备参加下节课的模拟对话，想先弄清便秘等术语。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2789 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3b30b1b02a10",
+    "w": "la diabetes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糖尿病",
+        "en": "diabetes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La diabetes es el tema de una exposición educativa donde los visitantes leen historias personales y plantean sus preguntas a los profesionales invitados.",
+        "zh": "科普展以糖尿病为主题，参观者阅读个人故事并向受邀专业人员提问。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2790 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d27b36c72841",
+    "w": "la epilepsia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "癫痫",
+        "en": "epilepsy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La epilepsia aparece en el programa de la charla que la asociación ha organizado para compartir experiencias y responder a las preguntas del público.",
+        "zh": "协会举办经验交流讲座，回答公众问题，议程中包含癫痫主题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2791 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c3ca9537f0bf",
+    "w": "el asma",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "哮喘",
+        "en": "asthma"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El asma aparece en un folleto que el estudiante consulta para comprender las palabras nuevas antes de presentar su trabajo sobre vocabulario sanitario.",
+        "zh": "学生查阅介绍哮喘的册子，理解新词后准备卫生词汇报告。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2792 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4dda99791422",
+    "w": "el inhalador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "吸入器",
+        "en": "inhaler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El inhalador está junto a su envase original en la fotografía que la profesora utiliza para enseñar los nombres de algunos objetos sanitarios.",
+        "zh": "老师用照片教授医疗用品名称，吸入器放在原包装旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2793 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0d2b5bafeea6",
+    "w": "la insulina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胰岛素",
+        "en": "insulin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La insulina aparece en el material que la especialista repasa durante una sesión educativa donde los participantes plantean sus dudas sobre el vocabulario de salud.",
+        "zh": "健康词汇科普课上，专家讲解的资料中出现胰岛素，参与者提出问题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2794 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7af6be926d41",
+    "w": "los dolores menstruales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "经痛",
+        "en": "period pain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los dolores menstruales se mencionan en el diálogo que los estudiantes utilizan para practicar una conversación respetuosa sobre distintas experiencias relacionadas con la salud.",
+        "zh": "学生通过提及经痛的对话，练习尊重地讨论不同健康经历。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2795 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-22f05d781bb3",
+    "w": "tener la tensión alta / baja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "血压偏高或偏低",
+        "en": "to have high/low blood pressure"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tener la tensión alta o baja aparece entre los temas que el paciente quiere comentar cuando llegue su turno en la consulta de esta mañana.",
+        "zh": "患者早上候诊，想在轮到自己时讨论血压偏高或偏低等问题。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2796 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2ce093d6c5ca",
+    "w": "toser",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "咳嗽",
+        "en": "to cough"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Toser le hace interrumpir la frase que estaba leyendo, de modo que espera un momento antes de continuar con la presentación ante sus compañeros.",
+        "zh": "咳嗽打断了她正在读的话，她稍等片刻再继续向同学展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2797 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b28512e5f527",
+    "w": "estornudar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "打喷嚏",
+        "en": "to sneeze"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Estornudar en medio de la lectura sorprendió al actor, aunque consiguió continuar la escena mientras sus compañeros esperaban la siguiente frase del diálogo.",
+        "zh": "演员在朗读时突然打喷嚏，但仍接着演，同伴等着下一句台词。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2798 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ddf7b4f6260f",
+    "w": "vomitar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "呕吐",
+        "en": "to vomit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Vomitar aparece como verbo nuevo en el diálogo que la profesora utiliza para enseñar cómo describir una situación durante una consulta médica simulada.",
+        "zh": "老师用模拟问诊对话教学生描述情况，其中出现了新动词“呕吐”。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2799 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-94219a80f8eb",
+    "w": "desmayarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晕倒",
+        "en": "to faint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Desmayarse es lo que representa la actriz en una escena donde otro personaje pide ayuda mientras el resto del grupo permanece a su lado.",
+        "zh": "演员在一场戏中扮演晕倒的人，另一人物求助，其他人守在旁边。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-7",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 104 页 · 第 2800 条；自编例句 B1–B2",
+    "m": 0
+  }
+]

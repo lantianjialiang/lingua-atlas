@@ -3,9 +3,15 @@
 英语与西班牙语词汇学习网站，基于 [Word Atlas](https://github.com/designfuchen/word-atlas) 改编。
 
 - 原英语词库：7,298 条，保留插画、例句和英美发音。
-- Collins Spanish 3000：当前实现原书顺序前100条，全部配有场景插图、自编西语例句及中文翻译。
+- Collins Spanish 3000：按原书顺序每批100条逐步扩充，配场景插图、自编西语例句及中文翻译；例句难度逐步提高。
 - 在“关于”页切换辞书，两套学习、复习、收藏、错词与未完成会话分别保存。
 - 无需注册，进度保存在当前浏览器；在“我的”页可分别导出备份。
+
+## 点词在线查询
+
+例句、搭配与关联词中的每个单词均可点击。当前辞书已有的词优先使用本地词条；未收录的词按辞书语言（英语/西语）请求 MyMemory 中文参考译文，英语另查询 Free Dictionary API 的英文释义和音标。只有点击的单词会发送给服务，不上传例句或学习记录；查询结果在当前会话缓存，重复点击不会重复请求。在线词没有课程词卡，提供外部维基词典链接和设备朗读。网络失败、15 秒超时、限流或无结果时显示提示并可重试。
+
+MyMemory 是翻译参考，不保证词性、多义项或语境准确；匿名服务有每日额度。API 与限制：[MyMemory](https://mymemory.translated.net/doc/spec.php)、[用量](https://mymemory.translated.net/doc/usagelimits.php)、[Free Dictionary API](https://dictionaryapi.dev/)。词典释义按返回的许可显示署名链接。如后续有许可合适的英汉/西汉辞书，可替换或补充在线结果。
 
 ## 本地开发
 
@@ -27,3 +33,5 @@ npm run dev
 保留原 localStorage 键、词库 ID 和备份格式，项目改名不会清空同一网址下已有学习进度。更换域名或端口前，请分别导出备份并在新网址导入。
 
 [English](README.en.md) · [原项目文档存档](docs/UPSTREAM_README.zh.md)
+
+批次安排与难度递进：[内容计划](docs/SPANISH-CONTENT-PLAN.md)；实际完成范围见 [批次清单](data/spanish-batch-plan.json)。每批通过完整性校验后再更新网站索引。

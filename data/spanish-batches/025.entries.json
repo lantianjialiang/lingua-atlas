@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-b85b28a76797",
+    "w": "el casco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪头盔",
+        "en": "ski helmet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El casco estaba sobre el banco donde habíamos dejado las prendas que utilizaríamos durante la clase de esquí organizada para aquella misma mañana.",
+        "zh": "头盔在凳上，旁边是当天上午滑雪课要穿的衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 89 页 · 第 2401 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1e4ba4e8e376",
+    "w": "la chaqueta de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪夹克",
+        "en": "ski jacket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La chaqueta de esquí tenía bolsillos donde guardamos los objetos pequeños que necesitábamos llevar al salir del alojamiento para reunirnos con el grupo.",
+        "zh": "滑雪夹克有口袋，我们放好小物件，准备出门集合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2402 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-113dede62c3d",
+    "w": "los bastones de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪杖",
+        "en": "ski poles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los bastones de esquí estaban junto al resto del material que los participantes recogerían antes de acompañar a la monitora hacia la zona de práctica.",
+        "zh": "滑雪杖和其他装备摆一起，参与者领取后跟指导员去练习区。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2403 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-1439adb8270d",
+    "w": "los esquís",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪板",
+        "en": "skis"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los esquís quedaron ordenados frente al local donde el personal comprobaba las reservas que habían hecho los visitantes antes de llegar a la estación.",
+        "zh": "滑雪板整齐摆在店前，工作人员核对游客到滑雪区前的预订。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2404 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e16d74a61b83",
+    "w": "el traje de esquí",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "滑雪服",
+        "en": "ski suit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El traje de esquí estaba preparado sobre la cama mientras organizábamos la mochila que llevaríamos durante las actividades previstas para el día siguiente.",
+        "zh": "滑雪服放床上，我们收拾次日活动要带的背包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2405 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a3736c3e4b28",
+    "w": "la tabla de snowboard",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单板滑雪板",
+        "en": "snowboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tabla de snowboard estaba apoyada junto a la puerta mientras su dueña buscaba el material que había dejado dentro de la bolsa de viaje.",
+        "zh": "单板滑雪板靠在门旁，主人找旅行袋中的其他装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2406 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a0201abf2bda",
+    "w": "las botas de snowboard",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单板滑雪靴",
+        "en": "snowboarding boots"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las botas de snowboard quedaron junto al banco donde los participantes escuchaban las indicaciones que los monitores daban antes de salir con sus grupos.",
+        "zh": "单板滑雪靴在凳旁，参与者听指导员出发前的说明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2407 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-518ab8cfa640",
+    "w": "la pelea",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳赛",
+        "en": "fight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelea deportiva se celebraría por la tarde, así que los visitantes tuvieron tiempo de recorrer las instalaciones antes de acercarse a sus asientos.",
+        "zh": "体育拳赛下午举行，观众有时间先参观设施再入座。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2408 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-03c9ecae552c",
+    "w": "el boxeador / la boxeadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳击手",
+        "en": "boxer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La boxeadora ajustó sus guantes mientras escuchaba las últimas indicaciones de la entrenadora que la acompañaría durante la exhibición organizada por el club.",
+        "zh": "女拳击手调手套，听陪她参加俱乐部展示的教练最后说明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2409 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-99469a5e91e1",
+    "w": "el luchador / la luchadora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摔跤选手",
+        "en": "fighter/wrestler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La luchadora saludó a su compañera antes de comenzar la demostración que ambas habían preparado para mostrar el trabajo que realizaban en el club.",
+        "zh": "女摔跤选手先向同伴致意，再开始两人准备的俱乐部展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2410 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6680886265d9",
+    "w": "el contrincante / la contrincante",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "对手",
+        "en": "opponent"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La contrincante esperó en su lado del espacio de competición mientras la árbitra comprobaba que ambas participantes estuvieran preparadas para empezar el encuentro.",
+        "zh": "女对手在比赛区一侧等候，裁判确认双方准备好开赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2411 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8da2893d088c",
+    "w": "el peso ligero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "轻量级",
+        "en": "lightweight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peso ligero aparecía en el programa de la competición, donde los visitantes consultaban los nombres de los participantes antes de comenzar la jornada.",
+        "zh": "比赛计划列出轻量级，游客开场前查看参赛者姓名。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2412 条；自编例句 B1–B2；原提取英文featherweight与西语不一致，按peso ligero释义",
+    "m": 0
+  },
+  {
+    "id": "book-506191ecbfaf",
+    "w": "el peso pesado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "重量级",
+        "en": "heavyweight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El peso pesado figuraba en el cartel que anunciaba las exhibiciones preparadas por los deportistas que entrenaban cada semana en las instalaciones del club.",
+        "zh": "海报列出重量级，宣传每周在俱乐部训练的运动员展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2413 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5cad8f6ad166",
+    "w": "el puñetazo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "直拳动作",
+        "en": "punch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puñetazo se practicaba contra una manopla acolchada mientras la entrenadora observaba el movimiento y proponía correcciones durante la sesión de técnica del grupo.",
+        "zh": "小组技术课上对软手靶练出拳，教练看动作并纠正。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2414 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ff4e5a6a751b",
+    "w": "el K.O.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "击倒获胜",
+        "en": "knockout"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El K.O. aparecía escrito en una lámina del museo que explicaba términos deportivos mediante fotografías antiguas y dibujos relacionados con la historia del boxeo.",
+        "zh": "博物馆展板写着K.O.，以旧照和图画讲拳击术语与历史。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2415 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5838926e9a91",
+    "w": "las artes marciales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "武术",
+        "en": "martial arts"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las artes marciales formaban parte de las actividades del centro cultural, donde los visitantes podían conocer distintas escuelas durante una jornada abierta al barrio.",
+        "zh": "文化中心开放日介绍武术，街区居民能了解不同流派。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2416 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ebc5c8099434",
+    "w": "boxear",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "练拳击",
+        "en": "to box"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empezó a boxear en el club del barrio, donde las primeras sesiones incluían explicaciones y ejercicios que realizaba junto a otros participantes de su grupo.",
+        "zh": "他在街区俱乐部开始练拳击，初期和同组者一起听讲、练动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2417 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2335c0970d42",
+    "w": "luchar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摔跤",
+        "en": "to wrestle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendimos a luchar durante una clase de iniciación en la que la monitora mostraba los movimientos que luego practicábamos por parejas sobre la colchoneta.",
+        "zh": "入门摔跤课上，指导员示范后，我们两人在垫上练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2418 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2eb66be74912",
+    "w": "dar un puñetazo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "出拳",
+        "en": "to punch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La entrenadora explicó cómo dar un puñetazo a la manopla de práctica antes de que los alumnos repitieran el movimiento durante la sesión de técnica.",
+        "zh": "教练先示范向练习手靶出拳，学生再在技术课重复动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2419 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-75e72e16ca19",
+    "w": "dar una patada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "踢腿",
+        "en": "to kick"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendimos a dar una patada a la almohadilla de entrenamiento mientras el monitor organizaba los turnos para que cada participante practicara el movimiento indicado.",
+        "zh": "我们学向训练软垫踢腿，指导员安排轮次，让每人练指定动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2420 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0b6ffc23f895",
+    "w": "golpear",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "击打",
+        "en": "to strike"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de golpear el saco de entrenamiento, observamos la demostración que había preparado la instructora para explicar los movimientos de aquella sesión de iniciación.",
+        "zh": "击打训练沙袋前，我们看指导员为入门课准备的动作示范。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2421 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0bc7f6c40756",
+    "w": "entrenarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "对练",
+        "en": "to spar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los compañeros empezaron a entrenarse después de escuchar las indicaciones de la monitora, que organizaría los ejercicios por parejas durante la sesión del grupo.",
+        "zh": "听完女指导员说明后，同伴开始对练，她安排小组双人练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2422 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-cf7aa2d29333",
+    "w": "practicar esgrima",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "练击剑",
+        "en": "to fence"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Querían practicar esgrima y se acercaron al club para conocer el material y las actividades que ofrecían a quienes empezaban a aprender aquel deporte.",
+        "zh": "他们想练击剑，到俱乐部了解初学者装备和活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2423 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-11c3ed503d9d",
+    "w": "dejar K.O.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "击倒获胜",
+        "en": "to knock out"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La expresión «dejar K.O.» aparecía en un panel informativo junto a una ilustración deportiva que explicaba el vocabulario utilizado en antiguas crónicas de boxeo.",
+        "zh": "“dejar K.O.”出现在说明板上，配体育插图解释旧拳击报道术语。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2424 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6ab2b7ce1619",
+    "w": "los guantes de boxeo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳击手套",
+        "en": "boxing gloves"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los guantes de boxeo estaban sobre el banco donde los participantes habían dejado las bolsas que llevarían al terminar la clase de aquella tarde.",
+        "zh": "拳击手套在凳上，旁边是参与者下午下课要带走的包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2425 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6185a6966379",
+    "w": "el cuadrilátero de boxeo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳击擂台",
+        "en": "ring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cuadrilátero de boxeo estaba vacío mientras el personal preparaba el espacio para la exhibición que los visitantes observarían desde las sillas del pabellón.",
+        "zh": "拳击擂台空着，工作人员布置供体育馆观众观看的展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2426 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d06d96d98bff",
+    "w": "las zapatillas de boxeo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳击鞋",
+        "en": "shoes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las zapatillas de boxeo quedaron junto a la bolsa mientras la deportista organizaba el equipo que había preparado para la sesión del club de aquella mañana.",
+        "zh": "拳击鞋在包旁，运动员整理上午俱乐部训练的装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2427 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9b2083cd9bbf",
+    "w": "el casco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "防护头盔",
+        "en": "headguard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El casco de entrenamiento estaba en el estante donde la monitora guardaba el material que mostraría a los nuevos participantes antes de comenzar la clase.",
+        "zh": "训练护头盔放架上，指导员准备课前向新成员介绍装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2428 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7b6a00dd7b56",
+    "w": "el protector bucal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "护齿套",
+        "en": "mouthguard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El protector bucal permanecía en su estuche junto a los objetos que la deportista había organizado antes de salir para el entrenamiento de aquella tarde.",
+        "zh": "护齿套在盒里，旁边是运动员下午出发训练前整理的物品。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2429 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a2f00e92921c",
+    "w": "el saco de boxeo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "拳击沙袋",
+        "en": "punchbag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El saco de boxeo colgaba en una esquina de la sala, donde el entrenador mostraría los ejercicios previstos para el grupo que empezaba aquella mañana.",
+        "zh": "拳击沙袋挂在室内一角，教练将在那里示范上午新组的练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 90 页 · 第 2430 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d5d635fcdb34",
+    "w": "la esgrima",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "击剑",
+        "en": "fencing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La esgrima atrajo a estudiantes que querían conocer una actividad distinta y aprender junto a los compañeros que ya participaban en las clases del club.",
+        "zh": "击剑吸引想尝试新活动的学生，和已在俱乐部上课的同伴一起学。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2431 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-23099e96b029",
+    "w": "el yudo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柔道",
+        "en": "judo"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El yudo formaba parte de la demostración que los alumnos habían preparado para que sus familias conocieran las actividades que realizaban durante las clases semanales.",
+        "zh": "学生准备柔道展示，让家人了解每周课上的活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2432 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5b59da0eb4e9",
+    "w": "el kárate",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "空手道",
+        "en": "karate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El kárate reunió a participantes de varias edades que seguían las indicaciones de la profesora mientras practicaban una secuencia de movimientos sobre las colchonetas.",
+        "zh": "不同年龄参与者跟老师指示，在垫上练一组空手道动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2433 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-33afb29ecdd1",
+    "w": "el kickboxing",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "踢拳",
+        "en": "kickboxing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El kickboxing aparecía en el horario que consultábamos antes de elegir las actividades a las que podríamos asistir después de terminar nuestra jornada de trabajo.",
+        "zh": "课表列有踢拳，我们据此选下班后可参加的活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2434 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8e129b1f0d39",
+    "w": "el kung fu",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "功夫",
+        "en": "kung fu"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El kung fu despertó el interés de los visitantes que observaban la demostración preparada por los alumnos del centro durante la jornada de puertas abiertas.",
+        "zh": "开放日学生的功夫展示引起游客兴趣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2435 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3bfb62688c1c",
+    "w": "el taekwondo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跆拳道",
+        "en": "taekwondo"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El taekwondo tenía un grupo de iniciación donde los nuevos participantes podían aprender las primeras secuencias junto a compañeros que empezaban el mismo curso.",
+        "zh": "跆拳道入门组让新成员和同期开课的伙伴一起学基本动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2436 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-851b1dc17cf7",
+    "w": "la lucha libre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摔跤运动",
+        "en": "wrestling"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lucha libre formaba parte del programa deportivo que el museo explicaba mediante fotografías de antiguos encuentros celebrados en los clubes de la ciudad.",
+        "zh": "博物馆以本城俱乐部旧赛照片介绍摔跤运动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2437 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6fc8a0759287",
+    "w": "el corredor / la corredora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跑步选手",
+        "en": "runner"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La corredora se acercó a la salida después de saludar a las personas que habían llegado temprano para animarla durante la carrera de aquella mañana.",
+        "zh": "女跑者向早来加油的人致意，再走向早晨赛事的起点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2438 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5f034b93c099",
+    "w": "la carrera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "赛跑",
+        "en": "race"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carrera recorrió varias calles del centro, donde los vecinos esperaban para animar a los participantes que habían llegado desde otros barrios de la ciudad.",
+        "zh": "赛跑穿过市中心街道，居民给从各街区来的选手加油。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2439 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b50c41f6b82e",
+    "w": "el maratón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马拉松",
+        "en": "marathon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El maratón reunió a corredores que habían preparado la prueba durante meses y querían completar el recorrido que atravesaba distintos barrios de la ciudad.",
+        "zh": "马拉松聚集备赛数月的跑者，他们想完成穿越各街区的路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2440 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-31a11e988398",
+    "w": "el esprint",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "短跑",
+        "en": "sprint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El esprint fue una de las pruebas que los estudiantes observaron durante la visita organizada para conocer las actividades del club de atletismo de la localidad.",
+        "zh": "学生参观本地田径俱乐部时，观看的项目包括短跑。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2441 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d022ec12ec59",
+    "w": "la calle",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跑道分道",
+        "en": "lane"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La calle estaba señalada con un número que permitía a cada participante encontrar su lugar antes de que comenzara la prueba de aquella tarde.",
+        "zh": "分道标有号码，参赛者下午开赛前能找到自己的位置。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2442 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6a6b2a4c1532",
+    "w": "la línea de salida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "起跑线",
+        "en": "start line"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La línea de salida estaba rodeada de participantes que esperaban las últimas indicaciones del personal encargado de organizar la carrera por las calles del barrio.",
+        "zh": "街区赛跑起跑线旁聚着参赛者，等工作人员最后说明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2443 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a9f741cc99d9",
+    "w": "la línea de llegada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "终点线",
+        "en": "finish line"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La línea de llegada reunió a las familias que querían saludar a los corredores cuando completaran el recorrido que se había preparado para aquella mañana.",
+        "zh": "家人聚在终点线，等跑者完成上午规划的路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2444 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dd6fb48fb15a",
+    "w": "la prueba",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "预赛",
+        "en": "heat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La prueba reunió a deportistas que buscaban una plaza en la siguiente fase, mientras sus entrenadores observaban la actuación desde un lateral de la pista.",
+        "zh": "预赛选手争取晋级，教练从跑道旁观察表现。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2445 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d14c79920130",
+    "w": "la final",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "决赛",
+        "en": "final"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La final comenzó después de que los participantes fueran presentados al público que había ocupado las gradas para seguir la última prueba de la jornada.",
+        "zh": "向看台观众介绍选手后，决赛开始，也是当天最后一项。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2446 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a3f6f5d1737e",
+    "w": "el triple salto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三级跳远",
+        "en": "triple jump"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El triple salto apareció en la demostración que los atletas prepararon para explicar a los visitantes algunas de las pruebas que practicaban durante la temporada.",
+        "zh": "运动员展示三级跳远，向游客介绍赛季中练习的项目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2447 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c8cf163fd004",
+    "w": "el heptatlón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "七项全能",
+        "en": "heptathlon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El heptatlón figuraba en el programa que consultamos para decidir qué pruebas podríamos observar durante nuestra visita a las instalaciones del club de atletismo.",
+        "zh": "我们看列有七项全能的计划，决定参观田径俱乐部时看什么项目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2448 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-93173f7914ea",
+    "w": "el decatlón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "十项全能",
+        "en": "decathlon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El decatlón interesó a los estudiantes que querían conocer cómo se organizaban las distintas pruebas presentadas en la exposición sobre la historia del atletismo.",
+        "zh": "学生对十项全能感兴趣，想了解田径历史展中的各项目如何安排。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2449 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6effdbbf42d2",
+    "w": "el disparo de salida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "发令枪声",
+        "en": "starter’s gun"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El disparo de salida anunció el comienzo de la carrera mientras los espectadores seguían con atención a los participantes desde las gradas del estadio.",
+        "zh": "发令枪声宣告赛跑开始，体育场看台观众紧盯选手。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2450 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-dc507785f997",
+    "w": "hacer atletismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "练田径",
+        "en": "to do athletics"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Empezamos a hacer atletismo en un grupo donde podíamos conocer distintas pruebas antes de elegir las actividades que más nos interesaba seguir practicando durante el curso.",
+        "zh": "我们在小组里开始练田径，先认识不同项目，再选想继续的。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2451 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9d001492f73e",
+    "w": "correr",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跑",
+        "en": "to run"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los participantes empezaron a correr cuando escucharon la señal que daba comienzo a la actividad organizada por el club para las familias del barrio.",
+        "zh": "信号响起，俱乐部为街区家庭组织的活动开始，参与者跑起来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2452 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3381c166fa20",
+    "w": "echar una carrera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "赛跑",
+        "en": "to race"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los amigos decidieron echar una carrera corta en la pista después de terminar los ejercicios que habían preparado durante la clase de aquella tarde.",
+        "zh": "下午课上练习结束后，朋友决定在跑道短距离赛跑。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2453 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b92f8ff7a8f5",
+    "w": "saltar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳跃",
+        "en": "to jump"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de saltar, la atleta observó las marcas que la entrenadora había colocado para explicar el ejercicio que el grupo practicaría durante aquella sesión de iniciación.",
+        "zh": "跳跃前，女运动员看教练的标记，了解入门课要练的动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2454 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9e047194047e",
+    "w": "lanzar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "投掷",
+        "en": "to throw"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Aprendimos a lanzar durante una actividad en la que el monitor organizaba los turnos para que cada participante pudiera probar el movimiento que acababa de mostrar.",
+        "zh": "指导员示范投掷后安排轮次，让每人尝试动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2455 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-530099780a10",
+    "w": "el atleta / la atleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "田径运动员",
+        "en": "athlete"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La atleta revisó su número antes de dirigirse al lugar donde los oficiales reunían a los participantes que competirían en la siguiente prueba de la jornada.",
+        "zh": "女田径运动员核对号码，再去官员召集下一项目选手的地方。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2456 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d3fb1919ad2f",
+    "w": "el lanzamiento de disco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铁饼投掷",
+        "en": "discus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lanzamiento de disco formaba parte de las pruebas que el guía explicó durante la visita organizada para conocer las instalaciones donde entrenaban los atletas locales.",
+        "zh": "导游带看本地田径训练设施时，介绍了铁饼投掷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2457 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4f1e03753261",
+    "w": "el salto de altura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳高",
+        "en": "high jump"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salto de altura atrajo al público que se acercaba para observar cómo los atletas preparaban sus intentos bajo la mirada de sus entrenadores.",
+        "zh": "观众走近看跳高，选手在教练注视下准备试跳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2458 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-cbeb72099c76",
+    "w": "la carrera de vallas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跨栏跑",
+        "en": "hurdles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carrera de vallas apareció en las fotografías que la profesora utilizó para mostrar la variedad de pruebas que se celebraban en la pista de atletismo.",
+        "zh": "老师用跨栏跑照片，展示田径场举行的各类比赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2459 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-190d32cef70e",
+    "w": "la jabalina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "标枪",
+        "en": "javelin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jabalina estaba sobre un soporte donde el personal había colocado los objetos que utilizaría para explicar las diferentes pruebas de lanzamiento durante la visita.",
+        "zh": "标枪放支架上，工作人员摆好参观时讲投掷项目的器材。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2460 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-0e54b3132408",
+    "w": "el salto de longitud",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "跳远",
+        "en": "long jump"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salto de longitud reunió a participantes que esperaban su turno mientras la entrenadora comentaba los detalles que había observado en los intentos anteriores.",
+        "zh": "跳远选手等候轮次，教练点评此前试跳的细节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 91 页 · 第 2461 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-47bbe2040212",
+    "w": "el salto con pértiga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "撑竿跳高",
+        "en": "pole vault"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El salto con pértiga se veía desde las gradas donde los visitantes escuchaban la explicación que el guía daba sobre las actividades del club de atletismo.",
+        "zh": "看台游客能看到撑竿跳高，同时听导游介绍田径俱乐部活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2462 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b7b3f920df10",
+    "w": "la carrera de relevos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "接力跑",
+        "en": "relay"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carrera de relevos permitió que los equipos mostraran la coordinación que habían practicado durante las sesiones de entrenamiento organizadas antes de la competición del barrio.",
+        "zh": "接力跑展示各队为街区比赛练出的配合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2463 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e5af32339342",
+    "w": "la pista de atletismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "田径跑道",
+        "en": "running track"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pista de atletismo estaba preparada para recibir a los grupos que llegarían durante la mañana para participar en las actividades de la jornada deportiva.",
+        "zh": "田径跑道准备好，迎接上午来参加运动日活动的小组。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2464 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-cedff2c5ebef",
+    "w": "el lanzamiento de peso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "铅球投掷",
+        "en": "shot put"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lanzamiento de peso aparecía en el programa de la exhibición que los deportistas habían preparado para mostrar a los estudiantes distintas actividades del club.",
+        "zh": "运动员为学生展示俱乐部项目，计划包括铅球投掷。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2465 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-a1befc784388",
+    "w": "los tacos de salida",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "起跑器",
+        "en": "starting blocks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los tacos de salida estaban colocados sobre la pista mientras el entrenador explicaba a los visitantes cómo se preparaban los atletas antes de comenzar una carrera.",
+        "zh": "起跑器摆在跑道上，教练向游客解释赛跑前的准备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2466 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-178b3f61d34b",
+    "w": "el cronómetro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "秒表",
+        "en": "stopwatch"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cronómetro estaba en la mano de la entrenadora, que observaba a los corredores mientras completaban el ejercicio previsto para la última parte de la sesión.",
+        "zh": "女教练手拿秒表，看跑者完成训练最后一部分的练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2467 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f311defc1cd7",
+    "w": "las zapatillas para pista de atletismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "田径跑鞋",
+        "en": "track shoes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las zapatillas para pista de atletismo estaban junto a la bolsa donde la deportista había colocado las prendas que necesitaría durante la competición de aquella tarde.",
+        "zh": "田径跑鞋放在包旁，女运动员已装好下午比赛的衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2468 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ef5d789c5205",
+    "w": "el golfista / la golfista",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球手",
+        "en": "golfer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La golfista observó el recorrido mientras su compañera consultaba el plano que habían recibido al llegar al campo para participar en la actividad de aquella mañana.",
+        "zh": "女高尔夫球手看场地，同伴查上午到场参加活动时拿的图。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2469 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-20c151e74e4f",
+    "w": "el caddie / la caddie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球童",
+        "en": "caddie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caddie acompañó a la jugadora mientras ambas comentaban el recorrido que el club había preparado para las personas que participaban en el encuentro de aquella tarde.",
+        "zh": "女球童陪着球员，两人讨论俱乐部下午活动的路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2470 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-95fc591c62b6",
+    "w": "el campo de golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球场",
+        "en": "golf course"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El campo de golf se extendía junto a los árboles que podíamos ver desde la terraza donde nos reunimos antes de comenzar la visita al club.",
+        "zh": "高尔夫球场在树旁延伸，我们参观前在露台能看到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2471 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7e580bb1a6e7",
+    "w": "la calle",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球道",
+        "en": "fairway"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La calle del campo de golf aparecía en el plano que consultábamos para comprender el recorrido antes de acompañar al grupo durante la actividad de la mañana.",
+        "zh": "地图显示高尔夫球道，我们先了解路线再随组参加上午活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2472 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-342ce286de34",
+    "w": "el green",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "果岭",
+        "en": "green"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El green estaba al final de la zona que observábamos desde el camino, donde los visitantes seguían las explicaciones que daba la guía del club.",
+        "zh": "果岭在区域尽头，游客从小路听俱乐部导游讲解。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2473 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4138d42cebb4",
+    "w": "el búnker",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙坑",
+        "en": "bunker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El búnker contrastaba con la hierba del campo mientras los participantes escuchaban la explicación que el instructor había preparado sobre los elementos del recorrido.",
+        "zh": "沙坑与草地形成对比，参与者听指导员介绍场地组成。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2474 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4145d3fe9005",
+    "w": "el hoyo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球洞",
+        "en": "hole"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hoyo estaba señalado por una bandera que podíamos ver desde el camino por el que acompañábamos al grupo durante la visita al campo de golf.",
+        "zh": "球洞插着旗，我们随组参观高尔夫球场时从小路能看到。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2475 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-c120c203819b",
+    "w": "la casa club",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "俱乐部会所",
+        "en": "clubhouse"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La casa club tenía una terraza donde los participantes podían reunirse después de completar el recorrido que habían realizado juntos durante la actividad de aquella mañana.",
+        "zh": "会所有露台，参与者上午走完共同路线后能在那里聚会。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2476 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6266271a7a95",
+    "w": "el swing",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "挥杆动作",
+        "en": "swing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El swing fue el movimiento que la instructora mostró lentamente para que los nuevos participantes pudieran observar sus detalles antes de empezar a practicar durante la sesión.",
+        "zh": "指导员慢慢展示挥杆，让新成员先观察细节再练。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2477 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-834926d6a2db",
+    "w": "el birdie",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小鸟球",
+        "en": "birdie"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El birdie apareció anotado en la tarjeta que la golfista revisaba mientras comentaba con su compañera cómo había transcurrido el recorrido de aquella mañana.",
+        "zh": "女球手一边看记有小鸟球的卡，一边和同伴谈上午行程。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2478 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-65b6ac8b5914",
+    "w": "el hándicap",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "差点",
+        "en": "handicap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hándicap figuraba en la ficha que los participantes consultaron antes de acercarse a la mesa donde el club organizaba los grupos para el encuentro.",
+        "zh": "差点写在资料上，参与者查看后去俱乐部安排分组的桌旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2479 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4560ed700268",
+    "w": "sobre / bajo par",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高于或低于标准杆",
+        "en": "over/under par"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las expresiones «sobre par» y «bajo par» aparecían en el panel que explicaba el vocabulario utilizado durante los encuentros celebrados en el campo de golf.",
+        "zh": "说明板列出“高于标准杆”和“低于标准杆”，介绍高尔夫赛事术语。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2480 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-8d9527a97966",
+    "w": "jugar al golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "打高尔夫",
+        "en": "to play golf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Querían jugar al golf y se apuntaron a una actividad donde podrían conocer el material y practicar junto a otras personas que también empezaban a aprender.",
+        "zh": "他们想打高尔夫，报名了解装备、与其他初学者一起练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2481 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ef85d533869b",
+    "w": "dar el primer golpe",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "开球",
+        "en": "to tee off"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de dar el primer golpe, la jugadora observó la zona que tenía delante mientras su compañera esperaba a unos pasos del lugar de salida.",
+        "zh": "开球前，女球员观察前方区域，同伴在出发处几步外等。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2482 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-b50fbd7e498a",
+    "w": "la bolsa de golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球包",
+        "en": "golf bag"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La bolsa de golf estaba junto al banco donde los participantes habían dejado sus cosas antes de escuchar la explicación que daba la instructora sobre la actividad.",
+        "zh": "高尔夫球包在凳旁，参与者放好东西，听指导员讲活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2483 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-33f20ba7d71b",
+    "w": "la pelota de golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球",
+        "en": "golf ball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pelota de golf quedó sobre la hierba mientras la jugadora elegía el palo que utilizaría para continuar el recorrido con sus compañeros del club.",
+        "zh": "高尔夫球停在草上，女球员选杆，准备和俱乐部同伴继续。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2484 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-d3bed87c810c",
+    "w": "el carrito de golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球车",
+        "en": "golf buggy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El carrito de golf estaba junto a la entrada donde los visitantes se reunían antes de recorrer las instalaciones acompañados por el personal del club.",
+        "zh": "高尔夫球车停入口旁，游客集合等工作人员带看设施。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2485 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f221200bbe7d",
+    "w": "el palo de golf",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高尔夫球杆",
+        "en": "golf club"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El palo de golf estaba apoyado junto a la bolsa mientras la instructora explicaba el movimiento que los participantes practicarían durante la primera parte de la clase.",
+        "zh": "高尔夫球杆靠球包，指导员讲课程第一部分要练的动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2486 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-ca2c794f4894",
+    "w": "el putter",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "推杆",
+        "en": "putter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El putter estaba entre los palos que la monitora había colocado sobre la mesa para mostrar el material a los visitantes que empezaban la actividad.",
+        "zh": "推杆在指导员桌上摆的球杆中，她向活动新手介绍装备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2487 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-cd720d68a36c",
+    "w": "el tee",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "球座",
+        "en": "tee"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tee quedó junto a las pelotas que habíamos preparado para la demostración que la instructora realizaría antes de que comenzaran los ejercicios del grupo.",
+        "zh": "球座放在准备的球旁，指导员先示范，再让小组练习。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 92 页 · 第 2488 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-4e772b45e93d",
+    "w": "el fútbol americano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "美式橄榄球",
+        "en": "American football"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fútbol americano aparecía en la exposición que comparaba distintos deportes de equipo mediante fotografías del material y de los espacios donde se practicaban.",
+        "zh": "比较团队运动的展览以装备和场地照片介绍美式橄榄球。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2489 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-9503fd09ab99",
+    "w": "el tiro con arco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "射箭",
+        "en": "archery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tiro con arco fue una de las actividades que pudimos conocer durante la jornada que el centro había organizado para las familias del barrio.",
+        "zh": "体育中心街区家庭活动日，我们了解的项目之一是射箭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2490 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-f37b9b7b891c",
+    "w": "el béisbol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "棒球",
+        "en": "baseball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El béisbol interesó a los estudiantes que observaban las fotografías y los objetos reunidos en la sala donde el museo explicaba diferentes deportes de equipo.",
+        "zh": "学生看博物馆团队运动展厅的照片和物品，对棒球感兴趣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2491 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-cccb212326bc",
+    "w": "la carambola",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "开伦台球",
+        "en": "carom billiards"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carambola figuraba entre los juegos que el club presentaba mediante demostraciones organizadas para que los visitantes conocieran las actividades disponibles durante el curso.",
+        "zh": "俱乐部以展示介绍学期活动，开伦台球是其中一项。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2492 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-e81802c2874d",
+    "w": "la escalada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "攀岩",
+        "en": "climbing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La escalada reunía a participantes que escuchaban las indicaciones del monitor antes de comenzar la actividad que habían reservado para compartir con sus amigos del barrio.",
+        "zh": "攀岩参与者先听指导员说明，再和街区朋友开始预约活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2493 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-2f7a80ab92b4",
+    "w": "la pesca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "钓鱼运动",
+        "en": "fishing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pesca aparecía en las fotografías que mostraban las actividades realizadas por los vecinos durante los encuentros organizados junto al río a lo largo del año.",
+        "zh": "河边一年间居民聚会的活动照片中，有钓鱼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2494 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-aba0671c154c",
+    "w": "la gimnasia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "体操",
+        "en": "gymnastics"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La gimnasia formaba parte de la exhibición que los estudiantes preparaban para mostrar a sus familias lo que habían aprendido durante las clases del trimestre.",
+        "zh": "学生准备体操展示，向家人展示本季度课上所学。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2495 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-7e9c6e33faee",
+    "w": "el balonmano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "手球",
+        "en": "handball"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El balonmano reunió a dos equipos que habían compartido las sesiones de preparación antes de participar en el encuentro organizado por el centro deportivo del barrio.",
+        "zh": "两个共同备赛的队参加街区体育中心组织的手球比赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2496 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-6f35da805661",
+    "w": "el hockey",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "曲棍球",
+        "en": "hockey"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hockey tenía un espacio propio en la jornada deportiva, donde los visitantes podían observar el material y conocer las actividades que organizaban los clubes locales.",
+        "zh": "运动日设曲棍球区，游客看装备、了解本地俱乐部活动。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2497 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-3e45fd33796f",
+    "w": "las carreras de caballos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "赛马",
+        "en": "horse racing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las carreras de caballos aparecían en las imágenes antiguas que el museo conservaba para explicar cómo habían cambiado los encuentros deportivos de la localidad durante el siglo pasado.",
+        "zh": "博物馆保存赛马旧照，介绍上世纪本地体育活动的变化。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2498 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-400f48c9b165",
+    "w": "el hockey sobre hielo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰球",
+        "en": "ice hockey"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El hockey sobre hielo atrajo a espectadores que querían conocer la pista y observar cómo se preparaban los equipos antes de comenzar el encuentro de aquella tarde.",
+        "zh": "冰球吸引观众来认识场地、看球队为下午赛事作准备。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2499 条；自编例句 B1–B2",
+    "m": 0
+  },
+  {
+    "id": "book-5663123a9299",
+    "w": "las carreras de motociclismo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摩托车竞赛",
+        "en": "motorcycle racing"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las carreras de motociclismo formaban parte de la exposición donde se mostraban vehículos y fotografías de las competiciones que habían tenido lugar en la región durante años anteriores.",
+        "zh": "展览陈列赛车及本地区往年比赛照片，其中有摩托车竞赛。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-6",
+    "exampleLevel": "B1–B2",
+    "note": "Collins Spanish 3000 · 原书第 93 页 · 第 2500 条；自编例句 B1–B2",
+    "m": 0
+  }
+]

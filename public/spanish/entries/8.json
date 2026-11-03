@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-65c8e05dc859",
+    "w": "el cucharón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汤勺",
+        "en": "ladle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Sirvo la sopa con el cucharón mientras los demás colocan los platos sobre la mesa.",
+        "zh": "我用汤勺盛汤，其他人把盘子摆上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 32 页 · 第 801 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7a3839a5d929",
+    "w": "la jarra medidora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "量杯",
+        "en": "measuring jug"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jarra medidora nos ayuda a preparar la cantidad de leche que indica la receta del pastel.",
+        "zh": "量杯帮我们量出蛋糕配方所需的牛奶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 32 页 · 第 802 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-735b61b0e387",
+    "w": "el recipiente para mezclar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "搅拌碗",
+        "en": "mixing bowl"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El recipiente para mezclar es bastante grande para reunir todos los ingredientes que hemos preparado.",
+        "zh": "搅拌碗足够大，可以装下准备好的全部食材。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 803 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-101df9b53e59",
+    "w": "la paellera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西班牙海鲜饭锅",
+        "en": "paella pan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La paellera está en el centro de la mesa y todos esperan para probar el arroz.",
+        "zh": "海鲜饭锅放在桌子中间，大家等着品尝米饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 804 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-716e8f940344",
+    "w": "el pelador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "削皮器",
+        "en": "peeler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Con el pelador preparo las zanahorias que mi hermana va a añadir a la ensalada.",
+        "zh": "我用削皮器处理胡萝卜，姐妹准备把它加入沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 805 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ee4fefb2773f",
+    "w": "la olla exprés",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "高压锅",
+        "en": "pressure cooker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La olla exprés está guardada en el armario donde colocamos los utensilios que ocupan más espacio.",
+        "zh": "高压锅收在柜子里，那里放着较占空间的厨具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 806 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-19228712d82f",
+    "w": "el rodillo de cocina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "擀面杖",
+        "en": "rolling pin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El rodillo de cocina está junto a la masa que hemos preparado para hacer galletas.",
+        "zh": "擀面杖放在我们准备做饼干的面团旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 807 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-322c62e9780c",
+    "w": "el cazo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小煮锅",
+        "en": "saucepan"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el cazo calentamos la salsa que vamos a servir con las verduras de la cena.",
+        "zh": "我们在小煮锅里加热晚饭蔬菜要搭配的酱汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 808 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6cfd2611f26e",
+    "w": "el tamiz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "筛子",
+        "en": "sieve"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Paso la harina por el tamiz antes de añadirla al recipiente donde están los otros ingredientes.",
+        "zh": "我先筛面粉，再把它加入装着其他食材的碗里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 809 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-5f6d57a97977",
+    "w": "la espátula",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "锅铲",
+        "en": "spatula"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espátula de madera está junto a la sartén que utilizamos para preparar la tortilla.",
+        "zh": "木锅铲放在我们做鸡蛋饼的煎锅旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 810 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3b1829bfd968",
+    "w": "el abrelatas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "开罐器",
+        "en": "tin opener"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Buscamos el abrelatas en el cajón donde solemos guardar los utensilios pequeños de la cocina.",
+        "zh": "我们在平时存放厨房小工具的抽屉里找开罐器。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 811 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-bac7a9b7ec57",
+    "w": "el batidor de varillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "打蛋器",
+        "en": "whisk"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El batidor de varillas queda dentro del cuenco donde acabamos de mezclar los huevos con el azúcar.",
+        "zh": "打蛋器留在我们刚搅拌鸡蛋和糖的碗里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 812 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7bc710a159ab",
+    "w": "el wok",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "炒锅",
+        "en": "wok"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preparamos las verduras en el wok mientras el arroz termina de cocinarse en otra olla.",
+        "zh": "米饭还在另一口锅里煮，我们同时用炒锅做蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 813 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-dcf00b2e32d9",
+    "w": "la cuchara de madera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "木勺",
+        "en": "wooden spoon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Remuevo la mezcla con una cuchara de madera para repartir bien los ingredientes dentro del recipiente.",
+        "zh": "我用木勺搅拌，让容器里的食材混合均匀。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 814 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-bb5d98e97e89",
+    "w": "el fregadero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "厨房水槽",
+        "en": "the kitchen sink"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos los platos junto al fregadero antes de recoger los vasos que quedan en la mesa.",
+        "zh": "我们把盘子放在水槽旁，再去收桌上剩下的杯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 815 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-487862e12fbf",
+    "w": "el horno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烤箱",
+        "en": "oven"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El horno tiene una puerta de cristal que permite ver cómo va cambiando de color el pastel.",
+        "zh": "烤箱有一扇玻璃门，可以看蛋糕慢慢变色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 816 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-78648d91db2a",
+    "w": "la placa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "炉灶面板",
+        "en": "hob"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La placa está junto a la ventana que abrimos cuando necesitamos ventilar después de cocinar.",
+        "zh": "炉灶面板旁是窗户，做饭后需要通风时我们会打开它。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 817 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ba00aaaf293a",
+    "w": "el horno microondas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "微波炉",
+        "en": "microwave"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El horno microondas ocupa un estante que queda a una altura cómoda para toda la familia.",
+        "zh": "微波炉放在一个全家都容易够到的架子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 818 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7e51e70a4007",
+    "w": "el foco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "射灯",
+        "en": "spotlight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El foco ilumina la zona de la encimera donde solemos cortar los ingredientes antes de cocinar.",
+        "zh": "射灯照亮台面上我们做饭前常切食材的区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 819 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-745043147540",
+    "w": "el frigorífico combi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冷藏冷冻组合冰箱",
+        "en": "fridge-freezer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El frigorífico combi tiene un congelador inferior donde guardamos la comida que no vamos a usar pronto.",
+        "zh": "组合冰箱下部的冷冻室存放近期不用的食物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 820 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-352949f92de0",
+    "w": "el armario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橱柜",
+        "en": "cupboard"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El armario de la cocina tiene varios estantes donde organizamos los platos según su tamaño.",
+        "zh": "厨房橱柜有几层架子，我们按大小摆放盘子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 821 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-90eafae26f48",
+    "w": "el grifo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水龙头",
+        "en": "tap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El grifo del fregadero está debajo de una ventana desde la que podemos ver el jardín.",
+        "zh": "水槽龙头上方是一扇能看到花园的窗户。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 822 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-78aea445979f",
+    "w": "el escurridor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沥水台",
+        "en": "draining board"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos los platos limpios en el escurridor para dejar libre la zona de trabajo de la cocina.",
+        "zh": "我们把洗好的盘子放到沥水台，空出厨房操作区域。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 823 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8b8d845b1e4e",
+    "w": "el cajón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "抽屉",
+        "en": "drawer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el primer cajón guardamos los cubiertos que usamos todos los días para comer en familia.",
+        "zh": "第一个抽屉放着全家每天吃饭用的餐具。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 824 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0a03806370eb",
+    "w": "la encimera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "厨房台面",
+        "en": "worktop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La encimera es amplia y permite que dos personas preparen la comida al mismo tiempo.",
+        "zh": "厨房台面宽敞，可容两个人同时备餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 825 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c97e91009773",
+    "w": "los azulejos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "瓷砖",
+        "en": "tiles"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los azulejos de la cocina tienen un diseño sencillo que combina con las puertas de los armarios.",
+        "zh": "厨房瓷砖图案简洁，与橱柜门相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 826 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-30fa1fb454e0",
+    "w": "la mesa de comedor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐桌",
+        "en": "dining table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mesa de comedor se puede ampliar cuando vienen nuestros amigos y necesitamos más sitio para sentarnos.",
+        "zh": "朋友来时，餐桌可以展开，让更多人坐下。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 827 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c1054293a931",
+    "w": "el mantelito individual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐垫",
+        "en": "place mat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ponemos un mantelito individual delante de cada silla antes de colocar los platos que vamos a utilizar.",
+        "zh": "我们先在每把椅子前放餐垫，再摆盘子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 828 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4023c159120b",
+    "w": "el posavasos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "杯垫",
+        "en": "coaster"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejo el vaso sobre un posavasos para evitar que la humedad marque la mesa de madera del salón.",
+        "zh": "我把杯子放在杯垫上，避免水汽在客厅木桌上留下印迹。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 829 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-18c8bdd3816c",
+    "w": "la vajilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐具瓷器",
+        "en": "crockery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La vajilla que usamos los domingos tiene un dibujo azul que mi abuela eligió hace muchos años.",
+        "zh": "周日用的餐具上有祖母多年前选的蓝色图案。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 830 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ed18595eac10",
+    "w": "los cubiertos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刀叉勺餐具",
+        "en": "cutlery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos los cubiertos junto a los platos mientras la comida termina de prepararse en la cocina.",
+        "zh": "饭菜还在厨房做，我们把刀叉勺放在盘子旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 831 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-c5daa44ba08a",
+    "w": "la cristalería",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玻璃器皿",
+        "en": "glassware"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cristalería ocupa la parte superior del aparador y la sacamos cuando celebramos comidas especiales.",
+        "zh": "玻璃器皿放在餐边柜上部，特别聚餐时才拿出来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 832 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f6b1c3f0487f",
+    "w": "poner la mesa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "摆餐桌",
+        "en": "to set the table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los niños nos ayudan a poner la mesa mientras nosotros terminamos de preparar la ensalada de la cena.",
+        "zh": "孩子们帮忙摆餐桌，我们继续准备晚饭沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 833 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6a2c1379d6b7",
+    "w": "cenar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "吃晚饭",
+        "en": "to dine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preferimos cenar un poco antes cuando al día siguiente tenemos que levantarnos para viajar temprano.",
+        "zh": "如果第二天得早起出行，我们更愿意早点吃晚饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 834 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-a33d90d29f33",
+    "w": "recoger la mesa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "收拾餐桌",
+        "en": "to clear the table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Después de recoger la mesa nos sentamos un rato en el salón para seguir hablando con nuestros invitados.",
+        "zh": "收拾餐桌后，我们到客厅坐一会儿，继续和客人交谈。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 33 页 · 第 835 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ca5850bf45a8",
+    "w": "la salsera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "调味汁壶",
+        "en": "gravy boat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La salsera está junto al plato principal para que cada persona añada la cantidad de salsa que prefiera.",
+        "zh": "调味汁壶放在主菜旁，每个人可以按喜好加酱汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 836 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-d106599cd995",
+    "w": "la servilleta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "餐巾",
+        "en": "napkin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La servilleta de tela está doblada sobre el plato que hemos colocado delante de cada invitado.",
+        "zh": "每位客人面前的盘子上都放着折好的布餐巾。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 837 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-a914e1961dd5",
+    "w": "el molinillo de pimienta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胡椒研磨器",
+        "en": "pepper mill"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pasamos el molinillo de pimienta a quien quiere dar un poco más de sabor a su plato.",
+        "zh": "有人想给菜多添点味道，我们就把胡椒研磨器递给他。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 838 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-db62dcd5d932",
+    "w": "la ensaladera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "沙拉碗",
+        "en": "salad bowl"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ensaladera contiene las verduras que hemos lavado y cortado mientras se preparaba el plato principal.",
+        "zh": "沙拉碗里装着我们在做主菜时洗好、切好的蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 839 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b0d83001de82",
+    "w": "el molinillo de sal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "盐研磨器",
+        "en": "salt cellar"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El molinillo de sal está junto al de pimienta, en el centro de la mesa donde vamos a cenar.",
+        "zh": "盐研磨器和胡椒研磨器一起放在晚餐桌中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 840 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-97a6b3874bb4",
+    "w": "la fuente de servir",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大菜盘",
+        "en": "serving dish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Colocamos las verduras en la fuente de servir antes de llevarlas a la mesa donde esperan los invitados.",
+        "zh": "我们把蔬菜装进大菜盘，再端到客人等候的餐桌上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 841 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-adf82d1ee356",
+    "w": "el cuenco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "碗",
+        "en": "bowl"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cuenco de cerámica es perfecto para la sopa que solemos preparar durante las noches de invierno.",
+        "zh": "这只陶碗很适合盛我们冬夜常做的汤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 842 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-6a83579862bb",
+    "w": "la copa de cava",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香槟杯",
+        "en": "champagne flute"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las copas de cava están sobre la mesa que hemos preparado para celebrar el aniversario de mis padres.",
+        "zh": "为庆祝父母结婚纪念日，我们准备的餐桌上摆着香槟杯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 843 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-17b6cf2051d0",
+    "w": "la taza y el platillo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "茶杯和杯碟",
+        "en": "cup and saucer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La taza y el platillo forman parte de un juego que utilizamos cuando vienen nuestros abuelos a merendar.",
+        "zh": "茶杯和杯碟是一套餐具的一部分，祖父母来吃点心时会用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 844 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b521f7e2a998",
+    "w": "el cuchillo y el tenedor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刀和叉",
+        "en": "knife and fork"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cuchillo y el tenedor están colocados a los lados del plato que corresponde a cada comensal.",
+        "zh": "每位用餐者的盘子两侧都摆着刀和叉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 845 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ff22ec3df76d",
+    "w": "el plato",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "盘子",
+        "en": "plate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este plato es más hondo que los demás y nos sirve para las comidas que llevan bastante salsa.",
+        "zh": "这个盘子比别的更深，适合盛酱汁多的菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 846 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8a6337eed7c0",
+    "w": "la cuchara",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "汤匙",
+        "en": "spoon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Con la cuchara pruebo un poco de sopa antes de llevar el resto a la mesa del comedor.",
+        "zh": "我用汤匙尝一点汤，再把剩下的端去餐厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 847 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0cd634d23e9c",
+    "w": "la cucharilla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "茶匙",
+        "en": "teaspoon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos una cucharilla junto a cada taza para que los invitados puedan remover el té o el café.",
+        "zh": "每个杯子旁都放一把茶匙，方便客人搅拌茶或咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 848 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-897964d868c2",
+    "w": "el vaso",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水杯",
+        "en": "tumbler"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vaso está lleno de agua fresca que hemos traído de la cocina para acompañar la comida.",
+        "zh": "杯里盛着我们从厨房拿来的凉水，用来佐餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 849 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-91717cf8f9f7",
+    "w": "la copa de vino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "葡萄酒杯",
+        "en": "wine glass"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La copa de vino refleja la luz de la ventana que da al pequeño jardín de la casa.",
+        "zh": "葡萄酒杯映着朝向屋外小花园的窗户透来的光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 850 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-70474bc80c8d",
+    "w": "la cama individual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "单人床",
+        "en": "single bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cama individual deja espacio suficiente para colocar un escritorio junto a la ventana del dormitorio.",
+        "zh": "放了单人床后，卧室窗边仍有足够空间放书桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 851 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-ac2dd7f2a7bb",
+    "w": "la cama de matrimonio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双人床",
+        "en": "double bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cama de matrimonio está situada frente al armario donde guardamos la ropa que usamos a diario.",
+        "zh": "双人床对着衣柜，柜里放着日常衣物。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 852 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-1dd5a8ecd899",
+    "w": "la cama nido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "抽拉床",
+        "en": "truckle bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cama nido permite alojar a dos personas sin ocupar demasiado espacio durante el resto del día.",
+        "zh": "抽拉床能住两个人，白天收起来又不占太多空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 853 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e29d10daeeca",
+    "w": "las literas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上下铺",
+        "en": "bunk beds"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las literas están en la habitación que comparten los niños cuando pasamos las vacaciones en el pueblo.",
+        "zh": "孩子们回村里度假时共用的房间里放着上下铺。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 854 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-9b0f7f0d4eed",
+    "w": "la ropa de cama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床上用品",
+        "en": "bedding"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ropa de cama limpia está guardada en el estante que hay sobre los cajones del armario.",
+        "zh": "干净的床上用品放在衣柜抽屉上方的架子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 855 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-109b1a360523",
+    "w": "el dormitorio principal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "主卧室",
+        "en": "master bedroom"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El dormitorio principal tiene una ventana amplia que recibe luz durante casi toda la mañana.",
+        "zh": "主卧有一扇大窗，上午大部分时间都采光充足。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 856 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f56864de62e3",
+    "w": "el cuarto de invitados",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "客房",
+        "en": "spare bedroom"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Preparamos el cuarto de invitados porque mis primos van a quedarse con nosotros durante el fin de semana.",
+        "zh": "表亲们周末要来住，所以我们准备好客房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 857 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-5e09a6a89803",
+    "w": "el baño integrado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "套内浴室",
+        "en": "en-suite bathroom"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El baño integrado comunica directamente con el dormitorio y tiene una ducha junto a la ventana.",
+        "zh": "套内浴室直接连着卧室，窗边有淋浴。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 858 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b3aa5a95c201",
+    "w": "la habitación del bebé",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "婴儿房",
+        "en": "nursery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La habitación del bebé tiene colores suaves y un sillón donde nos sentamos para leer cuentos.",
+        "zh": "婴儿房色调柔和，有一把我们坐着读故事的扶手椅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 859 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f2a7a473d4d5",
+    "w": "irse a la cama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上床睡觉",
+        "en": "to go to bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de irnos a la cama solemos preparar la ropa que vamos a necesitar a la mañana siguiente.",
+        "zh": "睡前我们通常准备好第二天早上要穿的衣服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 860 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4a163dc69694",
+    "w": "dormir",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "睡觉",
+        "en": "to sleep"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Intento dormir un poco más durante el fin de semana para descansar después de una semana de trabajo.",
+        "zh": "一周工作之后，我想在周末多睡一会儿休息。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 861 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-bdcdb87aad29",
+    "w": "despertarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "醒来",
+        "en": "to wake up"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Al despertarme miro por la ventana para ver qué tiempo hace antes de decidir cómo ir al trabajo.",
+        "zh": "醒来后，我先看窗外天气，再决定怎么去上班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 862 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-a402981e8066",
+    "w": "hacer la cama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "整理床铺",
+        "en": "to make the bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hacemos la cama después de ventilar el dormitorio y antes de empezar las tareas que tenemos previstas.",
+        "zh": "通风后，我们整理好床铺，再开始计划中的事情。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 863 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-acfe0a264afd",
+    "w": "cambiar las sábanas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "换床单",
+        "en": "to change the sheets"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hoy vamos a cambiar las sábanas del cuarto donde durmieron nuestros amigos durante el fin de semana.",
+        "zh": "今天我们要给周末朋友住过的房间换床单。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 34 页 · 第 864 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-991f29308875",
+    "w": "la manta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "毯子",
+        "en": "blanket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La manta que guardamos al pie de la cama nos resulta útil cuando refresca durante la madrugada.",
+        "zh": "床尾收着的毯子在凌晨转凉时很有用。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 865 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e3767c8901e8",
+    "w": "la radio despertador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "收音机闹钟",
+        "en": "clock radio"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La radio despertador se enciende a la hora que elegimos para empezar la mañana escuchando las noticias.",
+        "zh": "收音机闹钟到设定时间就打开，让我们听着新闻开始新一天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 866 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-0fd3c8a9060a",
+    "w": "la percha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "衣架",
+        "en": "coat hanger"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada percha tiene espacio suficiente para colgar una chaqueta sin que quede demasiado pegada a las demás.",
+        "zh": "每个衣架都能挂一件外套，不至于和其他衣服挤在一起。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 867 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-610daf30a50c",
+    "w": "el tocador",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "梳妆台",
+        "en": "dressing table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tocador está junto a la ventana y tiene un espejo que refleja la luz de la mañana.",
+        "zh": "梳妆台在窗边，镜子映着晨光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 868 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-254fb5a15526",
+    "w": "la cesta de la ropa sucia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脏衣篮",
+        "en": "laundry basket"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cesta de la ropa sucia está detrás de la puerta para no ocupar espacio en el paso.",
+        "zh": "脏衣篮放在门后，不占通行空间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 869 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4da257880ccd",
+    "w": "los visillos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "纱帘",
+        "en": "net curtains"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los visillos dejan entrar la luz, pero hacen más difícil ver el interior de la habitación desde fuera.",
+        "zh": "纱帘让光透进来，又让外面不容易看清室内。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 870 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-cda9a250c118",
+    "w": "el edredón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "棉被",
+        "en": "quilt"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El edredón que usamos en invierno es más grueso que el que guardamos para los meses de verano.",
+        "zh": "冬天用的被子比夏天备着的那床厚。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 871 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3c2bc4ac9dac",
+    "w": "las sábanas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床单",
+        "en": "sheets"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las sábanas que tendimos esta mañana ya están secas y podemos doblarlas antes de guardarlas en el armario.",
+        "zh": "早上晾的床单干了，我们可以先折好再放进衣柜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 872 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-3237b76ea557",
+    "w": "el espejo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卧室镜子",
+        "en": "mirror"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El espejo del dormitorio está colocado junto al armario para comprobar cómo nos queda la ropa.",
+        "zh": "卧室镜子放在衣柜旁，方便看衣服穿得是否合适。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 873 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-486b7c0e676a",
+    "w": "la cómoda",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "五斗柜",
+        "en": "chest of drawers"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cómoda tiene varios cajones donde organizamos la ropa pequeña para encontrarla sin perder demasiado tiempo.",
+        "zh": "五斗柜的几个抽屉分放着小件衣物，找起来省时间。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 874 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-08e37060992a",
+    "w": "la cama",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床",
+        "en": "bed"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cama está cerca de una ventana desde la que se ven los árboles del jardín de los vecinos.",
+        "zh": "床靠近窗户，从那里能看见邻居花园的树。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 875 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-8f74e8f4d55b",
+    "w": "el armario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "衣柜",
+        "en": "wardrobe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El armario del dormitorio tiene puertas corredizas que permiten abrirlo aunque haya poco espacio delante.",
+        "zh": "卧室衣柜用滑动门，即使前面空间小也能打开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 876 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-286e0bc21e6c",
+    "w": "el edredón nórdico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羽绒被；被芯",
+        "en": "duvet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El edredón nórdico lleva una funda que podemos quitar para lavarla cuando cambiamos la ropa de cama.",
+        "zh": "羽绒被套着被套，换床上用品时可以拆下来洗。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 877 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-62e2b51fca90",
+    "w": "las cortinas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "窗帘",
+        "en": "curtains"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cerramos las cortinas del dormitorio para evitar que la luz de la calle nos moleste al dormir.",
+        "zh": "我们拉上卧室窗帘，避免街灯影响睡眠。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 878 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-91e98f235506",
+    "w": "el sillón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "扶手椅",
+        "en": "armchair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sillón del dormitorio está junto a una mesa pequeña donde dejamos el libro que estamos leyendo.",
+        "zh": "卧室扶手椅旁有一张小桌，放着正在读的书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 879 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-d3e5f90cef2f",
+    "w": "la alfombra",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "地毯",
+        "en": "rug"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La alfombra cubre la parte del suelo que queda al lado de la cama y resulta agradable al levantarse.",
+        "zh": "地毯铺在床边地面，起床踩上去很舒服。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 880 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-1d90efe996ad",
+    "w": "la lámpara de mesilla de noche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床头灯",
+        "en": "bedside lamp"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lámpara de mesilla de noche permite leer un rato sin encender la luz principal del dormitorio.",
+        "zh": "床头灯让我们不用开卧室主灯也能读一会儿书。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 881 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7223f93bcfb8",
+    "w": "la almohada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "枕头",
+        "en": "pillow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta almohada es más blanda que la otra que solemos guardar para las personas que vienen de visita.",
+        "zh": "这个枕头比我们平时留给客人用的那个更软。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 882 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-a372fe6085b3",
+    "w": "el colchón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床垫",
+        "en": "mattress"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Probamos el colchón antes de decidir si es el adecuado para la cama que acabamos de comprar.",
+        "zh": "我们先试床垫，再决定它是否适合刚买的床。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 883 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-f4c34f0f5805",
+    "w": "la mesilla de noche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "床头柜",
+        "en": "bedside table"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la mesilla de noche dejo el teléfono y el vaso de agua que preparo antes de acostarme.",
+        "zh": "睡前，我把手机和备好的水杯放在床头柜上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 884 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-102500ee1146",
+    "w": "la cortina de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浴帘",
+        "en": "shower curtain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cortina de baño está extendida para proteger el resto del cuarto de las salpicaduras de la ducha.",
+        "zh": "浴帘展开着，挡住淋浴时飞溅到其他地方的水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 885 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-e3a0aa058de9",
+    "w": "el asiento de retrete",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马桶座圈",
+        "en": "toilet seat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El asiento de retrete es blanco y combina con los otros elementos que hay en el cuarto de baño.",
+        "zh": "白色马桶座圈与浴室里的其他设施相配。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 886 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-291a75767596",
+    "w": "la cisterna",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "马桶水箱",
+        "en": "flush"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cisterna está detrás del retrete y tiene un botón situado en la parte superior de la tapa.",
+        "zh": "水箱位于马桶后面，盖子上方有一个按钮。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 887 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-320d1e3bac65",
+    "w": "el sumidero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "排水口",
+        "en": "drain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sumidero está en la parte más baja del suelo para recoger el agua que cae durante la ducha.",
+        "zh": "排水口位于地面最低处，收集淋浴时落下的水。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 888 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-7f0dd95af3ab",
+    "w": "ducharse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "淋浴",
+        "en": "to shower"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Prefiero ducharme por la mañana porque así me siento más despierto antes de empezar a trabajar.",
+        "zh": "我更喜欢早上淋浴，这样上班前感觉更清醒。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 889 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b5193273fab6",
+    "w": "bañarse",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "泡澡",
+        "en": "to have a bath"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Después de una excursión larga me gusta bañarme y descansar un rato antes de preparar la cena.",
+        "zh": "长途远足后，我喜欢泡澡、休息一会儿再做晚饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 890 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-b4192e994bb9",
+    "w": "lavarse las manos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "洗手",
+        "en": "to wash one’s hands"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos lavamos las manos al volver del mercado y antes de empezar a preparar la comida del domingo.",
+        "zh": "从市场回来后、准备周日午餐前，我们先洗手。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 891 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-38997a4ff7bd",
+    "w": "cepillarse los dientes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "刷牙",
+        "en": "to brush one’s teeth"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los niños se cepillan los dientes mientras nosotros terminamos de ordenar las cosas que van a llevar al colegio.",
+        "zh": "孩子们刷牙时，我们继续整理他们上学要带的东西。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 892 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-92c4b48acd0b",
+    "w": "ir al servicio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上厕所",
+        "en": "to go to the toilet"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de salir hacia la estación preguntamos si alguien necesita ir al servicio para no tener que parar después.",
+        "zh": "去车站前，我们问是否有人要上厕所，免得之后再停车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 35 页 · 第 893 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-05ea0935ef59",
+    "w": "la alfombrilla de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浴室地垫",
+        "en": "bath mat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La alfombrilla de baño está frente a la ducha y la cambiamos cuando queda demasiado mojada.",
+        "zh": "浴室地垫放在淋浴前，太湿时我们就换掉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 894 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-948e94a6c049",
+    "w": "la toalla de baño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浴巾",
+        "en": "bath towel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La toalla de baño está colgada cerca de la ducha para poder cogerla al terminar.",
+        "zh": "浴巾挂在淋浴旁，洗完后方便拿取。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 895 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-484060a699b1",
+    "w": "la toalla de mano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "擦手巾",
+        "en": "hand towel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos una toalla de mano limpia junto al lavabo antes de que lleguen los invitados a cenar.",
+        "zh": "客人来吃晚饭前，我们在洗手池旁放一条干净的擦手巾。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 896 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-41c3018b31de",
+    "w": "la esponja de malla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浴球",
+        "en": "shower puff"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La esponja de malla cuelga junto al grifo de la ducha y se seca después de cada uso.",
+        "zh": "浴球挂在淋浴龙头旁，每次使用后晾干。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 897 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-4006848f92eb",
+    "w": "el jabón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肥皂",
+        "en": "soap"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jabón que usamos para lavarnos las manos está en una jabonera colocada junto al lavabo.",
+        "zh": "洗手用的肥皂放在洗手池旁的皂盒里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 898 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-d2df7f1120fe",
+    "w": "la jabonera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "皂盒",
+        "en": "soap dish"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La jabonera tiene pequeños agujeros que permiten salir al agua y mantienen el jabón menos húmedo.",
+        "zh": "皂盒有小孔排水，让肥皂不那么潮湿。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 899 条；自编例句 B1",
+    "m": 1
+  },
+  {
+    "id": "book-02a2c5395731",
+    "w": "la esponja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "海绵",
+        "en": "sponge"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La esponja está junto a los productos de baño que ordenamos en un estante al lado de la ducha.",
+        "zh": "海绵和洗浴用品一起，摆在淋浴旁的架子上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-2",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 36 页 · 第 900 条；自编例句 B1",
+    "m": 1
+  }
+]

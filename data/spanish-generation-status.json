@@ -1,0 +1,23 @@
+{
+  "status": "quota_reached",
+  "quotaReached": true,
+  "publishedEntries": 3214,
+  "stagedImages": 0,
+  "nextBatch": 13,
+  "nextBatchRange": "1201–1300",
+  "nextMissingImageOrdinal": 1236,
+  "contextReviewOrdinals": [],
+  "note": "All prepared text is available; images are integrated independently with media flags. Use integrate-ready-spanish.mjs for future saved images. Existing dataset ID is preserved.",
+  "updatedAt": "2026-11-03T01:18:43.860Z",
+  "resumedAt": "2026-11-02T02:47:10.081Z",
+  "savedImageRecords": 1374,
+  "preparedExampleEntries": 3214,
+  "totalEntries": 3214,
+  "remainingImageEntries": 1640,
+  "quotaError": "HTTP429 usage_limit_reached",
+  "quotaResetsAt": "2026-11-03T05:53:05.000Z",
+  "newImagesThisTurn": 588,
+  "activeWorkers": 0,
+  "integratedImages": 1574,
+  "lastQuotaCheckAt": "2026-11-03T02:49:09.566Z"
+}

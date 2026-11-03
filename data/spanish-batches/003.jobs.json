@@ -1,0 +1,602 @@
+[
+  {
+    "id": "book-864693c1a72d",
+    "word": "hoy",
+    "example": "Hoy trabajo en casa y como con mi familia.",
+    "zh": "今天我在家办公，和家人一起吃饭。"
+  },
+  {
+    "id": "book-2ee5d40baa88",
+    "word": "esta noche",
+    "example": "Esta noche cenamos juntos y vemos una película.",
+    "zh": "今晚我们一起吃饭，再看一部电影。"
+  },
+  {
+    "id": "book-89536dde2943",
+    "word": "mañana",
+    "example": "Mañana voy al mercado con mi hermana mayor.",
+    "zh": "明天我和姐姐一起去市场。"
+  },
+  {
+    "id": "book-c91d2f54503b",
+    "word": "ayer",
+    "example": "Ayer mi padre estuvo en casa toda la tarde.",
+    "zh": "昨天下午我父亲一直在家。"
+  },
+  {
+    "id": "book-9caade15c278",
+    "word": "¿Qué hora es?",
+    "example": "¿Qué hora es? Tengo una cita con el médico.",
+    "zh": "现在几点？我约了看医生。"
+  },
+  {
+    "id": "book-47caf793e4b4",
+    "word": "Son las nueve.",
+    "example": "Son las nueve y los niños entran al colegio.",
+    "zh": "九点了，孩子们进学校。"
+  },
+  {
+    "id": "book-2ecbb22e8f65",
+    "word": "Son las nueve y diez.",
+    "example": "Son las nueve y diez y preparo el desayuno.",
+    "zh": "九点十分了，我在准备早餐。"
+  },
+  {
+    "id": "book-9e96454a0ca7",
+    "word": "Son las nueve y cuarto.",
+    "example": "Son las nueve y cuarto y salgo de casa.",
+    "zh": "九点一刻了，我出门。"
+  },
+  {
+    "id": "book-3a7deed25146",
+    "word": "Son las nueve y media.",
+    "example": "Son las nueve y media y empieza la clase.",
+    "zh": "九点半了，课程开始了。"
+  },
+  {
+    "id": "book-fdf8ea994162",
+    "word": "Son las diez menos veinte.",
+    "example": "Son las diez menos veinte y llega el autobús.",
+    "zh": "九点四十了，公交车来了。"
+  },
+  {
+    "id": "book-fca9f90715c1",
+    "word": "Son las diez menos cuarto.",
+    "example": "Son las diez menos cuarto y termino mi café.",
+    "zh": "九点四十五了，我喝完咖啡。"
+  },
+  {
+    "id": "book-2283e4f538c5",
+    "word": "Son las diez (de la mañana).",
+    "example": "Son las diez de la mañana y abro la tienda.",
+    "zh": "上午十点了，我开店营业。"
+  },
+  {
+    "id": "book-17866805ff79",
+    "word": "Son las cinco (de la tarde).",
+    "example": "Son las cinco de la tarde y vuelvo a casa.",
+    "zh": "下午五点了，我回家。"
+  },
+  {
+    "id": "book-02a73f93cb2f",
+    "word": "Son las diecisiete treinta.",
+    "example": "Son las diecisiete treinta y el tren sale pronto.",
+    "zh": "十七点三十分了，火车马上出发。"
+  },
+  {
+    "id": "book-9834377bbdb3",
+    "word": "¿Cuándo…?",
+    "example": "¿Cuándo empieza la película que quieres ver esta noche?",
+    "zh": "你今晚想看的电影什么时候开始？"
+  },
+  {
+    "id": "book-238e1c872830",
+    "word": "... dentro de 60 segundos / dos minutos.",
+    "example": "El autobús llega dentro de dos minutos a esta parada.",
+    "zh": "公交车两分钟后到这个站。"
+  },
+  {
+    "id": "book-377403386b47",
+    "word": "... dentro de una hora / un cuarto de hora.",
+    "example": "La clase empieza dentro de un cuarto de hora.",
+    "zh": "课程一刻钟后开始。"
+  },
+  {
+    "id": "book-42e31f0b1fb8",
+    "word": "... dentro de media hora.",
+    "example": "Volvemos a casa dentro de media hora, después del paseo.",
+    "zh": "散步结束后，我们半小时后回家。"
+  },
+  {
+    "id": "book-6f1cb265c650",
+    "word": "temprano",
+    "example": "Me levanto temprano para caminar antes de ir al trabajo.",
+    "zh": "我早起，在上班前散步。"
+  },
+  {
+    "id": "book-e9ff2b84b0e5",
+    "word": "tarde",
+    "example": "Hoy llego tarde porque hay mucho tráfico en la ciudad.",
+    "zh": "今天我迟到了，因为城里堵车。"
+  },
+  {
+    "id": "book-a7d823c0f3ca",
+    "word": "pronto",
+    "example": "Mi hermana llega pronto y vamos a comer juntas.",
+    "zh": "我的姐妹马上到，我们要一起吃饭。"
+  },
+  {
+    "id": "book-8e8474956f2d",
+    "word": "más tarde",
+    "example": "Hablamos más tarde porque ahora estoy en una reunión.",
+    "zh": "我们晚些时候聊，因为我现在正在开会。"
+  },
+  {
+    "id": "book-cad1583a6fc2",
+    "word": "ahora",
+    "example": "Ahora estudio español mientras mi hermano prepara la cena.",
+    "zh": "我现在学西班牙语，我兄弟则准备晚餐。"
+  },
+  {
+    "id": "book-d9e6542cb47c",
+    "word": "enero",
+    "example": "En enero llevo un abrigo cuando salgo por la mañana.",
+    "zh": "一月早上出门时，我穿大衣。"
+  },
+  {
+    "id": "book-1ac47595ddd0",
+    "word": "febrero",
+    "example": "En febrero celebro mi cumpleaños con unos amigos en casa.",
+    "zh": "二月我和几个朋友在家庆祝生日。"
+  },
+  {
+    "id": "book-3e3ec76d98c5",
+    "word": "marzo",
+    "example": "En marzo las flores empiezan a aparecer en el jardín.",
+    "zh": "三月，花园里的花开始开放。"
+  },
+  {
+    "id": "book-3831bb9c105a",
+    "word": "abril",
+    "example": "En abril llevo un paraguas porque llueve con frecuencia.",
+    "zh": "四月我带伞，因为经常下雨。"
+  },
+  {
+    "id": "book-bad8b1f90377",
+    "word": "mayo",
+    "example": "En mayo paseamos por el parque después de comer.",
+    "zh": "五月我们吃完饭后在公园散步。"
+  },
+  {
+    "id": "book-1373e6c243aa",
+    "word": "junio",
+    "example": "En junio terminan las clases y empiezan las vacaciones.",
+    "zh": "六月课程结束，假期开始。"
+  },
+  {
+    "id": "book-914d3eae9e86",
+    "word": "julio",
+    "example": "En julio vamos a la playa para nadar por la mañana.",
+    "zh": "七月我们早上去海滩游泳。"
+  },
+  {
+    "id": "book-0ad8eb8d2f43",
+    "word": "agosto",
+    "example": "En agosto mi familia pasa unos días junto al mar.",
+    "zh": "八月我家人在海边住几天。"
+  },
+  {
+    "id": "book-a0dbeaa45549",
+    "word": "septiembre",
+    "example": "En septiembre los niños vuelven al colegio con sus amigos.",
+    "zh": "九月孩子们和朋友一起返校。"
+  },
+  {
+    "id": "book-a6656a689886",
+    "word": "octubre",
+    "example": "En octubre las hojas cambian de color en el parque.",
+    "zh": "十月公园里的树叶变色了。"
+  },
+  {
+    "id": "book-4d962ecf94fc",
+    "word": "noviembre",
+    "example": "En noviembre anochece temprano y encendemos las luces de casa.",
+    "zh": "十一月天黑得早，我们点亮家里的灯。"
+  },
+  {
+    "id": "book-a7575b8826c3",
+    "word": "diciembre",
+    "example": "En diciembre decoramos la casa para celebrar las fiestas juntos.",
+    "zh": "十二月我们装饰房子，一起过节。"
+  },
+  {
+    "id": "book-62ecc9f1d769",
+    "word": "el día",
+    "example": "Paso el día con mi familia y vuelvo por la noche.",
+    "zh": "我白天和家人在一起，晚上回来。"
+  },
+  {
+    "id": "book-c3db40f1ca5f",
+    "word": "el fin de semana",
+    "example": "El fin de semana visitamos a mis abuelos en el pueblo.",
+    "zh": "周末我们去村里看望祖父母。"
+  },
+  {
+    "id": "book-8bfd2c7c6f7a",
+    "word": "la semana",
+    "example": "Esta semana tengo trabajo, pero el domingo estoy libre.",
+    "zh": "这周我有工作，不过星期天有空。"
+  },
+  {
+    "id": "book-130f7f3e7ae8",
+    "word": "la quincena",
+    "example": "Pasamos una quincena en la costa durante las vacaciones.",
+    "zh": "假期我们在海边住两周。"
+  },
+  {
+    "id": "book-46562cd72425",
+    "word": "el mes",
+    "example": "Este mes ahorro dinero para comprar una bicicleta nueva.",
+    "zh": "这个月我存钱买一辆新自行车。"
+  },
+  {
+    "id": "book-39c435580f67",
+    "word": "el año",
+    "example": "Este año estudio español y practico un poco cada día.",
+    "zh": "今年我学习西班牙语，每天练习一点。"
+  },
+  {
+    "id": "book-513f30a2bf0c",
+    "word": "el lunes",
+    "example": "El lunes preparo la mochila antes de ir al colegio.",
+    "zh": "星期一我上学前整理书包。"
+  },
+  {
+    "id": "book-4e39b3a9df39",
+    "word": "el martes",
+    "example": "El martes tengo clase de español después del trabajo.",
+    "zh": "星期二下班后我有西班牙语课。"
+  },
+  {
+    "id": "book-f78bb6433a4b",
+    "word": "el miércoles",
+    "example": "El miércoles como con mi hermana en un restaurante pequeño.",
+    "zh": "星期三我和姐妹在一家小餐馆吃饭。"
+  },
+  {
+    "id": "book-2aec9dcc6c30",
+    "word": "el jueves",
+    "example": "El jueves vamos al mercado para comprar fruta fresca.",
+    "zh": "星期四我们去市场买新鲜水果。"
+  },
+  {
+    "id": "book-d05dcca7945b",
+    "word": "el viernes",
+    "example": "El viernes cenamos con amigos y escuchamos música en casa.",
+    "zh": "星期五我们和朋友吃晚饭，在家听音乐。"
+  },
+  {
+    "id": "book-d65a409f1c31",
+    "word": "el sábado",
+    "example": "El sábado salimos temprano para pasar el día en el campo.",
+    "zh": "星期六我们早早出门，去乡间度过一天。"
+  },
+  {
+    "id": "book-16d23512185c",
+    "word": "el domingo",
+    "example": "El domingo desayunamos despacio y luego paseamos por el parque.",
+    "zh": "星期天我们慢慢吃早餐，然后去公园散步。"
+  },
+  {
+    "id": "book-cadb0d31d8a3",
+    "word": "la década",
+    "example": "En esta década el barrio tiene más parques y escuelas.",
+    "zh": "这十年里，街区有了更多公园和学校。"
+  },
+  {
+    "id": "book-d651de2f8151",
+    "word": "diario",
+    "example": "Mi paseo diario empieza en casa y termina en el parque.",
+    "zh": "我每天的散步从家里出发，到公园结束。"
+  },
+  {
+    "id": "book-4e7a47addb2c",
+    "word": "semanal",
+    "example": "En la reunión semanal hablamos del trabajo con nuestros compañeros.",
+    "zh": "我们在每周会议上和同事讨论工作。"
+  },
+  {
+    "id": "book-3fa54e811369",
+    "word": "quincenal",
+    "example": "La visita quincenal a mis abuelos es siempre muy agradable.",
+    "zh": "每两周看望祖父母，总是很愉快。"
+  },
+  {
+    "id": "book-02942f86e226",
+    "word": "mensual",
+    "example": "Mi abono mensual me permite ir al trabajo en autobús.",
+    "zh": "我的月票让我可以坐公交车上班。"
+  },
+  {
+    "id": "book-1cadfe9aea27",
+    "word": "anual",
+    "example": "La fiesta anual del pueblo reúne a todas las familias.",
+    "zh": "村里的年度庆典让各家各户相聚。"
+  },
+  {
+    "id": "book-2a4a2ed81689",
+    "word": "los lunes",
+    "example": "Los lunes salgo temprano porque tengo clase antes del trabajo.",
+    "zh": "每周一我很早出门，因为上班前有课。"
+  },
+  {
+    "id": "book-47ee8c957c9e",
+    "word": "todos los domingos",
+    "example": "Todos los domingos preparo el desayuno para toda mi familia.",
+    "zh": "每个星期天我给全家准备早餐。"
+  },
+  {
+    "id": "book-5243b3ffc58f",
+    "word": "el jueves pasado",
+    "example": "El jueves pasado fui al mercado con mi madre.",
+    "zh": "上星期四我和母亲去了市场。"
+  },
+  {
+    "id": "book-1010e7a4c80d",
+    "word": "el próximo viernes",
+    "example": "El próximo viernes voy a cenar con mis nuevos compañeros.",
+    "zh": "下星期五我要和新同事一起吃晚饭。"
+  },
+  {
+    "id": "book-219bb32af11c",
+    "word": "la semana anterior / después",
+    "example": "La semana anterior al viaje preparo la ropa y los billetes.",
+    "zh": "旅行前一周我准备衣物和车票。"
+  },
+  {
+    "id": "book-a51fceb24bc3",
+    "word": "en febrero",
+    "example": "En febrero hace frío, pero salimos a caminar por la tarde.",
+    "zh": "二月天气冷，但我们下午仍出门散步。"
+  },
+  {
+    "id": "book-4f6ff44827da",
+    "word": "en 2019",
+    "example": "En 2019 mi familia vivía en una casa cerca del mar.",
+    "zh": "2019年，我家人住在海边的一座房子里。"
+  },
+  {
+    "id": "book-04c43d31dbfc",
+    "word": "en la década de los ochenta",
+    "example": "En la década de los ochenta mi padre tenía una bicicleta roja.",
+    "zh": "八十年代，我父亲有一辆红色自行车。"
+  },
+  {
+    "id": "book-23a1456ba526",
+    "word": "la primavera",
+    "example": "La primavera trae flores y días más largos a nuestro pueblo.",
+    "zh": "春天给我们的村庄带来鲜花和更长的白昼。"
+  },
+  {
+    "id": "book-bd4c65a419d7",
+    "word": "el verano",
+    "example": "Durante el verano nadamos en el mar y comemos al aire libre.",
+    "zh": "夏天我们在海里游泳，在户外吃饭。"
+  },
+  {
+    "id": "book-069bfa25dbaf",
+    "word": "el otoño",
+    "example": "En el otoño las hojas cubren el camino hacia mi casa.",
+    "zh": "秋天树叶铺满通往我家的小路。"
+  },
+  {
+    "id": "book-f55502f3261b",
+    "word": "el invierno",
+    "example": "Durante el invierno llevamos ropa de abrigo y bebemos sopa caliente.",
+    "zh": "冬天我们穿保暖衣服，喝热汤。"
+  },
+  {
+    "id": "book-3f8ebb14095c",
+    "word": "en primavera / invierno",
+    "example": "En primavera abrimos las ventanas para escuchar a los pájaros.",
+    "zh": "春天我们打开窗户，听鸟儿歌唱。"
+  },
+  {
+    "id": "book-8e0a2015f934",
+    "word": "¿Qué tiempo hace?",
+    "example": "¿Qué tiempo hace? Quiero salir a caminar con los niños.",
+    "zh": "天气怎么样？我想和孩子们出去散步。"
+  },
+  {
+    "id": "book-cab46f30ff88",
+    "word": "¿Cuál es el pronóstico del tiempo para hoy / mañana?",
+    "example": "¿Cuál es el pronóstico del tiempo para mañana en la costa?",
+    "zh": "明天海边的天气预报如何？"
+  },
+  {
+    "id": "book-57cc5e8cb14e",
+    "word": "¿Hace calor / frío?",
+    "example": "¿Hace frío? Voy a llevar un abrigo para el paseo.",
+    "zh": "天气冷吗？我要带件大衣去散步。"
+  },
+  {
+    "id": "book-fb09246f7a6e",
+    "word": "¿Va a llover?",
+    "example": "¿Va a llover? El cielo está oscuro y hay viento.",
+    "zh": "要下雨吗？天空很暗，还刮着风。"
+  },
+  {
+    "id": "book-25fa336fd58a",
+    "word": "¡Qué tiempo tan bueno!",
+    "example": "¡Qué tiempo tan bueno! Podemos comer juntos en la terraza.",
+    "zh": "天气真好！我们可以一起在露台吃饭。"
+  },
+  {
+    "id": "book-440108942448",
+    "word": "¡Qué tiempo tan horrible!",
+    "example": "¡Qué tiempo tan horrible! Es mejor quedarnos en casa hoy.",
+    "zh": "天气真糟糕！今天还是待在家里比较好。"
+  },
+  {
+    "id": "book-fda496d9fb2a",
+    "word": "Hace sol / viento.",
+    "example": "Hace sol y viento, así que llevo una chaqueta ligera.",
+    "zh": "天气晴朗又有风，所以我穿了件薄外套。"
+  },
+  {
+    "id": "book-282657cf7254",
+    "word": "Hace calorcito / calor.",
+    "example": "Hace calorcito y los niños juegan tranquilos en el jardín.",
+    "zh": "天气暖和，孩子们在花园里安静地玩。"
+  },
+  {
+    "id": "book-cce9cb3d2380",
+    "word": "Está nublado.",
+    "example": "Está nublado, pero todavía podemos dar un paseo por el parque.",
+    "zh": "天气多云，不过我们仍可以去公园散步。"
+  },
+  {
+    "id": "book-f27a32bbc779",
+    "word": "Hay neblina / niebla.",
+    "example": "Hay niebla y el conductor avanza despacio por la carretera.",
+    "zh": "有雾，司机在公路上慢慢行驶。"
+  },
+  {
+    "id": "book-6954adaa34a2",
+    "word": "Hace mucho frío.",
+    "example": "Hace mucho frío y nos ponemos guantes antes de salir.",
+    "zh": "天气很冷，我们出门前戴上手套。"
+  },
+  {
+    "id": "book-d2abad0b22c8",
+    "word": "Llueve.",
+    "example": "Llueve y mi hermana espera el autobús bajo su paraguas.",
+    "zh": "下雨了，我姐妹撑着伞等公交车。"
+  },
+  {
+    "id": "book-e66b0769acac",
+    "word": "Está lluvioso.",
+    "example": "Está lluvioso, así que llevo botas para caminar hasta el colegio.",
+    "zh": "天气多雨，所以我穿靴子步行去学校。"
+  },
+  {
+    "id": "book-93125db2ba8f",
+    "word": "Nieva.",
+    "example": "Nieva y los niños miran la calle desde la ventana.",
+    "zh": "下雪了，孩子们从窗户看着街道。"
+  },
+  {
+    "id": "book-eba87570021e",
+    "word": "Hay mucha humedad.",
+    "example": "Hay mucha humedad y la ropa tarda más en secarse.",
+    "zh": "天气很潮湿，衣服需要更长时间才能干。"
+  },
+  {
+    "id": "book-98a80506ae03",
+    "word": "Hay tormenta.",
+    "example": "Hay tormenta y cerramos las ventanas antes de cenar juntos.",
+    "zh": "有暴风雨，我们一起吃晚饭前关上窗户。"
+  },
+  {
+    "id": "book-0a164f26dfb5",
+    "word": "Está muy variable.",
+    "example": "El tiempo está muy variable: ahora llueve y luego sale el sol.",
+    "zh": "天气变化很大：这会儿下雨，一会儿又出太阳。"
+  },
+  {
+    "id": "book-e3cca586ac30",
+    "word": "bueno",
+    "example": "El tiempo es bueno y paseamos por la playa después de comer.",
+    "zh": "天气宜人，我们饭后在海滩散步。"
+  },
+  {
+    "id": "book-e156c8c82669",
+    "word": "malo",
+    "example": "Hace un tiempo malo y decidimos pasar la tarde en casa.",
+    "zh": "天气糟糕，我们决定在家度过下午。"
+  },
+  {
+    "id": "book-686cc49ada10",
+    "word": "fresco",
+    "example": "El aire está fresco y llevo una chaqueta para caminar.",
+    "zh": "空气凉爽，我穿着外套散步。"
+  },
+  {
+    "id": "book-982fdb025be0",
+    "word": "suave",
+    "example": "El clima es suave y podemos pasear incluso en invierno.",
+    "zh": "气候温和，即使在冬天我们也能散步。"
+  },
+  {
+    "id": "book-8f9ff448d20d",
+    "word": "la temperatura",
+    "example": "La temperatura baja por la noche y necesitamos una manta más.",
+    "zh": "夜里温度下降，我们需要再加一条毯子。"
+  },
+  {
+    "id": "book-9336e033a3b9",
+    "word": "el sol",
+    "example": "El sol entra por la ventana e ilumina toda la cocina.",
+    "zh": "阳光从窗户照进来，照亮整个厨房。"
+  },
+  {
+    "id": "book-f89f62b08f94",
+    "word": "la lluvia",
+    "example": "La lluvia moja las calles y llena los charcos del parque.",
+    "zh": "雨水打湿街道，灌满公园里的水洼。"
+  },
+  {
+    "id": "book-edfb74afdd2e",
+    "word": "la nieve",
+    "example": "La nieve cubre el jardín y los niños salen a jugar.",
+    "zh": "雪覆盖花园，孩子们出去玩。"
+  },
+  {
+    "id": "book-24d22d85e49d",
+    "word": "el granizo",
+    "example": "El granizo golpea el tejado y todos entramos en casa.",
+    "zh": "冰雹敲打屋顶，我们都进了屋。"
+  },
+  {
+    "id": "book-dc90dce2c3ec",
+    "word": "el viento",
+    "example": "El viento mueve las hojas y levanta mi sombrero del suelo.",
+    "zh": "风吹动树叶，把我的帽子从地上吹起来。"
+  },
+  {
+    "id": "book-930cb8d3387b",
+    "word": "el vendaval",
+    "example": "El vendaval mueve los árboles y nos quedamos dentro de casa.",
+    "zh": "狂风吹动树木，我们留在屋里。"
+  },
+  {
+    "id": "book-230fc56f3d01",
+    "word": "la neblina",
+    "example": "La neblina cubre el río, pero vemos los árboles cercanos.",
+    "zh": "薄雾笼罩河流，不过我们能看见近处的树。"
+  },
+  {
+    "id": "book-8c4a31a83eca",
+    "word": "la niebla",
+    "example": "La niebla es espesa y apenas vemos el camino al pueblo.",
+    "zh": "雾很浓，我们几乎看不见通往村庄的路。"
+  },
+  {
+    "id": "book-57047dfa27a2",
+    "word": "el trueno",
+    "example": "El trueno suena fuerte y mi perro se esconde bajo la mesa.",
+    "zh": "雷声很响，我的狗躲到桌子下面。"
+  },
+  {
+    "id": "book-5c6887e1d439",
+    "word": "el relámpago",
+    "example": "El relámpago ilumina el cielo mientras miramos desde la ventana.",
+    "zh": "我们从窗户望出去时，闪电照亮天空。"
+  },
+  {
+    "id": "book-c351d0a9b9d7",
+    "word": "la tormenta",
+    "example": "La tormenta llega por la tarde y volvemos pronto a casa.",
+    "zh": "雷暴在下午到来，我们早早回家。"
+  }
+]

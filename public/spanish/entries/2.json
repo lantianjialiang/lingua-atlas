@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-864693c1a72d",
+    "w": "hoy",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "今天",
+        "en": "today"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hoy trabajo en casa y como con mi familia.",
+        "zh": "今天我在家办公，和家人一起吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 201 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-2ee5d40baa88",
+    "w": "esta noche",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "今晚",
+        "en": "tonight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta noche cenamos juntos y vemos una película.",
+        "zh": "今晚我们一起吃饭，再看一部电影。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 202 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-89536dde2943",
+    "w": "mañana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "明天",
+        "en": "tomorrow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mañana voy al mercado con mi hermana mayor.",
+        "zh": "明天我和姐姐一起去市场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 203 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-c91d2f54503b",
+    "w": "ayer",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "昨天",
+        "en": "yesterday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ayer mi padre estuvo en casa toda la tarde.",
+        "zh": "昨天下午我父亲一直在家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 204 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-9caade15c278",
+    "w": "¿Qué hora es?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "现在几点？",
+        "en": "What time is it?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Qué hora es? Tengo una cita con el médico.",
+        "zh": "现在几点？我约了看医生。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 205 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-47caf793e4b4",
+    "w": "Son las nueve.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "九点整。",
+        "en": "It’s nine o’clock."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las nueve y los niños entran al colegio.",
+        "zh": "九点了，孩子们进学校。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 206 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-2ecbb22e8f65",
+    "w": "Son las nueve y diez.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "九点十分。",
+        "en": "It’s ten past nine."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las nueve y diez y preparo el desayuno.",
+        "zh": "九点十分了，我在准备早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 207 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-9e96454a0ca7",
+    "w": "Son las nueve y cuarto.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "九点一刻。",
+        "en": "It’s quarter past nine."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las nueve y cuarto y salgo de casa.",
+        "zh": "九点一刻了，我出门。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 208 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-3a7deed25146",
+    "w": "Son las nueve y media.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "九点半。",
+        "en": "It’s half past nine."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las nueve y media y empieza la clase.",
+        "zh": "九点半了，课程开始了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 209 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-fdf8ea994162",
+    "w": "Son las diez menos veinte.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "差二十分十点。",
+        "en": "It’s 20 to ten."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las diez menos veinte y llega el autobús.",
+        "zh": "九点四十了，公交车来了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 210 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-fca9f90715c1",
+    "w": "Son las diez menos cuarto.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "差一刻十点。",
+        "en": "It’s quarter to ten."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las diez menos cuarto y termino mi café.",
+        "zh": "九点四十五了，我喝完咖啡。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 11 页 · 第 211 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-2283e4f538c5",
+    "w": "Son las diez (de la mañana).",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "上午十点。",
+        "en": "It’s 10 a.m."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las diez de la mañana y abro la tienda.",
+        "zh": "上午十点了，我开店营业。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 212 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-17866805ff79",
+    "w": "Son las cinco (de la tarde).",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "下午五点。",
+        "en": "It’s 5 p.m."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las cinco de la tarde y vuelvo a casa.",
+        "zh": "下午五点了，我回家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 213 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-02a73f93cb2f",
+    "w": "Son las diecisiete treinta.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "十七点三十分。",
+        "en": "It’s 17:30."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Son las diecisiete treinta y el tren sale pronto.",
+        "zh": "十七点三十分了，火车马上出发。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 214 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-9834377bbdb3",
+    "w": "¿Cuándo…?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "什么时候……？",
+        "en": "When...?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Cuándo empieza la película que quieres ver esta noche?",
+        "zh": "你今晚想看的电影什么时候开始？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 215 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-238e1c872830",
+    "w": "... dentro de 60 segundos / dos minutos.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "六十秒／两分钟后",
+        "en": "... in 60 seconds/ two minutes."
+      }
+    ],
+    "ex": [
+      {
+        "en": "El autobús llega dentro de dos minutos a esta parada.",
+        "zh": "公交车两分钟后到这个站。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 216 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-377403386b47",
+    "w": "... dentro de una hora / un cuarto de hora.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "一小时／一刻钟后",
+        "en": "... in an hour/quarter of an hour."
+      }
+    ],
+    "ex": [
+      {
+        "en": "La clase empieza dentro de un cuarto de hora.",
+        "zh": "课程一刻钟后开始。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 217 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-42e31f0b1fb8",
+    "w": "... dentro de media hora.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "半小时后",
+        "en": "... in half an hour."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Volvemos a casa dentro de media hora, después del paseo.",
+        "zh": "散步结束后，我们半小时后回家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 218 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-6f1cb265c650",
+    "w": "temprano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "早",
+        "en": "early"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Me levanto temprano para caminar antes de ir al trabajo.",
+        "zh": "我早起，在上班前散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 219 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-e9ff2b84b0e5",
+    "w": "tarde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "迟；晚",
+        "en": "late"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hoy llego tarde porque hay mucho tráfico en la ciudad.",
+        "zh": "今天我迟到了，因为城里堵车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 220 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-a7d823c0f3ca",
+    "w": "pronto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "很快；不久",
+        "en": "soon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi hermana llega pronto y vamos a comer juntas.",
+        "zh": "我的姐妹马上到，我们要一起吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 221 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-8e8474956f2d",
+    "w": "más tarde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "晚些时候",
+        "en": "later"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hablamos más tarde porque ahora estoy en una reunión.",
+        "zh": "我们晚些时候聊，因为我现在正在开会。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 222 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-cad1583a6fc2",
+    "w": "ahora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "现在",
+        "en": "now"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Ahora estudio español mientras mi hermano prepara la cena.",
+        "zh": "我现在学西班牙语，我兄弟则准备晚餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 223 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-d9e6542cb47c",
+    "w": "enero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一月",
+        "en": "January"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En enero llevo un abrigo cuando salgo por la mañana.",
+        "zh": "一月早上出门时，我穿大衣。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 224 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-1ac47595ddd0",
+    "w": "febrero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "二月",
+        "en": "February"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En febrero celebro mi cumpleaños con unos amigos en casa.",
+        "zh": "二月我和几个朋友在家庆祝生日。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 225 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-3e3ec76d98c5",
+    "w": "marzo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三月",
+        "en": "March"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En marzo las flores empiezan a aparecer en el jardín.",
+        "zh": "三月，花园里的花开始开放。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 226 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-3831bb9c105a",
+    "w": "abril",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "四月",
+        "en": "April"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En abril llevo un paraguas porque llueve con frecuencia.",
+        "zh": "四月我带伞，因为经常下雨。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 227 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-bad8b1f90377",
+    "w": "mayo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "五月",
+        "en": "May"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En mayo paseamos por el parque después de comer.",
+        "zh": "五月我们吃完饭后在公园散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 228 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-1373e6c243aa",
+    "w": "junio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "六月",
+        "en": "June"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En junio terminan las clases y empiezan las vacaciones.",
+        "zh": "六月课程结束，假期开始。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 229 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-914d3eae9e86",
+    "w": "julio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "七月",
+        "en": "July"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En julio vamos a la playa para nadar por la mañana.",
+        "zh": "七月我们早上去海滩游泳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 230 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-0ad8eb8d2f43",
+    "w": "agosto",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "八月",
+        "en": "August"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En agosto mi familia pasa unos días junto al mar.",
+        "zh": "八月我家人在海边住几天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 231 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-a0dbeaa45549",
+    "w": "septiembre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "九月",
+        "en": "September"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En septiembre los niños vuelven al colegio con sus amigos.",
+        "zh": "九月孩子们和朋友一起返校。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 232 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-a6656a689886",
+    "w": "octubre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "十月",
+        "en": "October"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En octubre las hojas cambian de color en el parque.",
+        "zh": "十月公园里的树叶变色了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 233 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-4d962ecf94fc",
+    "w": "noviembre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "十一月",
+        "en": "November"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En noviembre anochece temprano y encendemos las luces de casa.",
+        "zh": "十一月天黑得早，我们点亮家里的灯。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 234 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-a7575b8826c3",
+    "w": "diciembre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "十二月",
+        "en": "December"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En diciembre decoramos la casa para celebrar las fiestas juntos.",
+        "zh": "十二月我们装饰房子，一起过节。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 235 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-62ecc9f1d769",
+    "w": "el día",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一天；白天",
+        "en": "day"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Paso el día con mi familia y vuelvo por la noche.",
+        "zh": "我白天和家人在一起，晚上回来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 236 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-c3db40f1ca5f",
+    "w": "el fin de semana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "周末",
+        "en": "weekend"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fin de semana visitamos a mis abuelos en el pueblo.",
+        "zh": "周末我们去村里看望祖父母。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 237 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-8bfd2c7c6f7a",
+    "w": "la semana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一周",
+        "en": "week"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Esta semana tengo trabajo, pero el domingo estoy libre.",
+        "zh": "这周我有工作，不过星期天有空。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 238 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-130f7f3e7ae8",
+    "w": "la quincena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "两周",
+        "en": "fortnight"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Pasamos una quincena en la costa durante las vacaciones.",
+        "zh": "假期我们在海边住两周。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 239 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-46562cd72425",
+    "w": "el mes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "月",
+        "en": "month"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este mes ahorro dinero para comprar una bicicleta nueva.",
+        "zh": "这个月我存钱买一辆新自行车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 240 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-39c435580f67",
+    "w": "el año",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "年",
+        "en": "year"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este año estudio español y practico un poco cada día.",
+        "zh": "今年我学习西班牙语，每天练习一点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 241 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-513f30a2bf0c",
+    "w": "el lunes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期一",
+        "en": "Monday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El lunes preparo la mochila antes de ir al colegio.",
+        "zh": "星期一我上学前整理书包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 242 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-4e39b3a9df39",
+    "w": "el martes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期二",
+        "en": "Tuesday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El martes tengo clase de español después del trabajo.",
+        "zh": "星期二下班后我有西班牙语课。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 243 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-f78bb6433a4b",
+    "w": "el miércoles",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期三",
+        "en": "Wednesday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El miércoles como con mi hermana en un restaurante pequeño.",
+        "zh": "星期三我和姐妹在一家小餐馆吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 244 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-2aec9dcc6c30",
+    "w": "el jueves",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期四",
+        "en": "Thursday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jueves vamos al mercado para comprar fruta fresca.",
+        "zh": "星期四我们去市场买新鲜水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 245 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-d05dcca7945b",
+    "w": "el viernes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期五",
+        "en": "Friday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El viernes cenamos con amigos y escuchamos música en casa.",
+        "zh": "星期五我们和朋友吃晚饭，在家听音乐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 246 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-d65a409f1c31",
+    "w": "el sábado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期六",
+        "en": "Saturday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sábado salimos temprano para pasar el día en el campo.",
+        "zh": "星期六我们早早出门，去乡间度过一天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 247 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-16d23512185c",
+    "w": "el domingo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "星期日",
+        "en": "Sunday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El domingo desayunamos despacio y luego paseamos por el parque.",
+        "zh": "星期天我们慢慢吃早餐，然后去公园散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 12 页 · 第 248 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-cadb0d31d8a3",
+    "w": "la década",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "十年",
+        "en": "decade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En esta década el barrio tiene más parques y escuelas.",
+        "zh": "这十年里，街区有了更多公园和学校。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 249 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-d651de2f8151",
+    "w": "diario",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每日的",
+        "en": "daily"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi paseo diario empieza en casa y termina en el parque.",
+        "zh": "我每天的散步从家里出发，到公园结束。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 250 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-4e7a47addb2c",
+    "w": "semanal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每周的",
+        "en": "weekly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la reunión semanal hablamos del trabajo con nuestros compañeros.",
+        "zh": "我们在每周会议上和同事讨论工作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 251 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-3fa54e811369",
+    "w": "quincenal",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每两周的",
+        "en": "fortnightly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La visita quincenal a mis abuelos es siempre muy agradable.",
+        "zh": "每两周看望祖父母，总是很愉快。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 252 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-02942f86e226",
+    "w": "mensual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每月的",
+        "en": "monthly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Mi abono mensual me permite ir al trabajo en autobús.",
+        "zh": "我的月票让我可以坐公交车上班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 253 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-1cadfe9aea27",
+    "w": "anual",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每年的",
+        "en": "yearly"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fiesta anual del pueblo reúne a todas las familias.",
+        "zh": "村里的年度庆典让各家各户相聚。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 254 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-2a4a2ed81689",
+    "w": "los lunes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每逢星期一",
+        "en": "on Mondays"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los lunes salgo temprano porque tengo clase antes del trabajo.",
+        "zh": "每周一我很早出门，因为上班前有课。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 255 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-47ee8c957c9e",
+    "w": "todos los domingos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "每个星期天",
+        "en": "every Sunday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Todos los domingos preparo el desayuno para toda mi familia.",
+        "zh": "每个星期天我给全家准备早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 256 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-5243b3ffc58f",
+    "w": "el jueves pasado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "上星期四",
+        "en": "last Thursday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El jueves pasado fui al mercado con mi madre.",
+        "zh": "上星期四我和母亲去了市场。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 257 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-1010e7a4c80d",
+    "w": "el próximo viernes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "下星期五",
+        "en": "next Friday"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El próximo viernes voy a cenar con mis nuevos compañeros.",
+        "zh": "下星期五我要和新同事一起吃晚饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 258 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-219bb32af11c",
+    "w": "la semana anterior / después",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "前一周／之后一周",
+        "en": "the week before/after"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La semana anterior al viaje preparo la ropa y los billetes.",
+        "zh": "旅行前一周我准备衣物和车票。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 259 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-a51fceb24bc3",
+    "w": "en febrero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "在二月",
+        "en": "in February"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En febrero hace frío, pero salimos a caminar por la tarde.",
+        "zh": "二月天气冷，但我们下午仍出门散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 260 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-4f6ff44827da",
+    "w": "en 2019",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "在2019年",
+        "en": "in 2019"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En 2019 mi familia vivía en una casa cerca del mar.",
+        "zh": "2019年，我家人住在海边的一座房子里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 261 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-04c43d31dbfc",
+    "w": "en la década de los ochenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "在八十年代",
+        "en": "in the ’80s"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En la década de los ochenta mi padre tenía una bicicleta roja.",
+        "zh": "八十年代，我父亲有一辆红色自行车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 262 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-23a1456ba526",
+    "w": "la primavera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "春天",
+        "en": "spring"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La primavera trae flores y días más largos a nuestro pueblo.",
+        "zh": "春天给我们的村庄带来鲜花和更长的白昼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 263 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-bd4c65a419d7",
+    "w": "el verano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "夏天",
+        "en": "summer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante el verano nadamos en el mar y comemos al aire libre.",
+        "zh": "夏天我们在海里游泳，在户外吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 264 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-069bfa25dbaf",
+    "w": "el otoño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "秋天",
+        "en": "autumn"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En el otoño las hojas cubren el camino hacia mi casa.",
+        "zh": "秋天树叶铺满通往我家的小路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 265 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-f55502f3261b",
+    "w": "el invierno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冬天",
+        "en": "winter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Durante el invierno llevamos ropa de abrigo y bebemos sopa caliente.",
+        "zh": "冬天我们穿保暖衣服，喝热汤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 266 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-3f8ebb14095c",
+    "w": "en primavera / invierno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "在春天／冬天",
+        "en": "in spring/winter"
+      }
+    ],
+    "ex": [
+      {
+        "en": "En primavera abrimos las ventanas para escuchar a los pájaros.",
+        "zh": "春天我们打开窗户，听鸟儿歌唱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 267 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-8e0a2015f934",
+    "w": "¿Qué tiempo hace?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气怎么样？",
+        "en": "How’s the weather?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Qué tiempo hace? Quiero salir a caminar con los niños.",
+        "zh": "天气怎么样？我想和孩子们出去散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 268 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-cab46f30ff88",
+    "w": "¿Cuál es el pronóstico del tiempo para hoy / mañana?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "今天／明天天气预报如何？",
+        "en": "What’s the forecast for today/tomorrow?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Cuál es el pronóstico del tiempo para mañana en la costa?",
+        "zh": "明天海边的天气预报如何？"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 269 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-57cc5e8cb14e",
+    "w": "¿Hace calor / frío?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气热／冷吗？",
+        "en": "How warm/cold is it?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Hace frío? Voy a llevar un abrigo para el paseo.",
+        "zh": "天气冷吗？我要带件大衣去散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 270 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-fb09246f7a6e",
+    "w": "¿Va a llover?",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "会下雨吗？",
+        "en": "Is it going to rain?"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¿Va a llover? El cielo está oscuro y hay viento.",
+        "zh": "要下雨吗？天空很暗，还刮着风。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 271 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-25fa336fd58a",
+    "w": "¡Qué tiempo tan bueno!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气真好！",
+        "en": "What a lovely day!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡Qué tiempo tan bueno! Podemos comer juntos en la terraza.",
+        "zh": "天气真好！我们可以一起在露台吃饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 272 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-440108942448",
+    "w": "¡Qué tiempo tan horrible!",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气真糟糕！",
+        "en": "What awful weather!"
+      }
+    ],
+    "ex": [
+      {
+        "en": "¡Qué tiempo tan horrible! Es mejor quedarnos en casa hoy.",
+        "zh": "天气真糟糕！今天还是待在家里比较好。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 273 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-fda496d9fb2a",
+    "w": "Hace sol / viento.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "晴天／刮风。",
+        "en": "It’s sunny/windy."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hace sol y viento, así que llevo una chaqueta ligera.",
+        "zh": "天气晴朗又有风，所以我穿了件薄外套。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 274 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-282657cf7254",
+    "w": "Hace calorcito / calor.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气暖和／炎热。",
+        "en": "It’s warm/hot."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hace calorcito y los niños juegan tranquilos en el jardín.",
+        "zh": "天气暖和，孩子们在花园里安静地玩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 275 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-cce9cb3d2380",
+    "w": "Está nublado.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "多云。",
+        "en": "It’s cloudy."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Está nublado, pero todavía podemos dar un paseo por el parque.",
+        "zh": "天气多云，不过我们仍可以去公园散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 276 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-f27a32bbc779",
+    "w": "Hay neblina / niebla.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "有薄雾／浓雾。",
+        "en": "It’s misty/foggy."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hay niebla y el conductor avanza despacio por la carretera.",
+        "zh": "有雾，司机在公路上慢慢行驶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 277 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-6954adaa34a2",
+    "w": "Hace mucho frío.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气很冷。",
+        "en": "It’s freezing."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hace mucho frío y nos ponemos guantes antes de salir.",
+        "zh": "天气很冷，我们出门前戴上手套。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 278 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-d2abad0b22c8",
+    "w": "Llueve.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "下雨了。",
+        "en": "It’s raining."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Llueve y mi hermana espera el autobús bajo su paraguas.",
+        "zh": "下雨了，我姐妹撑着伞等公交车。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 279 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-e66b0769acac",
+    "w": "Está lluvioso.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气多雨。",
+        "en": "It’s wet."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Está lluvioso, así que llevo botas para caminar hasta el colegio.",
+        "zh": "天气多雨，所以我穿靴子步行去学校。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 280 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-93125db2ba8f",
+    "w": "Nieva.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "下雪了。",
+        "en": "It’s snowing."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nieva y los niños miran la calle desde la ventana.",
+        "zh": "下雪了，孩子们从窗户看着街道。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 281 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-eba87570021e",
+    "w": "Hay mucha humedad.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气很潮湿。",
+        "en": "It’s humid."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hay mucha humedad y la ropa tarda más en secarse.",
+        "zh": "天气很潮湿，衣服需要更长时间才能干。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 282 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-98a80506ae03",
+    "w": "Hay tormenta.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "有暴风雨。",
+        "en": "It’s stormy."
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hay tormenta y cerramos las ventanas antes de cenar juntos.",
+        "zh": "有暴风雨，我们一起吃晚饭前关上窗户。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 283 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-0a164f26dfb5",
+    "w": "Está muy variable.",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "短语",
+        "zh": "天气变化很大。",
+        "en": "It’s changeable."
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tiempo está muy variable: ahora llueve y luego sale el sol.",
+        "zh": "天气变化很大：这会儿下雨，一会儿又出太阳。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 13 页 · 第 284 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-e3cca586ac30",
+    "w": "bueno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "好的；宜人的",
+        "en": "nice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tiempo es bueno y paseamos por la playa después de comer.",
+        "zh": "天气宜人，我们饭后在海滩散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 285 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-e156c8c82669",
+    "w": "malo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "糟糕的",
+        "en": "horrible"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Hace un tiempo malo y decidimos pasar la tarde en casa.",
+        "zh": "天气糟糕，我们决定在家度过下午。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 286 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-686cc49ada10",
+    "w": "fresco",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "凉爽的",
+        "en": "cool"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El aire está fresco y llevo una chaqueta para caminar.",
+        "zh": "空气凉爽，我穿着外套散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 287 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-982fdb025be0",
+    "w": "suave",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "温和的",
+        "en": "mild"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El clima es suave y podemos pasear incluso en invierno.",
+        "zh": "气候温和，即使在冬天我们也能散步。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 288 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-8f9ff448d20d",
+    "w": "la temperatura",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "温度",
+        "en": "temperature"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La temperatura baja por la noche y necesitamos una manta más.",
+        "zh": "夜里温度下降，我们需要再加一条毯子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 289 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-9336e033a3b9",
+    "w": "el sol",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "太阳",
+        "en": "sun"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El sol entra por la ventana e ilumina toda la cocina.",
+        "zh": "阳光从窗户照进来，照亮整个厨房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 290 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-f89f62b08f94",
+    "w": "la lluvia",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雨",
+        "en": "rain"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lluvia moja las calles y llena los charcos del parque.",
+        "zh": "雨水打湿街道，灌满公园里的水洼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 291 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-edfb74afdd2e",
+    "w": "la nieve",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雪",
+        "en": "snow"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La nieve cubre el jardín y los niños salen a jugar.",
+        "zh": "雪覆盖花园，孩子们出去玩。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 292 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-24d22d85e49d",
+    "w": "el granizo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冰雹",
+        "en": "hail"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El granizo golpea el tejado y todos entramos en casa.",
+        "zh": "冰雹敲打屋顶，我们都进了屋。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 293 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-dc90dce2c3ec",
+    "w": "el viento",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "风",
+        "en": "wind"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El viento mueve las hojas y levanta mi sombrero del suelo.",
+        "zh": "风吹动树叶，把我的帽子从地上吹起来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 294 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-930cb8d3387b",
+    "w": "el vendaval",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大风；狂风",
+        "en": "gale"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El vendaval mueve los árboles y nos quedamos dentro de casa.",
+        "zh": "狂风吹动树木，我们留在屋里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 295 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-230fc56f3d01",
+    "w": "la neblina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "薄雾",
+        "en": "mist"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La neblina cubre el río, pero vemos los árboles cercanos.",
+        "zh": "薄雾笼罩河流，不过我们能看见近处的树。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 296 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-8c4a31a83eca",
+    "w": "la niebla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "浓雾",
+        "en": "fog"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La niebla es espesa y apenas vemos el camino al pueblo.",
+        "zh": "雾很浓，我们几乎看不见通往村庄的路。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 297 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-57047dfa27a2",
+    "w": "el trueno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雷声",
+        "en": "thunder"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El trueno suena fuerte y mi perro se esconde bajo la mesa.",
+        "zh": "雷声很响，我的狗躲到桌子下面。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 298 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-5c6887e1d439",
+    "w": "el relámpago",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "闪电",
+        "en": "lightning"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El relámpago ilumina el cielo mientras miramos desde la ventana.",
+        "zh": "我们从窗户望出去时，闪电照亮天空。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 299 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  },
+  {
+    "id": "book-c351d0a9b9d7",
+    "w": "la tormenta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "雷暴",
+        "en": "thunderstorm"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tormenta llega por la tarde y volvemos pronto a casa.",
+        "zh": "雷暴在下午到来，我们早早回家。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "essentials",
+    "exampleLevel": "A1+",
+    "note": "Collins Spanish 3000 · 原书第 14 页 · 第 300 条；自编例句 A1向A2过渡，时间词条按需引入过去及将来表达",
+    "m": 1
+  }
+]

@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "book-2e1f72a09fa8",
+    "w": "podrido",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "腐烂的",
+        "en": "rotten"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tomate estaba podrido, así que lo apartamos antes de preparar los ingredientes de la ensalada.",
+        "zh": "番茄烂了，所以准备沙拉食材前我们把它挑了出来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1101 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-e12620c8b76d",
+    "w": "maduro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "成熟的",
+        "en": "ripe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Este melocotón ya está maduro y desprende un aroma dulce cuando lo acercamos a la nariz.",
+        "zh": "这个桃子已经熟了，凑近鼻子能闻到甜香。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1102 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-5c2b25bc1ba4",
+    "w": "verde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "未成熟的",
+        "en": "unripe"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El plátano está verde todavía, por lo que lo dejaremos unos días más sobre la mesa.",
+        "zh": "香蕉还没熟，所以我们会把它在桌上再放几天。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1103 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-51d801b5673f",
+    "w": "sin semillas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无籽的",
+        "en": "seedless"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Compramos uvas sin semillas para preparar un postre que compartiremos con los amigos después de la comida.",
+        "zh": "我们买了无籽葡萄，准备用它做饭后和朋友分享的甜点。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1104 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-7f3a2959d771",
+    "w": "cortar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "切碎",
+        "en": "to chop"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Tenemos que cortar las verduras antes de añadirlas a la olla donde ya se está calentando el caldo.",
+        "zh": "我们得先把蔬菜切碎，再放入正在加热汤汁的锅里。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1105 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-88de0643c40a",
+    "w": "cortar en cuadritos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "切丁",
+        "en": "to dice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Para cortar en cuadritos la patata utilizo una tabla que no se mueve sobre la encimera.",
+        "zh": "为了把土豆切成丁，我用了一块在台面上不会滑动的砧板。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1106 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-fe2447ee89ea",
+    "w": "rallar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "擦碎",
+        "en": "to grate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Voy a rallar la zanahoria mientras tú lavas las hojas que utilizaremos para preparar la ensalada.",
+        "zh": "你洗沙拉要用的叶子时，我来擦胡萝卜丝。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1107 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-cc75a8547219",
+    "w": "hacer zumo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "榨汁",
+        "en": "to juice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Nos gusta hacer zumo con las naranjas que compramos los sábados en el mercado del barrio.",
+        "zh": "我们喜欢用周六在社区市场买的橙子榨汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1108 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-d252adc987f6",
+    "w": "pelar",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "去皮",
+        "en": "to peel"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Antes de pelar las manzanas, las lavamos y preparamos un recipiente donde dejaremos los trozos cortados.",
+        "zh": "削苹果皮前，我们先洗苹果，并准备容器放切好的果块。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 43 页 · 第 1109 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-9a4d4c408f73",
+    "w": "la manzana",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "苹果",
+        "en": "apple"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La manzana que he elegido tiene la piel roja y quedará muy bien en la tarta que prepararemos.",
+        "zh": "我选的苹果是红皮的，很适合做我们准备烤的果馅饼。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1110 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-72f7ce0d009a",
+    "w": "el albaricoque",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "杏",
+        "en": "apricot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El albaricoque está tan maduro que podemos separar fácilmente la pulpa del hueso para preparar la mermelada.",
+        "zh": "杏熟透了，做果酱时果肉很容易与果核分开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1111 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-975245fb325d",
+    "w": "el plátano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "香蕉",
+        "en": "banana"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Añadimos el plátano cuando la mezcla ya está fría para que los trozos conserven mejor su forma.",
+        "zh": "混合物凉了后我们才加入香蕉，让果块更能保持形状。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1112 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-a65ff0d4791a",
+    "w": "la mora",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黑莓",
+        "en": "blackberry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La mora que encontramos entre las hojas tiene un color oscuro que indica que ya está madura.",
+        "zh": "我们在叶子间找到的黑莓颜色很深，说明已经成熟。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1113 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-57b8feaf05c1",
+    "w": "el arándano",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "蓝莓",
+        "en": "blueberry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada arándano queda sobre el yogur que hemos preparado para servir el desayuno en la terraza.",
+        "zh": "每颗蓝莓都放在酸奶上，我们准备在露台吃这份早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1114 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ac9daa76877b",
+    "w": "la cereza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "樱桃",
+        "en": "cherry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cereza que está encima del pastel contrasta con la crema blanca que cubre toda la superficie.",
+        "zh": "蛋糕顶上的樱桃与覆盖表面的白色奶油形成对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1115 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-4c7de4dec366",
+    "w": "la uva",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "葡萄",
+        "en": "grape"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cortamos cada uva por la mitad antes de añadirla a la ensalada que acompañará el almuerzo de hoy.",
+        "zh": "我们把每颗葡萄切半，再加入今天午饭的配菜沙拉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1116 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-723e241808ea",
+    "w": "el pomelo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "葡萄柚",
+        "en": "grapefruit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pomelo tiene un sabor algo amargo, por eso lo mezclamos con otras frutas más dulces.",
+        "zh": "葡萄柚的味道略苦，因此我们把它和更甜的水果混合。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1117 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-d9807a2c9c31",
+    "w": "el kiwi",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "猕猴桃",
+        "en": "kiwi fruit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El kiwi muestra su pulpa verde cuando lo cortamos en rodajas para decorar la tarta del cumpleaños.",
+        "zh": "把猕猴桃切片装饰生日蛋糕时，可以看到绿色果肉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1118 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-6a515faa9dcd",
+    "w": "el limón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "柠檬",
+        "en": "lemon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Exprimimos el limón sobre el pescado justo antes de llevar los platos a la mesa del comedor.",
+        "zh": "快把盘子端到餐桌前，我们在鱼上挤了柠檬汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1119 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-acbe87ea34e8",
+    "w": "el mango",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "芒果",
+        "en": "mango"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mango que compramos ayer ya está listo para cortarlo y mezclarlo con el arroz de la receta.",
+        "zh": "昨天买的芒果已经可以切开，按食谱和米饭混合了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1120 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-562e5118005b",
+    "w": "el melón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "甜瓜",
+        "en": "melon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Dejamos el melón en la nevera para que esté fresco cuando lleguen nuestros invitados esta tarde.",
+        "zh": "我们把甜瓜放进冰箱，让客人下午到时能吃到清凉的瓜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1121 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-c4519bdbc3ce",
+    "w": "la naranja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "橙子",
+        "en": "orange"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La naranja que acabamos de pelar tiene tantos gajos que podemos repartirla entre todos los niños.",
+        "zh": "刚剥的橙子有很多瓣，可以分给所有孩子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1122 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-87a984e08691",
+    "w": "la papaya",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "木瓜",
+        "en": "papaya"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La papaya contiene semillas oscuras que retiramos con una cuchara antes de servir la fruta del desayuno.",
+        "zh": "木瓜里有黑色籽，端上早餐水果前我们用勺子去掉了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1123 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-6a32e23afb3b",
+    "w": "el maracuyá",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "百香果",
+        "en": "passion fruit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos el maracuyá para añadir su pulpa al yogur que vamos a compartir después de la cena.",
+        "zh": "我们剖开百香果，把果肉加入晚饭后一起享用的酸奶。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1124 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ce0fdac5b6a8",
+    "w": "el melocotón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "桃子",
+        "en": "peach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El melocotón queda cortado en rodajas sobre el plato que pondremos en el centro de la mesa.",
+        "zh": "桃子被切片放在盘子上，我们会把盘子放到餐桌中央。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1125 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-f2c273d6f5da",
+    "w": "la pera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "梨",
+        "en": "pear"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pera conserva una textura firme aunque la hemos cocinado con canela durante unos minutos en la olla.",
+        "zh": "虽然在锅里加肉桂煮了几分钟，梨仍保持较硬的口感。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1126 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-d8b825ac8d05",
+    "w": "la piña",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "菠萝",
+        "en": "pineapple"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La piña resulta más fácil de servir si retiramos primero la piel gruesa y cortamos después la pulpa.",
+        "zh": "先去掉菠萝厚皮再切果肉，端上桌就更方便。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1127 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-f033102b4f05",
+    "w": "la ciruela",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "李子",
+        "en": "plum"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ciruela que está junto al cuenco tiene una piel brillante que refleja la luz de la ventana.",
+        "zh": "碗旁的李子表皮光亮，映着窗外的光。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1128 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-80e27eea5988",
+    "w": "la granada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "石榴",
+        "en": "pomegranate"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Abrimos la granada con cuidado para sacar los granos que darán color a la ensalada del almuerzo.",
+        "zh": "我们小心剖开石榴，取籽给午餐沙拉添些颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1129 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-3ac98786170c",
+    "w": "la frambuesa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "树莓",
+        "en": "raspberry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La frambuesa es delicada, así que la colocamos sobre la crema sin presionarla con los dedos.",
+        "zh": "树莓很娇嫩，所以我们把它轻放在奶油上，不用手压。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1130 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-75f456b37761",
+    "w": "la grosella roja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "红醋栗",
+        "en": "redcurrant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La grosella roja aporta un sabor ácido que combina con la crema dulce que hemos preparado para el postre.",
+        "zh": "红醋栗的酸味与我们做甜点的甜奶油很搭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1131 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-a87d89598758",
+    "w": "la fresa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "草莓",
+        "en": "strawberry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La fresa que hemos lavado irá sobre la tostada cuando terminemos de extender el queso fresco.",
+        "zh": "涂好鲜奶酪后，我们会把洗好的草莓放在吐司上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1132 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-1ef7b6e4b20d",
+    "w": "la sandía",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西瓜",
+        "en": "watermelon"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La sandía está cortada en triángulos para que los invitados puedan comerla cómodamente mientras conversan en el jardín.",
+        "zh": "西瓜被切成三角块，方便客人在花园边聊天边吃。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1133 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-b8a433cebc25",
+    "w": "la alcachofa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "朝鲜蓟",
+        "en": "artichoke"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La alcachofa necesita un poco más de tiempo en la olla antes de que podamos servirla con aceite.",
+        "zh": "朝鲜蓟还需要在锅里煮一会儿，才能淋油端上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1134 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-281b0c737b78",
+    "w": "el espárrago",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "芦笋",
+        "en": "asparagus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada espárrago queda alineado en la bandeja que meteremos en el horno cuando termine de calentarse.",
+        "zh": "每根芦笋都在烤盘里摆好，烤箱预热完就放进去。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1135 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-5e47a1fd0afc",
+    "w": "la berenjena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "茄子",
+        "en": "aubergine"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cortamos la berenjena por la mitad para rellenarla con las verduras que hemos salteado en la sartén.",
+        "zh": "我们把茄子切半，填入在平底锅里炒好的蔬菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1136 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-b0e53acd8cbf",
+    "w": "la remolacha",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "甜菜根",
+        "en": "beetroot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La remolacha ha teñido de rojo la tabla donde hemos cortado los ingredientes para la ensalada de hoy.",
+        "zh": "甜菜根把今天切沙拉食材用的砧板染红了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1137 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-4b1e1334f38f",
+    "w": "el brócoli",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西兰花",
+        "en": "broccoli"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El brócoli conserva su color verde porque lo hemos cocinado poco tiempo antes de servirlo como acompañamiento.",
+        "zh": "西兰花只煮了一小会儿就作为配菜上桌，因此仍是绿色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1138 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ae4133a80f36",
+    "w": "la col de Bruselas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "抱子甘蓝",
+        "en": "Brussels sprout"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada col de Bruselas queda partida por la mitad para que se dore mejor dentro del horno.",
+        "zh": "每颗抱子甘蓝都被切半，这样在烤箱里更容易烤出焦色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1139 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-c8ecd30e961f",
+    "w": "la col",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "卷心菜",
+        "en": "cabbage"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La col que compramos en el mercado servirá para preparar la sopa que comeremos durante los próximos días.",
+        "zh": "市场买的卷心菜将用来做接下来几天喝的汤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1140 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-fe9b666420a1",
+    "w": "la zanahoria",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "胡萝卜",
+        "en": "carrot"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La zanahoria que está junto al cuchillo tiene todavía las hojas verdes que retiraremos antes de cocinarla.",
+        "zh": "刀旁的胡萝卜还带着绿叶，下锅前我们会把叶子去掉。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1141 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-36d78c937d8d",
+    "w": "la coliflor",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "花椰菜",
+        "en": "cauliflower"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La coliflor se divide en pequeños ramos que colocamos en la fuente antes de añadir la salsa blanca.",
+        "zh": "花椰菜分成小朵，放入烤盘后再加白酱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1142 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-fdee6b7ba9c6",
+    "w": "el apio",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "芹菜",
+        "en": "celery"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El apio añade un aroma fresco a la sopa que dejamos cocinar lentamente mientras preparamos el resto de la cena.",
+        "zh": "晚饭其他菜准备期间，我们慢炖汤，芹菜给汤添了清新香气。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1143 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-aaf24e129646",
+    "w": "el chile",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "辣椒",
+        "en": "chilli"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Utilizamos solo una parte del chile porque queremos que la salsa tenga un sabor picante pero suave.",
+        "zh": "我们只用了一部分辣椒，希望酱汁略辣而不过烈。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1144 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-a79311df6f81",
+    "w": "el calabacín",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西葫芦",
+        "en": "courgette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El calabacín queda cortado en rodajas finas que iremos colocando sobre la masa de la tarta salada.",
+        "zh": "西葫芦被切成薄片，我们会把它们铺在咸派面皮上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1145 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-db0537535027",
+    "w": "el pepino",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "黄瓜",
+        "en": "cucumber"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pepino que hemos sacado de la nevera está frío y quedará muy crujiente en la ensalada.",
+        "zh": "刚从冰箱取出的黄瓜很凉，放入沙拉会很爽脆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1146 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-9165f3b0e9bd",
+    "w": "el ajo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "大蒜",
+        "en": "garlic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Añadimos el ajo cuando el aceite empieza a calentarse para que su aroma se extienda por la cocina.",
+        "zh": "油开始热时我们加入大蒜，香气便弥漫厨房。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1147 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-c799bebbd907",
+    "w": "las judías verdes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "四季豆",
+        "en": "green beans"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las judías verdes están listas para hervir después de que hayamos retirado las puntas y lavado cada pieza.",
+        "zh": "剪去两端并逐根洗净后，四季豆就可以下水煮了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 44 页 · 第 1148 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-7131fd570a8b",
+    "w": "el puerro",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "韭葱",
+        "en": "leek"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El puerro debe lavarse con cuidado porque entre sus hojas puede quedar tierra que no se ve fácilmente.",
+        "zh": "韭葱得仔细洗，因为叶子间可能藏有不易看见的泥土。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1149 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-56ca22a0cd25",
+    "w": "la lechuga",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "生菜",
+        "en": "lettuce"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La lechuga queda en un cuenco grande mientras esperamos que escurra el agua con la que la hemos lavado.",
+        "zh": "生菜放在大碗里，我们等待洗菜水沥干。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1150 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-475d70a207e8",
+    "w": "el champiñón",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "双孢蘑菇",
+        "en": "mushroom"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Cada champiñón se limpia con un paño antes de cortarlo y añadirlo al arroz que se está cocinando.",
+        "zh": "每个蘑菇先用布擦净，再切开加入正在煮的米饭。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1151 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-e7094347643e",
+    "w": "la cebolla",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "洋葱",
+        "en": "onion"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La cebolla empieza a ponerse transparente mientras removemos los trozos que hemos echado en la sartén con aceite.",
+        "zh": "我们翻炒油锅里的洋葱块时，洋葱开始变得透明。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1152 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-7dd39fe44e48",
+    "w": "los guisantes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "豌豆",
+        "en": "peas"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los guisantes que hemos añadido al arroz conservan un color verde que contrasta con el resto de los ingredientes.",
+        "zh": "加入米饭的豌豆仍然翠绿，与其他食材形成对比。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1153 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-db8573d974d3",
+    "w": "la patata",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "土豆",
+        "en": "potato"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La patata estará lista cuando podamos introducir fácilmente un tenedor en el centro sin hacer demasiada fuerza.",
+        "zh": "叉子不用太用力就能插入土豆中央时，土豆就熟了。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1154 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-623b6e57c398",
+    "w": "el pimiento rojo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "红甜椒",
+        "en": "red pepper"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pimiento rojo que está sobre la tabla servirá para dar color a la salsa que acompañará la pasta.",
+        "zh": "砧板上的红甜椒将为配意面的酱汁增添颜色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1155 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-8048c3c63335",
+    "w": "la espinaca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "菠菜",
+        "en": "spinach"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La espinaca pierde volumen al cocinarse, así que preparamos un recipiente grande con hojas que hemos lavado bien.",
+        "zh": "菠菜煮后体积会缩小，所以我们准备了一大盆洗净的叶子。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1156 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-7acf0f62c036",
+    "w": "el tomate",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "番茄",
+        "en": "tomato"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tomate maduro que hemos cortado suelta un poco de jugo mientras preparamos las tostadas del desayuno.",
+        "zh": "切好的熟番茄在我们准备早餐吐司时流出了一些汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1157 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-2ecf536e8814",
+    "w": "el panadero / la panadera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面包师",
+        "en": "baker"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La panadera saca del horno las barras que los primeros clientes esperan comprar antes de ir al trabajo.",
+        "zh": "面包师从烤箱取出长面包，早到的顾客等着买完去上班。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1158 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-bc4cffa26b0f",
+    "w": "el pan",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面包",
+        "en": "bread"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pan que acabamos de comprar todavía está caliente, por eso dejamos la bolsa abierta sobre la mesa.",
+        "zh": "刚买的面包还热着，所以我们把袋口敞开放在桌上。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1159 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-59af954e01bf",
+    "w": "el pan integral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "全麦面包",
+        "en": "wholemeal bread"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pan integral tiene una textura más densa que el pan blanco que solíamos comprar para las tostadas.",
+        "zh": "全麦面包的质地比我们过去买来做吐司的白面包更紧实。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1160 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-458e3cabaaf1",
+    "w": "la rodaja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "一片",
+        "en": "slice"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La rodaja de pan queda sobre el plato mientras mi hermano busca la mermelada que guardamos en la nevera.",
+        "zh": "一片面包放在盘子上，我哥哥正在找冰箱里的果酱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1161 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-e4446a4ea4ac",
+    "w": "la corteza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面包外皮",
+        "en": "crust"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La corteza está crujiente porque el pan acaba de salir del horno donde lo hemos cocinado esta mañana.",
+        "zh": "面包刚从早上用的烤箱里取出，外皮酥脆。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1162 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ff4d442616bf",
+    "w": "la masa",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面团",
+        "en": "dough"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La masa descansa en un cuenco cubierto mientras esperamos que aumente de tamaño antes de formar los panecillos.",
+        "zh": "面团在盖好的碗里静置，我们等它膨大后再做小面包。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1163 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ce3f3033e18d",
+    "w": "la harina",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面粉",
+        "en": "flour"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Añadimos la harina poco a poco para que no se formen grumos cuando la mezclamos con los huevos.",
+        "zh": "我们逐渐加入面粉，免得与鸡蛋混合时结块。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1164 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-bfcb34e572c2",
+    "w": "sin gluten",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "无麸质的",
+        "en": "gluten-free"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La panadera prepara una bandeja de pan sin gluten que mantendrá separada del resto de los productos de la tienda.",
+        "zh": "面包师准备一盘无麸质面包，会与店里其他商品分开放。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1165 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-9bddb290ef82",
+    "w": "cocinar al horno",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "用烤箱烘烤",
+        "en": "to bake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Vamos a cocinar al horno las verduras que hemos cortado mientras se termina de preparar la masa del pan.",
+        "zh": "面包面团快准备好时，我们要把切好的蔬菜放入烤箱烘烤。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1166 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-aa7f3c9c52b3",
+    "w": "la barra de pan",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "法式长面包",
+        "en": "baguette"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La barra de pan sobresale de la bolsa que llevamos cuando regresamos a casa después de visitar la panadería.",
+        "zh": "我们从面包店回家时，长面包从拎着的袋子里探出来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1167 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-c6518a090f7f",
+    "w": "los panecillos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小面包",
+        "en": "bread rolls"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los panecillos están ordenados en la cesta que pondremos junto a los platos cuando lleguen nuestros invitados a cenar.",
+        "zh": "小面包整齐放在篮里，客人来吃晚饭时会摆在盘子旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1168 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-425bf67b3976",
+    "w": "los churros",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "西班牙油条",
+        "en": "churros"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los churros se sirven recién hechos para que podamos mojarlos en el chocolate que está caliente en las tazas.",
+        "zh": "西班牙油条现做现上，我们能把它们蘸进杯中的热巧克力。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1169 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-e4bb800fc748",
+    "w": "el croissant",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羊角面包",
+        "en": "croissant"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El croissant está junto al café que el camarero acaba de dejar sobre la mesa donde desayunamos cada domingo.",
+        "zh": "羊角面包放在服务员刚送的咖啡旁，我们每周日在这张桌前吃早餐。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1170 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-dfb3de65a407",
+    "w": "el pastel de hojaldre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "丹麦酥",
+        "en": "Danish pastry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pastel de hojaldre muestra varias capas que se separan fácilmente cuando lo cortamos para compartirlo durante el desayuno.",
+        "zh": "丹麦酥层次分明，我们早餐分着切开吃时，酥层很容易分开。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1171 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-8bf904956d4c",
+    "w": "el donut",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "甜甜圈",
+        "en": "doughnut"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El donut lleva una capa de azúcar que brilla bajo la luz de la vitrina donde está expuesto.",
+        "zh": "甜甜圈裹着一层糖，在陈列柜灯光下发亮。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1172 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-21473e72c6f4",
+    "w": "el petisú",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "巧克力闪电泡芙",
+        "en": "éclair"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El petisú está relleno de crema y tiene chocolate por encima, como los que vendían cerca de nuestra escuela.",
+        "zh": "闪电泡芙内有奶油馅，顶上覆巧克力，像以前学校附近卖的那种。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1173 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-469c2bf8906a",
+    "w": "la tartaleta de fruta",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "水果挞",
+        "en": "tart"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La tartaleta de fruta combina colores diferentes que destacan sobre la crema con la que hemos rellenado la base.",
+        "zh": "水果挞上的各种颜色在底层填入的奶油上格外醒目。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1174 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ad29736c7370",
+    "w": "la milhoja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "千层酥",
+        "en": "mille-feuille"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La milhoja necesita un cuchillo afilado para que sus capas no se rompan demasiado cuando intentamos repartir el postre.",
+        "zh": "分千层酥甜点时要用锋利的刀，免得酥层碎得太厉害。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1175 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-6e73dfe908b5",
+    "w": "la magdalena",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "玛芬蛋糕",
+        "en": "muffin"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La magdalena que hemos sacado del molde todavía está caliente, así que esperamos un poco antes de probarla.",
+        "zh": "刚脱模的玛芬还很热，所以我们等一会儿再尝。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1176 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-3f9d4e6c7cfd",
+    "w": "las tortitas",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "松饼",
+        "en": "pancakes"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las tortitas quedan apiladas en el plato mientras mi hermana corta la fruta que serviremos junto al desayuno.",
+        "zh": "松饼叠在盘中，我姐姐正在切配早餐的水果。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1177 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-dc64bd519e53",
+    "w": "la empanada",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "馅饼",
+        "en": "pasty"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La empanada lleva un relleno de verduras que hemos cocinado antes de cerrar la masa y llevarla al horno.",
+        "zh": "馅饼里包着事先炒好的蔬菜，然后合上面皮放进烤箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1178 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-3b00b8caf97f",
+    "w": "la hogaza de pan",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "圆面包",
+        "en": "round loaf"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La hogaza de pan tiene una forma redonda que nos permite cortar rebanadas grandes para compartir durante la comida.",
+        "zh": "这个圆面包可以切成大片，供我们吃饭时分享。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1179 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-285987fdde46",
+    "w": "el pan de molde",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "切片吐司面包",
+        "en": "sliced bread"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pan de molde viene cortado en rebanadas iguales que utilizamos para preparar los bocadillos de la excursión de mañana.",
+        "zh": "吐司面包切成一样厚的片，我们用它做明天郊游的三明治。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1180 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-9ecf26d3ab32",
+    "w": "el gofre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "华夫饼",
+        "en": "waffle"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El gofre conserva los pequeños huecos donde se acumula el chocolate que hemos vertido antes de servir el postre.",
+        "zh": "华夫饼的小格子里积着我们端甜点前浇的巧克力。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 45 页 · 第 1181 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-3f1ac5c51d31",
+    "w": "el carnicero / la carnicera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肉贩",
+        "en": "butcher"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El carnicero prepara los cortes que le hemos pedido mientras nos explica cómo podemos cocinarlos para la cena del sábado.",
+        "zh": "肉贩切我们订的肉，一边解释周六晚餐该怎样烹饪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1182 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-8da84ee570ce",
+    "w": "la carne",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肉",
+        "en": "meat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne que compramos esta mañana queda en la nevera hasta que llegue la hora de preparar la comida.",
+        "zh": "今早买的肉放在冰箱里，等到做饭时间再拿出来。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1183 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-2abe55e765bd",
+    "w": "la carne blanca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "白肉",
+        "en": "white meat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne blanca que hemos elegido está junto a las verduras que vamos a cocinar para preparar el almuerzo familiar.",
+        "zh": "我们选的白肉放在准备用来做家庭午餐的蔬菜旁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1184 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-795ab9e58902",
+    "w": "la carne roja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "红肉",
+        "en": "red meat"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne roja se corta en porciones iguales para que todos los platos que servimos tengan una cantidad parecida.",
+        "zh": "红肉切成相等的份，让每盘分量差不多。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1185 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-d9ee9d1637a9",
+    "w": "el fiambre",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "冷切熟肉",
+        "en": "cold meats"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El fiambre está dispuesto en una bandeja que llevaremos al comedor cuando los invitados se sienten a la mesa.",
+        "zh": "冷切熟肉摆在托盘中，客人入座后我们会端去餐厅。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1186 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-7f72f06d84ef",
+    "w": "el paté",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "肝酱",
+        "en": "pâté"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El paté se sirve con pequeñas tostadas que los invitados pueden tomar mientras esperan que llegue el plato principal.",
+        "zh": "肝酱配小吐司，客人等主菜时可以先吃。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1187 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-439a9985b32f",
+    "w": "la carne de vaca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "牛肉",
+        "en": "beef"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne de vaca queda cortada en trozos que cocinaremos lentamente con las verduras que compramos en el mercado.",
+        "zh": "牛肉切成块，将和市场买的蔬菜一起慢炖。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1188 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-12f922d489b2",
+    "w": "el cordero",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "羊肉",
+        "en": "lamb"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El cordero que hemos pedido está preparado para entrar en el horno cuando terminemos de colocar las patatas alrededor.",
+        "zh": "我们订的羊肉已备好，周围摆好土豆后就能进烤箱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1189 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-6355e685cfc6",
+    "w": "la carne de cerdo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "猪肉",
+        "en": "pork"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carne de cerdo necesita unos minutos más de cocción antes de que podamos servirla con la salsa de manzana.",
+        "zh": "猪肉还要再煮几分钟，才能配苹果酱上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1190 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-65d8bbda9575",
+    "w": "las aves de corral",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "家禽肉",
+        "en": "poultry"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las aves de corral están expuestas en una vitrina donde el vendedor organiza las distintas piezas para sus clientes.",
+        "zh": "家禽肉摆在展示柜里，商贩为顾客整理不同部位。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1191 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-554db15406e0",
+    "w": "el pato",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鸭肉",
+        "en": "duck"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pato se sirve en lonchas finas sobre una fuente que llevaremos a la mesa cuando todos estén sentados.",
+        "zh": "鸭肉切薄片装在大盘里，等大家坐好便端上桌。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1192 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-e0c419428a0c",
+    "w": "la oca",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鹅肉",
+        "en": "goose"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La oca que hemos preparado se dora en el horno mientras cocinamos las verduras que acompañarán la cena familiar.",
+        "zh": "准备好的鹅肉在烤箱里烤成金黄，我们同时做家庭晚餐的配菜。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1193 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-020bbea1b392",
+    "w": "el conejo",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "兔肉",
+        "en": "rabbit"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El conejo queda en una cazuela con las hierbas que hemos recogido para preparar la receta de nuestra abuela.",
+        "zh": "兔肉和采来的香草放进炖锅，我们要做祖母的食谱。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1194 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-4f727f64dc84",
+    "w": "la caza",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "野味",
+        "en": "game"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La caza que ofrece el restaurante se prepara con una salsa que el cocinero hace lentamente durante toda la mañana.",
+        "zh": "餐厅的野味配上厨师整个上午慢慢熬制的酱汁。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1195 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-421f19dddd59",
+    "w": "la ternera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "小牛肉",
+        "en": "veal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La ternera que compramos ayer está cortada en filetes que vamos a cocinar cuando lleguen nuestros amigos esta noche.",
+        "zh": "昨天买的小牛肉已切成肉排，今晚朋友来时我们就做。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1196 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-a3217887c270",
+    "w": "el venado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "鹿肉",
+        "en": "venison"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El venado se presenta en un plato con verduras que el cocinero ha preparado para acompañar su sabor intenso.",
+        "zh": "鹿肉装盘配厨师准备的蔬菜，搭配其浓郁风味。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1197 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-8fe31377752d",
+    "w": "las asaduras",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "内脏",
+        "en": "offal"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Las asaduras están cortadas en trozos pequeños que el carnicero coloca en un recipiente antes de entregarlo al cliente.",
+        "zh": "内脏切成小块，肉贩装入容器后交给顾客。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1198 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-3c17b00f9834",
+    "w": "de granja",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "散养的",
+        "en": "free-range"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El pollo de granja que hemos elegido está preparado para cocinarlo con las patatas que acabamos de pelar.",
+        "zh": "我们选的散养鸡已准备好，要和刚削皮的土豆一起烹饪。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1199 条；自编例句 B1",
+    "m": 0
+  },
+  {
+    "id": "book-ab715a3e7f0f",
+    "w": "ecológico",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "有机的",
+        "en": "organic"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El producto ecológico lleva un distintivo que consultamos antes de colocarlo en la cesta donde guardamos la compra.",
+        "zh": "有机商品有认证标志，我们看过后才放入购物篮。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "入门",
+    "topic": "chapter-3",
+    "exampleLevel": "B1",
+    "note": "Collins Spanish 3000 · 原书第 46 页 · 第 1200 条；自编例句 B1",
+    "m": 0
+  }
+]

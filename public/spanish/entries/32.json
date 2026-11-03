@@ -1,0 +1,408 @@
+[
+  {
+    "id": "book-b891b36823f1",
+    "w": "el mercadillo navideño",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "圣诞集市",
+        "en": "Christmas market"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El mercadillo navideño reúne a vecinos y visitantes aunque algunos prefieran recorrer los puestos por la mañana para evitar las horas en que la plaza recibe a más personas durante los fines de semana de diciembre.",
+        "zh": "圣诞集市聚集居民游客，有人选择上午逛摊位，避开十二月周末广场的人流高峰。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3201 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-5e5b3dd4ef79",
+    "w": "Papá Noel / Santa Claus",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "圣诞老人",
+        "en": "Father Christmas/ Santa Claus"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Papá Noel aparece en el cuento que la abuela lee a los niños aunque ellos interrumpan de vez en cuando para comparar la historia con las versiones que conocen de otros libros de la biblioteca.",
+        "zh": "奶奶读圣诞老人故事，孩子们时不时打断，与图书馆其他版本比较。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3202 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-7ab5cc8f7b1d",
+    "w": "los fuegos artificiales",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "烟花",
+        "en": "fireworks"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los fuegos artificiales aparecen en una fotografía que la familia observa desde el salón mientras recuerda la celebración que pudo seguir desde una ventana situada lejos del lugar donde se organizaba el espectáculo de aquella noche.",
+        "zh": "家人在客厅看烟花照片，回忆那晚从远处窗边观看表演的庆典。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3203 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-42fc622a80e5",
+    "w": "el Roscón de Reyes",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "三王节面包",
+        "en": "king’s cake"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El Roscón de Reyes ocupa el centro de la mesa que la familia ha preparado para que todos puedan compartir una merienda mientras recuerdan las celebraciones que organizaban cuando los niños todavía eran más pequeños.",
+        "zh": "三王节面包摆在桌中央，全家分享下午茶，回忆孩子们更小时的庆祝。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3204 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-aa3c9a9394c4",
+    "w": "el Belén",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "耶稣诞生场景",
+        "en": "Nativity scene"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El Belén aparece en la exposición que los visitantes recorren mientras la guía explica cómo los artistas representan una tradición que adquiere formas diferentes según el lugar y la época en que se preparan las figuras.",
+        "zh": "游客参观耶稣诞生场景展，向导说明艺术家怎样表现这一随地域时代变化的传统。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3205 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-82609ce8f839",
+    "w": "los Reyes Magos",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "东方三博士",
+        "en": "the Three Kings"
+      }
+    ],
+    "ex": [
+      {
+        "en": "Los Reyes Magos aparecen en las figuras que la familia coloca junto a los otros personajes aunque los niños todavía tengan que decidir qué disposición quieren dar a la escena que preparan durante esa tarde de enero.",
+        "zh": "家人把东方三博士摆在其他人物旁，孩子们还没决定一月午后布景的最终排列。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3206 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-c39dec5848c9",
+    "w": "la carroza de carnaval",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嘉年华花车",
+        "en": "carnival float"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La carroza de carnaval avanza por la calle que los vecinos observan desde la zona señalada para que el desfile pueda continuar sin que el público interrumpa el paso de los artistas y de los vehículos decorados.",
+        "zh": "花车沿街前行，居民在指定区观看，不打断表演者与装饰车辆的游行路线。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3207 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-a87642c2e084",
+    "w": "el disfraz",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "化装服",
+        "en": "costume"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El disfraz combina materiales que el grupo ya tenía guardados, aunque la artista haya añadido algunos detalles para que cada participante pueda reconocerse en el personaje que representará durante el desfile del próximo fin de semana.",
+        "zh": "化装服利用小组现有材料，艺术家再添细节，让下周末每位游行者的角色更有个人特色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3208 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-6fa5be66e9cb",
+    "w": "la figura de carnaval",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "嘉年华人偶",
+        "en": "effigy"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La figura de carnaval ocupa buena parte del taller aunque los artistas todavía necesiten añadir los detalles que permitirán reconocerla desde lejos cuando participe en el desfile organizado para la celebración del barrio durante el sábado.",
+        "zh": "嘉年华人偶占了工坊大部分空间，艺术家还在添细节，让周六社区游行时远处也能认出。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3209 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-1c336515b126",
+    "w": "la pintura facial",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "脸部彩绘",
+        "en": "face paint"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La pintura facial transforma el aspecto de la artista aunque sus compañeros sigan reconociéndola por los gestos que suele hacer cuando ensaya el personaje que presentará durante la celebración del centro cultural de la ciudad.",
+        "zh": "脸部彩绘改变了艺术家的外貌，同伴仍认得她排练城市文化中心演出时惯有的动作。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3210 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-18ec62c8e453",
+    "w": "el tocado",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "头饰",
+        "en": "headdress"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El tocado refleja los colores que la artista ha elegido para que el público pueda distinguir su personaje aunque el desfile reúna a muchas personas vestidas con los trajes preparados por otros talleres del barrio durante el invierno.",
+        "zh": "艺术家选鲜明颜色做头饰，让观众在冬季各工坊制作的众多游行服饰中辨认她的角色。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3211 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-06c0ece5c792",
+    "w": "la máscara",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "面具",
+        "en": "mask"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La máscara está casi terminada aunque su creadora quiera modificar algunos detalles antes de mostrarla al grupo que participará en la escena preparada para abrir las actividades del carnaval organizado por el centro cultural del barrio.",
+        "zh": "面具即将完成，创作者仍想修改细节，再向文化中心嘉年华开场演出的小组展示。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3212 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-76139c202b75",
+    "w": "el desfile",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "游行",
+        "en": "parade"
+      }
+    ],
+    "ex": [
+      {
+        "en": "El desfile reúne a varios grupos que han preparado sus actuaciones durante meses para que el público pueda disfrutar de una celebración donde convivan distintas formas de representar la historia y las tradiciones de los barrios de la ciudad.",
+        "zh": "各小组准备数月汇聚游行，让观众欣赏以不同方式表现城市街区历史与传统的庆典。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3213 条；自编例句 B2",
+    "m": 0
+  },
+  {
+    "id": "book-b31f536f0f0d",
+    "w": "el artista callejero / la artista callejera",
+    "uk": "",
+    "us": "",
+    "senses": [
+      {
+        "pos": "词汇",
+        "zh": "街头艺人",
+        "en": "street performer"
+      }
+    ],
+    "ex": [
+      {
+        "en": "La artista callejera invita al público a observar la escena desde un espacio que permita seguir el espectáculo sin bloquear el paso de quienes necesitan cruzar la plaza para continuar su recorrido por el centro de la ciudad.",
+        "zh": "街头艺人请观众在不挡路的位置观看，让穿过广场的人仍能继续在市中心行走。"
+      }
+    ],
+    "col": [],
+    "fam": [],
+    "syn": [],
+    "ant": [],
+    "tip": "",
+    "cefr": "进阶",
+    "topic": "chapter-9",
+    "exampleLevel": "B2",
+    "note": "Collins Spanish 3000 · 原书第 120 页 · 第 3214 条；自编例句 B2",
+    "m": 0
+  }
+]
