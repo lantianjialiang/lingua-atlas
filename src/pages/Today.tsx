@@ -264,10 +264,11 @@ function LevelPath() {
   const atlas = useAtlas();
   const cards = useStore((s) => s.progress.cards);
   const start = useStore((s) => s.settings.startLevel);
+  const byTopic = atlas.id.startsWith("collins-");
   const levels = useMemo(() => {
-    const out = atlas.cefr.map((name) => ({ name, total: 0, seen: 0, mastered: 0 }));
+    const out = (byTopic ? atlas.topics.map(([, name]) => name) : atlas.cefr).map((name) => ({ name, total: 0, seen: 0, mastered: 0 }));
     for (const w of atlas.words) {
-      const l = out[w.cefr];
+      const l = out[byTopic ? w.topic : w.cefr];
       l.total++;
       const c = cards[w.id];
       if (c) {
@@ -276,32 +277,32 @@ function LevelPath() {
       }
     }
     return out;
-  }, [atlas, cards]);
+  }, [atlas, cards, byTopic]);
   const NAMES = ["入门", "基础", "进阶", "中高", "高级", "精通"];
   return (
     <section className="panel path-panel">
       <div className="panel-head">
-        <h3 className="eyebrow">学习路线 · {atlas.cefr.join(" → ")}</h3>
+        <h3 className="eyebrow">学习路线 · {byTopic ? "按话题循序学习" : atlas.cefr.join(" → ")}</h3>
         <span className="legend">
           <i className="lg-seen" /> 已学 <i className="lg-done" /> 已掌握
         </span>
       </div>
-      <ol className="route">
+      <ol className={`route ${byTopic ? "route-topics" : ""}`}>
         {levels.map((l, i) => {
           const seen = l.seen / Math.max(1, l.total);
           const done = l.mastered / Math.max(1, l.total);
           return (
-            <li key={l.name} className={`${i === start ? "is-start" : ""} ${l.seen ? "is-on" : ""}`}>
-              <button onClick={() => go({ page: "atlas", level: l.name })} aria-label={`${l.name} ${NAMES[i]}，已学 ${l.seen} / ${l.total}`}>
+            <li key={l.name} className={`${i === (byTopic ? 0 : start) ? "is-start" : ""} ${l.seen ? "is-on" : ""}`}>
+              <button onClick={() => go(byTopic ? { page: "atlas", topic: atlas.topics[i][0] } : { page: "atlas", level: l.name })} aria-label={`${l.name} ${byTopic ? "" : NAMES[i]}，已学 ${l.seen} / ${l.total}`}>
                 <span className="station" style={{ "--seen": seen, "--done": done } as React.CSSProperties}>
-                  <b>{l.name}</b>
+                  <b>{byTopic ? String(i + 1).padStart(2, "0") : l.name}</b>
                 </span>
-                <span className="station-name">{NAMES[i]}</span>
+                <span className="station-name">{byTopic ? l.name : NAMES[i]}</span>
                 <span className="station-count">
                   {l.seen}
                   <small>/{l.total}</small>
                 </span>
-                {i === start && <span className="station-flag">起点</span>}
+                {i === (byTopic ? 0 : start) && <span className="station-flag">起点</span>}
               </button>
             </li>
           );

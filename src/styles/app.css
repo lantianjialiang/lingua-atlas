@@ -4123,3 +4123,7 @@ a:hover .mark-needle,
 
 .dictionary-picker { display: block; width: min(100%, 420px); margin: 16px 0; padding: 14px 18px; border: 1px solid var(--line-strong); border-radius: var(--r-sm); background: var(--paper-2); color: var(--ink); font: inherit; cursor: pointer; }
 .dictionary-picker:focus-visible { outline: 2px solid var(--terra); outline-offset: 3px; }
+
+.route.route-topics { display: flex; overflow-x: auto; padding-bottom: 12px; }
+.route-topics li { flex: 0 0 130px; }
+.route-topics::before { left: 65px; right: 65px; }

@@ -105,7 +105,6 @@ export function About() {
           <p className="muted">
             英语词库、插画和录音来自 Word Atlas 原项目。西语词条和英文释义依据用户提供的 Collins Spanish 3000 整理，中文释义和场景例句为学习辅助内容，插画和西语录音由 AI 生成；缺少录音时使用设备语音。
           </p>
-          <p className="muted">Lingua Atlas 不是官方雅思词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。</p>
         </section>
 
         <section className="panel">
