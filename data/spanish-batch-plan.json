@@ -1,7 +1,7 @@
 {
   "sourceCount": 3214,
   "batchSize": 100,
-  "completedEntries": 3198,
+  "completedEntries": 3214,
   "batches": [
     {
       "batch": 1,
@@ -349,10 +349,10 @@
       "end": 3200,
       "count": 100,
       "exampleLevel": "B2",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 32.5,
-      "savedImages": 97
+      "savedImages": 100
     },
     {
       "batch": 33,
@@ -360,10 +360,10 @@
       "end": 3214,
       "count": 14,
       "exampleLevel": "B2",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 36.4,
-      "savedImages": 1
+      "savedImages": 14
     }
   ],
   "preparedExampleEntries": 3214,
