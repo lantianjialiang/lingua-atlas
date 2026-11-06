@@ -18,7 +18,7 @@ export function About() {
           <p className="eyebrow">关于 Lingua Atlas</p>
           <h1 className="display">{atlas.name}</h1>
           <p className="lede">
-            {dataset === "english" ? "英语词库提供插画、例句和英美发音。" : `Collins Spanish 3000 前${atlas.count}条，已配 ${atlas.illustrated} 张插画。例句配中文翻译，西语朗读使用浏览器语音。`}
+            {dataset === "english" ? "英语词库提供插画、例句和英美发音。" : `Collins Spanish 3000 前${atlas.count}条，已配 ${atlas.illustrated} 张插画。例句配中文翻译，西语朗读使用 AI 生成音频；缺少录音时使用设备语音。`}
           </p>
           <p className="lede">学习记录保存在当前浏览器中。英语词库沿用原项目内容许可；Collins 原书内容版权归原权利人所有。</p>
           <div className="about-actions">
@@ -103,7 +103,7 @@ export function About() {
         <section className="panel">
           <h3 className="eyebrow">内容从哪里来</h3>
           <p className="muted">
-            英语词库、插画和录音来自 Word Atlas 原项目。西语词条和英文释义依据用户提供的 Collins Spanish 3000 整理，中文释义和场景例句为学习辅助内容，插画由 AI 生成，朗读使用设备语音。
+            英语词库、插画和录音来自 Word Atlas 原项目。西语词条和英文释义依据用户提供的 Collins Spanish 3000 整理，中文释义和场景例句为学习辅助内容，插画和西语录音由 AI 生成；缺少录音时使用设备语音。
           </p>
           <p className="muted">Lingua Atlas 不是官方雅思词表，也不承诺提分。它只想把背单词这件事，做得好看一点、扎实一点。</p>
         </section>

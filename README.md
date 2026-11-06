@@ -28,7 +28,9 @@ npm run dev
 
 代码沿用 [MIT](LICENSE)；原英语内容遵循 [原内容许可](CONTENT_LICENSE.md)，署名 **Word Atlas contributors（词光）**。原项目作者为 [@designfuchen](https://github.com/designfuchen)。Collins 原书及其词条内容版权归原权利人所有，不包含在原英语词库的 CC BY 授权中。
 
-西语插画使用内置 ImageGen 生成，提示词与来源记录在 [生成记录](data/spanish-generated-images.json)。词条位于 `public/spanish/entries/0.json`，插图及缩略图位于 `public/spanish/img`、`public/spanish/thumb`。西语目前使用浏览器设备语音。
+西语插画使用内置 ImageGen 生成，提示词与来源记录在 [生成记录](data/spanish-generated-images.json)。词条位于 `public/spanish/entries/0.json`，插图及缩略图位于 `public/spanish/img`、`public/spanish/thumb`。西语单词及例句音频使用 OpenAI `gpt-realtime-2.1-mini` 生成，缺少录音时退回浏览器设备语音；录音是 AI 合成语音。
+
+音频生成脚本为 `scripts/atlas/gen_realtime_audio.py`。先安装 `scripts/atlas/realtime-requirements.txt`，运行脚本（默认预览）即可生成 `rojo` 的单词和例句样音；`--dry-run` 统计尚缺音频，`--batch --workers 4` 生成并登记剩余文件。批量默认覆盖西班牙语单词发音 `uk`（西班牙本土口音）与例句 `ex` 两类，可用 `--kinds` 调整。脚本跳过已有 MP3，按批更新索引；API 密钥从 `OPENAI_API_KEY` 或 `--api-key-stdin` 获取，不写入仓库。在需要本机代理的环境中添加 `--proxy http://127.0.0.1:7890`。
 
 保留原 localStorage 键、词库 ID 和备份格式，项目改名不会清空同一网址下已有学习进度。更换域名或端口前，请分别导出备份并在新网址导入。
 

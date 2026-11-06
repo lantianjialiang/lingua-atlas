@@ -1,7 +1,7 @@
 {
   "sourceCount": 3214,
   "batchSize": 100,
-  "completedEntries": 1574,
+  "completedEntries": 3198,
   "batches": [
     {
       "batch": 1,
@@ -140,10 +140,10 @@
       "end": 1300,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 19.6,
-      "savedImages": 35
+      "savedImages": 100
     },
     {
       "batch": 14,
@@ -151,10 +151,10 @@
       "end": 1400,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 20.9,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 15,
@@ -162,10 +162,10 @@
       "end": 1500,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 21.4,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 16,
@@ -173,10 +173,10 @@
       "end": 1600,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 22.1,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 17,
@@ -184,10 +184,10 @@
       "end": 1700,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 22.5,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 18,
@@ -195,10 +195,10 @@
       "end": 1800,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 22.9,
-      "savedImages": 79
+      "savedImages": 100
     },
     {
       "batch": 19,
@@ -217,10 +217,10 @@
       "end": 2000,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 21.4,
-      "savedImages": 30
+      "savedImages": 100
     },
     {
       "batch": 21,
@@ -228,10 +228,10 @@
       "end": 2100,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 21.9,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 22,
@@ -239,10 +239,10 @@
       "end": 2200,
       "count": 100,
       "exampleLevel": "B1+",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 21.9,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 23,
@@ -250,10 +250,10 @@
       "end": 2300,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 22.8,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 24,
@@ -261,10 +261,10 @@
       "end": 2400,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 23.8,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 25,
@@ -272,10 +272,10 @@
       "end": 2500,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 25,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 26,
@@ -294,10 +294,10 @@
       "end": 2700,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "partial",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 22.1,
-      "savedImages": 30
+      "savedImages": 100
     },
     {
       "batch": 28,
@@ -305,10 +305,10 @@
       "end": 2800,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 23.2,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 29,
@@ -316,10 +316,10 @@
       "end": 2900,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 23.7,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 30,
@@ -327,10 +327,10 @@
       "end": 3000,
       "count": 100,
       "exampleLevel": "B1–B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 24.8,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 31,
@@ -338,10 +338,10 @@
       "end": 3100,
       "count": 100,
       "exampleLevel": "B2",
-      "status": "pending",
+      "status": "complete",
       "textPrepared": true,
       "averageExampleWords": 29.8,
-      "savedImages": 0
+      "savedImages": 100
     },
     {
       "batch": 32,
@@ -349,10 +349,10 @@
       "end": 3200,
       "count": 100,
       "exampleLevel": "B2",
-      "status": "pending",
+      "status": "partial",
       "textPrepared": true,
       "averageExampleWords": 32.5,
-      "savedImages": 0
+      "savedImages": 97
     },
     {
       "batch": 33,
@@ -360,10 +360,10 @@
       "end": 3214,
       "count": 14,
       "exampleLevel": "B2",
-      "status": "pending",
+      "status": "partial",
       "textPrepared": true,
       "averageExampleWords": 36.4,
-      "savedImages": 0
+      "savedImages": 1
     }
   ],
   "preparedExampleEntries": 3214,

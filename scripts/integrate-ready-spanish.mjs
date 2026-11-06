@@ -1,7 +1,17 @@
 import fs from 'node:fs';
 import { execFileSync } from 'node:child_process';
 const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
-const write=(p,v)=>{fs.writeFileSync(p+'.next',JSON.stringify(v,null,2));fs.renameSync(p+'.next',p);};
+const write=(p,v)=>{
+ const temporary=`${p}.${process.pid}.next`;
+ fs.writeFileSync(temporary,JSON.stringify(v,null,2));
+ for(let attempt=0;;attempt++){
+  try{fs.renameSync(temporary,p);break;}
+  catch(error){
+   if(!['EPERM','EBUSY','EACCES'].includes(error.code)||attempt>=30)throw error;
+   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)),0,0,100);
+  }
+ }
+};
 const source=read('data/collins-spanish-source.json');
 const idx=read('public/spanish/index.json');
 const previous=Array.from({length:Math.ceil(idx.count/idx.chunk)},(_,i)=>read(`public/spanish/entries/${i}.json`)).flat();
