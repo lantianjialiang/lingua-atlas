@@ -7,9 +7,9 @@
   "nextBatchRange": "3101–3200",
   "nextMissingImageOrdinal": 3198,
   "contextReviewOrdinals": [],
-  "note": "Nov6 morning single built-in probe still returned usage_limit_reached. No new image generated. Remaining16 jobs preserved in last-16.json. All3198 images and3214 bilingual entries verified. Website confirmed running at http://127.0.0.1:5173/. Reset remains Nov6 19:17:35 Asia/Shanghai.",
-  "updatedAt": "2026-11-06T01:29:51.272269+00:00",
-  "resumedAt": "2026-11-05T11:18:20.024905+00:00",
+  "note": "Nov6 evening explicit continuation: built-in probe returned actual HTTP429 usage_limit_reached, reset1793963855 (19:17:35 Beijing). No new image generated;3198/3214 integrated,16 remaining in last-16.json.",
+  "updatedAt": "2026-11-06T10:01:09.2924051+00:00",
+  "resumedAt": "2026-11-05T19:18:20.024905+08:00",
   "savedImageRecords": 2998,
   "preparedExampleEntries": 3214,
   "totalEntries": 3214,
@@ -21,7 +21,7 @@
   "recoveredImagesThisTurn": 23,
   "generationMethod": "built-in",
   "quotaError": "HTTP429 usage_limit_reached",
-  "quotaResetsAt": "2026-11-06T11:17:35+00:00",
-  "lastQuotaCheckAt": "2026-11-06T01:29:51.272269+00:00",
+  "quotaResetsAt": "2026-11-06T19:17:35+08:00",
+  "lastQuotaCheckAt": "2026-11-06T10:01:09.2924051+00:00",
   "lastSuccessfulRunImages": 780
 }
